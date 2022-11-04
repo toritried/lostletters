@@ -4,8 +4,8 @@
   }
   
   alagard {
-  font-family: "CustomFont";
-  src: url("https://lostletters.neocities.org/fonts/alagard.woff") format("wofff");
+    font-family: "CustomFont";
+    src: url("https://lostletters.neocities.org/fonts/alagard.woff") format("wofff");
   }
   
   ol {
@@ -23,7 +23,12 @@
     margin-block-start: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-}
+  }
+
+  #webmentions img {
+    max-height: 1.2em; 
+    margin-right: -1ex; 
+  }
 
   /* ------- Sections ------- */
   
