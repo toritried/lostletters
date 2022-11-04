@@ -11,7 +11,7 @@ I also set up a blog since Jekyll makes that pretty easy, and my first post is a
 It was so fun and creative! I really want to participate next year and give out tons of cute adoptables.
 Since I was in a pixel art mood, I made a strawberry shortcake teacup for adoption on the Afternoon Tea page.
 <br>
-<a target="_blank" href="http://cute.lolipop.jp/hotchoco.html"><img src="graphics/toy/halloween_big.gif" align="right"  style="margin: 8px;" title="credit: hotchoco"/></a>
+<a target="_blank" href="http://cute.lolipop.jp/hotchoco.html"><img src="/graphics/toy/halloween_big.gif" align="right"  style="margin: 8px;" title="credit: hotchoco"/></a>
 <b>2022.10.31</b> - Happy Halloween! Thanks to extremely generous help, this website is now templated with javascript as a workaround for Neocities not allowing PHP, which is what I was used to. 
 For the coding-inclined, these were key: <a target="_blank" href="https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/">1</a>, <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots#adding_flexibility_with_slots">2</a>. 
 Somehow I have 5 neocities followers of this site already?
