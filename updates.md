@@ -3,6 +3,10 @@ layout: default
 title: Site Updates 
 ---
 <h2>Updates</h2>
+<b>2022.11.04</b> - The past couple days have been dedicated to learning how to use GitHub (actions, desktop client, what commits and pulls are, etc.) and setting up Jekyll, a static site generator. 
+I have learned so much in such a short time, and I'm loving this new workflow. 
+I also set up a blog since Jekyll makes that pretty easy, and my first post is a guide for how I did all this stuff for absolute beginners like myself. Unfortunately, I probably can't help if people have questions, but it was helpful for me to write. There have been many people visiting the site and expressing interest in joining the afternoon tea pixel club, which warms my heart. 
+<br>
 <b>2022.11.01</b> - A little belated, but I went trick-or-treating today on <a target="_blank" href="https://yesterweb.org/trickortreat2022/">Yesterweb's 2022 Trick-or-Treat event</a> and <a href="/halloween2022.html">collected a bunch of treats</a>!
 It was so fun and creative! I really want to participate next year and give out tons of cute adoptables.
 Since I was in a pixel art mood, I made a strawberry shortcake teacup for adoption on the Afternoon Tea page.
