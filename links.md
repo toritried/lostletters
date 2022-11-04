@@ -4,8 +4,14 @@ title: Links
 ---
 <h2>Link to Lost Letters</h2>
 <img src="/graphics/site_buttons/LostLetter32x32.gif" align="left" style="margin: 0 5px 0 0;" title="download and host the image yourself thanks"/>
-<img src="/graphics/site_buttons/1lostletters88x31.gif" title="download and host the image yourself thanks">
+<img src="/graphics/site_buttons/1lostletters88x31.gif" align="left" style="margin: 0 10px 0 0;" title="download and host the image yourself thanks">
+<a target="_blank" href="https://neocities.org/site/lostletters">
+    <img src="/graphics/layout/v1_laceletter/purple-star.gif"> my neocities profile
+</a>
 <br>
+<a target="_blank" href="https://github.com/toritried/lostletters">
+    <img src="/graphics/layout/v1_laceletter/purple-star.gif"> my source code
+</a>
 <br>
 <h2>Links out</h2>
 <b>Web Material</b><br>
@@ -38,8 +44,6 @@ title: Links
 <a target="_blank" href="https://wobble.town/visit/610"><img src="https://wobble.town/visit/610/wobble.gif" align="right"/></a>
 <br>
 <a target="_blank" href="https://cinni.net/directory/"> <img src="https://cinni.net/directory/img/88x31.png"></a>
-<br>
-<a target="_blank" href="https://www.moderneopets.com/">Modernneo</a> | <a target="_blank" href="https://neopetsclassic.com/login/">Neopets Classic</a> | <a target="_blank" href="https://neocities.org/site/lostletters">my neocities profile</a>
 <br>
 <b><a target="_blank" href="https://neustadt.fr/essays/against-a-user-hostile-web/">Against an Increasingly User-Hostile Web</a></b> - how the modern web commoditises people and concrete actions you can take to help fight for the open web
 <br>
