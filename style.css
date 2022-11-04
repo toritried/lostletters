@@ -10,7 +10,7 @@
   
   ol {
     list-style: decimal inside;
-    margin: 0.2em 0 0 2.5em;
+    margin: 0.2em 0 0px -0.5em;
   }
   
   ul {
@@ -18,6 +18,13 @@
     margin: 0.2em 0 0 2.5em;
   }
   
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
   /* ------- Sections ------- */
   
   
