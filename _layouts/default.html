@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A personal site home to the Afternoon Tea Pixel Club">
+    <title>Lost Letters</title>
+    <link rel="icon" href="graphics/favicon/df10-icon-ribbon.gif" type="image/gif">
+    <link href="https://fonts.googleapis.com/css?family=Spectral" rel="stylesheet">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <style>
+      @font-face {
+        font-family: 'alagard';
+        src: url(/fonts/alagard.woff);}
+        /*font credit: https://www.dafont.com/alagard.font*/
+    </style>
+    <!-- this is for setting up webmentions.neocities.org -->
+    <link href="https://github.com/toritried" rel="me">
+  </head>
+  <body>
+    <div class = "banner"></div>
+    <br><br><br><br><br><br>
+    <div align="center">
+      <div class = "box17" >
+        <div class = "box-top" >
+          <div class = "u01" >
+          </div>
+        </div> 
+        <div class = "box-center" >
+          <div class = "box-inner" >
+            <header>
+              <h1>Welcome to Lost Letters</h1>
+              <br>
+              <nav>
+                <a href="/"><img src="graphics/navi/home.png"/></a>
+                <a href="/updates.html"><img src="graphics/navi/updates.png"/></a>
+                <a href="/about.html"><img src="graphics/navi/about.png"/></a>  
+                <a href="/tea.html"><img src="graphics/navi/tea.png"/></a>  
+                <a href="/links.html"><img src="graphics/navi/links.png"/></a>  
+                <a href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce" target="_blank"><img src="graphics/navi/guestbook.png"/></a>
+              </nav>
+              <br>
+            </header>
+            <main>
+              <div align="left">
+                <div slot="content">
+                  {{ content }}
+                </div>
+              </div>
+            </main>
+          </div>
+        </div>
+        <div class = "box-bottom" >
+          <div class = "s01" >
+          </div>
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
