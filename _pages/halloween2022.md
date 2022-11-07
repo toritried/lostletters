@@ -1,9 +1,21 @@
 ---
-layout: default
-title: Happy Halloween
+layout: default2
+title: halloween 2022
+emoji: 🎃
+permalink: /halloween2022/
+menu: pages
 ---
-<h2>Trick or Treat</h2>
+<br>
 <center>
+    <a target="_blank" href="https://yesterweb.org/trickortreat2022/">
+    <img src="/graphics/toy/halloween2022/yesterweb2022tot.gif" align="left" style="margin: 0 8px 0 0;"/>
+    </a>
+    <a target="_blank" href="https://lophius.xyz/halloween2022/halloween2022.html">
+    <img src="/graphics/toy/halloween2022/lophiusxyz-spooktober2022.gif" align="right" style="margin: 0 0 0 8px;" title="treat from lophius.xyz's game"/>
+    </a>
+    These treats were collected from <a target="_blank" href="https://yesterweb.org/trickortreat2022/">Yesterweb's 2022 Trick-or-Treat event</a>.
+    <br>
+    <br>
     <a target="_blank" href="https://artwork.neocities.org/halloween.html">
     <img src="/graphics/toy/halloween2022/artworkhalloween.gif" title="treat from artwork"/>
     </a>
@@ -46,13 +58,4 @@ title: Happy Halloween
     <a target="_blank" href="https://fr1234.neocities.org/halloween.html">
     <img src="/graphics/toy/halloween2022/snickers_fr1234neocities.png" width="50%" height="50%" title="treat from fr1234"/>
     </a>
-    <br>
-    <br>
-    <a target="_blank" href="https://yesterweb.org/trickortreat2022/">
-    <img src="/graphics/toy/halloween2022/yesterweb2022tot.gif" align="left" style="margin: 0 8px 0 0;"/>
-    </a>
-    <a target="_blank" href="https://lophius.xyz/halloween2022/halloween2022.html">
-    <img src="/graphics/toy/halloween2022/lophiusxyz-spooktober2022.gif" align="right" style="margin: 0 0 0 8px;" title="treat from lophius.xyz's game"/>
-    </a>
-    These treats are from <a target="_blank" href="https://yesterweb.org/trickortreat2022/">Yesterweb's 2022 Trick-or-Treat event</a>.
 </center>

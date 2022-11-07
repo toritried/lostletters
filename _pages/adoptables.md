@@ -1,15 +1,19 @@
 ---
 layout: default2
 title: adoptables
-emoji: 🍵
+emoji: 🐱
 permalink: /adoptables/
 menu: pages
 ---
+<h2>Rules</h2>
+- All materials on this page are closed-source freeware for personal and non-commercial use only. 
+- To "adopt", download and host these yourself, then credit me with a visible link back to Lost Letters (https://lostletters.neocities.org/).
+- **DO NOT** use for commercial purposes nor NFTs.
+- **DO NOT** edit, copy, or use in your works, products, or services.
+- **DO NOT** use on websites or SNS profiles related to content that is commercial, illegal, offensive, defamatory, or violent.
+<br>
+<br>
 <h2>adoptables</h2>
-Here are some pixels that you can adopt (put on your website), but you must download them, host them yourself, and credit my site with a link back. 
-**Not allowed:** edit in any way, use as part of a larger artwork, used or sold in any way related to NFTs 
-<br>
-<br>
 <img src="/graphics/adoptables/bow-pink-lostletters.png">
 <img src="/graphics/adoptables/bow-blush-lostletters.png">
 <img src="/graphics/adoptables/bow-gold-lostletters.png">
@@ -19,3 +23,4 @@ Here are some pixels that you can adopt (put on your website), but you must down
 <br>
 <br>
 <img src="/graphics/adoptables/dancing-moomin-lostletters.png">
+<br>*Note: I do not claim ownership of Moomin, I just drew him because he's the best boy.*

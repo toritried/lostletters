@@ -1,17 +1,14 @@
 ---
-layout: default
-title: Links 
+layout: default2
+title: links 
+emoji: 🤩
+permalink: /links/
+menu: pages
 ---
 <h2>Link to Lost Letters</h2>
-<img src="/graphics/site_buttons/LostLetter32x32.gif" align="left" style="margin: 0 5px 0 0;" title="download and host the image yourself thanks"/>
-<img src="/graphics/site_buttons/1lostletters88x31.gif" align="left" style="margin: 0 10px 0 0;" title="download and host the image yourself thanks">
-<a target="_blank" href="https://neocities.org/site/lostletters">
-    <img src="/graphics/layout/v1_laceletter/purple-star.gif"> my neocities profile
-</a>
+<img src="/graphics/site_buttons/LostLetter32x32.gif" style="margin: 0 5px 0 0;" title="download and host the image yourself thanks"/>
+<img src="/graphics/site_buttons/1lostletters88x31.gif" title="download and host the image yourself thanks">
 <br>
-<a target="_blank" href="https://github.com/toritried/lostletters">
-    <img src="/graphics/layout/v1_laceletter/purple-star.gif"> my source code
-</a>
 <br>
 <h2>Links out</h2>
 <b>Web Material</b><br>
@@ -22,6 +19,7 @@ title: Links
 <a target="_blank" href="http://www.asterism-m.com/"><img src="/graphics/linkout/asterism.gif" title="credit: cursor"/></a>
 <a target="_blank" href="https://pixels.heylouise.space/"><img src="/graphics/linkout/elfwink-btn3.gif"/></a>
 <a target="_blank" href="http://engrampixel.tumblr.com"><img src="http://media.tumblr.com/tumblr_m5106aHKT11qid2nw.gif"/></a>
+<br>
 <br>
 <b>Personal Sites & Web Material</b><br>
 <a target="_blank" href="http://whimsical.heartette.net/"><img src="/graphics/linkout/whimsical.gif"/></a>
@@ -39,6 +37,7 @@ title: Links
 <a target="_blank" href="https://tinydiorama.neocities.org/"><img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="A button for the website tiny diorama"></a>
 <a target="_blank" href="https://pastelhello.com/"><img src="/graphics/linkout/pastelhell.gif"></a>
 <a target="_blank" href="https://gloomlee.neocities.org/"><img src="/graphics/linkout/gloomlee-button.png"></a>
+<br>
 <br>
 <b>Miscellaneous</b>
 <a target="_blank" href="https://wobble.town/visit/610"><img src="https://wobble.town/visit/610/wobble.gif" align="right"/></a>

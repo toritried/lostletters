@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A personal site home to the Afternoon Tea Pixel Club">
+    <title>Lost Letters</title>
+    <link rel="icon" href="/graphics/favicon/df10-icon-ribbon.gif" type="image/gif">
+    <link href="https://fonts.googleapis.com/css?family=Spectral" rel="stylesheet">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <style>
+      @font-face {
+        font-family: 'alagard';
+        src: url(/fonts/alagard.woff);}
+        /*font credit: https://www.dafont.com/alagard.font*/
+    </style>
+    <!-- this is for setting up webmentions.neocities.org -->
+    <link href="https://github.com/toritried" rel="me">
+    <link rel="webmention" href="https://webmention.io/lostletters.neocities.org/webmention" />
+    <link rel="pingback" href="https://webmention.io/lostletters.neocities.org/xmlrpc" />
+    <link rel="me" href="https://social.yesterweb.org/@lostletters" />
+  </head>
+  <body>
+    <div class = "banner"></div>
+    <br><br><br><br><br><br>
+    <div align="center">
+      <div class = "box17" >
+        <div class = "box-top" >
+          <div class = "u01" >
+          </div>
+        </div> 
+        <div class = "box-center" >
+          <div class = "box-inner" >
+            <header>
+              <h1>Welcome to Lost Letters</h1>
+            </header>
+            <div class="navbar">
+              <a href="/index.html">🏠</a>
+              <button class="dropbtn" data-dropdown="pages">
+                💖pages 
+                <span class="fa fa-caret-down"></span>
+              </button>
+              <button class="dropbtn" data-dropdown="about">
+                🔎 about 
+                <span class="fa fa-caret-down"></span>
+              </button>
+              <button class="dropbtn" data-dropdown="meta">
+                🖥️ meta
+                <span class="fa fa-caret-down"></span>
+              </button>
+              <div>
+                <div class="dropdown-content" data-dropdown="pages" aria-expanded="false">
+                  <a href="/blog.html">📝 blog</a>
+                  {% for page in site.pages %}
+                    {% if page.menu == "pages" %}
+                      <a href="{{ page.url }}">
+                        {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                        {{ page.title }}
+                      </a>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+                <div class="dropdown-content" data-dropdown="about" aria-expanded="false">
+                  {% for page in site.pages %}
+                    {% if page.menu == "about" %}
+                      <a href="{{ page.url }}">
+                        {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                        {{ page.title }}
+                      </a>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+                <div class="dropdown-content" data-dropdown="meta" aria-expanded="false">
+                  {% for page in site.pages %}
+                    {% if page.menu == "meta" %}
+                      <a href="{{ page.url }}">
+                        {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                        {{ page.title }}
+                      </a>
+                    {% endif %}
+                  {% endfor %}
+                  <a target="_blank" href="https://social.yesterweb.org/web/@lostletters">🦣 web dev toots</a>
+                  <a target="_blank" href="https://github.com/toritried/lostletters">👩🏻‍💻 source code</a>
+                  <a target="_blank" href="https://neocities.org/site/lostletters">🌆 neocities</a>
+                  <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce">📓 guestbook</a>
+                </div>
+              </div>
+            </div>
+            <main>
+              <div align="left">
+                <div slot="content">
+                  {{ content }}
+                  <br>
+                  <div id="webmentions"></div>
+                </div>
+              </div>
+            </main>
+          </div>
+        </div>
+        <div class = "box-bottom" >
+          <div class = "s01" >
+          </div>
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

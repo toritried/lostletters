@@ -2,7 +2,7 @@
     margin: 0;
     cursor: url("/graphics/cursor/asterism.gif"), auto;
   }
-  
+
   alagard {
     font-family: "CustomFont";
     src: url("https://lostletters.neocities.org/fonts/alagard.woff") format("wofff");
@@ -15,7 +15,7 @@
   
   ul {
     list-style: square inside;
-    margin: 0.2em 0 0 2.5em;
+    margin: 0 0 0 -2em;
   }
   
   p {
@@ -84,7 +84,7 @@
   font-family: 'alagard', Arial, sans-serif;
   font-weight:normal;
   font-style:normal;
-  margin: 0px;
+  padding: 9px 0 13px 0;
   }
   
   h2{
@@ -151,7 +151,7 @@
       width: 629px;
     }
   }
-  
+
   .u01 { 
     background: url(graphics/layout/v1_laceletter/f-ue.gif) repeat-x; 
     height: 67px ;
@@ -183,3 +183,61 @@
     background-position: top left, top right;
     background-repeat: no-repeat; 
     height : 67px } 
+
+/* navigation j's version
+.nav {
+  position: fixed;
+  right: 20px;
+  top: 120px;
+  padding: 1em 1em 1.25em 1.5em;
+  background: #102700;
+  border-radius: 6px;
+  max-height: calc(100% - 3em);
+  overflow-y: auto;
+  width: 162px;
+}
+*/
+
+/* navigation W3School version*/
+.navbar {
+  overflow: hidden;
+}
+
+.dropbtn { 
+  border: none;
+  outline: none;
+  color: #c09dba;
+  font-size: 1em;
+  padding: 6px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropbtn:hover {
+  background-color: #cccccc;
+}
+
+.dropdown-content {
+  display: none;
+}
+
+.dropdown-content a {
+  font-weight: normal;
+  padding: 0;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.fa-caret-down:before {
+  content: "🔽";
+}
+
+.show {
+  display: block;
+  padding-bottom: 16px;
+}

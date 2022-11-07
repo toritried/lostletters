@@ -1,6 +1,9 @@
 ---
-layout: default
-title: Site Updates 
+layout: default2
+title: updates
+emoji: 🆕
+permalink: /updates/
+menu: meta
 ---
 <h2>Updates</h2>
 <b>2022.11.04</b> - The past couple days have been dedicated to learning how to use GitHub (actions, desktop client, what commits and pulls are, etc.) and setting up Jekyll, a static site generator. 
