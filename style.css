@@ -81,10 +81,14 @@
   
   /* ------- Text Customization ------- */
   h1 {
-  font-family: 'alagard', Arial, sans-serif;
-  font-weight:normal;
-  font-style:normal;
-  padding: 9px 0 13px 0;
+    font-family: 'alagard', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    padding: 9px 0 13px 0;
+  }
+
+  .welcome {
+    font-weight: normal;
   }
   
   h2{
@@ -99,7 +103,7 @@
       font-weight: bold;
   }
   
-  a:link, a:visited {
+  a {
       color: #c09dba;
       font-weight: bold;
       text-decoration: none;
