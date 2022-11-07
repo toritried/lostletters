@@ -13,8 +13,8 @@ for (const button of document.querySelectorAll('.dropbtn')) {
         collapseAll();
 
         event.currentTarget.ariaExpanded = true;
-        const id = event.currentTarget.dataset['dropdown'];
-        document.querySelector(`.dropdown-content[data-dropdown="${id}"]`).classList.toggle("show");
+        const id = event.currentTarget.getAttribute('aria-controls');
+        document.querySelector(`#${id}`).classList.toggle("show");
         event.stopPropagation();
     }
 }
