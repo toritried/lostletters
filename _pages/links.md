@@ -10,7 +10,7 @@ menu: pages
 <img src="/graphics/site_buttons/1lostletters88x31.gif" title="download and host the image yourself thanks">
 <br>
 <br>
-<h2>Links out</h2>
+<h2>keep surfing the net</h2>
 <b>Web Material</b><br>
 <a target="_blank" href="http://pokyaron.fc2web.com/"><img src="/graphics/linkout/pokyaron.gif" title="credit: 88x31 unicorn button base"/></a>
 <a target="_blank" href="https://foollovers.com/"><img src="/graphics/linkout/foollovers8826.gif" title="credit: lace header, lacy content container, hover sparkles, favicon, purple star for site navigation"/></a>
@@ -41,9 +41,10 @@ menu: pages
 <br>
 <br>
 <b>Miscellaneous</b>
-<a target="_blank" href="https://wobble.town/visit/610"><img src="https://wobble.town/visit/610/wobble.gif" align="right"/></a>
 <br>
-<a target="_blank" href="https://cinni.net/directory/"> <img src="https://cinni.net/directory/img/88x31.png"></a>
+<a target="_blank" href="https://cinni.net/directory/">
+    <img src="https://cinni.net/directory/img/88x31.png">
+</a>
 <br>
 <b><a target="_blank" href="https://neustadt.fr/essays/against-a-user-hostile-web/">Against an Increasingly User-Hostile Web</a></b> - how the modern web commoditises people and concrete actions you can take to help fight for the open web
 <br>
@@ -53,7 +54,6 @@ menu: pages
 <br>
 <b><a target="_blank" href="https://www.goatcounter.com/">GoatCounter</a></b> -  easy, open source web analytics alternative to Google Analytics
 <br>
-<a target="_blank" href="http://tamanotchi.world/2859c"><img src="http://tamanotchi.world/i2/2859" align="right" title="Click to feed my tamaNOTchi"></a>
 <b><a target="_blank" href="https://trovami.altervista.org/">trovami</a></b> -  custom web badge / antipixel button creator
 <br>
 <b><a target="_blank" href="https://www.dafont.com/alagard.font">Hewett Tsoi</a></b> - creator of my header font (Alagard)

@@ -5,12 +5,13 @@ emoji: 🎁
 permalink: /toybox/
 menu: about
 ---
-<center><h2>My Toybox</h2></center>
 <a target="_blank" href="https://foollovers.com/"><img src="/graphics/toy/c07-flower-cherry_blossom.gif" title="credit: foollovers" style="margin: 8px;" align="left"/></a>
 <b>disclaimer</b>: where possible, original creators are given credit for their work, but there are a few pixels that I couldn't trace to their original creators. 
 I am keen on citing original sources, so I would sincerely appreciate it if you could please reach out via the guestbook if you know one of the orignal artists that I'm missing &lt;3
 <br>
+<br>
 <center>
+    <h2>My Toybox</h2>
     <a target="_blank" href="https://pixelins.tumblr.com/">
     <img src="/graphics/toy/pixelins.gif">
     </a>
@@ -85,10 +86,6 @@ I am keen on citing original sources, so I would sincerely appreciate it if you 
     <a target="_blank" href="http://sorahana.ciao.jp/">
         <img src="/graphics/toy/bee.gif">
     </a>
-    <a target="_blank" href="http://magistream.com/creature/14192519"><img src="http://magistream.com/img/14192519.gif"/></a>
-    <a target="_blank" href="http://magistream.com/creature/14192528"><img src="http://magistream.com/img/14192528.gif"/></a>
-    <a target="_blank" href="http://magistream.com/creature/14192584"><img src="http://magistream.com/img/14192584.gif"/></a>
-    <a target="_blank" href="http://magistream.com/creature/14192587"><img src="http://magistream.com/img/14192587.gif"/></a>
     <br>
     <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
         <img src="/graphics/toy/star_tarot_kingluludeer.gif"/> 
@@ -97,6 +94,15 @@ I am keen on citing original sources, so I would sincerely appreciate it if you 
         <img src="/graphics/toy/devil_tarot_kingluludeer.gif"/>
     </a>
     <br>
+    <br>
+    <b>▼ click to help them evolve ▼</b>
+    <br>
+    <a target="_blank" href="http://tamanotchi.world/2859c"><img src="http://tamanotchi.world/i2/2859" title="Click to feed my tamaNOTchi"></a>
+    <a target="_blank" href="https://wobble.town/visit/610"><img src="https://wobble.town/visit/610/wobble.gif"></a>
+    <a target="_blank" href="http://magistream.com/creature/14192519"><img src="http://magistream.com/img/14192519.gif"/></a>
+    <a target="_blank" href="http://magistream.com/creature/14192528"><img src="http://magistream.com/img/14192528.gif"/></a>
+    <a target="_blank" href="http://magistream.com/creature/14192584"><img src="http://magistream.com/img/14192584.gif"/></a>
+    <a target="_blank" href="http://magistream.com/creature/14192587"><img src="http://magistream.com/img/14192587.gif"/></a>
     <br>
     <br>
     <h2>Halloween 2022</h2>
