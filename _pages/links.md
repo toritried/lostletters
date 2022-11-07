@@ -1,7 +1,7 @@
 ---
 layout: default2
 title: links 
-emoji: 🤩
+emoji: ⛓
 permalink: /links/
 menu: pages
 ---
