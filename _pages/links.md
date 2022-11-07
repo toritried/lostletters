@@ -37,6 +37,7 @@ menu: pages
 <a target="_blank" href="https://tinydiorama.neocities.org/"><img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="A button for the website tiny diorama"></a>
 <a target="_blank" href="https://pastelhello.com/"><img src="/graphics/linkout/pastelhell.gif"></a>
 <a target="_blank" href="https://gloomlee.neocities.org/"><img src="/graphics/linkout/gloomlee-button.png"></a>
+<a target="_blank" href="https://lu.tiny-universes.net/index2.html"><img src="/graphics/linkout/lu.tinyuniverse.gif"></a>
 <br>
 <br>
 <b>Miscellaneous</b>
