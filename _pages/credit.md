@@ -10,7 +10,7 @@ This is a collection of wonderful people / places / things that helped me create
 <br>
 <br>
 <h2>Graphics</h2>
-💖 <a target="_blank" href="https://foollovers.com/">Fool Lovers</a> - lace header, lacy content container, url hover sparkles, favicon, purple pixel star
+💖 <a target="_blank" href="https://foollovers.com/">Fool Lovers</a> - lace header, lacy content container, url hover sparkles, favicon, purple pixel star, bouncing sakura divider gif
 <br>
 💖 <a target="_blank" href="https://trovami.altervista.org/">trovami</a> -  custom web badge / antipixel button creator used for badges I made to reflect my values on my about page
 <br>
