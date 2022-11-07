@@ -39,10 +39,8 @@ I'm so glad I never let my dislike of my art stop me from participating in the p
     <a target="_blank" href="https://web.badges.world/">
     <img src="/graphics/toy/tags/tama.png">
     </a>
-</center>
 <br>
 <br>
-<center>
     <a href="http://www.nerdtests.com/ft_nq.php">
         <img src="http://www.nerdtests.com/images/ft/nq/66fc8586df.gif" alt="I am nerdier than 43% of all people. Are you a nerd? Click here to take the Nerd Test, get geeky images and jokes, and talk on the nerd forum!">
     </a>
