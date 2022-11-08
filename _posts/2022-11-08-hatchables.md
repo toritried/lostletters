@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "The Joy of Hactching Virtual Pets"
+title:  "The Joy of Hatching Virtual Pets"
 date:  2022-11-08 20:38:38 +0900
 tags:  [fun, virtual pets]  
 ---
