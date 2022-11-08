@@ -2,7 +2,7 @@
 layout: default2
 title: hatchery
 emoji: 🐣
-permalink: /hatch/
+permalink: /hatch
 menu: pages
 ---
 <center>

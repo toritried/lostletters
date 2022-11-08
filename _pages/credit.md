@@ -2,7 +2,7 @@
 layout: default2
 title: credit
 emoji: 💛
-permalink: /credit/
+permalink: /credit
 menu: meta
 ---
 <h2>site credits and attribution</h2>

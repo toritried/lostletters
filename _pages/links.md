@@ -2,7 +2,7 @@
 layout: default2
 title: links 
 emoji: 🔗
-permalink: /links/
+permalink: /links
 menu: pages
 ---
 <h2>Link to Lost Letters</h2>
