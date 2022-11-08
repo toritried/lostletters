@@ -2,7 +2,7 @@
 layout: default2
 title: about me
 emoji: 💃
-permalink: /about-me
+permalink: /about-me/
 menu: about
 ---
 <h2>hail and well met,</h2>

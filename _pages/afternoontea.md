@@ -2,7 +2,7 @@
 layout: default2
 title: afternoon tea
 emoji: 🍵
-permalink: /afternoontea
+permalink: /afternoontea/
 menu: pages
 ---
 <center>

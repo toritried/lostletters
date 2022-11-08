@@ -2,7 +2,7 @@
 layout: default2
 title: toybox
 emoji: 🎁
-permalink: /toybox
+permalink: /toybox/
 menu: about
 ---
 <a target="_blank" href="https://foollovers.com/"><img src="/graphics/toy/c07-flower-cherry_blossom.gif" title="credit: foollovers" style="margin: 8px;" align="left"/></a>
