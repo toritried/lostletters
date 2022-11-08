@@ -103,6 +103,18 @@ I am keen on citing original sources, so I would sincerely appreciate it if you 
     <a target="_blank" href="http://magistream.com/creature/14192528"><img src="http://magistream.com/img/14192528.gif"/></a>
     <a target="_blank" href="http://magistream.com/creature/14192584"><img src="http://magistream.com/img/14192584.gif"/></a>
     <a target="_blank" href="http://magistream.com/creature/14192587"><img src="http://magistream.com/img/14192587.gif"/></a>
+    <a target="_blank" href="https://dragcave.net/view/374HG">
+        <img src="https://dragcave.net/image/374HG.gif"/>
+    </a>
+    <a href="https://dragcave.net/view/25sX5">
+        <img src="https://dragcave.net/image/25sX5.gif"/>
+    </a>
+    <a href="https://dragcave.net/view/1YQ5c">
+        <img src="https://dragcave.net/image/1YQ5c.gif"/>
+    </a>
+    <a href="https://dragcave.net/view/2QiOP">
+        <img src="https://dragcave.net/image/2QiOP.gif"/>
+    </a>
     <br>
     <br>
     <h2>Halloween 2022</h2>
