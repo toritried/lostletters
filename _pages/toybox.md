@@ -97,24 +97,19 @@ I am keen on citing original sources, so I would sincerely appreciate it if you 
     <br>
     <b>▼ click to help them evolve ▼</b>
     <br>
-    <a target="_blank" href="http://tamanotchi.world/2859c"><img src="http://tamanotchi.world/i2/2859" title="Click to feed my tamaNOTchi"></a>
-    <a target="_blank" href="https://wobble.town/visit/610"><img src="https://wobble.town/visit/610/wobble.gif"></a>
+    <a target="_blank" href="http://magistream.com/creature/14199388"><img src="http://magistream.com/img/14199388.gif"/></a>
+    <a target="_blank" href="http://magistream.com/creature/14199591"><img src="http://magistream.com/img/14199591.gif"/></a>
+    <a target="_blank" href="http://magistream.com/creature/14199343"><img src="http://magistream.com/img/14199343.gif"/></a>
+    <a target="_blank" href="http://magistream.com/creature/14199389"><img src="http://magistream.com/img/14199389.gif"/></a>
+    <a target="_blank" href="http://magistream.com/creature/14192587"><img src="http://magistream.com/img/14192587.gif"/></a>
+    <a target="_blank" href="http://magistream.com/creature/14192588"><img src="http://magistream.com/img/14192588.gif"/></a>
     <a target="_blank" href="http://magistream.com/creature/14192519"><img src="http://magistream.com/img/14192519.gif"/></a>
     <a target="_blank" href="http://magistream.com/creature/14192528"><img src="http://magistream.com/img/14192528.gif"/></a>
-    <a target="_blank" href="http://magistream.com/creature/14192584"><img src="http://magistream.com/img/14192584.gif"/></a>
-    <a target="_blank" href="http://magistream.com/creature/14192587"><img src="http://magistream.com/img/14192587.gif"/></a>
-    <a target="_blank" href="https://dragcave.net/view/374HG">
-        <img src="https://dragcave.net/image/374HG.gif"/>
-    </a>
-    <a href="https://dragcave.net/view/25sX5">
-        <img src="https://dragcave.net/image/25sX5.gif"/>
-    </a>
-    <a href="https://dragcave.net/view/1YQ5c">
-        <img src="https://dragcave.net/image/1YQ5c.gif"/>
-    </a>
-    <a href="https://dragcave.net/view/2QiOP">
-        <img src="https://dragcave.net/image/2QiOP.gif"/>
-    </a>
+    <br>
+    <a target="_blank" href="https://dragcave.net/view/374HG"><img src="https://dragcave.net/image/374HG.gif"/></a>
+    <a target="_blank" href="https://dragcave.net/view/25sX5"><img src="https://dragcave.net/image/25sX5.gif"/></a>
+    <a target="_blank" href="https://dragcave.net/view/1YQ5c"><img src="https://dragcave.net/image/1YQ5c.gif"/></a>
+    <a target="_blank" href="https://dragcave.net/view/2QiOP"><img src="https://dragcave.net/image/2QiOP.gif"/></a>
     <br>
     <br>
     <h2>Halloween 2022</h2>
