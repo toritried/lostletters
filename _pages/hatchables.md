@@ -13,11 +13,11 @@ menu: pages
         <a target="other" href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14200163#page-body"><img src="http://magistream.com/img/14200163.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199591#page-body"><img src="http://magistream.com/img/14199591.gif"/></a>
-        <a target="other" href='https://finaloutpost.net/view/yUVxa#yUVxa'><img src='https://finaloutpost.net/s/yUVxa1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/6tZ5z#6tZ5z'><img src='https://finaloutpost.net/s/6tZ5z1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/ohzHb#ohzHb'><img src='https://finaloutpost.net/s/ohzHb1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/lAb1C#lAb1C'><img src='https://finaloutpost.net/s/lAb1C1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/MnwlI#MnwlI'><img src='https://finaloutpost.net/s/MnwlI1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/yUVxa#main.container.text-center'><img src='https://finaloutpost.net/s/yUVxa1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/6tZ5z#main.container.text-center'><img src='https://finaloutpost.net/s/6tZ5z1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/ohzHb#main.container.text-center'><img src='https://finaloutpost.net/s/ohzHb1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/lAb1C#main.container.text-center'><img src='https://finaloutpost.net/s/lAb1C1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/MnwlI#main.container.text-center'><img src='https://finaloutpost.net/s/MnwlI1.png'></a>
         <a target="other" href="http://magistream.com/creature/14199995#page-body"><img src="http://magistream.com/img/14199995.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199389#page-body"><img src="http://magistream.com/img/14199389.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/4Xdag#4Xdag'><img src='https://finaloutpost.net/s/4Xdag1.png'></a>
