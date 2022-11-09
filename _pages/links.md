@@ -11,21 +11,14 @@ menu: pages
 <br>
 <br>
 <h2>keep surfing the net</h2>
-<b>Web Material</b><br>
-<a target="_blank" href="http://pokyaron.fc2web.com/"><img src="/graphics/linkout/pokyaron.gif" title="credit: 88x31 unicorn button base"/></a>
 <a target="_blank" href="https://foollovers.com/"><img src="/graphics/linkout/foollovers8826.gif" title="credit: lace header, lacy content container, hover sparkles, favicon, purple star for site navigation"/></a>
 <a target="_blank" href="http://cute.lolipop.jp/hotchoco.html"><img src="/graphics/linkout/hotchoco.gif" title="Hotchoco"/></a>
 <a target="_blank" href="http://sorahana.ciao.jp/"><img src="/graphics/linkout/sorahana.gif" title="Sorahana"/></a>
 <a target="_blank" href="http://www.asterism-m.com/"><img src="/graphics/linkout/asterism.gif" title="credit: cursor"/></a>
 <a target="_blank" href="https://pixels.heylouise.space/"><img src="/graphics/linkout/elfwink-btn3.gif"/></a>
-<a target="_blank" href="http://engrampixel.tumblr.com"><img src="http://media.tumblr.com/tumblr_m5106aHKT11qid2nw.gif"/></a>
-<br>
-<br>
-<b>Personal Sites & Web Material</b><br>
 <a target="_blank" href="http://whimsical.heartette.net/"><img src="/graphics/linkout/whimsical.gif"/></a>
 <a target="_blank" href="https://amelia.sg/ametarium/"><img src="/graphics/linkout/88x31-ametarium.gif"></a>
 <a target="_blank" href="https://www.lejlart.com/apple.html"><img src="/graphics/linkout/ad_skullsprinkles.gif"/></a>
-<a target="_blank" href="https://pinkukingdom.neocities.org/"><img src="https://i.postimg.cc/FHLJzbGY/pingukingdom.gif" title="Pinku Kingdom"></a>
 <a target="_blank" href="https://cinni.net/"><img src="/graphics/linkout/cinni_angelbutton3.gif" title="cinni net"/></a>
 <a target="_blank" href="https://okaynana.neocities.org/"><img src="/graphics/linkout/okaynana.gif" title="okaynana"/></a>
 <a target="_blank" href="http://cepheus.xyz"><img src="/graphics/linkout/cepheus.gif"></a>
@@ -38,25 +31,14 @@ menu: pages
 <a target="_blank" href="https://pastelhello.com/"><img src="/graphics/linkout/pastelhell.gif"></a>
 <a target="_blank" href="https://gloomlee.neocities.org/"><img src="/graphics/linkout/gloomlee-button.png"></a>
 <a target="_blank" href="https://lu.tiny-universes.net/index2.html"><img src="/graphics/linkout/lu.tinyuniverse.gif"></a>
+<a target="_blank" href="https://pinkukingdom.neocities.org/"><img src="https://i.postimg.cc/FHLJzbGY/pingukingdom.gif" title="Pinku Kingdom"></a>
+<a target="_blank" href="https://cinni.net/directory/"><img src="https://cinni.net/directory/img/88x31.png"></a>
+<a target="_blank" href="http://engrampixel.tumblr.com"><img src="http://media.tumblr.com/tumblr_m5106aHKT11qid2nw.gif"/></a>
+<a target="_blank" href="http://pokyaron.fc2web.com/"><img src="/graphics/linkout/pokyaron.gif" title="credit: 88x31 unicorn button base"/></a>
 <br>
-<br>
-<b>Miscellaneous</b>
-<br>
-<a target="_blank" href="https://cinni.net/directory/">
-    <img src="https://cinni.net/directory/img/88x31.png">
-</a>
-<br>
-<b><a target="_blank" href="https://neustadt.fr/essays/against-a-user-hostile-web/">Against an Increasingly User-Hostile Web</a></b> - how the modern web commoditises people and concrete actions you can take to help fight for the open web
+<b><a target="_blank" href="https://neustadt.fr/essays/against-a-user-hostile-web/">Against an Increasingly User-Hostile Web</a></b> - how the modern web commoditises people and actions we can take to help fight for the open web
 <br>
 <b><a target="_blank" href="https://sadgrl.online/cyberspace/internet-manifesto.html">SADGRL.ONLINE's Internet manifesto</a></b> - a quick, worthwhile read on what we should do to help make the internet better
-<br>
-<b><a target="_blank" href="https://john-doe.neocities.org/index.html" title="CSS #anchor and :target template as an alternative to PHP" >John Doe</a></b> - CSS #anchor and :target site template as an alternative to PHP for neocities
-<br>
-<b><a target="_blank" href="https://www.goatcounter.com/">GoatCounter</a></b> -  easy, open source web analytics alternative to Google Analytics
-<br>
-<b><a target="_blank" href="https://trovami.altervista.org/">trovami</a></b> -  custom web badge / antipixel button creator
-<br>
-<b><a target="_blank" href="https://www.dafont.com/alagard.font">Hewett Tsoi</a></b> - creator of my header font (Alagard)
 <br>
 <b><a target="_blank" href="https://loveblush.net/">loveblush.net</a></b> - free assets and tutorials for web design
 <br>
