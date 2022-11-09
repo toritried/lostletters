@@ -8,6 +8,8 @@ menu: pages
 <center>
     <h2>virtual hatchery</h2>
     <div class="hatchery">
+        <a target="other" href="http://magistream.com/creature/14200541#page-body"><img src="http://magistream.com/img/14200541.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14200173#page-body"><img src="http://magistream.com/img/14200173.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14200163#page-body"><img src="http://magistream.com/img/14200163.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199591#page-body"><img src="http://magistream.com/img/14199591.gif"/></a>
