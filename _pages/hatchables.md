@@ -8,7 +8,7 @@ menu: pages
 <center>
     <h2>virtual hatchery</h2>
     <div class="hatchery">
-        <a target="other"href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14200163#page-body"><img src="http://magistream.com/img/14200163.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199591#page-body"><img src="http://magistream.com/img/14199591.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/yUVxa#yUVxa'><img src='https://finaloutpost.net/s/yUVxa1.png'></a>
@@ -22,6 +22,7 @@ menu: pages
         <a target="other" href="http://magistream.com/creature/14192519#page-body"><img src="http://magistream.com/img/14192519.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199388#page-body"><img src="http://magistream.com/img/14199388.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199343#page-body"><img src="http://magistream.com/img/14199343.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14199342#page-body"><img src="http://magistream.com/img/14199342.gif"/></a>
         <a target="other" href="https://flowergame.net/view/1105624#innercontent"><img src="https://img.flowergame.net/1105624.png" title="click to give sunshine to my Chanterelle" /></a>
         <a target="other" href="https://flowergame.net/view/1105719#innercontent"><img src="https://img.flowergame.net/1105719.png" title="click to give sunshine to my Porcini Mushroom"/></a>
         <a target="other" href="https://flowergame.net/view/1105316#innercontent"><img src="https://img.flowergame.net/1105316.png" title="click to give sunshine to my Pumpkin" /></a>
@@ -54,5 +55,4 @@ menu: pages
         <a target="_blank" href="http://magistream.com/creature/14192587#page-body"><img src="http://magistream.com/img/14192587.gif"/></a>
         <a target="_blank" href="http://magistream.com/creature/14192588#page-body"><img src="http://magistream.com/img/14192588.gif"/></a>
         <a target="_blank" href="http://magistream.com/creature/14192584#page-body"><img src="http://magistream.com/img/14192584.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14199342#page-body"><img src="http://magistream.com/img/14199342.gif"/></a>
 </center>
