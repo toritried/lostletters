@@ -27,13 +27,13 @@ menu: pages
         <img src="/graphics/teahouse/teacup/artworkbearteacup.gif" title="tastes like mixed berries - made by artwork">
     </a>
     <a target="_blank" href="https://artwork.neocities.org/">
-        <img src="/graphics/teahouse/teacup/artworksucculent.gif" title="tastes like soot - made by artwork">
+        <img src="/graphics/teahouse/teacup/artworksucculent.gif" title="tastes like savory succulents - made by artwork">
     </a>
     <a target="_blank" href="https://artwork.neocities.org/">
-        <img src="/graphics/teahouse/teacup/artworkteakeroppi.gif" title="tastes like savory succulents - made by artwork">
+        <img src="/graphics/teahouse/teacup/artworkteakeroppi.gif" title="tastes poisonous - made by artwork">
     </a>
     <a target="_blank" href="https://artwork.neocities.org/">
-        <img src="/graphics/teahouse/teacup/artworkteatotoro.gif" title="tastes poisonous - made by artwork">
+        <img src="/graphics/teahouse/teacup/artworkteatotoro.gif" title="tastes like soot - made by artwork">
     </a>
     <br>
     <br>
