@@ -8,24 +8,23 @@ menu: pages
 <center>
     <h2>virtual hatchery</h2>
     <div class="hatchery">
-        <a target="other" href="http://magistream.com/creature/14201225"><img src="http://magistream.com/img/14201225.gif#page-body"/></a>
-        <a target="other" href="http://magistream.com/creature/14201199"><img src="http://magistream.com/img/14201199.gif#page-body"/></a>
-        <a target="other" href="http://magistream.com/creature/14201186"><img src="http://magistream.com/img/14201186.gif#page-body"/></a>
+        <a target="other" href="http://magistream.com/creature/14201318#page-body"><img src="http://magistream.com/img/14201318.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14201225#page-body"><img src="http://magistream.com/img/14201225.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14201199#page-body"><img src="http://magistream.com/img/14201199.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14201186#page-body"><img src="http://magistream.com/img/14201186.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14200541#page-body"><img src="http://magistream.com/img/14200541.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/6tZ5z#main'><img src='https://finaloutpost.net/s/6tZ5z1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/yUVxa#main'><img src='https://finaloutpost.net/s/yUVxa1.png'></a>
+        <a target="other" href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199591#page-body"><img src="http://magistream.com/img/14199591.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14200173#page-body"><img src="http://magistream.com/img/14200173.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14200163#page-body"><img src="http://magistream.com/img/14200163.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14199995#page-body"><img src="http://magistream.com/img/14199995.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14199389#page-body"><img src="http://magistream.com/img/14199389.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/ohzHb#main'><img src='https://finaloutpost.net/s/ohzHb1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/lAb1C#main'><img src='https://finaloutpost.net/s/lAb1C1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/MnwlI#main'><img src='https://finaloutpost.net/s/MnwlI1.png'></a>
-        <a target="other" href="http://magistream.com/creature/14199995#page-body"><img src="http://magistream.com/img/14199995.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14199389#page-body"><img src="http://magistream.com/img/14199389.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/4Xdag#main'><img src='https://finaloutpost.net/s/4Xdag1.png'></a>
-        <a target="other" href="http://magistream.com/creature/14199343#page-body"><img src="http://magistream.com/img/14199343.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14199342#page-body"><img src="http://magistream.com/img/14199342.gif"/></a>
         <a target="other" href="https://flowergame.net/view/1105624#innercontent"><img src="https://img.flowergame.net/1105624.png" title="click to give sunshine to my Chanterelle" /></a>
         <a target="other" href="https://flowergame.net/view/1105719#innercontent"><img src="https://img.flowergame.net/1105719.png" title="click to give sunshine to my Porcini Mushroom"/></a>
         <a target="other" href="https://flowergame.net/view/1105316#innercontent"><img src="https://img.flowergame.net/1105316.png" title="click to give sunshine to my Pumpkin" /></a>
@@ -52,12 +51,11 @@ menu: pages
     <br>
     <br>
     <h2>gallery of fully grown pets</h2>
-    These are fully grown thanks to all the people who clicked them as eggs and hatchlings! There is no need to click on the creatures below unless you want to learn about them (opens in a new tab).
-    <br>
         <a target="other" href="http://magistream.com/creature/14192528#page-body"><img src="http://magistream.com/img/14192528.gif"/></a>
-        <a target="_blank" href="http://magistream.com/creature/14192587#page-body"><img src="http://magistream.com/img/14192587.gif"/></a>
-        <a target="_blank" href="http://magistream.com/creature/14192588#page-body"><img src="http://magistream.com/img/14192588.gif"/></a>
-        <a target="_blank" href="http://magistream.com/creature/14192584#page-body"><img src="http://magistream.com/img/14192584.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14192519#page-body"><img src="http://magistream.com/img/14192519.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14192587#page-body"><img src="http://magistream.com/img/14192587.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14192588#page-body"><img src="http://magistream.com/img/14192588.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14192584#page-body"><img src="http://magistream.com/img/14192584.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14199343#page-body"><img src="http://magistream.com/img/14199343.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14199342#page-body"><img src="http://magistream.com/img/14199342.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199388#page-body"><img src="http://magistream.com/img/14199388.gif"/></a>
 </center>
