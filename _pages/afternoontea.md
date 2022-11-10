@@ -52,7 +52,7 @@ menu: pages
 <br>
 <h2>FAQ</h2>
 <img src="/graphics/layout/v1_laceletter/purple-star.gif"/><b> Can I use the template without joining the club?</b>
-<br>Yes, you are welcome to use it for any purpose, just don't take credit for the template. 
+<br>Yes, you are welcome to use it for any purpose!
 <br>
 <img src="/graphics/layout/v1_laceletter/purple-star.gif"/><b> How is a pixel "club" different from a pixel "clique"?</b>
 <br>I use them interchangably, but I just prefer "club" because it sounds more inclusive. 
