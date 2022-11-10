@@ -23,6 +23,18 @@ menu: pages
     <a target="_blank" href="http://pastelhello.com">
         <img src="/graphics/teahouse/teacup/teacup-pastellhell.gif" title="tastes like lemon rose - made by pastelhell">
     </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/teahouse/teacup/artworkbearteacup.gif" title="tastes like mixed berries - made by artwork">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/teahouse/teacup/artworksucculent.gif" title="tastes like soot - made by artwork">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/teahouse/teacup/artworkteakeroppi.gif" title="tastes like savory succulents - made by artwork">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/teahouse/teacup/artworkteatotoro.gif" title="tastes poisonous - made by artwork">
+    </a>
     <br>
     <br>
     If you would like to take any of these cups, you <b>must link back to its creator</b>. Do not direct link it from my site. Thanks!
