@@ -35,6 +35,9 @@ menu: pages
     <a target="_blank" href="https://artwork.neocities.org/">
         <img src="/graphics/teahouse/teacup/artworkteatotoro.gif" title="tastes like soot - made by artwork">
     </a>
+    <a target="_blank" href="http://pastelhello.com">
+        <img src="/graphics/teahouse/teacup/stormtea-pastelhell.gif" title="tastes like rain - made by pastelhell">
+    </a>
     <br>
     <br>
     If you would like to take any of these cups, you <b>must link back to its creator</b>. Do not direct link it from my site. Thanks!
