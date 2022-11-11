@@ -7,16 +7,34 @@ menu: about
 ---
 <h2>hail and well met,</h2>
 <a target="_blank" href="https://www.deviantart.com/sqdpxl/art/moomin-to-the-groove-811004899"><img src="/graphics/toy/moomin_by_SqdPxl.gif" align="right"></a>
-I use she/her pronouns.
-I'm a big fan of Japanese and Taiwanese stationery (hence the letter theme), and I may have moved to Asia partially because of it.
-I also enjoy playing TTRPGs (mostly D&D) and listening to/watching D&D actual play shows like <a target="_blank" href="https://www.naddpod.com/">NAADPod</a>, <a target="_blank" href="https://critrole.com/">Critical Role</a>, and <a target="_blank" href="https://www.dropout.tv/dimension-20">Dimension 20</a>, collecting <a target="_blank" href="https://dispeldice.com/">math rocks</a>, sending hand-written letters, <a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961"><img src="/graphics/toy/snufkin_by_Caicyo.png" style="margin: 2px 4px 0 0;" align="left"></a>cooking vegan food, roller skating, reading fantasy, and surfing the web.
+You can call me Lost (she/her) because that's part of the concept of this site, and it just feels fitting since I feel lost all the time. I think of this site almost like a stack of letters, discovered in a lunchbox that washed up on a distanct coast like in the book, A Tale for the Time Being by Ruth Ozeki. The style and organization of this site hopefully conveys a sense of thought and effort akin to selecting a pretty letter set and fountain pen ink. Even though there is no way of knowing what you'll get out of reading these letters, I hope you take a look around and enjoy it. 
 <br>
 <br>
-I started learning to code thanks to Neopets in ~2003, and I began to pour my heart into mediocre pixel art and website layouts drawn in MS Paint and Photoshop. 
+<a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961"><img src="/graphics/toy/snufkin_by_Caicyo.png" style="margin: 2px 4px 0 0;" align="left"></a>As for me, I started learning to code thanks to Neopets in ~2003, and I began to pour my heart into mediocre pixel art and website layouts drawn in MS Paint and Photoshop. 
 I'm so glad I never let my dislike of my art stop me from participating in the pixel communities of that time because I gained so many good memories and learned a lot.
-<h2 align="right">- lost</h2>
+Aside from what got me into web development, it's a little hard to write about myself since self-introductions usually revolve around what I do for a living and other boring details, so let me leave you with a bunch of classic lists:
 <br>
-
+<br>
+<img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif"/>
+<b>likes</b>: lgbtqia+ rights, lively cities, onsen 温泉, happy mail, words of affirmation, ordering for the table, <a target="_blank" href="https://www.ravelry.com/people/thebingeknitter">knitting</a>, having a plan and backup, yakiimo 焼き芋, clean and tidy spaces, waking up early
+<br>
+<img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/ahhh_bear.gif"/>
+<b>dislikes</b>: alone time, being late/running for trains, never remembering names or lyrics, feeling illiterate in Japan, trauma dumping
+<br>
+<img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/learning_pig.gif"/>
+<b>practicing</b>: buddhism / meditation, web development, Japanese, pixel art, emotional regulation techniques, proper weight lifting form, roller skating, imitating musical instruments with my voice
+<br>
+<img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_cat.gif"/>
+<b>enemies of my wallet</b>: <a target="_blank" href="https://www.voluspa.com/">voluspa candles</a>, washi tape, limited edition uni-ball one gel pens (0.38mm), <a target="_blank" href="https://minimodel.jp/catalogue/nail/nuance">ニュアンスネイル</a>, LUSH bathbombs, <a target="_blank" href="https://dispeldice.com/">pretty math rocks</a>, overpriced vegan/foreigner food in Japan, <a target="_blank" href="https://www.postacollect.com/">seasonal Japanese postcards</a>
+<br>
+<img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/cute_bear.gif"/>
+<b>enjoying</b>: writing to penpals, moomin (tv show), playing TTRPGs (mostly D&D), <a target="_blank" href="https://www.naddpod.com/">NAADPod</a> (D&D podcast), <a target="_blank" href="https://critrole.com/">Critical Role</a> (D&D show), and <a target="_blank" href="https://www.dropout.tv/dimension-20">Dimension 20</a> (TTRPG show), vlogs (Michelle Choi, Namiのくらし, CozyDay, em iffy, deemd), audiobooks (mostly fantasy; currently: 
+Lightbringer Series by Brent Weeks)
+<br>
+<img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/pig_eat.gif"/>
+<b>foods I need to veganize</b>: su böreği, spanakopita, gözleme, kugel, braciola, mac n' cheese, calamari, Cuban picadillo
+<br>
+<br>
 <center>
     <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
     <img src="/graphics/toy/tags/transrights.png">
