@@ -53,6 +53,8 @@ menu: pages
     <br>
     <br>
     <h2>my favorite fully grown pets</h2>
+        <a target="_blank" href="https://magistream.com/user/lostletters/Completed">Magistream Collection</a> | <a target="_blank" href="https://finaloutpost.net/visit/lostletters/37592">The Final Outpost Collection</a>
+        <br>
         <a target="other" href="http://magistream.com/creature/14200163#page-body"><img src="http://magistream.com/img/14200163.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14192587#page-body"><img src="http://magistream.com/img/14192587.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14192588#page-body"><img src="http://magistream.com/img/14192588.gif"/></a>
