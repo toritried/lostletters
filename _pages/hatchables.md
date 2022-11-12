@@ -8,6 +8,7 @@ menu: pages
 <center>
     <h2>virtual hatchery</h2>
     <div class="hatchery">
+        <a target="other" href='https://finaloutpost.net/view/2pGvm#main'><img src='https://finaloutpost.net/s/2pGvm1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/9WHoZ#main'><img src='https://finaloutpost.net/s/9WHoZ1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/JkFIS#main'><img src='https://finaloutpost.net/s/JkFIS1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/GNcMV#main'><img src='https://finaloutpost.net/s/GNcMV1.png'></a>
@@ -23,11 +24,8 @@ menu: pages
         <a target="other" href="http://magistream.com/creature/14201186#page-body"><img src="http://magistream.com/img/14201186.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14200541#page-body"><img src="http://magistream.com/img/14200541.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14201225#page-body"><img src="http://magistream.com/img/14201225.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/yUVxa#main'><img src='https://finaloutpost.net/s/yUVxa1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/ohzHb#main'><img src='https://finaloutpost.net/s/ohzHb1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/lAb1C#main'><img src='https://finaloutpost.net/s/lAb1C1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/MnwlI#main'><img src='https://finaloutpost.net/s/MnwlI1.png'></a>
         <div class="hatchery-status">
             ♡ please click on each of my pets above to help them evolve ♡
         </div>
@@ -49,18 +47,15 @@ menu: pages
     </script>
     <br>
     <br>
-    <h2>gallery of fully grown pets</h2>
+    <h2>my favorite fully grown pets</h2>
         <a target="other" href="http://magistream.com/creature/14200163#page-body"><img src="http://magistream.com/img/14200163.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14192587#page-body"><img src="http://magistream.com/img/14192587.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14192588#page-body"><img src="http://magistream.com/img/14192588.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14192584#page-body"><img src="http://magistream.com/img/14192584.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199389#page-body"><img src="http://magistream.com/img/14199389.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14192528#page-body"><img src="http://magistream.com/img/14192528.gif"/></a>
+        <a target="other" href='https://finaloutpost.net/view/ohzHb#main'><img src='https://finaloutpost.net/s/ohzHb1.png'></a>
+        <a target="other" href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/6tZ5z#main'><img src='https://finaloutpost.net/s/6tZ5z3.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/4Xdag#main'><img src='https://finaloutpost.net/s/4Xdag3.png'></a>
-        <a target="other" href="http://magistream.com/creature/14199343#page-body"><img src="http://magistream.com/img/14199343.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14199342#page-body"><img src="http://magistream.com/img/14199342.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199388#page-body"><img src="http://magistream.com/img/14199388.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14199995#page-body"><img src="http://magistream.com/img/14199995.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14199591#page-body"><img src="http://magistream.com/img/14199591.gif"/></a>
+        <a target="other" href='https://finaloutpost.net/view/MnwlI#main'><img src='https://finaloutpost.net/s/MnwlI3.png'></a>
 </center>
