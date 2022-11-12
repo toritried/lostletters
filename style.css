@@ -31,17 +31,6 @@
     max-height: 1.2em; 
     margin-right: -1ex; 
   }
-
-  /* ------- Sections ------- */
-  
-  
-  section {
-    display: none;
-  }
-  
-  section:target { /* Show section */
-    display: block;
-  }
   
   /* ------- Text Customization ------- */
   h1 {
@@ -170,6 +159,7 @@
 /* navigation W3School version*/
 .navbar {
   overflow: hidden;
+  cursor: pointer;
 }
 
 .dropbtn { 
@@ -181,6 +171,7 @@
   background-color: inherit;
   font-family: inherit;
   margin: 0;
+  cursor: pointer;
 }
 
 .navbar a:hover, .dropbtn:hover {
