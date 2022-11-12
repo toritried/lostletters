@@ -1,9 +1,6 @@
 * {
     margin: 0;
-    /* cursor: url("/graphics/cursor/asterism.gif"), auto; */
-    /* Start https://www.cursors-4u.com */ 
-    cursor: url("https://cur.cursors-4u.net/games/gam-11/gam1085.png"), auto;
-    /* End https://www.cursors-4u.com */
+    cursor: url("/graphics/cursor/letter_wings.png"), auto;
   }
 
   alagard {
