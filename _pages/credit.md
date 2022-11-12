@@ -16,7 +16,7 @@ This is a collection of wonderful people / places / things that helped me create
 <br>
 💖 <a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 unicorn button base
 <br>
-💖 <a target="_blank" href="http://www.asterism-m.com/">Asterism</a> - cursor
+💖 <a target="_blank" href="https://www.cursors-4u.com/cursor/2010/02/24/flyff-chinese-cute-angel-mail.html">Flyff</a> - cursor
 <br>
 <br>
 <h2>webmastery / dev environment</h2>
