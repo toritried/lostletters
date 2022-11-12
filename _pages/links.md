@@ -14,7 +14,7 @@ menu: pages
 <a target="_blank" href="https://foollovers.com/"><img src="/graphics/linkout/foollovers8826.gif" title="credit: lace header, lacy content container, hover sparkles, favicon, purple star for site navigation"/></a>
 <a target="_blank" href="http://cute.lolipop.jp/hotchoco.html"><img src="/graphics/linkout/hotchoco.gif" title="Hotchoco"/></a>
 <a target="_blank" href="http://sorahana.ciao.jp/"><img src="/graphics/linkout/sorahana.gif" title="Sorahana"/></a>
-<a target="_blank" href="http://www.asterism-m.com/"><img src="/graphics/linkout/asterism.gif" title="credit: cursor"/></a>
+<a target="_blank" href="http://www.asterism-m.com/"><img src="/graphics/linkout/asterism.gif"/></a>
 <a target="_blank" href="https://pixels.heylouise.space/"><img src="/graphics/linkout/elfwink-btn3.gif"/></a>
 <a target="_blank" href="http://whimsical.heartette.net/"><img src="/graphics/linkout/whimsical.gif"/></a>
 <a target="_blank" href="https://amelia.sg/ametarium/"><img src="/graphics/linkout/88x31-ametarium.gif"></a>
