@@ -1,6 +1,9 @@
 * {
     margin: 0;
-    cursor: url("/graphics/cursor/asterism.gif"), auto;
+    /* cursor: url("/graphics/cursor/asterism.gif"), auto; */
+    /* Start https://www.cursors-4u.com */ 
+    cursor: url("https://cur.cursors-4u.net/games/gam-11/gam1085.png"), auto;
+    /* End https://www.cursors-4u.com */
   }
 
   alagard {
@@ -40,45 +43,6 @@
     display: block;
   }
   
-  /* ------- Blog Customization from https://learn.sadgrl.online/the-easiest-way-to-make-a-blog-on-neocities/ ------- */
-  
-  /* hides the title */
-  p.rss-title {
-    display:none;
-  }
-  
-  .rss-items {
-    margin: 0;
-    padding: 0;
-  }
-  
-  li.rss-item {
-    list-style-type:none;   /* this removes the bullet points */
-    margin-bottom:0px; /* adds spacing under entry content */
-  }
-  
-  /* this styles the blog title link */
-  li.rss-item a {
-    font: 1.5em 'Spectral', sans-serif;
-    text-shadow: -1px 0 #9c5a3c, 0 1px #9c5a3c, 1px 0 #9c5a3c, 0 -1px #9c5a3c, -2px 1px 2px #ffdfe3, -2px 1px 2px #fff9bd;
-    text-transform: lowercase;
-    padding-bottom: 0.4em;
-    text-decoration:none; /* removes underline */
-  }
-  
-  /* this styles the date */
-  .rss-date {
-    /* need this to add padding */
-    display:inline-block;
-    padding-top:10px;
-    padding-bottom:10px;
-     font-style:italic;
-  }
-  
-  a.rss-item:last-child {
-    display:none;
-  }
-  
   /* ------- Text Customization ------- */
   h1 {
     font-family: 'alagard', Arial, sans-serif;
@@ -107,6 +71,7 @@
       color: #c09dba;
       font-weight: bold;
       text-decoration: none;
+      cursor: pointer;
   }
   
   a:hover {
