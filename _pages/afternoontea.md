@@ -38,6 +38,9 @@ menu: pages
     <a target="_blank" href="http://pastelhello.com">
         <img src="/graphics/teahouse/teacup/stormtea-pastelhell.gif" title="tastes like rain - made by pastelhell">
     </a>
+    <a target="_blank" href="https://arunyi.art/">
+        <img src="/graphics/teahouse/teacup/teacup-by-arunyi.gif" title="made by arunyi">
+    </a>
     <br>
     <br>
     If you would like to take any of these cups, you <b>must link back to its creator</b>. Do not direct link it from my site. Thanks!
