@@ -31,7 +31,6 @@ menu: pages
         <a target="other" href='https://finaloutpost.net/view/szPN3#main'><img src='https://finaloutpost.net/s/szPN31.png'></a>
         <a target="other" href='https://finaloutpost.net/view/2pGvm#main'><img src='https://finaloutpost.net/s/2pGvm1.png'></a>
         <a target="other" href="http://magistream.com/creature/14203656#page-body"><img src="http://magistream.com/img/14203656.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14203588#page-body"><img src="http://magistream.com/img/14203588.gif"/></a>
         <div class="hatchery-status">
             ♡ please click on each of my pets above to help them evolve ♡
         </div>
