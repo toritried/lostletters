@@ -8,6 +8,9 @@ menu: pages
 <center>
     <h2>virtual hatchery</h2>
     <div class="hatchery">
+        <a target="other" href="http://magistream.com/creature/14208735#page-body"><img src="http://magistream.com/img/14208735.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14207269#page-body"><img src="http://magistream.com/img/14207269.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14208889#page-body"><img src="http://magistream.com/img/14208889.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14207269#page-body"><img src="http://magistream.com/img/14207269.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14207190#page-body"><img src="http://magistream.com/img/14207190.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14206542#page-body"><img src="http://magistream.com/img/14206542.gif"/></a>
@@ -15,18 +18,21 @@ menu: pages
         <a target="other" href="http://magistream.com/creature/14205841#page-body"><img src="http://magistream.com/img/14205841.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14204335#page-body"><img src="http://magistream.com/img/14204335.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14204333#page-body"><img src="http://magistream.com/img/14204333.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14204332#page-body"><img src="http://magistream.com/img/14204332.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14204334#page-body"><img src="http://magistream.com/img/14204334.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14203586#page-body"><img src="http://magistream.com/img/14203586.gif"/></a>
+        <a target="other" href='https://finaloutpost.net/view/quwqR#main'><img src='https://finaloutpost.net/s/quwqR1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/4WadT#main'><img src='https://finaloutpost.net/s/4WadT1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/picJj#main'><img src='https://finaloutpost.net/s/picJj1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/pAVSk#main'><img src='https://finaloutpost.net/s/pAVSk1.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/x7x4Y#main'><img src='https://finaloutpost.net/s/x7x4Y1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/60oj6#main'><img src='https://finaloutpost.net/s/60oj61.png'></a>
         <a target="other" href='https://finaloutpost.net/view/2UhVe#main'><img src='https://finaloutpost.net/s/2UhVe1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/HOWZa#main'><img src='https://finaloutpost.net/s/HOWZa1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/7MlOo#main'><img src='https://finaloutpost.net/s/7MlOo1.png'></a>
         <a target="other" href='https://finaloutpost.net/view/bcCtR#main'><img src='https://finaloutpost.net/s/bcCtR1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/K0VQS#main'><img src='https://finaloutpost.net/s/K0VQS1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/qadKQ#main'><img src='https://finaloutpost.net/s/qadKQ1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/88q3D#main'><img src='https://finaloutpost.net/s/88q3D1.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/szPN3#main'><img src='https://finaloutpost.net/s/szPN31.png'></a>
+        <a target="other" href="https://dragcave.net/view/75Wgj#middle"><img src="https://dragcave.net/image/75Wgj.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/O7BTd#middle"><img src="https://dragcave.net/image/O7BTd.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/UMWzV#middle"><img src="https://dragcave.net/image/UMWzV.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/21xVO#middle"><img src="https://dragcave.net/image/21xVO.gif" style="border-width:0"/></a>
         <a target="other" href='https://dragcave.net/view/GU9C6#middle'><img src='https://dragcave.net/image/GU9C6.gif' style='border-width: 0'/></a>
         <a target="other" href='https://dragcave.net/view/yyW2B#middle'><img src='https://dragcave.net/image/yyW2B.gif' style='border-width: 0'/></a>
         <a target="other" href='https://dragcave.net/view/8D5eo#middle'><img src='https://dragcave.net/image/8D5eo.gif' style='border-width: 0'/></a>
@@ -67,6 +73,7 @@ menu: pages
         <a target="other" href="http://magistream.com/creature/14200372#page-body"><img src="http://magistream.com/img/14200372.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/6tZ5z#main'><img src='https://finaloutpost.net/s/6tZ5z3.png'></a>
         <a target="other" href="http://magistream.com/creature/14202326#page-body"><img src="http://magistream.com/img/14202326.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14203586#page-body"><img src="http://magistream.com/img/14203586.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14201199#page-body"><img src="http://magistream.com/img/14201199.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14199388#page-body"><img src="http://magistream.com/img/14199388.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14202306#page-body"><img src="http://magistream.com/img/14202306.gif"/></a>
