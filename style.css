@@ -90,6 +90,7 @@
    */
   .box17 {
     margin: 1em 0;
+    position: relative;
   }
   @media (max-width: 430px) {
     .box17 {
@@ -224,4 +225,10 @@ iframe {
 
 .quilt img {
   display: block;
+}
+
+.quilt-link {
+  position: absolute;
+  top: 70px;
+  left: 80px;
 }
