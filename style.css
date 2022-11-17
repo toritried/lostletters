@@ -214,3 +214,14 @@ iframe {
   color: black;
   font-weight: bold;
 }
+
+.quilt {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.quilt img {
+  display: block;
+}
