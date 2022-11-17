@@ -144,7 +144,7 @@ menu: pages
         </a>
         <img width="40" height="40" src="/graphics/quilt/45-kat.gif" title="Kat #45 - missing URL">
         <a target="_blank" href="https://web.archive.org/web/20110118071027/http://craftecreationz.com/" title="Christy #46">
-            <img width="40" height="40" src="/graphics/quilt/46-christy.gif">
+            <img width="40" height="40" src="/graphics/quilt/46-Christy.gif">
         </a>
         <a target="_blank" href="https://web.archive.org/web/20110118071027/http://craftecreationz.com/" title="Christy #46">
             <img width="40" height="40" src="/graphics/quilt/46-christy-1.gif">
@@ -524,7 +524,7 @@ menu: pages
             <img width="40" height="40" src="/graphics/quilt/190-robi.gif">
         </a>
         <a target="_blank" href="https://web.archive.org/web/20140602042556/http://rhiandoesstuff.blogspot.com/" title="Rhian #191">
-            <img width="40" height="40" src="/graphics/quilt/191-rhian.gif">
+            <img width="40" height="40" src="/graphics/quilt/191-Rhian.gif">
         </a>
         <img width="40" height="40" src="/graphics/quilt/191-heather.gif" title="Heather #191 - missing URL">
         <img width="40" height="40" src="/graphics/quilt/191-heather-ty.gif" title="Thank you patch from Heather #191 - missing URL">
