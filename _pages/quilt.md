@@ -1007,7 +1007,7 @@ Some members redesigned their quilts or donated pixel art free\*bees for others 
 <br>
 <center>
     <a target="_blank" href="https://web.archive.org/web/20081219013417/http://www.rainbow-stuff.com/" title="Ashley #267">
-        <img src="/graphics/quilt/267-ashley-2.gif" style="margin: 18px 0 14px 0;" >
+        <img src="/graphics/quilt/267-ashley-2.gif" style="margin: 18px 0 14px 0; max-width: 100%;" >
     </a>
 </center>
 As I was hunting down patches across the archived web, I found so many folks who wrote blog posts throughout the years on <b>December 15, the annual Quilting Bee blog day</b>, sharing their passion for the club, echoing my own feelings perfectly. 
@@ -1183,5 +1183,5 @@ Given how much effort went into every pixel and line of code for this club, I wo
     <img src="/graphics/quilt/extras/button_16.gif">
     <img src="/graphics/quilt/extras/button_7.gif">
     <br>
-    <img src="/graphics/quilt/extras/the-quilting-bee-rainbow.png" style="margin: 60px 0 0 0;" title="this was the very last graphic on the site when it was updated in 2020"/>
+    <img src="/graphics/quilt/extras/the-quilting-bee-rainbow.png" style="margin: 60px 0 0 0; max-width: 100%;" title="this was the very last graphic on the site when it was updated in 2020"/>
 </center>
