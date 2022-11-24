@@ -25,6 +25,7 @@ menu: pages
         <a target="other" href='https://finaloutpost.net/view/J07vG#main'><img src='https://finaloutpost.net/s/J07vG.png'></a>
         <a target="other" href='https://finaloutpost.net/view/KE3g6#main'><img src='https://finaloutpost.net/s/KE3g6.png'></a>
         <a target="other" href='https://finaloutpost.net/view/pK6cJ#main'><img src='https://finaloutpost.net/s/pK6cJ.png'></a>
+        <a target="other" href="https://dragcave.net/view/yLmgd#middle"><img src="https://dragcave.net/image/yLmgd.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/OVsMx#middle"><img src="https://dragcave.net/image/OVsMx.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/RP4qL#middle"><img src="https://dragcave.net/image/RP4qL.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/DniQU#middle"><img src="https://dragcave.net/image/DniQU.gif" style="border-width:0"/></a>
