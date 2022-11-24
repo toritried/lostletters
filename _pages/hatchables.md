@@ -16,6 +16,7 @@ menu: pages
         <a target="other" href="http://magistream.com/creature/14215377#page-body"><img src="http://magistream.com/img/14215377.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14214767#page-body"><img src="http://magistream.com/img/14214767.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14215009#page-body"><img src="http://magistream.com/img/14215009.gif"/></a>
+        <a target="other" href='https://finaloutpost.net/view/zF36f#main'><img src='https://finaloutpost.net/s/zF36f.png'></a>
         <a target="other" href='https://finaloutpost.net/view/qJJQd#main'><img src='https://finaloutpost.net/s/qJJQd.png'></a>
         <a target="other" href='https://finaloutpost.net/view/bdO4w#main'><img src='https://finaloutpost.net/s/bdO4w.png'></a>
         <a target="other" href='https://finaloutpost.net/view/E2lcC#main'><img src='https://finaloutpost.net/s/E2lcC.png'></a>
