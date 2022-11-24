@@ -34,6 +34,8 @@ menu: pages
         <a target="other" href="https://dragcave.net/view/spPTJ#middle"><img src="https://dragcave.net/image/spPTJ.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/yLmgd#middle"><img src="https://dragcave.net/image/yLmgd.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/OVsMx#middle"><img src="https://dragcave.net/image/OVsMx.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/czo1H#middle"><img src="https://dragcave.net/image/czo1H.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/eQ6gX#middle"><img src="https://dragcave.net/image/eQ6gX.gif" style="border-width:0"/></a>
         <div class="hatchery-status">
             ♡ please click on each of my pets above to help them evolve ♡
         </div>
