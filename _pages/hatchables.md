@@ -6,13 +6,12 @@ permalink: /hatch/
 menu: pages
 ---
 <center>
-    <h2>virtual hatchery</h2>
+    <h2>virtual pet hatchery</h2>
     <div class="hatchery">
         <a target="other" href="http://magistream.com/creature/14218510#page-body"><img src="http://magistream.com/img/14218510.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14217393#page-body"><img src="http://magistream.com/img/14217393.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14216991#page-body"><img src="http://magistream.com/img/14216991.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14216121#page-body"><img src="http://magistream.com/img/14216121.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14215186#page-body"><img src="http://magistream.com/img/14215186.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14215838#page-body"><img src="http://magistream.com/img/14215838.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14215377#page-body"><img src="http://magistream.com/img/14215377.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14214767#page-body"><img src="http://magistream.com/img/14214767.gif"/></a>
@@ -31,8 +30,6 @@ menu: pages
         <a target="other" href="https://dragcave.net/view/DniQU#middle"><img src="https://dragcave.net/image/DniQU.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/sF8WK#middle"><img src="https://dragcave.net/image/sF8WK.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/RP4qL#middle"><img src="https://dragcave.net/image/RP4qL.gif" style="border-width:0"/></a>
-        <a target="other" href="https://dragcave.net/view/aZAqo#middle"><img src="https://dragcave.net/image/aZAqo.gif" style="border-width:0"/></a>
-        <a target="other" href="https://dragcave.net/view/spPTJ#middle"><img src="https://dragcave.net/image/spPTJ.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/yLmgd#middle"><img src="https://dragcave.net/image/yLmgd.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/OVsMx#middle"><img src="https://dragcave.net/image/OVsMx.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/czo1H#middle"><img src="https://dragcave.net/image/czo1H.gif" style="border-width:0"/></a>
@@ -57,10 +54,10 @@ menu: pages
         });
     </script>
     <br>
-    <br>
     <h2>my favorite fully grown pets</h2>
-        <a target="_blank" href="https://magistream.com/user/lostletters/Completed">Magistream</a> | <a target="_blank" href="https://finaloutpost.net/visit/lostletters/37592">The Final Outpost</a> | <a target="_blank" href="https://dragcave.net/user/lostletters">Dragon Cave</a>
-        <br>
+    <a target="_blank" href="https://magistream.com/user/lostletters/Completed">Magistream</a> | <a target="_blank" href="https://finaloutpost.net/visit/lostletters/37592">The Final Outpost</a> | <a target="_blank" href="https://dragcave.net/user/lostletters">Dragon Cave</a>
+    <br>
+    <br>
         <a target="other" href="http://magistream.com/creature/13997843"><img src="http://magistream.com/img/13997843.gif"/></a>
         <a target="other" href='https://finaloutpost.net/view/ohzHb#main'><img src='https://finaloutpost.net/s/ohzHb1.png'></a>
         <a target="other" href="http://magistream.com/creature/14201225#page-body"><img src="http://magistream.com/img/14201225.gif"/></a>
@@ -82,6 +79,11 @@ menu: pages
         <a target="other" href="https://dragcave.net/view/PCf1e">
             <img src="https://dragcave.net/image/PCf1e.gif" style="border-width:0"/>
         </a>
+        <a target="other" href="https://dragcave.net/view/aZAqo#middle"><img src="https://dragcave.net/image/aZAqo.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/spPTJ#middle"><img src="https://dragcave.net/image/spPTJ.gif" style="border-width:0"/></a>
         <a target="other" href="http://magistream.com/creature/14202717#page-body"><img src="http://magistream.com/img/14202717.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14203656#page-body"><img src="http://magistream.com/img/14203656.gif"/></a>
+    <br>
+    <br>
+    📝 If you want to start collecting virtual pets like these, read <a href="/2022/11/25/virtual-pets.html">my guide to various pixel art virtual pet sites</a>!
 </center>
