@@ -47,25 +47,33 @@ menu: pages
 </center>
 <br>
 <h2>how to join this pixel club</h2>
-<b>1.</b> Download the template above.
+<ol>
+    <li>
+        Download the template above.
+    </li>
+    <li>
+        Create a pixel teacup to show off your style. Animations are welcomed!
+    </li>
+    <li>
+        Share a link to your pixel teacup + your URL in my guestbook, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text :D
+    </li>
+    <li>
+        *OPTIONAL:* Create a space on your website for your teacup collection and collect cups from the gallery above.
+    </li>
+</ol>
 <br>
-<b>2.</b> Create a pixel teacup to show off your style. Animations are welcomed!
-<br>
-<b>3.</b> Share a link to your pixel teacup + your URL in my guestbook, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text :D
-<br>
-<b>4.</b> *OPTIONAL:* Create a space on your website for your teacup collection and collect cups from the gallery above. 
-<br>
-<br>
-<h2>FAQ</h2>
-<img src="/graphics/layout/v1_laceletter/purple-star.gif"/><b> Can I use the template without joining the club?</b>
-<br>Yes, you are welcome to use it for any purpose!
-<br>
-<img src="/graphics/layout/v1_laceletter/purple-star.gif"/><b> How is a pixel "club" different from a pixel "clique"?</b>
-<br>I use them interchangably, but I just prefer "club" because it sounds more inclusive. 
-<br>
+<h2>Frequently Asked Questions</h2>
+<ul>
+    <li>
+        <b>Can I use the template without joining the club?</b> Yes, you are welcome to use it for any purpose!
+    </li>
+    <li>
+        <b>How is a pixel "club" different from a pixel "clique"?</b> I use them interchangably, but I just prefer "club" because it sounds more inclusive. 
+    </li>
+</ul>
 <br>
 <h2>Inspiration</h2>
-<img src="/graphics/linkout/teahouse.gif" style="margin: 0 6px 0 0;" align="left" title="Teahouse MB 88x31 button"/>
+<img src="/graphics/linkout/teahouse.gif" style="margin: 0 10px 0 0;" align="left" title="Teahouse MB 88x31 button"/>
 This is a pixel club tribute to <b>Teahouse MB</b>, a kawaii pixel art forum that no longer exists. Teahouse MB provided a teacup template for folks to create their own unique teacup designs. Artists would then allow a limited number of people to collect the design on a first-come-first-serve basis, usually limiting it to the first 10-20 people who posted on the thread.
 <br>
 <br>

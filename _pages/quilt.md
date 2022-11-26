@@ -3,7 +3,6 @@ layout: default2
 title: my quilt
 emoji: 🐝
 permalink: /quilt/
-menu: pages
 ---
 <!--- before every *, add a \, so that it won't be italicized in MD -->
 <center>
