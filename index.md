@@ -13,6 +13,7 @@ This site is my small contribution to the <a target="_blank" href="https://thoug
 <center>
     <br>｡･:*˚:✧｡
     <a target="_blank" href="https://neocities.org/site/lostletters">neocities</a> | 
+    <a target="_blank" href="https://lostletters.neocities.org/feed.xml">rss</a> | 
     <a target="_blank" href="https://github.com/toritried/lostletters">github</a> | 
     <a target="_blank" href="https://social.yesterweb.org/@lostletters" rel="me">mastodon</a> ｡✧:˚*:･｡
     <br>
