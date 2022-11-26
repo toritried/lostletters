@@ -8,13 +8,16 @@ menu: pages
 <center>
     <h2>virtual pet hatchery</h2>
     <div class="hatchery">
+        <a target="other" href="http://magistream.com/creature/14219118#page-body"><img src="http://magistream.com/img/14219118.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14219156#page-body"><img src="http://magistream.com/img/14219156.gif"/></a>
+        <a target="other" href="http://magistream.com/creature/14219155#page-body"><img src="http://magistream.com/img/14219155.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14218510#page-body"><img src="http://magistream.com/img/14218510.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14217393#page-body"><img src="http://magistream.com/img/14217393.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14216991#page-body"><img src="http://magistream.com/img/14216991.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14216121#page-body"><img src="http://magistream.com/img/14216121.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14215838#page-body"><img src="http://magistream.com/img/14215838.gif"/></a>
         <a target="other" href="http://magistream.com/creature/14215377#page-body"><img src="http://magistream.com/img/14215377.gif"/></a>
-        <a target="other" href="http://magistream.com/creature/14214767#page-body"><img src="http://magistream.com/img/14214767.gif"/></a>
+        <a target="other" href='https://finaloutpost.net/view/KqFJO#main'><img src='https://finaloutpost.net/s/KqFJO.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/20wUR#main'><img src='https://finaloutpost.net/s/20wUR.png'></a>
+        <a target="other" href='https://finaloutpost.net/view/FJAeO#main'><img src='https://finaloutpost.net/s/FJAeO.png'></a>
         <a target="other" href='https://finaloutpost.net/view/9Xx2k#main'><img src='https://finaloutpost.net/s/9Xx2k.png'></a>
         <a target="other" href='https://finaloutpost.net/view/zO2w7#main'><img src='https://finaloutpost.net/s/zO2w7.png'></a>
         <a target="other" href='https://finaloutpost.net/view/Lu3wq#main'><img src='https://finaloutpost.net/s/Lu3wq.png'></a>
@@ -24,7 +27,6 @@ menu: pages
         <a target="other" href='https://finaloutpost.net/view/E2lcC#main'><img src='https://finaloutpost.net/s/E2lcC.png'></a>
         <a target="other" href='https://finaloutpost.net/view/qO3qO#main'><img src='https://finaloutpost.net/s/qO3qO.png'></a>
         <a target="other" href='https://finaloutpost.net/view/0J8Dy#main'><img src='https://finaloutpost.net/s/0J8Dy.png'></a>
-        <a target="other" href='https://finaloutpost.net/view/jOBm0#main'><img src='https://finaloutpost.net/s/jOBm0.png'></a>
         <a target="other" href="https://dragcave.net/view/6bxvV#middle"><img src="https://dragcave.net/image/6bxvV.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/B4CbL#middle"><img src="https://dragcave.net/image/B4CbL.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/DniQU#middle"><img src="https://dragcave.net/image/DniQU.gif" style="border-width:0"/></a>
@@ -34,6 +36,9 @@ menu: pages
         <a target="other" href="https://dragcave.net/view/OVsMx#middle"><img src="https://dragcave.net/image/OVsMx.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/czo1H#middle"><img src="https://dragcave.net/image/czo1H.gif" style="border-width:0"/></a>
         <a target="other" href="https://dragcave.net/view/eQ6gX#middle"><img src="https://dragcave.net/image/eQ6gX.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/Q6NMw#middle"><img src="https://dragcave.net/image/Q6NMw.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/LU4Cc#middle"><img src="https://dragcave.net/image/LU4Cc.gif" style="border-width:0"/></a>
+        <a target="other" href="https://dragcave.net/view/fAbTA#middle"><img src="https://dragcave.net/image/fAbTA.gif" style="border-width:0"/></a>
         <div class="hatchery-status">
             ♡ please click on each of my pets above to help them evolve ♡
         </div>
