@@ -3,7 +3,7 @@ layout: default2
 title: links 
 emoji: 🔗
 permalink: /links/
-menu: pages
+menu: meta
 ---
 <h2>Link to Lost Letters</h2>
 <img src="/graphics/site_buttons/LostLetter32x32.gif" style="margin: 0 5px 0 0;" title="download and host the image yourself thanks"/>
