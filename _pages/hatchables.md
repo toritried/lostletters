@@ -59,11 +59,17 @@ menu: about
         <a target="other" href='https://finaloutpost.net/view/qJJQd#main'>
             <img src='https://finaloutpost.net/s/qJJQd.png'>
         </a>
-        <a target="other" href="https://dragcave.net/view/kNc2v#middle">
-            <img src="https://dragcave.net/image/kNc2v.gif" style="border-width:0"/>
+        <a target="other" href="https://dragcave.net/view/51OQh#middle">
+            <img src="https://dragcave.net/image/51OQh.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/mMntk#middle">
+            <img src="https://dragcave.net/image/mMntk.gif" style="border-width:0"/>
         </a>
         <a target="other" href="https://dragcave.net/view/6bxvV#middle">
             <img src="https://dragcave.net/image/6bxvV.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/kNc2v#middle">
+            <img src="https://dragcave.net/image/kNc2v.gif" style="border-width:0"/>
         </a>
         <a target="other" href="https://dragcave.net/view/B4CbL#middle">
             <img src="https://dragcave.net/image/B4CbL.gif" style="border-width:0"/>
@@ -76,15 +82,6 @@ menu: about
         </a>
         <a target="other" href="https://dragcave.net/view/RP4qL#middle">
             <img src="https://dragcave.net/image/RP4qL.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/yLmgd#middle">
-            <img src="https://dragcave.net/image/yLmgd.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/czo1H#middle">
-            <img src="https://dragcave.net/image/czo1H.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/eQ6gX#middle">
-            <img src="https://dragcave.net/image/eQ6gX.gif" style="border-width:0"/>
         </a>
         <a target="other" href="https://dragcave.net/view/Q6NMw#middle">
             <img src="https://dragcave.net/image/Q6NMw.gif" style="border-width:0"/>
@@ -121,8 +118,26 @@ menu: about
     <a target="_blank" href="https://dragcave.net/user/lostletters">Dragon Cave</a>
     <br>
     <br>
-        <a target="other" href="http://magistream.com/creature/13997843">
-            <img src="http://magistream.com/img/13997843.gif"/>
+        <a target="other" href="https://dragcave.net/view/5r7s2">
+            <img src="https://dragcave.net/image/5r7s2.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/5bqHp">
+            <img src="https://dragcave.net/image/5bqHp.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/PCf1e">
+            <img src="https://dragcave.net/image/PCf1e.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/OVsMx#middle">
+            <img src="https://dragcave.net/image/OVsMx.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/yLmgd#middle">
+            <img src="https://dragcave.net/image/yLmgd.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/aZAqo#middle">
+            <img src="https://dragcave.net/image/aZAqo.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/spPTJ#middle">
+            <img src="https://dragcave.net/image/spPTJ.gif" style="border-width:0"/>
         </a>
         <a target="other" href='https://finaloutpost.net/view/ohzHb#main'>
             <img src='https://finaloutpost.net/s/ohzHb1.png'>
@@ -142,12 +157,6 @@ menu: about
         <a target="other" href="http://magistream.com/creature/14199388#page-body">
             <img src="http://magistream.com/img/14199388.gif"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14201186#page-body">
-         <img src="http://magistream.com/img/14201186.gif"/>
-        </a>
-        <a target="other" href="http://magistream.com/creature/14202306#page-body">
-            <img src="http://magistream.com/img/14202306.gif"/>
-        </a>
         <a target="other" href="http://magistream.com/creature/14202717#page-body">
             <img src="http://magistream.com/img/14202717.gif"/>
         </a>
@@ -156,27 +165,6 @@ menu: about
         </a>
         <a target="other" href="http://magistream.com/creature/14215377#page-body">
             <img src="http://magistream.com/img/14215377.gif"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/UMWzV">
-            <img src="https://dragcave.net/image/UMWzV.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/5r7s2">
-            <img src="https://dragcave.net/image/5r7s2.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/5bqHp">
-            <img src="https://dragcave.net/image/5bqHp.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/PCf1e">
-            <img src="https://dragcave.net/image/PCf1e.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/OVsMx#middle">
-            <img src="https://dragcave.net/image/OVsMx.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/aZAqo#middle">
-            <img src="https://dragcave.net/image/aZAqo.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/spPTJ#middle">
-            <img src="https://dragcave.net/image/spPTJ.gif" style="border-width:0"/>
         </a>
     <br>
     <br>
