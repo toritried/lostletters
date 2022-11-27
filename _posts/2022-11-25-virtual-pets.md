@@ -70,7 +70,7 @@ On [Discord](https://discord.gg/uhc6QXV), breeders regularly give away completel
 			<a target="_blank" href="https://dc.evinext.com/">DragHatch</a> - auto-refresh; click the lightning bolt for faster refresh
 		</li>
 		<li>
-			<a target="_blank" href="https://greg-kennedy.com/dragcave/index.php">DragHatch</a> - auto-refresh
+			<a target="_blank" href="https://greg-kennedy.com/dragcave/index.php">Egg Drop Soup</a> - auto-refresh
 		</li>
 		<li>
 			<a target="_blank" href="https://hatching.club/">Hatching Club</a> - auto-refresh
