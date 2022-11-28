@@ -23,9 +23,6 @@ menu: about
         <a target="other" href="http://magistream.com/creature/14218510#page-body">
             <img src="http://magistream.com/img/14218510.gif"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14216991#page-body">
-            <img src="http://magistream.com/img/14216991.gif"/>
-        </a>
         <a target="other" href='https://finaloutpost.net/view/2VaPo#main'>
             <img src='https://finaloutpost.net/s/2VaPo.png'>
         </a>
@@ -49,15 +46,6 @@ menu: about
         </a>
         <a target="other" href='https://finaloutpost.net/view/zO2w7#main'>
             <img src='https://finaloutpost.net/s/zO2w7.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/Lu3wq#main'>
-            <img src='https://finaloutpost.net/s/Lu3wq.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/zF36f#main'>
-            <img src='https://finaloutpost.net/s/zF36f.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/qJJQd#main'>
-            <img src='https://finaloutpost.net/s/qJJQd.png'>
         </a>
         <a target="other" href="https://dragcave.net/view/51OQh#middle">
             <img src="https://dragcave.net/image/51OQh.gif" style="border-width:0"/>
@@ -139,9 +127,6 @@ menu: about
         <a target="other" href="https://dragcave.net/view/spPTJ#middle">
             <img src="https://dragcave.net/image/spPTJ.gif" style="border-width:0"/>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/ohzHb#main'>
-            <img src='https://finaloutpost.net/s/ohzHb1.png'>
-        </a>
         <a target="other" href="http://magistream.com/creature/14201225#page-body">
             <img src="http://magistream.com/img/14201225.gif"/>
         </a>
@@ -150,6 +135,9 @@ menu: about
         </a>
         <a target="other" href="http://magistream.com/creature/14213565">
             <img src="http://magistream.com/img/14213565.gif"/>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/ohzHb#main'>
+            <img src='https://finaloutpost.net/s/ohzHb1.png'>
         </a>
         <a target="other" href='https://finaloutpost.net/view/6tZ5z#main'>
          <img src='https://finaloutpost.net/s/6tZ5z3.png'>
