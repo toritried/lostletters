@@ -23,6 +23,12 @@ menu: about
         <a target="other" href="http://magistream.com/creature/14218510#page-body">
             <img src="http://magistream.com/img/14218510.gif"/>
         </a>
+        <a target="other" href='https://finaloutpost.net/view/tKq4v#main'>
+            <img src='https://finaloutpost.net/s/tKq4v.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/cdXwH#main'>
+            <img src='https://finaloutpost.net/s/cdXwH.png'>
+        </a>
         <a target="other" href='https://finaloutpost.net/view/2VaPo#main'>
             <img src='https://finaloutpost.net/s/2VaPo.png'>
         </a>
@@ -47,6 +53,9 @@ menu: about
         <a target="other" href='https://finaloutpost.net/view/zO2w7#main'>
             <img src='https://finaloutpost.net/s/zO2w7.png'>
         </a>
+        <a target="other" href="https://dragcave.net/view/CUeLf#middle">
+            <img src="https://dragcave.net/image/CUeLf.gif" style="border-width:0"/>
+        </a>
         <a target="other" href="https://dragcave.net/view/51OQh#middle">
             <img src="https://dragcave.net/image/51OQh.gif" style="border-width:0"/>
         </a>
@@ -68,17 +77,8 @@ menu: about
         <a target="other" href="https://dragcave.net/view/sF8WK#middle">
             <img src="https://dragcave.net/image/sF8WK.gif" style="border-width:0"/>
         </a>
-        <a target="other" href="https://dragcave.net/view/RP4qL#middle">
-            <img src="https://dragcave.net/image/RP4qL.gif" style="border-width:0"/>
-        </a>
         <a target="other" href="https://dragcave.net/view/Q6NMw#middle">
             <img src="https://dragcave.net/image/Q6NMw.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/LU4Cc#middle">
-            <img src="https://dragcave.net/image/LU4Cc.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/fAbTA#middle">
-            <img src="https://dragcave.net/image/fAbTA.gif" style="border-width:0"/>
         </a>
         <div class="hatchery-status">
             ♡ please click on each of my pets above to help them evolve ♡
