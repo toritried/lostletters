@@ -8,8 +8,20 @@ menu: about
 <center>
     <h2>virtual pet hatchery</h2>
     <div class="hatchery">
-        <a target="other" href="http://magistream.com/creature/14219118#page-body">
-            <img src="http://magistream.com/img/14219118.gif"/>
+        <a target="other" href="http://magistream.com/creature/14222286#page-body">
+            <img src="http://magistream.com/img/14222286.gif"/>
+        </a>
+        <a target="other" href="http://magistream.com/creature/14222266#page-body">
+            <img src="http://magistream.com/img/14222266.gif"/>
+        </a>
+        <a target="other" href="http://magistream.com/creature/14222285#page-body">
+            <img src="http://magistream.com/img/14222285.gif"/>
+        </a>
+        <a target="other" href="http://magistream.com/creature/14222279#page-body">
+            <img src="http://magistream.com/img/14222279.gif"/>
+        </a>
+        <a target="other" href="http://magistream.com/creature/14222274#page-body">
+            <img src="http://magistream.com/img/14222274.gif"/>
         </a>
         <a target="other" href="http://magistream.com/creature/14217393#page-body">
             <img src="http://magistream.com/img/14217393.gif"/>
@@ -20,8 +32,20 @@ menu: about
         <a target="other" href="http://magistream.com/creature/14219155#page-body">
             <img src="http://magistream.com/img/14219155.gif"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14218510#page-body">
-            <img src="http://magistream.com/img/14218510.gif"/>
+        <a target="other" href='https://finaloutpost.net/view/t8vJy#main'>
+            <img src='https://finaloutpost.net/s/t8vJy.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/csbIV#main'>
+            <img src='https://finaloutpost.net/s/csbIV.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/qwJX0#main'>
+            <img src='https://finaloutpost.net/s/qwJX0.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/tHj4K#main'>
+            <img src='https://finaloutpost.net/s/tHj4K.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/kc3PZ#main'>
+            <img src='https://finaloutpost.net/s/kc3PZ.png'>
         </a>
         <a target="other" href='https://finaloutpost.net/view/tKq4v#main'>
             <img src='https://finaloutpost.net/s/tKq4v.png'>
@@ -29,17 +53,14 @@ menu: about
         <a target="other" href='https://finaloutpost.net/view/cdXwH#main'>
             <img src='https://finaloutpost.net/s/cdXwH.png'>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/2VaPo#main'>
-            <img src='https://finaloutpost.net/s/2VaPo.png'>
+        <a target="other" href='https://finaloutpost.net/view/BZREp#main'>
+            <img src='https://finaloutpost.net/s/BZREp.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/2v5f3#main'>
+            <img src='https://finaloutpost.net/s/2v5f3.png'>
         </a>
         <a target="other" href='https://finaloutpost.net/view/6XO96#main'>
             <img src='https://finaloutpost.net/s/6XO96.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/DdEX6#main'>
-            <img src='https://finaloutpost.net/s/DdEX6.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/KqFJO#main'>
-            <img src='https://finaloutpost.net/s/KqFJO.png'>
         </a>
         <a target="other" href="https://dragcave.net/view/CUeLf#middle">
             <img src="https://dragcave.net/image/CUeLf.gif" style="border-width:0"/>
@@ -150,6 +171,9 @@ menu: about
         </a>
         <a target="other" href="http://magistream.com/creature/14215377#page-body">
             <img src="http://magistream.com/img/14215377.gif"/>
+        </a>
+        <a target="other" href="http://magistream.com/creature/14218510#page-body">
+            <img src="http://magistream.com/img/14218510.gif"/>
         </a>
     <br>
     <br>
