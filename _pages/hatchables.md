@@ -59,8 +59,8 @@ menu: about
         <a target="other" href="https://dragcave.net/view/ZHU1u#middle">
             <img src="https://dragcave.net/image/ZHU1u.gif" style="border-width:0"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14230890#page-body">
-            <img src="http://magistream.com/img/14230890.gif"/>
+        <a target="other" href="http://magistream.com/creature/14231746#page-body">
+            <img src="http://magistream.com/img/14231746.gif"/>
         </a>
         <a target="other" href="http://magistream.com/creature/14230896#page-body">
             <img src="http://magistream.com/img/14230896.gif"/>
