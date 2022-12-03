@@ -7,23 +7,23 @@ menu: about
 ---
 <a target="_blank" href="https://www.deviantart.com/sqdpxl/art/moomin-to-the-groove-811004899"><img src="/graphics/toy/moomin_by_SqdPxl.gif" style="margin: 5px 0 5px 5px;" align="right" title="click for artist"/></a>
 <h2>hail and well met,</h2> 
-You can call me Lost (she/her) because that's part of the concept of this site, and it just feels fitting since I feel lost all the time.
-よろしくお願いします. 
-<br>
-<br>
-To me, this site is like a stack of letters, discovered in a lunchbox that washed up on a distanct coast like in <i>A Tale for the Time Being</i> by Ruth Ozeki. 
-<a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961"><img src="/graphics/toy/snufkin_by_Caicyo.png" style="margin: 5px;" align="left" title="click for artist"/></a>
+<img src="/graphics/toy/emoticons/letter-love.gif" style="margin: 0 5px 0 0;" align="left"/>
+I intended for this site to be like a stack of letters, discovered in a lunchbox that washed up on a distant coast like in <i>A Tale for the Time Being</i> by Ruth Ozeki. 
+<a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961">
+    <img src="/graphics/toy/snufkin_by_Caicyo.png" style="margin: 5px;" align="left" title="click for artist"/>
+</a>
 The style and organization of this site hopefully conveys a sense of thought and effort akin to selecting a pretty letter set and fountain pen ink. 
 Even though there is no way of knowing what you'll get out of reading these letters, I hope you take a look around and enjoy it. 
+<img src="/graphics/toy/emoticons/sparkle-watercolor.gif">
 <br>
 <br>
+<a target="_blank" href="https://www.deviantart.com/fairypaws/art/steven-universe-pixels-free-to-use-539281573">
+    <img src="/graphics/toy/pearl-fairypaws.png" align="left" style="margin: 5px 15px 5px 10px;" title="I'm most like Pearl, but I wish I was like Garnet"/>
+</a>
+<img src="/graphics/toy/emoticons/clown.gif" align="left" style="margin: 0 4px 0 0;"> 
 As for me, I started learning to code thanks to <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">Neopets</a> in ~2003, and I began <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 10px;" align="right" />to pour my heart into mediocre pixel art and website layouts drawn in MS Paint and Photoshop. 
-I'm so glad I never let my dislike of my art stop me from participating in the pixel communities of that time, because I made so many good memories and learned a lot. 
-<br>
-<br>
-Aside from what got me into web development, I'm <b>Type-A</b> and an <b>extrovert</b>, so I enjoy clean & tidy spaces, waking up early, having a plan + backup, accountability as well as making small talk with strangers, <a target="_blank" href="https://www.deviantart.com/fairypaws/art/steven-universe-pixels-free-to-use-539281573"><img src="/graphics/toy/pearl-fairypaws.png" align="left" style="margin: 5px 15px 5px 10px;" title="I'm most like Pearl, but I wish I was like Garnet"/></a>ordering for the table, hanging out with people (<i>not my thoughts</i>), and making friends easily. 
-Although I feel like I'm fiercely independent (moved to a different continent where I didn't speak the local language and didn't tell family or friends for 6 months), I hate being alone and my first impulse is to ask others for help instead of try to figure out things on my own—<i>maybe this is just an extrovert thing though?</i> 
-For a better sense of my feelings towards specific things, let me leave you with a bunch of classic lists:
+I'm so glad I never let my dislike of my art stop me from participating in the pixel communities of that time, 
+because I made so many good memories and learned a lot. 
 <br>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
