@@ -53,23 +53,23 @@ menu: about
         <a target="other" href="https://dragcave.net/view/xQlPL#middle">
             <img src="https://dragcave.net/image/xQlPL.gif" style="border-width:0"/>
         </a>
-        <a target="other" href="https://dragcave.net/view/OaQXx#middle">
-            <img src="https://dragcave.net/image/OaQXx.gif" style="border-width:0"/>
-        </a>
         <a target="other" href="https://dragcave.net/view/ZHU1u#middle">
             <img src="https://dragcave.net/image/ZHU1u.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="http://magistream.com/creature/14232340#page-body">
+            <img src="http://magistream.com/img/14232340.gif"/>
+        </a>
+        <a target="other" href="http://magistream.com/creature/14232343#page-body">
+            <img src="http://magistream.com/img/14232343.gif"/>
         </a>
         <a target="other" href="http://magistream.com/creature/14231746#page-body">
             <img src="http://magistream.com/img/14231746.gif"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14230896#page-body">
-            <img src="http://magistream.com/img/14230896.gif"/>
+        <a target="other" href="http://magistream.com/creature/14232330#page-body">
+            <img src="http://magistream.com/img/14232330.gif"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14230902#page-body">
-            <img src="http://magistream.com/img/14230902.gif"/>
-        </a>
-        <a target="other" href="http://magistream.com/creature/14230899#page-body">
-            <img src="http://magistream.com/img/14230899.gif"/>
+        <a target="other" href="http://magistream.com/creature/14232289#page-body">
+            <img src="http://magistream.com/img/14232289.gif"/>
         </a>
         <a target="other" href="http://magistream.com/creature/14230897#page-body">
             <img src="http://magistream.com/img/14230897.gif"/>
@@ -88,9 +88,6 @@ menu: about
         </a>
         <a target="other" href="http://magistream.com/creature/14222274#page-body">
             <img src="http://magistream.com/img/14222274.gif"/>
-        </a>
-        <a target="other" href="http://magistream.com/creature/14217393#page-body">
-            <img src="http://magistream.com/img/14217393.gif"/>
         </a>
         <div class="hatchery-status">
             ♡ please click on each of my pets above to help them evolve ♡
