@@ -8,8 +8,23 @@ menu: about
 <center>
     <h2>virtual pet hatchery</h2>
     <div class="hatchery">
+        <a target="other" href='https://finaloutpost.net/view/9Z1vj#main'>
+            <img src='https://finaloutpost.net/s/9Z1vj.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/cY7UP#main'>
+            <img src='https://finaloutpost.net/s/cY7UP.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/fgoZb#main'>
+            <img src='https://finaloutpost.net/s/fgoZb.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/sogYi#main'>
+            <img src='https://finaloutpost.net/s/sogYi.png'>
+        </a>
         <a target="other" href='https://finaloutpost.net/view/zbzhh#main'>
             <img src='https://finaloutpost.net/s/zbzhh.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/rxO33#main'>
+            <img src='https://finaloutpost.net/s/rxO33.png'>
         </a>
         <a target="other" href='https://finaloutpost.net/view/CCG9D#main'>
             <img src='https://finaloutpost.net/s/CCG9D.png'>
@@ -25,15 +40,6 @@ menu: about
         </a>
         <a target="other" href='https://finaloutpost.net/view/xx65G#main'>
             <img src='https://finaloutpost.net/s/xx65G.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/q2k4x#main'>
-            <img src='https://finaloutpost.net/s/q2k4x.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/IyEDV#main'>
-            <img src='https://finaloutpost.net/s/IyEDV.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/LuHjD#main'>
-            <img src='https://finaloutpost.net/s/LuHjD.png'>
         </a>
         <a target="other" href="https://dragcave.net/view/7HcCV#middle">
             <img src="https://dragcave.net/image/7HcCV.gif" style="border-width:0"/>
@@ -71,11 +77,14 @@ menu: about
         <a target="other" href="https://dragcave.net/view/M88lc#middle">
             <img src="https://dragcave.net/image/M88lc.gif" style="border-width:0"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14235441#page-body">
-            <img src="http://magistream.com/img/14235441.gif"/>
+        <a target="other" href="http://magistream.com/creature/14238674#page-body">
+            <img src="http://magistream.com/img/14238674.gif"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14235444#page-body">
-            <img src="http://magistream.com/img/14235444.gif"/>
+        <a target="other" href="http://magistream.com/creature/14238679#page-body">
+            <img src="http://magistream.com/img/14238679.gif"/>
+        </a>
+        <a target="other" href="http://magistream.com/creature/14237797#page-body">
+            <img src="http://magistream.com/img/14237797.gif"/>
         </a>
         <a target="other" href="http://magistream.com/creature/14234838#page-body">
             <img src="http://magistream.com/img/14234838.gif"/>
@@ -86,26 +95,11 @@ menu: about
         <a target="other" href="http://magistream.com/creature/14234844#page-body">
             <img src="http://magistream.com/img/14234844.gif"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14232340#page-body">
-            <img src="http://magistream.com/img/14232340.gif"/>
+        <a target="other" href="http://magistream.com/creature/14235441#page-body">
+            <img src="http://magistream.com/img/14235441.gif"/>
         </a>
-        <a target="other" href="http://magistream.com/creature/14232343#page-body">
-            <img src="http://magistream.com/img/14232343.gif"/>
-        </a>
-        <a target="other" href="http://magistream.com/creature/14231746#page-body">
-            <img src="http://magistream.com/img/14231746.gif"/>
-        </a>
-        <a target="other" href="http://magistream.com/creature/14232330#page-body">
-            <img src="http://magistream.com/img/14232330.gif"/>
-        </a>
-        <a target="other" href="http://magistream.com/creature/14232289#page-body">
-            <img src="http://magistream.com/img/14232289.gif"/>
-        </a>
-        <a target="other" href="http://magistream.com/creature/14230897#page-body">
-            <img src="http://magistream.com/img/14230897.gif"/>
-        </a>
-        <a target="other" href="http://magistream.com/creature/14222285#page-body">
-            <img src="http://magistream.com/img/14222285.gif"/>
+        <a target="other" href="http://magistream.com/creature/14235444#page-body">
+            <img src="http://magistream.com/img/14235444.gif"/>
         </a>
         <div class="hatchery-status">
             ♡ please click on each of my pets above to help them evolve ♡
