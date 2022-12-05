@@ -18,6 +18,9 @@ This is a collection of wonderful people / places / things that helped me create
 <br>
 💖 <a target="_blank" href="https://www.cursors-4u.com/cursor/2010/02/24/flyff-chinese-cute-angel-mail.html">Flyff</a> - cursor
 <br>
+💖 <a target="_blank" href="https://pixel-soup.tumblr.com/">pixel-soup</a> & 
+<a target="_blank" href="https://lostsozai.tumblr.com/">lost-sozai</a> - emoticons
+<br>
 <br>
 <h2>webmastery / dev environment</h2>
 💖 <a target="_blank" href="https://www.goatcounter.com/">GoatCounter</a> -  open source web analytics alternative to Google Analytics that I use on this site
