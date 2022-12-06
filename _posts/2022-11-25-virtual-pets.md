@@ -19,9 +19,9 @@ Over the past four weeks, I've been having a ton of fun waking up each morning l
 **Views:** “might” increase growth rate  
 **Art:** 50+ species, LOTS of shape, pattern, and color genetic variation through breeding, no unobtainable species  
 
-[![](https://finaloutpost.net/rimg/c6ESk3.png)](https://finaloutpost.net/view/c6ESk) 
-[![](https://finaloutpost.net/rimg/FTYeN.png)](https://finaloutpost.net/view/FTYeN) 
-[![](https://finaloutpost.net/s/ohzHb3.png)](https://finaloutpost.net/view/ohzHb)  
+[![](https://finaloutpost.net/rimg/UbZFO.png)](https://finaloutpost.net/view/UbZFO) 
+[![](https://finaloutpost.net/rimg/2v5f3.png)](https://finaloutpost.net/view/2v5f3) 
+[![](https://finaloutpost.net/s/6tZ5z.png)](https://finaloutpost.net/view/6tZ5z)  
   \
 **My Rating:** ⭐⭐⭐⭐⭐ – straightforward, good pacing, great art, no unobtainable species, generous [Discord](https://discord.gg/SKPdjkV) community  
   \
