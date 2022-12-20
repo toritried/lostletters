@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: default1
 title: home
 emoji: 🏠
 ---
