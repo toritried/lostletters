@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "A Guide to Virtual Pixel Art Pet Sites"
-date:  2022-11-25 1:35 -0900
+date:  2022-11-25 1:35
 tags:  [fun, virtual pets]  
 ---
 Over the past four weeks, I've been having a ton of fun waking up each morning like it's Christmas day, eager to see which of my eggs have hatched and which have grown into their adult forms on my <a href="/hatch/">Hatchery page</a>. Given how much serotonin I've gotten from these pixel pets, I wanted to write up a summary of the different sites with tips I wish I knew before starting (and accidentally killing four dragons RIP 😭) in case anyone else wants to get started too.  

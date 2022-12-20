@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "The Joy of Hatching Virtual Pets"
-date:  2022-11-08 20:38:38 +0900
+date:  2022-11-08 20:38:38
 tags:  [fun, virtual pets]  
 ---
 I have never stopped loving the magic of adopting a virtual pixel egg and waiting for it to hatch into something glorious. They're like a much more visually detailed tamagochi without the accidental neglect and disappointingly unpredictable lifespan. I've recently signed up to adopt these hatchable pixels at several sites and created my own [hatchery page](/hatch/). I wanted to share the list of virtual pet sites I came across with brief reviews in case you want to sign up too!
