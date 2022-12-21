@@ -271,7 +271,7 @@ a.skip-main:focus, a.skip-main:active {
   z-index:999;
 }
 
-/* Fancy non-standard scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
+/* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
 
 ::-webkit-scrollbar {
   height: 50px;
