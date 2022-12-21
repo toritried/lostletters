@@ -270,3 +270,31 @@ a.skip-main:focus, a.skip-main:active {
   font-size:1.2em;
   z-index:999;
 }
+
+/* Fancy non-standard scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
+
+::-webkit-scrollbar {
+  height: 50px;
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 0px rgba(100, 84, 94, 1); 
+  border-radius: 2ex;
+  
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 2ex;
+  -webkit-box-shadow: inset 0 0 0px rgba(100, 84, 94, 1); 
+  background:rgba(100, 84, 94, 1); 
+  background: linear-gradient(180deg, rgba(231, 170, 145, 1) 0%, rgba(164, 112, 116, 1)  100%);
+  border: 2px solid white;
+} 
+
+/* To avoid a horizontal scrollbar from appearing due to the cursor sparkles */
+
+html, body {
+  overflow-x: hidden;
+  overflow-y: overlay;
+}
