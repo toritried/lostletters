@@ -35,12 +35,6 @@ menu: about
         <a target="other" href='https://finaloutpost.net/view/yYfhO#main'>
             <img src='https://finaloutpost.net/s/yYfhO.png'>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/TMbMe#main'>
-            <img src='https://finaloutpost.net/s/TMbMe.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/7agkB#main'>
-            <img src='https://finaloutpost.net/s/7agkB.png'>
-        </a>
         <a target="other" href='https://finaloutpost.net/view/o97Lt#main'>
             <img src='https://finaloutpost.net/s/o97Lt.png'>
         </a>
@@ -64,18 +58,6 @@ menu: about
         </a>
         <a target="other" href="https://dragcave.net/view/95L4W#middle">
             <img src="https://dragcave.net/image/95L4W.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/vgfhq#middle">
-            <img src="https://dragcave.net/image/vgfhq.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/SpEg1#middle">
-            <img src="https://dragcave.net/image/SpEg1.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/R3zpC#middle">
-            <img src="https://dragcave.net/image/R3zpC.gif" style="border-width:0"/>
-        </a>
-        <a target="other" href="https://dragcave.net/view/7ombn#middle">
-            <img src="https://dragcave.net/image/7ombn.gif" style="border-width:0"/>
         </a>
         <a target="other" href="https://dragcave.net/view/rajxg#middle">
             <img src="https://dragcave.net/image/rajxg.gif" style="border-width:0"/>
