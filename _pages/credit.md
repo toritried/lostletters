@@ -29,6 +29,9 @@ This is a collection of wonderful people / places / things that helped me create
 <br>
 💖 <a target="_blank" href="https://marzka.cafe">marzka.cafe</a> - dynamic site navigation, link to GitHub Action for deploying to Neocities
 <br>
+💖 <a target="_blank" href="https://cepheus.neocities.org/">Cepheus</a> - inspired scrollbar styling (though I needed additional help from 
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar">mdn web docs</a>)
+<br>
 <br>
 My <a href="/blog.html">blog posts</a> on webmastery include all the sources I found and used while working on technical aspects of this site and creating my ideal developer environment. 
 I felt like it was most useful to attribute those in context, so please refer to individual posts for those sources.
