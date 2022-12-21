@@ -278,12 +278,6 @@ a.skip-main:focus, a.skip-main:active {
   width: 10px;
 }
 
-::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 0px rgba(100, 84, 94, 1); 
-  border-radius: 2ex;
-  
-}
-
 ::-webkit-scrollbar-thumb {
   border-radius: 2ex;
   -webkit-box-shadow: inset 0 0 0px rgba(100, 84, 94, 1); 
