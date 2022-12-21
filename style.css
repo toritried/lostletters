@@ -190,13 +190,15 @@
 
 .dropdown-content a {
   font-weight: normal;
-  padding: 3px;
+  padding: 3px 7px;
   text-decoration: none;
   white-space: nowrap;
+  display: inline-block;
 }
 
 .dropdown-content a:hover {
   background-color: #fce6e8;
+  display: inline-block;
 }
 
 .fa-caret-down:before {
