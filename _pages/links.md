@@ -6,10 +6,12 @@ permalink: /links/
 menu: meta
 ---
 <center>
-    Here you can find a bunch of websites that I enjoy and respect immensely. I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters">every site needs a Links Page</a>, and I'm hoping this list I spent way too long curating will provide you with some really interesting and helpful places to explore next. If you'd like to link back to my site, please use the buttons on my homepage, and let me know when you do via my guestbook, so I can check out your site too!
+    Here you can find a bunch of websites that I enjoy and respect immensely. I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters">every site needs a links page</a>, and I'm hoping this list I spent way too long curating will provide you with some really interesting and helpful places to explore next. If you'd like to link back to my site, please use the buttons on my homepage, and let me know when you do via my guestbook, so I can check out your site too!
 </center>
 <br>
 <h2>Personal Sites</h2>  
+<a target="_blank" href="https://melonking.net">
+    <img src="https://melonking.net/images/badges/MELON-BADGE-2.GIF" title="Melonking.Net" align="left" style="margin: 10px 10px 0 0;">Melonking.Net</a> is so expansive that it literally has its own <a target="_blank" href="https://thoughts.melonking.net/guides/melonkingnet-tourist-guide">tourist guide</a>. I'm constantly inspired by the web-related community provocations from Melon as well as all the creative animation and code on his site, pushing the bounds of possibility.  
 <a target="_blank" href="https://lazybones.neocities.org/">
     <img src="https://lazybones.neocities.org/IMAGES/lazybonesicon3.png" title="lazy bones" align="left" style="margin: 10px 10px 0 0;"/>
 Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love the home movies, old journals, love letters, and stamp collection - all her efforts to digitize real world things creates this entirely distinct portal into another's life.  
@@ -19,37 +21,45 @@ Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love
 <a target="_blank" href="https://cinni.net/">
     <img src="/graphics/linkout/cinni_angelbutton3.gif" title="cinni net" align="left" style="margin: 10px 10px 0 0;"/>
 Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and multitudes more, so check it out and play with the theme switcher! A true source of inspiration for us all.  
-<a target="_blank" href="https://pastelhello.com/">
-    <img src="/graphics/linkout/pastelhell.gif" title="Pastel Hell" align="left" style="margin: 10px 10px 0 0;">
-    Pastel Hell</a> and I are full of the same early web pixel site nostalgia. Robyn's lovingly curated Neopets resources, pixel clique memberships, and original pixel art are a true delight.  
 <a target="_blank" href="https://lu.tiny-universes.net/index2.html">
     <img src="/graphics/linkout/lu.tinyuniverse.gif" title="Lulu in Cyberspace" align="left" style="margin: 10px 10px 0 0;">
     Lulu in Cyberspace</a>'s ardent support of making web development as accessible as possible resonated with me. Lu is infinitely expressive through her site and has a lot to say that's worth listening to. There's plenty of fun and playful stuff to explore too.  
 <a target="_blank" href="https://marzka.cafe/">
     <img src="/graphics/linkout/marzka_cafe_88x31.png"  title="Marzka.Cafe" align="left" style="margin: 10px 10px 0 0;">Marzka.Cafe</a> is a stunningly designed website that's also built using jekyll. I learned a ton from her website's public github repository when trying to figure out how to make my SSG work.  
-<a target="_blank" href="https://tinydiorama.neocities.org/">
-    <img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="tiny diorama" align="left" style="margin: 10px 10px 0 0;">
-Tiny Diorama</a>'s original games, pretty phone backgrounds, and hilarious let's build a zoo shrine are super neat!  
-<a target="_blank" href="https://artwork.neocities.org/">
-    <img src="/graphics/linkout/artworkbuttonbambi.gif" title="Artwork" align="left" style="margin: 10px 10px 0 0;">
-    Artwork</a> has a lot of pixels, graphics, shrines, and art for you to enjoy. They are also a member of my pixel club!  
-<a target="_blank" href="https://www.thefrugalgamer.net/">
-    <img src="/graphics/linkout/frugalgamer_button4.png" title="The Frugal Gamer" align="left" style="margin: 10px 10px 0 0;">The Frugal Gamer</a> contains a dollmaker, original music, game logs, web material, photoshop brushes, and more.  
-<a target="_blank" href="https://themby.neocities.org/">
-    <img src="/graphics/linkout/themby.png" title="Themby" align="left" style="margin: 10px 10px 0 0;">
-    Themby</a> is run by Louie, a fellow postcard and D&D enthusiast. Check out their pleasing and chill site!  
-<a target="_blank" href="https://rini.neocities.org/">
-    <img src="/graphics/linkout/blahaj_button.png" title="Rini @ Neocities" align="left" style="margin: 10px 10px 0 0;">
-    Rini</a> is a classical musician and fellow fan of blahaj, who shares delightful photos and musings.  
+<a target="_blank" href="https://pastelhello.com/">
+    <img src="/graphics/linkout/pastelhell.gif" title="Pastel Hell" align="left" style="margin: 10px 10px 0 0;">
+    Pastel Hell</a> and I are full of the same early web pixel site nostalgia. Robyn's lovingly curated Neopets resources, pixel clique memberships, and original pixel art are a true delight.  
+<a target="_blank" href="https://maya.land/">
+    <img src="/graphics/linkout/mayaland.png" title="maya.land" align="left" style="margin: 10px 10px 0 0;">
+    maya.land</a>'s timeless content is always interesting and delightful to peruse. Goblin mode forever!  
 <b>
     <a target="_blank" href="https://winnielim.org/">
         [ winnielim.org ]
     </a>
-</b> The relatable personal online library of Winnie Lim is a continuous exploration of self that inspires me to think more deeply about my own life.    
+</b> The relatable personal online library of Winnie Lim is a continuous exploration of self that inspires me to think more deeply about my own life.  
+<center>
+    Net Neighbors
+    <br>
+    <a target="_blank" href="https://tinydiorama.neocities.org/">
+        <img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="tiny diorama's original games, pretty phone backgrounds, and hilarious let's build a zoo shrine are super neat!">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/linkout/artworkbuttonbambi.gif" title="Artwork has a lot of pixels, graphics, shrines, and art for you to enjoy. They are also a member of my pixel club!">
+    </a>
+    <a target="_blank" href="https://www.thefrugalgamer.net/">
+        <img src="/graphics/linkout/frugalgamer_button4.png" title="The Frugal Gamer contains a dollmaker, original music, game logs, web material, photoshop brushes, and more.">
+    </a>
+    <a target="_blank" href="https://themby.neocities.org/">
+        <img src="/graphics/linkout/themby.png" title="Themby is run by Louie, a fellow postcard and D&D enthusiast. Check out their pleasing and chill site!">
+    </a>
+    <a target="_blank" href="https://rini.neocities.org/">
+        <img src="/graphics/linkout/blahaj_button.png" title="Rini is a classical musician and fellow fan of blahaj, who shares delightful photos and musings.">
+    </a>   
+</center>
 <br>
 <h2>Unique Resources</h2>
 <a target="_blank" href="https://yesterweb.org/">
-    <img src="/graphics/linkout/yesterweb.png" title="Yesterweb" align="left" style="margin: 10px 10px 0 0;">Yesterweb</a> is a community (and a larger movement) about the internet how it's <a target="_blank" href="https://yesterweb.org/manifesto/">changed</a>. We are creating, discovering and enjoying websites and digital spaces.  
+    <img src="/graphics/linkout/yesterweb.png" title="Yesterweb" align="left" style="margin: 10px 10px 0 0;">Yesterweb</a> is a community (and a larger movement) about the internet how it's <a target="_blank" href="https://yesterweb.org/manifesto/">changed</a>. We are creating, discovering and enjoying websites, digital spaces, zines, radio, and more. My site wouldn't exist had it not been for the Yesterweb movement.  
 <a target="_blank" href="https://yesterweb.org/">
     <img src="/graphics/linkout/yw-masto.png" title="Yesterweb's Mastodon Instance" align="left" style="margin: 10px 10px 0 0;">Yesterweb's Mastodon Instance</a> is proudly the one I call home! It's another extension of the community, filled with fellow passionate webmasters.  
 <a target="_blank" href="https://gloomlee.neocities.org/">
