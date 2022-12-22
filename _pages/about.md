@@ -23,9 +23,10 @@ Even though there is no way of knowing what you'll get out of reading these lett
 <img src="/graphics/toy/emoticons/clown.gif" align="left" style="margin: 0 4px 0 0;"> 
 As for me, I started learning to code thanks to <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">Neopets</a> in ~2003, and I began <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 10px;" align="right" />to pour my heart into mediocre pixel art and website layouts drawn in MS Paint and Photoshop. 
 I'm so glad I never let my dislike of my art stop me from participating in the pixel communities of that time, 
-because I made so many good memories and learned a lot. 
-<br>
-<br>
+because I made so many good memories and learned a lot.  
+<center>
+    <img src="/graphics/toy/sakura-divider.gif" style="margin: 0 0 10px 0;">
+</center>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
 <b>likes</b>: TTRPGs (mostly D&D), lgbtqia+ rights, intersectional feminism, lively cities, onsen 温泉, writing and receiving happy mail from pen pals, words of affirmation, knitting, yakiimo 焼き芋, epic fantasy, therapy
 <br>

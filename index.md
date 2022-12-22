@@ -3,7 +3,6 @@ layout: default1
 title: home
 emoji: 🏠
 ---
-<center><img src="/graphics/toy/sakura-divider.gif" style="margin: 0 0 10px 0;"></center>
 <img src="/graphics/site_buttons/LostLetters32x32.gif" title="If you want to use this 32x32px button to link back to my site, please download and host the image yourself, thanks!" align="left" style="margin: 10px 10px 0 0;" >
 <img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 0;" align="right" title="you can adopt me from this site!"/>
 You have found <b>Lost Letters</b>, a personal pixel website & home of the <a href="/afternoontea/">Afternoon Tea Pixel Club</a>. 
