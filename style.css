@@ -241,6 +241,16 @@ iframe {
   position: absolute;
   top: 53px;
   left: 65px;
+  animation: bobbing 2s ease-in-out infinite;
+  animation-direction: alternate;
+}
+@keyframes bobbing {
+  0% {
+      transform: translateY(7px);
+  }
+  100% {
+      transform: translateY(-7px);
+  }
 }
 
 /* a11y */
