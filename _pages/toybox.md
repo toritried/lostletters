@@ -49,6 +49,9 @@ I am keen on citing original sources, so I would sincerely appreciate it if you 
     <a target="_blank" href="https://www.lejlart.com/apple.html">
     <img src="/graphics/toy/meltycornpixel.gif">
     </a>
+    <a target="_blank" href="http://whimsical.heartette.net/">
+        <img src="/graphics/toy/mail.gif" title="credit: whimsical" title="credit: appledust"/>
+    </a>
     <a target="_blank" href="https://www.lejlart.com/apple.html">
     <img src="/graphics/toy/toki_dolce.gif">
     </a>
@@ -85,6 +88,11 @@ I am keen on citing original sources, so I would sincerely appreciate it if you 
     <img src="/graphics/toy/burgerbounce.gif" title="If you know where this came from, please send me the link! I don't think it's from http://mirukuma.blogspot.com/p/sozai.html because they sadly stole and slightly recolored a ton of Scribbleland's pixels."/>
     <a target="_blank" href="http://sorahana.ciao.jp/">
         <img src="/graphics/toy/bee.gif">
+    </a>
+    <a target="_blank" href="https://ac.kuchiki.net/">
+    <img src="/graphics/toy/saharah.gif" title="pixel friends | Saharah"/>
+    <img src="/graphics/toy/tia.gif" title="pixel friends | Tia" />
+    <img src="/graphics/toy/snowman.gif" title="pixel friends | Snowman"/>
     </a>
     <br>
     <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
