@@ -1,7 +1,7 @@
 ---
 layout: default2
 title: confessions
-emoji: 🗣️
+emoji: 🤫
 permalink: /confessions/
 menu: pages
 ---
