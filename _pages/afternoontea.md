@@ -44,6 +44,21 @@ menu: pages
     <a target="_blank" href="https://porce-lana.blogspot.com/">
         <img src="/graphics/teahouse/teacup/chocolatemocha-porce-lana.gif" title="tastes like chocolate mocha with whipped cream - made by Lana">
     </a>
+    <a target="_blank" href="https://hillhouse.neocities.org/">
+        <img src="/graphics/teahouse/teacup/hillhouse-teacup.png" title="tastes like lavender & arsenic - made by hill house">
+    </a>
+    <a target="_blank" href="https://thelastmelon.one/Thoughts/Pixels">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupfairy.png" title="made by the last melon">
+    </a>
+    <a target="_blank" href="https://thelastmelon.one/Thoughts/Pixels">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupmermaid.png" title="made by the last melon">
+    </a>
+    <a target="_blank" href="https://thelastmelon.one/Thoughts/Pixels">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupflamefairy.png" title="made by the last melon">
+    </a>
+    <a target="_blank" href="https://thelastmelon.one/Thoughts/Pixels">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupflame.png" title="made by the last melon">
+    </a>
     <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
