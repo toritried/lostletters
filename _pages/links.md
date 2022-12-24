@@ -84,6 +84,12 @@ Gloomlee</a> is the genius behind the Neocities-friendly (all HTML and JS, no PH
 </b> a quick, worthwhile read on what we should do to help make the internet better
 <br>
 <b>
+    <a target="_blank" href="https://www.drlinkcheck.com/">
+        [ Dr. Link Check ]
+    </a>
+</b> checks your site for broken links! A true godsend!
+<br>
+<b>
     <a target="_blank" href="https://loveblush.net/">
         [ loveblush.net ]
     </a>
@@ -103,18 +109,17 @@ Gloomlee</a> is the genius behind the Neocities-friendly (all HTML and JS, no PH
  color palette generator
 <br>
 <b>
-    <a target="_blank" href="https://wiby.me/">
-         [ wiby ]
-    </a>
-</b>
- search engine for web 1.0
-<br>
-<b>
     <a target="_blank" href="https://blinkies.cafe/">
         [ blinkies.cafe ]
     </a>
 </b>
- blinkie generator  
+ blinkie generator
+<br>
+<b>
+    <a target="_blank" href="https://trainstream.github.io/streams/">
+         [ livestreams of train stations throughout Japan ]
+    </a>
+</b>  - Enjoyment may vary, depending on your timezone  
 <br>
 <h2>Japanese Pixel Sozai Sites</h2>
 <a target="_blank" href="https://foollovers.com/">
