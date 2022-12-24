@@ -1,8 +1,9 @@
 ---
 layout: default2
-title: my quilt
+title: q*bee shrine
 emoji: 🐝
 permalink: /quilt/
+menu: pages
 ---
 <!--- before every *, add a \, so that it won't be italicized in MD -->
 <a class="skip-main" href="#main">
