@@ -3,16 +3,42 @@ layout: default2
 title: hatchery
 emoji: 🐣
 permalink: /hatch/
-menu: about
+menu: pages
 ---
 <center>
     <h2>virtual pet hatchery</h2>
+    Say hello to my little pets! Clicking on the eggs and hatchlings below will help them grow, boosting their growth rate, happiness, hardiness, and appearance. If you want to start collecting virtual pets too, check out <a href="/2022/11/25/virtual-pets.html">my guide to various pixel art virtual pet sites</a>.
+    <br>
     <div class="hatchery">
+        <a target="other" href='https://finaloutpost.net/view/VnD0S#main'>
+            <img src='https://finaloutpost.net/s/VnD0S.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/WDMUI#main'>
+            <img src='https://finaloutpost.net/s/WDMUI.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/JBZ3v#main'>
+            <img src='https://finaloutpost.net/s/JBZ3v.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/bBmuT#main'>
+            <img src='https://finaloutpost.net/s/bBmuT.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/lNotg#main'>
+            <img src='https://finaloutpost.net/s/lNotg.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/TQ0fu#main'>
+            <img src='https://finaloutpost.net/s/TQ0fu.png'>
+        </a>
         <a target="other" href='https://finaloutpost.net/view/7PcDM#main'>
             <img src='https://finaloutpost.net/s/7PcDM.png'>
         </a>
+        <a target="other" href='https://finaloutpost.net/view/gpFGq#main'>
+            <img src='https://finaloutpost.net/s/gpFGq.png'>
+        </a>
         <a target="other" href='https://finaloutpost.net/view/WdQGI#main'>
             <img src='https://finaloutpost.net/s/WdQGI.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/ZhoHX#main'>
+            <img src='https://finaloutpost.net/s/ZhoHX.png'>
         </a>
         <a target="other" href='https://finaloutpost.net/view/Z8rgF#main'>
             <img src='https://finaloutpost.net/s/Z8rgF.png'>
@@ -20,35 +46,17 @@ menu: about
         <a target="other" href='https://finaloutpost.net/view/4Sd6z#main'>
             <img src='https://finaloutpost.net/s/4Sd6z.png'>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/xu6R3#main'>
-            <img src='https://finaloutpost.net/s/xu6R3.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/gpFGq#main'>
-            <img src='https://finaloutpost.net/s/gpFGq.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/jEjkT#main'>
-            <img src='https://finaloutpost.net/s/jEjkT.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/UbcR7#main'>
-            <img src='https://finaloutpost.net/s/UbcR7.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/ZhoHX#main'>
-            <img src='https://finaloutpost.net/s/ZhoHX.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/Ev4UT#main'>
-            <img src='https://finaloutpost.net/s/Ev4UT.png'>
-        </a>
         <a target="other" href='https://finaloutpost.net/view/eJrk1#main'>
             <img src='https://finaloutpost.net/s/eJrk1.png'>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/lWUSr#main'>
-            <img src='https://finaloutpost.net/s/lWUSr.png'>
+        <a target="other" href='https://finaloutpost.net/view/xu6R3#main'>
+            <img src='https://finaloutpost.net/s/xu6R3.png'>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/Uh7zV#main'>
-            <img src='https://finaloutpost.net/s/Uh7zV.png'>
+        <a target="other" href="https://dragcave.net/view/OLpNV#middle">
+            <img src="https://dragcave.net/image/OLpNV.gif" style="border-width:0"/>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/Zaf9F#main'>
-            <img src='https://finaloutpost.net/s/Zaf9F.png'>
+        <a target="other" href="https://dragcave.net/view/ANAkv#middle">
+            <img src="https://dragcave.net/image/ANAkv.gif" style="border-width:0"/>
         </a>
         <a target="other" href="https://dragcave.net/view/Vnzzq#middle">
             <img src="https://dragcave.net/image/Vnzzq.gif" style="border-width:0"/>
@@ -79,6 +87,15 @@ menu: about
         </a>
         <a target="other" href="https://dragcave.net/view/95L4W#middle">
             <img src="https://dragcave.net/image/95L4W.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/8HQE1#middle">
+            <img src="https://dragcave.net/image/8HQE1.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/sOA7M#middle">
+            <img src="https://dragcave.net/image/sOA7M.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/0nJBe#middle">
+            <img src="https://dragcave.net/image/0nJBe.gif" style="border-width:0"/>
         </a>
         <div class="hatchery-status">
             ♡ please click on each of my pets above to help them evolve ♡
@@ -154,7 +171,4 @@ menu: about
         <a target="other" href='https://finaloutpost.net/view/6tZ5z#main'>
          <img src='https://finaloutpost.net/s/6tZ5z3.png'>
         </a>
-    <br>
-    <br>
-    📝 If you want to start collecting virtual pets like these, read <a href="/2022/11/25/virtual-pets.html">my guide to various pixel art virtual pet sites</a>!
 </center>
