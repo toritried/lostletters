@@ -29,12 +29,6 @@ menu: pages
         <a target="other" href='https://finaloutpost.net/view/bBmuT#main'>
             <img src='https://finaloutpost.net/s/bBmuT.png'>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/7PcDM#main'>
-            <img src='https://finaloutpost.net/s/7PcDM.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/gpFGq#main'>
-            <img src='https://finaloutpost.net/s/gpFGq.png'>
-        </a>
         <a target="other" href='https://finaloutpost.net/view/WdQGI#main'>
             <img src='https://finaloutpost.net/s/WdQGI.png'>
         </a>
