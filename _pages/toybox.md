@@ -119,7 +119,7 @@ I am keen on citing original sources, so I would sincerely appreciate it if you 
     <a target="_blank" href="https://dogfish99.neocities.org/morscertissima.html">
     <img src="/graphics/toy/halloween2022/fairy%20kitty%20from%20dogfish99neocities.png" title="treat from dogfish99"/>
     </a>
-    <a target="_blank" href="https://blissnet.neocities.org/holiday/Hallozine2022/index.htmll">
+    <a target="_blank" href="https://blissnet.neocities.org/holiday/Hallozine2022/index.html">
     <img src="/graphics/toy/halloween2022/IppHPFV.gif" title="treat from blissnet"/>
     </a>
     <a target="_blank" href="https://gloomlee.neocities.org/trickortreat.html">

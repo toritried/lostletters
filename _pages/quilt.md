@@ -184,9 +184,7 @@ menu: pages
             <img width="40" height="40" src="/graphics/quilt/63-casey.gif">
         </a>
         <img width="40" height="40" src="/graphics/quilt/63-kat.gif" title="Kat #63 - missing URL">
-        <a target="_blank" href="https://web.archive.org/web/20121016081859/http://happymushroom.heliohost.org/qbee/index.php" title="Amanda #64">
-            <img width="40" height="40" src="/graphics/quilt/64-amanda.png">
-        </a>
+        <img width="40" height="40" src="/graphics/quilt/64-amanda.png" title="Amanda #64 - url 404 happymushroom.heliohost.org/qbee/index.php">
         <a target="_blank" href="https://web.archive.org/web/20110118071027/http://www.forward-is-calling.net/db/quilt/quilt.htm" title="Caity #64">
             <img width="40" height="40" src="/graphics/quilt/64-caity.gif">
         </a>
@@ -213,16 +211,12 @@ menu: pages
         <a target="_blank" href="https://web.archive.org/web/20121023062825/http://tigerwhispers.com/" title="Hev #78">
             <img width="40" height="40" src="/graphics/quilt/78-hev-1-ty.gif">
         </a>
-        <a target="_blank" href="https://web.archive.org/web/20081115042713/http://leahsdesigns.co.uk/" title="Leah #80">
-            <img width="40" height="40" src="/graphics/quilt/80-leah.gif">
-        </a>
+        <img width="40" height="40" src="/graphics/quilt/80-leah.gif" title="Leah #80 - URL 404 http://leahsdesigns.co.uk/">
         <img width="40" height="40" src="/graphics/quilt/82-vi.gif" title="Vi #82 - missing URL">
         <a target="_blank" href="https://web.archive.org/web/20080804213432/http://theqbee.net:80/profile.php?p=view&beenum=83" title="Jari Graham #83">
             <img width="40" height="40" src="/graphics/quilt/83-jari-graham.gif">
         </a>
-        <a target="_blank" href="http://sweetdreams-sketchedthoughts.blogspot.com" title="traded with Amy #84 on Jan 21, 2012">
-            <img width="40" height="40" src="/graphics/quilt/84-amy.png">
-        </a>
+        <img width="40" height="40" src="/graphics/quilt/84-amy.png" title="traded with Amy #84 on Jan 21, 2012 - URL 404 http://sweetdreams-sketchedthoughts.blogspot.com">
         <a target="_blank" href="https://web.archive.org/web/20080609220005/http://theqbee.net/profile.php?p=view&beenum=86" title="Tracy #86">
             <img width="40" height="40" src="/graphics/quilt/86-tracy.gif">
         </a>
@@ -526,9 +520,7 @@ menu: pages
         <a target="_blank" href="https://web.archive.org/web/20081115042713/http://withoutwings.altervista.org/robi/" title="Robi #190">
             <img width="40" height="40" src="/graphics/quilt/190-robi.gif">
         </a>
-        <a target="_blank" href="https://web.archive.org/web/20140602042556/http://rhiandoesstuff.blogspot.com/" title="Rhian #191">
-            <img width="40" height="40" src="/graphics/quilt/191-Rhian.gif">
-        </a>
+        <img width="40" height="40" src="/graphics/quilt/191-Rhian.gif" title="Rhian #191 - URL 404 http://rhiandoesstuff.blogspot.com/">
         <img width="40" height="40" src="/graphics/quilt/191-heather.gif" title="Heather #191 - missing URL">
         <img width="40" height="40" src="/graphics/quilt/191-heather-ty.gif" title="Thank you patch from Heather #191 - missing URL">
         <a target="_blank" href="https://web.archive.org/web/20080804213432/http://theqbee.net:80/profile.php?p=view&beenum=195" title="Mika #195">

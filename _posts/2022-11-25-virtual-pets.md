@@ -37,10 +37,10 @@ TFO is unique in that I want to eventually get into breeding my favorite species
 **Views:** Unique & total views *must be accumulated* to reach adulthood  
 **Art:** 300+ species; some species are seasonally available, though none are retired  
   
-[![](https://dragcave.net/images/wXlc.png)](https://dragcave.net/view/aZAqo) 
-[![](https://dragcave.net/images/G2F4.png)](https://dragcave.net/view/PCf1e) 
-[![](https://dragcave.net/images/IbJj.png)](https://dragcave.net/view/Oxd2i) 
-[![](https://dragcave.net/images/LgQK.png)](https://dragcave.net/view/89Qn6)  
+[![](https://dragcave.net/image/gpSa9.gif)](https://dragcave.net/view/gpSa9) 
+[![](https://dragcave.net/image/OVsMx.gif)](https://dragcave.net/view/OVsMx) 
+[![](https://dragcave.net/image/aZAqo.gif)](https://dragcave.net/view/aZAqo) 
+[![](https://dragcave.net/image/5r7s2.gif)](https://dragcave.net/view/5r7s2)  
   \
 **My Rating:** ⭐⭐⭐⭐ – complicated at first before I knew the Rules of Thumb below, good pacing, awesome art, generous community, no unobtainable species  
   \
