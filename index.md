@@ -30,5 +30,5 @@ know in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-0
     <a target="_blank" href="https://github.com/toritried/lostletters">github</a> | 
     <a target="_blank" href="https://social.yesterweb.org/@lostletters" rel="me">mastodon</a>
     <br>
-    <a href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
+    <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
 </center>
