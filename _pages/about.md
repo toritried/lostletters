@@ -47,6 +47,30 @@ because I made so many good memories and learned a lot.
 <br>
 <br>
 <center>
+    <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
+        <img src="/graphics/linkout/rss.gif" title="Only my freshest blog posts delivered straight to you!">
+    </a>
+    <a target="_blank" href="https://webmentions.neocities.org/">
+        <img src="/graphics/linkout/webmentions_anim.gif" title="If you mention this site's URL on mastodon, it'll display like a comment on that specific page! So cool, right? Go enable it on your site too!">
+    </a>
+    <a target="_blank" href="https://neocities.org/site/lostletters">
+        <img src="/graphics/linkout/neocitiespink.gif" title="Proudly hosted by NeoCities!">
+    </a>
+    <a target="_blank" href="https://rainy.gay/">
+        <img src="/graphics/linkout/progress.png" title="button by Dime">
+    </a>
+    <a target="_blank" href="https://yesterweb.org/no-to-web3/">
+        <img src="/graphics/linkout/nft_sadgrl.gif" title="button by sadgrl.online">
+    </a>
+    <a target="_blank" href="https://jekyllrb.com/">
+        <img src="/graphics/linkout/jekyll.png" title="I use Jekyll as my Static Site Generator">
+    </a>
+    <a target="_blank" href="https://arremeer.neocities.org/">
+        <img src="/graphics/linkout/masknow.png" title="button by Bruno">
+    </a>
+    <img src="/graphics/linkout/acab.gif">
+    <img src="/graphics/linkout/bob.gif">
+    <br>
     <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
     <img src="/graphics/toy/tags/transrights.png">
     </a>
