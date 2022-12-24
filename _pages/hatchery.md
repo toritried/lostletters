@@ -7,7 +7,8 @@ menu: pages
 ---
 <center>
     <h2>virtual pet hatchery</h2>
-    Say hello to my little pets! Clicking on the eggs and hatchlings below will help them grow, boosting their growth rate, happiness, hardiness, and appearance. If you want to start collecting virtual pets too, check out <a href="/2022/11/25/virtual-pets.html">my guide to various pixel art virtual pet sites</a>.
+    Say hi to my virtual pets! If you want to collect virtual pets too, check out <a href="/2022/11/25/virtual-pets.html">my guide to pixel art virtual pet sites</a>.
+    <br>
     <br>
     <div class="hatchery">
         <a target="other" href='https://finaloutpost.net/view/VnD0S#main'>
@@ -19,14 +20,14 @@ menu: pages
         <a target="other" href='https://finaloutpost.net/view/JBZ3v#main'>
             <img src='https://finaloutpost.net/s/JBZ3v.png'>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/bBmuT#main'>
-            <img src='https://finaloutpost.net/s/bBmuT.png'>
-        </a>
         <a target="other" href='https://finaloutpost.net/view/lNotg#main'>
             <img src='https://finaloutpost.net/s/lNotg.png'>
         </a>
         <a target="other" href='https://finaloutpost.net/view/TQ0fu#main'>
             <img src='https://finaloutpost.net/s/TQ0fu.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/bBmuT#main'>
+            <img src='https://finaloutpost.net/s/bBmuT.png'>
         </a>
         <a target="other" href='https://finaloutpost.net/view/7PcDM#main'>
             <img src='https://finaloutpost.net/s/7PcDM.png'>
@@ -37,17 +38,8 @@ menu: pages
         <a target="other" href='https://finaloutpost.net/view/WdQGI#main'>
             <img src='https://finaloutpost.net/s/WdQGI.png'>
         </a>
-        <a target="other" href='https://finaloutpost.net/view/ZhoHX#main'>
-            <img src='https://finaloutpost.net/s/ZhoHX.png'>
-        </a>
         <a target="other" href='https://finaloutpost.net/view/Z8rgF#main'>
             <img src='https://finaloutpost.net/s/Z8rgF.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/4Sd6z#main'>
-            <img src='https://finaloutpost.net/s/4Sd6z.png'>
-        </a>
-        <a target="other" href='https://finaloutpost.net/view/eJrk1#main'>
-            <img src='https://finaloutpost.net/s/eJrk1.png'>
         </a>
         <a target="other" href='https://finaloutpost.net/view/xu6R3#main'>
             <img src='https://finaloutpost.net/s/xu6R3.png'>
@@ -118,9 +110,9 @@ menu: pages
     </script>
     <br>
     <h2>my favorite fully grown pets</h2>
-    <a target="_blank" href="https://magistream.com/user/lostletters/Completed">Magistream</a> | 
     <a target="_blank" href="https://finaloutpost.net/visit/lostletters/37592">The Final Outpost</a> | 
-    <a target="_blank" href="https://dragcave.net/user/lostletters">Dragon Cave</a>
+    <a target="_blank" href="https://dragcave.net/user/lostletters">Dragon Cave</a> | 
+    <a target="_blank" href="https://magistream.com/user/lostletters/Completed">Magistream</a>
     <br>
     <br>
         <a target="other" href='https://finaloutpost.net/view/CCG9D#main'>
