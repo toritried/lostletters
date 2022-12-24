@@ -59,6 +59,9 @@ because I made so many good memories and learned a lot.
     <a target="_blank" href="https://rainy.gay/">
         <img src="/graphics/linkout/progress.png" title="button by Dime">
     </a>
+    <a target="_blank" href="https://plasticdino.neocities.org/">
+        <img src="/graphics/linkout/queer.png" title="button by kitty">
+    </a>
     <a target="_blank" href="https://yesterweb.org/no-to-web3/">
         <img src="/graphics/linkout/nft_sadgrl.gif" title="button by sadgrl.online">
     </a>
