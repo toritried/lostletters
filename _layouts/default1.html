@@ -38,15 +38,19 @@
             </header>
             <div class="navbar">
               <button class="dropbtn" aria-controls="dropdown-pages" aria-expanded="false">
-                💖 for you 
+                💾 pages 
+                <span class="fa fa-caret-down"></span>
+              </button>
+              <button class="dropbtn" aria-controls="dropdown-stationery" aria-expanded="false">
+                💌 stationery 
                 <span class="fa fa-caret-down"></span>
               </button>
               <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
-                💌 webmaster 
+                👑 webmaster 
                 <span class="fa fa-caret-down"></span>
               </button>
               <button class="dropbtn" aria-controls="dropdown-meta" aria-expanded="false">
-                🍄 meta
+                🧭 meta
                 <span class="fa fa-caret-down"></span>
               </button>
               <div>
@@ -54,6 +58,16 @@
                   <a href="/blog.html">📝 blog</a>
                   {% for page in site.pages %}
                     {% if page.menu == "pages" %}
+                      <a href="{{ page.url }}">
+                        {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                        {{ page.title }}
+                      </a>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+                <div class="dropdown-content" id="dropdown-stationery">
+                  {% for page in site.pages %}
+                    {% if page.menu == "stationery" %}
                       <a href="{{ page.url }}">
                         {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                         {{ page.title }}
