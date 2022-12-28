@@ -47,17 +47,17 @@ menu: pages
     <a target="_blank" href="https://hillhouse.neocities.org/">
         <img src="/graphics/teahouse/teacup/hillhouse-teacup.png" title="tastes like lavender & arsenic - made by hill house">
     </a>
-    <a target="_blank" href="https://thelastmelon.one/Thoughts/Pixels">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupfairy.png" title="made by the last melon">
+    <a target="_blank" href="https://desertjaguar.casa/">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupfairy.png" title="made by JN">
     </a>
-    <a target="_blank" href="https://thelastmelon.one/Thoughts/Pixels">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupmermaid.png" title="made by the last melon">
+    <a target="_blank" href="https://desertjaguar.casa/">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupmermaid.png" title="made by JN">
     </a>
-    <a target="_blank" href="https://thelastmelon.one/Thoughts/Pixels">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupflamefairy.png" title="made by the last melon">
+    <a target="_blank" href="https://desertjaguar.casa/">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupflamefairy.png" title="made by JN">
     </a>
-    <a target="_blank" href="https://thelastmelon.one/Thoughts/Pixels">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupflame.png" title="made by the last melon">
+    <a target="_blank" href="https://desertjaguar.casa/">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupflame.png" title="made by JN">
     </a>
     <br>
     <br>
