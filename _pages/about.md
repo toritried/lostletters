@@ -1,7 +1,7 @@
 ---
 layout: default2
 title: about me
-emoji: 💃
+emoji: 🎃
 permalink: /about-me/
 menu: about
 ---
