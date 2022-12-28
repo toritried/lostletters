@@ -3,7 +3,7 @@ layout: default2
 title: links 
 emoji: 🔗
 permalink: /links/
-menu: meta
+menu: pages
 ---
 <center>
     Here you can find a bunch of websites that I enjoy and respect immensely. I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters">every site needs a links page</a>, and I'm hoping this list I spent way too long curating will provide you with some really interesting and helpful places to explore next. If you'd like to link back to my site, please use the buttons on my homepage, and let me know when you do via my guestbook, so I can check out your site too!
@@ -26,6 +26,9 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
     Lulu in Cyberspace</a>'s ardent support of making web development as accessible as possible resonated with me. Lu is infinitely expressive through her site and has a lot to say that's worth listening to. There's plenty of fun and playful stuff to explore too.  
 <a target="_blank" href="https://marzka.cafe/">
     <img src="/graphics/linkout/marzka_cafe_88x31.png"  title="Marzka.Cafe" align="left" style="margin: 10px 10px 0 0;">Marzka.Cafe</a> is a stunningly designed website that's also built using jekyll. I learned a ton from her website's public github repository when trying to figure out how to make my SSG work.  
+<a target="_blank" href="https://palemomos.neocities.org/">
+    <img src="/graphics/linkout/palemomos.gif" title="Palemomos" align="left" style="margin: 10px 10px 0 0;">
+    Palemomos</a> is a true visual delight for pixel and anime lovers. My favorite part that literally made me gasp in amazement the first time I saw it was Pale's Yu-Gi-Oh! shrine. The cursor hover effects were out of this world good.  
 <a target="_blank" href="https://pastelhello.com/">
     <img src="/graphics/linkout/pastelhell.gif" title="Pastel Hell" align="left" style="margin: 10px 10px 0 0;">
     Pastel Hell</a> and I are full of the same early web pixel site nostalgia. Robyn's lovingly curated Neopets resources, pixel clique memberships, and original pixel art are a true delight.  
