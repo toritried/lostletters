@@ -8,7 +8,9 @@ menu: pages
 <a target="_blank" href="https://www.patreon.com/waneella"><img src="https://imglf5.lf127.net/img/L1ZOMzFVTXVFQ2FhZCttVmlzZTEvM0I1Z3JnUS81OHZ0N09rTTVMUFp3MS9GcWZtV2dFcW1RPT0.gif" style="max-width: 100%;" title="gif by waneella"></a>
 <h2>gaijin confessions</h2>
 Although I'm half-Japanese, I wasn't raised in Japan, and I've done a lot of harmless, embarrassing stuff as an inept foreigner, trying to survive the most basic interactions here, 
-<img src="/graphics/toy/gudetama_hideegg.gif" style="margin: 10px;" align="right">
+<a target="_blank" href="https://www.lejlart.com/apple.html">
+    <img src="/graphics/toy/gudetama_hideegg.gif" style="margin: 10px;" title="gudetama by Lejla" align="right">
+</a>
 so let me tell you the stories I'd recount if we were both a few too many <i>chūhai</i> deep, squatting outside a glowing conbini near a few chain smokers who glance impassively at yet another <a target="_blank" href="https://www.instagram.com/shibuyameltdown/">shibuya meltdown</a>. 
 <center>
     <a target="_blank" href="http://bitmapdreams.lastsecret.net">
@@ -43,7 +45,9 @@ The cashier kept asking, 「お支払い方法は如何なさいますか？」(
 I already had my credit card and eco bag out, so I kept alternating with my two prepared phrases over and over while we kept looking at each other increasingly confused.
 <img src="/graphics/toy/emoticons/question-watercolor.gif" align="right" style="margin: 0 12px 0 0;" > 
 Eventually, I moved slightly to bring out my translate app on my phone, something clicked, and I was able to pay. This was so weird, so I immediately asked my friends, who are actually proficient at Japanese, what that *houhou* phrase meant. 
-<a target="_blank" href="https://giphy.com/lazycorgihk"><img src="https://media3.giphy.com/media/SL9esQ2xRZT5h6PB7w/giphy.gif" align="right" style="margin: 10px;" style="max-width: 30%;" title="gif by lazycorgihk"></a> 
+<a target="_blank" href="https://giphy.com/lazycorgihk">
+    <img src="https://media3.giphy.com/media/SL9esQ2xRZT5h6PB7w/giphy.gif" align="right" style="margin: 10px;" style="max-width: 30%;" title="gif by lazycorgihk">
+</a> 
 They told me she was asking, "How do you want to pay?" since she couldn't see the credit card in my hand until I shifted, and I kept essentially telling her that it's fine, I don't need to pay. I'm good!
 <br>
 <center>
