@@ -47,11 +47,17 @@ menu: pages
     <a target="_blank" href="https://hillhouse.neocities.org/">
         <img src="/graphics/teahouse/teacup/hillhouse-teacup.png" title="tastes like lavender & arsenic - made by hill house">
     </a>
-    <a target="_blank" href="https://desertjaguar.casa/">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupfairy.png" title="made by JN">
+    <a target="_blank" href="https://mikaorangeart.neocities.org/">
+        <img src="/graphics/teahouse/teacup/sun-mika.png" title="tastes like the alchemical essence of the Sun - made by Mika">
+    </a>
+    <a target="_blank" href="https://mikaorangeart.neocities.org/">
+        <img src="/graphics/teahouse/teacup/poison-mika.png" title="tastes like... oh dear maybe you shouldn't find out - made by Mika">
     </a>
     <a target="_blank" href="https://desertjaguar.casa/">
         <img src="/graphics/teahouse/teacup/thelastmelon-cupmermaid.png" title="made by JN">
+    </a>
+    <a target="_blank" href="https://desertjaguar.casa/">
+        <img src="/graphics/teahouse/teacup/thelastmelon-cupfairy.png" title="made by JN">
     </a>
     <a target="_blank" href="https://desertjaguar.casa/">
         <img src="/graphics/teahouse/teacup/thelastmelon-cupflamefairy.png" title="made by JN">
