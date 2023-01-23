@@ -65,6 +65,9 @@ menu: pages
     <a target="_blank" href="https://desertjaguar.casa/">
         <img src="/graphics/teahouse/teacup/thelastmelon-cupflame.png" title="made by JN">
     </a>
+    <a target="_blank" href="https://caichee.neocities.org/">
+        <img src="/graphics/teahouse/teacup/caichee-dandelions.png" title="tastes like dandelion wishes - made by caichee">
+    </a>
     <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
