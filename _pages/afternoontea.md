@@ -68,6 +68,18 @@ menu: pages
     <a target="_blank" href="https://caichee.neocities.org/">
         <img src="/graphics/teahouse/teacup/caichee-dandelions.png" title="tastes like dandelion wishes - made by caichee">
     </a>
+    <a target="_blank" href="https://starfighter.neocities.org/">
+        <img src="/graphics/teahouse/teacup/starfighter-rainbow-shake.png" title="tastes like rainbow shake - made by Starfighter">
+    </a>
+    <a target="_blank" href="https://starfighter.neocities.org/">
+        <img src="/graphics/teahouse/teacup/starfighter-tiny-company.gif" title="tastes like tiny company - made by Starfighter">
+    </a>
+    <a target="_blank" href="https://starfighter.neocities.org/">
+        <img src="/graphics/teahouse/teacup/starfighter-pineapple.png" title="tastes like pineapple - made by Starfighter">
+    </a>
+    <a target="_blank" href="https://humanfinny.neocities.org/">
+        <img src="/graphics/teahouse/teacup/humanfinny-cherry-cream.png" title="tastes like cherry cream - made by Finny">
+    </a>
     <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
