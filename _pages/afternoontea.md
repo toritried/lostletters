@@ -80,6 +80,12 @@ menu: pages
     <a target="_blank" href="https://humanfinny.neocities.org/">
         <img src="/graphics/teahouse/teacup/humanfinny-cherry-cream.png" title="tastes like cherry cream - made by Finny">
     </a>
+    <a target="_blank" href="http://themby.neocities.org/">
+        <img src="/graphics/teahouse/teacup/themby-icedtea.png" title="tastes like iced tea - made by Louie">
+    </a>
+    <a target="_blank" href="http://themby.neocities.org/">
+        <img src="/graphics/teahouse/teacup/themby-starcup.gif" title="tastes like stardust - made by Louie">
+    </a>
     <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
