@@ -1,15 +1,18 @@
 ---
 layout:  post
 title:  "2023 Resolutions"
-date:  2023-02-26 01:23 -0900
+date:  2023-03-03 01:23 -0900
 tags:  [goals, resolutions]  
 ---
-Congratulations to us for making it to yet another year! Before I get into what I'm doing in 2023, I wanted to note a few realizations I had about 2022 when I filled out my [YearCompass](https://yearcompass.com/): 
-1. The wisest decision I made last year was attempting and completing the couch-to-5k (C25K) running program. My memory of those runs are incredibly clear over a year later, and my mental health was mostly stable when I was running regularly.
-2. The biggest lesson I learned was to spark personal interests and passions by revisiting childhood interests that I never fully explored. This site exists today because I got curious about web development again.
-3. 2022 in 3 words: Home. Friendship. Efforts. Despite staying at home more this year than any other in my adult life (2022 was my most COVID-cautious year yet), I put a ton of effort into doing new things and maintaining connections to my closest friends. Compared to the extrovert who didn't know what to do at home after cleaning it for the third time that day in 2020, I'm now unrecognizable. I often spend hours in front of a computer in silence, surfing the small web and brimming with excitement for the stuff I'm learning online. I've had to adjust my self-concept a lot. 
-
+Congratulations to us for making it to yet another year! Before I get into what I'm doing in 2023, I wanted to note a few realizations I had about 2022 when I filled out my [YearCompass](https://yearcompass.com/):  \
+  \
+**1.** The wisest decision I made last year was attempting and completing the [couch-to-5k (C25K) running program](https://marathonhandbook.com/couch-to-5k-training-plan/). My memory of those runs are incredibly clear over a year later, and my mental health was mostly stable when I was running regularly.  \
+**2.** The biggest lesson I learned was to spark personal interests and passions by revisiting childhood interests that I never fully explored. This site exists today because I got curious about web development again.  \
+**3.** 2022 in 3 words: Home. Friendship. Efforts. Despite staying at home more this year than any other in my adult life (2022 was my most COVID-cautious year yet), I put a ton of effort into doing new things and maintaining connections to my closest friends. Compared to the extrovert who didn't know what to do at home after cleaning it for the third time that day in 2020, I'm now unrecognizable. I often spend hours in front of a computer in silence, surfing the small web and brimming with excitement for the stuff I'm learning online. I've had to adjust my self-concept a lot.
+  \
+  \
 While I enjoy reflecting, I enjoy making resolutions and setting goals more. Here's what I'm hoping to achieve in 2023:
+<!--excerpt-->
 - **Site** - Projects to tackle this year
 	- CSS theme switcher for dark mode - I'm really struggling with envisioning what a dark version of the site could look like, but I hope to get one up eventually
 	- CSS showcase - All the ~~crimes against design~~ CSS I've learned condensed in one buck wild page.
