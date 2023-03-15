@@ -1,11 +1,11 @@
 ---
-layout: default1
+layout: space
 title: home
 emoji: 🏠
 ---
 <img src="/graphics/site_buttons/LostLetters32x32.gif" title="If you want to use this 32x32px button to link back to my site, please download and host the image yourself, thanks!" align="left" style="margin: 11px 17px 0 10px;" >
-<img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 0;" align="right" title="you can adopt me from this site!"/>
-You have found <b>Lost Letters</b>, a personal pixel website & home of the <a href="/afternoontea/">Afternoon Tea Pixel Club</a>. 
+<img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 0;" align="right" title="you can adopt me from this site!" width="82px"/>
+You have found Lost Letters, a personal pixel website & home of the <a href="/afternoontea/">Afternoon Tea Pixel Club</a>. 
 This site is my small contribution to the 
 <a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
     web revival movement

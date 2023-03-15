@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: space
 title: about me
 emoji: 🎃
 permalink: /about-me/

@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: space
 title: my virtual pets
 emoji: 🐲
 permalink: /pets/

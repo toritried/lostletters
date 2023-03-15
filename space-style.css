@@ -47,41 +47,54 @@
   }
   
   h2{
-    font: 1.5em 'Spectral', sans-serif;
-    text-shadow: -1px 0 #9c5a3c, 0 1px #9c5a3c, 1px 0 #9c5a3c, 0 -1px #9c5a3c, -2px 1px 2px #ffdfe3, -2px 1px 2px #fff9bd;
-    text-transform: lowercase;
+    font-weight: normal;
     padding-bottom: 0.4em;
   }
   
   strong, b {
-      color: #a47074;
-      font-weight: bold;
+    color: #d6d4d4;
+    font-weight: bold;
   }
   
   a {
-      color: #c09dba;
-      font-weight: bold;
-      text-decoration: none;
-      cursor: pointer;
+    color: #ff7add;
+    text-decoration: none;
+    cursor: pointer;
   }
   
   a:hover {
-      color: #9C5A3C;
-      background-image: url(graphics/layout/v1_laceletter/twinkle.gif);
-      font-weight: bold;
-      text-decoration: none;
+    color: #f74acb;
+    text-decoration: none;
+    text-shadow: 2px 2px 4px #f74acb;
+  }
+
+::selection {
+  background: #450435;
+  color: #ffffff;
   }
 
   body {
-    background: url('graphics/layout/v1_laceletter/bg.gif');
-    background-color: #ffffff;
-    color: #c49dba;
-    font: .9em 'Spectral', sans-serif;
+    background-color: #000000;
+    background-image: url('/graphics/layout/slow-star.gif'); 
+    font: 1em 'Bree Serif', sans-serif;
     line-height: 2em;
     image-rendering: -webkit-optimize-contrast;
+    color: #ffc6ec;
   }
-  
-
+    
+@keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    
+    50% {
+      background-position: 100% 50%;
+    }
+    
+    100% {
+      background-position: 0% 50%;
+    }
+  }
 
  img { 
     max-width: 100%;
@@ -90,82 +103,37 @@
     -webkit-filter: blur(0);
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
-  /*   image-rendering: optimizeSpeed;             /*                     */
- /*     image-rendering: -moz-crisp-edges;          /* Firefox             */
- /*     image-rendering: -o-crisp-edges;            /* Opera               */
- /*     image-rendering: -webkit-optimize-contrast; /* Chrome (and Safari) */
- /*     image-rendering: pixelated;                 /* Chrome as of 2019   */
- /*     image-rendering: optimize-contrast;         /* CSS3 Proposed       */
- /*     -ms-interpolation-mode: nearest-neighbor;   /* IE8+                */
-}
+  }
 
-
-  .banner {
-    height: 110px; 
-    opacity:1.0;
-    background: url('graphics/layout/v1_laceletter/topfrill.gif') repeat-x left top; 
-    width:100%;
-    position:fixed;
-    z-index:9999}
-  
-  /**
-   * credit to https://foollovers.com/mat/t-frame17.html
-   * @media queries for responsive layout
-   */
-  .box17 {
-    margin: 1em 0;
+  .box1 {
+    margin: 4em 0 20px 0;
     position: relative;
-  }
-  @media (max-width: 430px) {
-    .box17 {
-      width: 332px;
+    /* These styling elements are from Pale's Glassy layout 
+    https://palemomos.neocities.org/cool-layouts/ 
+    thought I have tweaked the values */
+    background-color: #1701126e;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
+    border: 1px solid var(--light-color);
+    border-radius: 35px;
+    padding: 1.7rem;
+    transition: 0.5s all ease;
+    backdrop-filter: blur(2px);
+    width: 60%;
+    height: 100%;
+    display: flex;
     }
-  }
-  @media (min-width: 431px) and (max-width: 628px) {
-    .box17 {
-      width: 431px;
-    }
-  }
-  @media (min-width: 629px) {
-    .box17 { 
-      width: 629px;
-    }
-  }
 
-  .u01 { 
-    background: url(graphics/layout/v1_laceletter/f-ue.gif) repeat-x; 
-    height: 67px ;
-    margin: 0 67px } 
-  
   .s01 { 
     background: url(graphics/layout/v1_laceletter/f-sita.gif) repeat-x; 
     height: 67px ; 
     margin: 0 67px } 
-  
-  .box-top { 
-    background-image: url(graphics/layout/v1_laceletter/f-kado1.gif), url(graphics/layout/v1_laceletter/f-kado2.gif); 
-    background-position: top left, top right;
-    background-repeat: no-repeat; 
-    height: 67px } 
-  
-  .box-center { 
-    background-image: url(graphics/layout/v1_laceletter/f-migi.gif), url(graphics/layout/v1_laceletter/f-hidari.gif); 
-    background-position: top right, top left;
-    background-repeat: repeat-y;
-    padding: 0 67px; }
-  
-  .box-inner{ 
-    background: #ffffff;
-    padding: 0 10px;}
-  
-  .box-bottom { 
-    background-image: url(graphics/layout/v1_laceletter/f-kado3.gif), url(graphics/layout/v1_laceletter/f-kado4.gif); 
-    background-position: top left, top right;
-    background-repeat: no-repeat; 
-    height : 67px } 
+
 
 /* navigation W3School version*/
 .navbar {
+  font-family: 'alagard', Arial, sans-serif;
+  font-weight:normal;
+  font-style:normal;
   overflow: hidden;
   cursor: pointer;
 }
@@ -183,13 +151,13 @@
 }
 
 .navbar a:hover, .dropbtn:hover {
-  background-color: #fce6e8;
+  background-color: #41333ec7;
   border-radius: 12px;
 }
 
 .dropdown-content {
   display: none;
-  background-color: #fbf4f5;
+  background-color: #41333e78;
   border-radius: 12px;
 }
 
@@ -202,7 +170,7 @@
 }
 
 .dropdown-content a:hover {
-  background-color: #fce6e8;
+  background-color: #41333ec7;
   display: inline-block;
 }
 
@@ -220,15 +188,12 @@ iframe {
   display: block;
 }
 
-.hatchery {
-  background-color: #fbd6da;
-  border-radius: 10px;
-  padding: 20px 0;
-}
 
-.hatchery-status {
-  color: black;
-  font-weight: bold;
+.footer {
+  font-family: 'alagard', Arial, sans-serif;
+  font-weight: lighter;
+  overflow: hidden;
+  cursor: pointer;
 }
 
 .quilt {
@@ -244,10 +209,11 @@ iframe {
 
 .quilt-link {
   position: absolute;
-  top: 53px;
-  left: 65px;
+  top: 20px;
+  left: 25px;
   animation: bobbing 2s ease-in-out infinite;
   animation-direction: alternate;
+  filter: drop-shadow(0px 0px 5px #ffc973);
 }
 @keyframes bobbing {
   0% {
@@ -291,14 +257,18 @@ a.skip-main:focus, a.skip-main:active {
 ::-webkit-scrollbar {
   height: 50px;
   width: 10px;
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar-corner {
+    background-color: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
   border-radius: 2ex;
   -webkit-box-shadow: inset 0 0 0px rgba(100, 84, 94, 1); 
   background:rgba(100, 84, 94, 1); 
-  background: linear-gradient(180deg, rgba(231, 170, 145, 1) 0%, rgba(164, 112, 116, 1)  100%);
-  border: 2px solid white;
+  background: linear-gradient(180deg, rgba(141, 103, 136, 0.727) 0%, rgb(55 22 70 / 19%) 100%);
 } 
 
 /* To avoid a horizontal scrollbar from appearing due to the cursor sparkles */

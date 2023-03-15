@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: space
 title: stationery life
 emoji: ✒️
 permalink: /stationery/

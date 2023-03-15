@@ -1,17 +1,21 @@
 ---
-layout: default2
+layout: space
 title: confessions
 emoji: 🤫
 permalink: /confessions/
 menu: pages
 ---
-<a target="_blank" href="https://www.patreon.com/waneella"><img src="https://imglf5.lf127.net/img/L1ZOMzFVTXVFQ2FhZCttVmlzZTEvM0I1Z3JnUS81OHZ0N09rTTVMUFp3MS9GcWZtV2dFcW1RPT0.gif" style="max-width: 100%;" title="gif by waneella"></a>
+<center>
+    <a target="_blank" href="https://www.patreon.com/waneella">
+        <img src="https://imglf5.lf127.net/img/L1ZOMzFVTXVFQ2FhZCttVmlzZTEvM0I1Z3JnUS81OHZ0N09rTTVMUFp3MS9GcWZtV2dFcW1RPT0.gif" style="max-height:100%;" title="gif by waneella">
+    </a>
+</center>
 <h2>gaijin confessions</h2>
 Although I'm half-Japanese, I wasn't raised in Japan, and I've done a lot of harmless, embarrassing stuff as an inept foreigner, trying to survive the most basic interactions here, 
 <a target="_blank" href="https://www.lejlart.com/apple.html">
     <img src="/graphics/toy/gudetama_hideegg.gif" style="margin: 10px;" title="gudetama by Lejla" align="right">
 </a>
-so let me tell you the stories I'd recount if we were both a few too many <i>chūhai</i> deep, squatting outside a glowing conbini near a few chain smokers who glance impassively at yet another <a target="_blank" href="https://www.instagram.com/shibuyameltdown/">shibuya meltdown</a>. 
+so let me tell you the stories I'd recount if we were both a few too many <i>chūhai</i> deep, squatting outside a glowing conbini near a few chain smokers who glance impassively at yet another <a target="_blank" href="https://www.instagram.com/shibuyameltdown/" title="caution: sometimes NSFW">shibuya meltdown</a>. 
 <center>
     <a target="_blank" href="http://bitmapdreams.lastsecret.net">
         <img src="/graphics/toy/bitmapdreams_hyoketsu.gif" title="hyoketsu pixel by Bitmap Dreams" style="margin: 5px;">
@@ -27,7 +31,9 @@ so let me tell you the stories I'd recount if we were both a few too many <i>ch�
 When the first delivery person arrived, I took the package, then the delivery person offered me a paper slip and pen. I motioned toward the pen and used my limited Japanese to ask "where?" to figure out where to sign since I couldn't read any of the labeled fields on the paper, and, much to my surprise, he pointed to a small, dotted-lined circle on the receipt-sized paper. Surely I couldn't fit my whole signature in there! The dotting looked kind of like it was perforated, so maybe I was supposed to push out the circle with the pen somehow? I looked at him confused, motioning repeatedly putting the pen tip to the circle hoping my body language conveyed my question. 
 <img src="/graphics/toy/emoticons/nod-deer.gif" align="right">
 He nodded encouragingly, so I set aside my reservations and plunged my pen through the paper. 
-<a target="_blank" href="https://giphy.com/lazycorgihk"><img src="https://media2.giphy.com/media/ZL61dblxE75QHlfuZk/giphy.gif" align="left" style="margin: 10px;" style="max-width: 30%;" title="gif by lazycorgihk"></a> 
+<a target="_blank" href="https://giphy.com/lazycorgihk">
+    <img src="https://media1.giphy.com/media/OHKYKNme94zFKO6RtA/giphy.gif" align="left" style="padding: 5px 10px 5px 0; max-width: 100px;" title="gif by lazycorgihk">
+</a> 
 He gasped. We both stared at each other, utterly confused. 
 <img src="/graphics/toy/emoticons/shocked-moomin.gif" align="right">
 He mimed writing and said, "Sign *shimasu*." I really was meant to sign in the hole after all... Later, I found out that the circle exists for folks to use their small, circular personal <a target="_blank" href="https://dual-hanko.jp/e-feature.html">*hanko*</a> seals in lieu of a signature, but you can also just sign sloppily over the circle and it doesn't matter at all.  
@@ -46,7 +52,7 @@ I already had my credit card and eco bag out, so I kept alternating with my two 
 <img src="/graphics/toy/emoticons/question-watercolor.gif" align="right" style="margin: 0 12px 0 0;" > 
 Eventually, I moved slightly to bring out my translate app on my phone, something clicked, and I was able to pay. This was so weird, so I immediately asked my friends, who are actually proficient at Japanese, what that *houhou* phrase meant. 
 <a target="_blank" href="https://giphy.com/lazycorgihk">
-    <img src="https://media3.giphy.com/media/SL9esQ2xRZT5h6PB7w/giphy.gif" align="right" style="margin: 10px;" style="max-width: 30%;" title="gif by lazycorgihk">
+    <img src="https://media3.giphy.com/media/SL9esQ2xRZT5h6PB7w/giphy.gif" align="right" style="padding: 5px 0 5px 10px; max-width: 100px;" title="gif by lazycorgihk">
 </a> 
 They told me she was asking, "How do you want to pay?" since she couldn't see the credit card in my hand until I shifted, and I kept essentially telling her that it's fine, I don't need to pay. I'm good!
 <br>

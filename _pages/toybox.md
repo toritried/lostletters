@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: space
 title: toybox
 emoji: 🎁
 permalink: /toybox/

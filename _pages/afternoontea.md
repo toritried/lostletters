@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: space
 title: afternoon tea
 emoji: 🍵
 permalink: /afternoontea/

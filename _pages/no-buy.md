@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: space
 title: 2022 "no buy"
 emoji: 💰
 permalink: /no-buy/
@@ -9,21 +9,21 @@ menu: stationery
 When I moved to Japan in 2019, I brought only two suitcases with me, and I was determined to eventually leave the country with even less. Although I have really limited myself in a country that is a veritable stationery heaven, I nevertheless purchased enough new stationery that I ended up needing storage for it all. 🚩 That was the red flag, signaling it was time to severely limit my stationery shopping. In the stationery community, we call this a "no buy" or "no spend", and we tend to fail them *quickly*. 😅  
 <br>
 
-## The terms of my year-long 2022 no buy
+## Terms of My Year-Long 2022 No Buy
 These are more like a list of exceptions to just generally *not buying stationery*, but just go with it.
 1. 🪙 **I was allowed to buy 1 item per month** - this seemed like a reasonable compromise, and I allowed myself to rollover the purchase if I didn't get anything that month
 2. 🤔 **I was allowed to buy 2023 planners** that I've determined will best serve me after completing my [techo kaigi](/techo-kaigi/) - I've never had any problem with thoughtful, intentional purchases like these. 
 3. 🙈 **I was allowed to buy whatever I wanted from the 2023 Hobonichi release** - Enjoying the annual release in person as I live in Japan is a highlight of every single year, so there was no way I was going to limit myself with this. However, this exception didn't end up being that expensive (there were no covers I *had* to have), so I hardly spent anything in comparison to last year's wallet carnage thanks to the must-have <a target="_blank" href="https://www.1101.com/store/techo/en/magazine/2022/contents/y22_cover_mkent/ow3524d9m.html">tweed</a> and <a target="_blank" href="https://www.1101.com/store/techo/en/magazine/2022/contents/yukifujisawa/t4vnjvfi1.html">holographic lace</a> temptations.  
 <br>
 
-## keys to maintaining the no buy
+## Keys to Maintaining the No Buy
 **Unfollowing suppliers** - I noticed I was repeatedly engaging in an anti-pattern, wasting hours clicking through a sticker shop's entire catalogue just to build and abandon a huge cart every time they posted about an update, so I unfollowed and unsubscribed from TONS of sticker and washi sample shops. All my go-to favorite shops were committed to memory anyway, so I could always support them if I deemed a potential purchase truly necessary. 
 
-**Changing the framing of my hobby** - Shifting my perspective and framing of my hobby from "stationery" to "planning and journaling" was critical as well. For me, *stationery* is inherently consumptive in nature, whereas *planning and journaling* are processes that can evolve creatively over time in a way that isn't defined by mediums/material goods. That mental shift gave me the space I needed to step back and see if a new product really would serve my system and process needs. It also enabled me to enjoy watching the stationery community use and enjoy a vast variety of planners and journals as well as the latest trends and products without FOMO. 
+**Changing the Framing of My Hobby** - Shifting my perspective and framing of my hobby from "stationery" to "planning and journaling" was critical as well. For me, *stationery* is inherently consumptive in nature, whereas *planning and journaling* are processes that can evolve creatively over time in a way that isn't defined by mediums/material goods. That mental shift gave me the space I needed to step back and see if a new product really would serve my system and process needs. It also enabled me to enjoy watching the stationery community use and enjoy a vast variety of planners and journals as well as the latest trends and products without FOMO. 
 
-**Daily observation through use** - By using my stationery stash every single day to decorate and fill out my planners and journals, I slowly developed a sense of which tools I lacked over time, which led to fewer, but much more deliberate and useful purchases later on.
+**Daily Observations Through Use** - By using my stationery stash every single day to decorate and fill out my planners and journals, I slowly developed a sense of which tools I lacked over time, which led to fewer, but much more deliberate and useful purchases later on.
 
-**My stationery pen pals** - I was greatly aided by my many extremely generous pen pals, who sent all manner of stickers, PET and washi tapes, and ephemera to use in decorating my spreads via snail mail. Every happy mail my friends sent was a fresh injection of creativity and potential, making me treasure these hand written and curated gifts even more.  
+**My Stationery Pen Pals** - I was greatly aided by my many extremely generous pen pals, who sent all manner of stickers, PET and washi tapes, and ephemera to use in decorating my spreads via snail mail. Every happy mail my friends sent was a fresh injection of creativity and potential, making me treasure these hand written and curated gifts even more.  
 <br>
 
 ## 2022 Purchases - ¥31617 (~$236 USD) total
@@ -57,9 +57,11 @@ Miscellaneous - ¥8956 (~$67 USD) total
 - ¥1,600 - <a target="_blank" href="https://www.1101.com/store/techo/ja/oem/article.html#370361">Hobonichi Weeks Moomin Pencil Board</a> (2022 ver.)  
 
 
-<a target="_blank" href="https://sakuralala.jp/collections/love-soup/products/love-soup-x-sakuralala-peppers-home-life">
-    <img src="https://cdn.shopify.com/s/files/1/0079/5725/0146/products/LoveSoupxSakuralala_PeppersHomeLife_4_540x.jpg?v=1670421669" style="max-width: 100%;margin: 20px 0;" align="center" title="No one can resist these Lovesoup x Sakuralala collab stamps">
-</a>
+<center>
+    <a target="_blank" href="https://sakuralala.jp/collections/love-soup/products/love-soup-x-sakuralala-peppers-home-life">
+        <img src="https://cdn.shopify.com/s/files/1/0079/5725/0146/products/LoveSoupxSakuralala_PeppersHomeLife_4_540x.jpg?v=1670421669" style="max-width: 100%;margin: 20px 0;" title="No one can resist these Lovesoup x Sakuralala collab stamps">
+    </a>
+</center>
 <br>
 
 ## Final Thoughts

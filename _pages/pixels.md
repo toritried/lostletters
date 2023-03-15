@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: space
 title: pixel art
 emoji: 🐱
 permalink: /pixels/

@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: space
 title: techo kaigi
 emoji: 📚
 permalink: /techo-kaigi/

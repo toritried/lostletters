@@ -1,16 +1,16 @@
 ---
-layout: default2
+layout: space
 title: credit
 emoji: 💛
 permalink: /credit/
 menu: meta
 ---
-<h2>site credits and attribution</h2>
+<h2>Site Credits and Attribution</h2>
 This is a collection of wonderful people / places / things that helped me create this site. Attribution is important to me, so if you ever have a question about where I got or learned something, feel free to ask in my guestbook (and I may add it here too).
 <br>
 <br>
 <h2>Graphics</h2>
-💖 <a target="_blank" href="https://foollovers.com/">Fool Lovers</a> - lace header, lacy content container, url hover sparkles, favicon, bouncing sakura divider
+💖 <a target="_blank" href="https://foollovers.com/">Fool Lovers</a> - lace header, lacy content container, url hover sparkles, favicon, bouncing sakura divider from my lace letter layout
 <br>
 💖 <a target="_blank" href="https://trovami.altervista.org/">trovami</a> -  custom web badge / antipixel button creator used for badges I made to reflect my values on my about page
 <br>
@@ -22,7 +22,7 @@ This is a collection of wonderful people / places / things that helped me create
 <a target="_blank" href="https://lostsozai.tumblr.com/">lost-sozai</a> - emoticons
 <br>
 <br>
-<h2>webmastery / dev environment</h2>
+<h2>Webmastery / Dev Environment</h2>
 💖 <a target="_blank" href="https://www.goatcounter.com/">GoatCounter</a> -  open source web analytics alternative to Google Analytics that I use on this site
 <br>
 💖 <a target="_blank" href="https://www.dafont.com/alagard.font">Hewett Tsoi</a> - creator of my pixel header font (Alagard)
