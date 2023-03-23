@@ -7,7 +7,6 @@ menu: pages
 ---
 <center>
     <h2>you're invited to afternoon tea</h2>
-    <img src="/graphics/teahouse/teacup/template-lostletters.png" title="this is the template made by Lost Letters"/>
     <a href="https://lostletters.neocities.org/index.html">
         <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
     </a>
@@ -86,6 +85,9 @@ menu: pages
     <a target="_blank" href="http://themby.neocities.org/">
         <img src="/graphics/teahouse/teacup/themby-starcup.gif" title="tastes like stardust - made by Louie">
     </a>
+    <a target="_blank" href="https://mizuki.world/">
+        <img src="/graphics/teahouse/teacup/strawberrymedicine-mizuki.png" title="tastes like strawberry medicine - made by Mizuki">
+    </a>
     <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
@@ -95,14 +97,13 @@ menu: pages
     Do not direct link from my site.
 </center>
 <br>
-<h2>how to join this pixel club</h2>
+<h2>How to Join This Pixel Club</h2>
 <ol>
     <li>
-        Download the template above.
+        Download the <a target="_new" href="/graphics/teahouse/teacup/template-lostletters.png">✨template✨</a>.
     </li>
     <li>
-        Create a pixel teacup to show off your style. Animations are welcome! 
-        <img src="/graphics/toy/emoticons/cute_bear.gif"> 
+        Create a pixel teacup with a transparent background to show off your style. Animations are welcome! 
     </li>
     <li>
         Share a link to your pixel teacup + your URL in my guestbook, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text. 
@@ -118,7 +119,6 @@ menu: pages
 <ul>
     <li>
         <b>Can I use the template without joining the club?</b> Yes, you are welcome to use it for any purpose! 
-        <img src="/graphics/toy/emoticons/love_bear.gif"> 
     </li>
     <li>
         <b>How is a pixel "club" different from a pixel "clique"?</b> I use them interchangeably, but I just prefer "club" because it sounds more inclusive. 
@@ -131,5 +131,5 @@ menu: pages
 This is a pixel club tribute to <b>Teahouse MB</b>, a kawaii pixel art forum that no longer exists. Teahouse MB provided a teacup template for folks to create their own unique teacup designs. Artists would then allow a limited number of people to collect the design on a first-come-first-serve basis, usually limiting it to the first 10-20 people who posted on the thread.
 <br>
 <br>
-<img src="/graphics/toy/emoticons/shocked-moomin.gif" align="right" style="margin: 0 4px 0 0;" > 
+<img src="/graphics/toy/emoticons/shocked-moomin.gif" align="right" style="margin: 0 0 0 7px;" > 
 <i>Note:</i> I created the template for the Afternoon Pixel Club from scratch since I didn't have a copy of the original from Teahouse MB.
