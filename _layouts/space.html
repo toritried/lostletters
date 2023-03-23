@@ -42,6 +42,10 @@
                             💌 stationery 
                             <span class="fa fa-caret-down"></span>
                         </button>
+                        <button class="dropbtn" aria-controls="dropdown-ttrpg" aria-expanded="false">
+                            🦄 ttrpgs 
+                            <span class="fa fa-caret-down"></span>
+                        </button>
                         <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
                             👑 webmaster 
                             <span class="fa fa-caret-down"></span>
@@ -65,6 +69,16 @@
                         <div class="dropdown-content" id="dropdown-stationery">
                             {% for page in site.pages %}
                                 {% if page.menu == "stationery" %}
+                                <a href="{{ page.url }}">
+                                    {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                                    {{ page.title }}
+                                </a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                        <div class="dropdown-content" id="dropdown-ttrpg">
+                            {% for page in site.pages %}
+                                {% if page.menu == "ttrpg" %}
                                 <a href="{{ page.url }}">
                                     {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                                     {{ page.title }}
@@ -100,9 +114,6 @@
                         <br>
                         <div slot="content">
                             {{ content }}
-                            <br>
-                            <div id="webmentions">
-                            </div>
                         </div>
                     </div>
                 </main>

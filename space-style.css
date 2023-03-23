@@ -52,8 +52,9 @@
   }
   
   strong, b {
-    color: #d6d4d4;
-    font-weight: bold;
+    background: -webkit-linear-gradient(#fff6e7, #ff9f00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   
   a {
@@ -69,7 +70,7 @@
   }
 
 ::selection {
-  background: #450435;
+  background: #ffb8ed3f;
   color: #ffffff;
   }
 

@@ -1,5 +1,5 @@
 ---
-layout: space-index
+layout: space
 title: home
 emoji: 🏠
 ---
