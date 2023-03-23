@@ -42,10 +42,12 @@
                             💌 stationery 
                             <span class="fa fa-caret-down"></span>
                         </button>
+                        <!-- 
                         <button class="dropbtn" aria-controls="dropdown-ttrpg" aria-expanded="false">
                             🦄 ttrpgs 
                             <span class="fa fa-caret-down"></span>
                         </button>
+                        -->
                         <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
                             👑 webmaster 
                             <span class="fa fa-caret-down"></span>
@@ -76,6 +78,7 @@
                                 {% endif %}
                             {% endfor %}
                         </div>
+                        <!-- 
                         <div class="dropdown-content" id="dropdown-ttrpg">
                             {% for page in site.pages %}
                                 {% if page.menu == "ttrpg" %}
@@ -86,6 +89,7 @@
                                 {% endif %}
                             {% endfor %}
                         </div>
+                        -->
                         <div class="dropdown-content" id="dropdown-about">
                             {% for page in site.pages %}
                                 {% if page.menu == "about" %}
