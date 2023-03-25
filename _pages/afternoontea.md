@@ -88,6 +88,12 @@ menu: pages
     <a target="_blank" href="https://mizuki.world/">
         <img src="/graphics/teahouse/teacup/strawberrymedicine-mizuki.png" title="tastes like strawberry medicine - made by Mizuki">
     </a>
+    <a target="_blank" href="https://ophanimkei.com/">
+        <img src="/graphics/teahouse/teacup/heaven-mala.png" title="tastes like heaven - made by Mala">
+    </a>
+    <a target="_blank" href="https://ophanimkei.com/">
+        <img src="/graphics/teahouse/teacup/worms-mala.png" title="tastes like worms - made by Mala">
+    </a>
     <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
@@ -110,7 +116,7 @@ menu: pages
         <img src="/graphics/toy/emoticons/letter-bear.gif"> 
     </li>
     <li>
-        <i>Optional:</i> Create a space on your website for your teacup collection and collect cups from the gallery above.
+        <b>Optional:</b> Create a space on your website for your teacup collection and collect cups from the gallery above.
         <img src="/graphics/toy/emoticons/love_cat.gif"> 
     </li>
 </ol>
