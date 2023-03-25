@@ -3,9 +3,9 @@ layout: space
 title: home
 emoji: 🏠
 ---
-<img src="/graphics/site_buttons/LostLetters32x32.gif" title="If you want to use this 32x32px button to link back to my site, please download and host the image yourself, thanks!" align="left" style="margin: 11px 17px 0 10px;" >
-<img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 0;" align="right" title="you can adopt me from this site!" width="82px"/>
-You have found Lost Letters, a personal pixel website & home of the <a href="/afternoontea/">Afternoon Tea Pixel Club</a>. 
+<img src="/graphics/site_buttons/LostLetters32x32.gif" align="left" style="margin: 11px 17px 0 10px;" >
+<img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 0;" align="right" width="82px"/>
+You have found Lost Letters, a personal website & home of the <a href="/afternoontea/">Afternoon Tea Pixel Club</a>. 
 This site is my small contribution to the 
 <a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
     web revival movement
@@ -22,7 +22,7 @@ know in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-0
 <center>
     <br>
     ｡･:*˚:✧｡ 
-    <img src="/graphics/site_buttons/LostLetters88x31.gif" title="If you want to use this 88x31px button to link back to my site, please download and host the image yourself, thanks!">
+    <img src="/graphics/site_buttons/LostLetters88x31.gif">
      ｡✧:˚*:･｡
     <br>
     <a target="_blank" href="https://neocities.org/site/lostletters">neocities</a> | 
@@ -30,5 +30,26 @@ know in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-0
     <a target="_blank" href="https://github.com/toritried/lostletters">github</a> | 
     <a target="_blank" href="https://social.yesterweb.org/@lostletters" rel="me">mastodon</a>
     <br>
+    <br>
     <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
+    <br>
+    <a href='https://webring.dinhe.net/prev/https://lostletters.neocities.org/'>
+        &lt;&lt;
+    </a>
+    <a target="_blank" href="https://webring.dinhe.net/">
+         Retronaut 
+    </a>
+    <a href='https://webring.dinhe.net/next/https://lostletters.neocities.org/'>
+        &gt;&gt;
+    </a>
+    <br>
+    <a href="https://hotlinewebring.club/lostletters/next">
+        &lt;&lt;
+    </a>
+    <a target="_blank" href="https://hotlinewebring.club/">
+         Hotline 
+    </a>
+    <a href="https://hotlinewebring.club/lostletters/previous">
+        &gt;&gt;
+    </a>
 </center>

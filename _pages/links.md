@@ -191,17 +191,3 @@ Gloomlee</a> is the genius behind the Neocities-friendly (all HTML and JS, no PH
 <a target="_blank" href="https://amelia.sg/ametarium/">
     <img src="/graphics/linkout/88x31-ametarium.gif" title="Ametarium" align="left" style="margin: 10px 10px 0 0;">
     Ametarium</a> is a space-themed pixel and vector art adoptables site.  
-<br>
-<br>
-<center>
-    Still not satisfied? <i>Use these webrings!</i>
-    <br>
-    <div class="yw-widget-text yw-raw" data-yw-url="https://yesterweb.org/"></div><script src="https://yesterweb.org/js/widget.js"></script>
-    <a href='https://webring.dinhe.net/prev/https://lostletters.neocities.org/'>&lt;&lt;</a>
-    <a target="_blank" href="https://webring.dinhe.net/"> Retronaut </a>
-    <a href='https://webring.dinhe.net/next/https://lostletters.neocities.org/'>&gt;&gt;</a>
-    <br>
-    <a href="https://hotlinewebring.club/lostletters/next">&lt;&lt;</a><a target="_blank" href="https://hotlinewebring.club/">
-     Hotline </a>
-    <a href="https://hotlinewebring.club/lostletters/previous">&gt;&gt;</a>
-</center>
