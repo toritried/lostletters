@@ -849,7 +849,7 @@ menu: pages
         <img src="/graphics/quilt/layout/qbee-divider.gif">
         <br>
         <br>
-        <h2>shrine disclaimer</h2>
+        <h2>Shrine Disclaimer</h2>
     </center>
     <img src="/graphics/quilt/extras/site-link.gif" style="margin: 12px 12px 12px 0;" align="left" title="the best pixel club on the web!"/>
     This forever incomplete shrine is my best effort at documenting as much as I can find and recall about the q*bee. I hope everyone on the old web had a place as special as this site, because there really won't ever <i>bee</i> anything like it again. If I got something wrong or if any former bees want to also add to this, please drop me a message on my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce">guestbook</a> or <a target="_blank" href="https://social.yesterweb.org/@lostletters">mastodon</a>. I'd love to just reconnect and reminisce too.
@@ -861,7 +861,7 @@ menu: pages
         <br>
         <h2>Pixel Club Overview & History</h2>
     </center>
-    <b>The * Quilting * Bee</b> (aka q\*bee) was an interactive pixel art community that was founded on February 18th, 2000 and closed in 2014. <a target="_blank" href="https://web.archive.org/web/20121114142715/http://theqbee.net/about.php">“It was the first and original trading club dedicated to trading pixel web graphics between members. Members could collect and trade pixel patches to 'sew' onto their 'quilts'”</a> (seen above), which were akin to visual directories of creative webmasters, in addition to participating in many other activities to motivate and advance their pixeling skills, including monthly pixel art challenges. There were also non-pixeling activities like "blog-a-thons", story writing, holiday card exchanges, and many other immersive ways to have fun and get to know fellow bees. The q*bee awarded members <a target="_blank" href="https://web.archive.org/web/20081225062038/http://theqbee.net/patchinfo.php">many patches</a> and mini pixel mushrooms in recognition of contributions to the site and community.
+    <b>The * Quilting * Bee</b> (aka q*bee) was an interactive pixel art community that was founded on February 18th, 2000 and closed in 2014. <a target="_blank" href="https://web.archive.org/web/20121114142715/http://theqbee.net/about.php">“It was the first and original trading club dedicated to trading pixel web graphics between members. Members could collect and trade pixel patches to 'sew' onto their 'quilts'”</a> (seen above), which were akin to visual directories of creative webmasters, in addition to participating in many other activities to motivate and advance their pixeling skills, including monthly pixel art challenges. There were also non-pixeling activities like "blog-a-thons", story writing, holiday card exchanges, and many other immersive ways to have fun and get to know fellow bees. The q*bee awarded members <a target="_blank" href="https://web.archive.org/web/20081225062038/http://theqbee.net/patchinfo.php">many patches</a> and mini pixel mushrooms in recognition of contributions to the site and community.
     <br>
     <br>
     <center>
@@ -988,14 +988,14 @@ menu: pages
         <img src="/graphics/quilt/mini/2012-tastycake.gif" title="Tasy Cakes 2012 - I won 3rd place!">
     </center>
     <br>
-    The q\*bee was like a virtual pixel art summer camp with fun ways to participate happening all of the time. Some activity pages with member-created submissions are still accessible such as <a target="_blank" href="https://web.archive.org/web/20081225061749/http://theqbee.net/activity-castles08.php">Sandcastles from 2008</a>, <a target="_blank" href="https://web.archive.org/web/20081223132105/http://theqbee.net/activity-spring08.php">Spring Flowers from 2008</a>, and <a target="_blank" href="https://web.archive.org/web/20081223134140/http://theqbee.net/activity-val08.php">Valentines Lucky Dip 2008</a>. 
+    The q*bee was like a virtual pixel art summer camp with fun ways to participate happening all of the time. Some activity pages with member-created submissions are still accessible such as <a target="_blank" href="https://web.archive.org/web/20081225061749/http://theqbee.net/activity-castles08.php">Sandcastles from 2008</a>, <a target="_blank" href="https://web.archive.org/web/20081223132105/http://theqbee.net/activity-spring08.php">Spring Flowers from 2008</a>, and <a target="_blank" href="https://web.archive.org/web/20081223134140/http://theqbee.net/activity-val08.php">Valentines Lucky Dip 2008</a>. 
     <br>
     <br>
     <center>
         <img src="/graphics/quilt/layout/qbee-divider.gif">
         <br>
         <br>
-        <h2>the joy of being a bee</h2>
+        <h2>The Joy of Beeing a Bee</h2>
     </center>
     Whether I was challenging myself to create a submission for a seasonal pixel art contest, getting inspired by unique patches and quilts, or buzzing on the Bee\*Bee\*S message board, I was always having a lovely time as a bee. 
     The community was ever-evolving in response to this incredible creative source and outlet. 
@@ -1088,97 +1088,119 @@ menu: pages
             <img width="40" height="40" src="/graphics/quilt/your-patch-here.gif">
         </div>
     </center>
+<br>
+Through the process of creating this shrine, I found some quilts that were preserved better than others. There were many club rules that standardized quilts, including the requirement to keep a trade log. That's how I found proof of my trades even though I didn't have my old personal website anymore. One of my earliest recorded trades I could find was with <a target="_blank" href="https://web.archive.org/web/20081118101654/http://www.lollie.fr/qbee/log.php?log_year=2007">Lollie #32 in February 2007</a> as bee #10. The most recent trade I could find was with <a target="_blank" href="https://web.archive.org/web/20130614001244/http://rainterra.net/">Mylene #258 on April 13, 2013</a> as bee #19 (I changed numbers when I rejoined later on). I'm so grateful that this information is still out there, enabling me to find my old patches and digital footprints that exclaim, "I was here! I was a part of this!" I've collected some of the better preserved quilts here, so click on these patches below to experience their creativity and uniqueness first-hand.
+<br>
+<br>
+<center>
+    <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="traded with Lisa Fehr #231 on Jan 25, 2012">
+        <img width="40" height="40" src="/graphics/quilt/231-Lisa-Fehr.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20130917224631/http://fractured-beauty.com/QBee/" title="Grace #266">
+        <img width="40" height="40" src="/graphics/quilt/266-grace.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20110118071027/http://www.forward-is-calling.net/db/quilt/quilt.htm" title="Caity #64">
+        <img width="40" height="40" src="/graphics/quilt/64-caity.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20100209024237/http://www.lollie.fr/qbee/" title="Lollie #32">
+        <img width="40" height="40" src="/graphics/quilt/32-lollie.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Bubs #77">
+        <img width="40" height="40" src="/graphics/quilt/77-bubs.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20130421091713/http://alittlewhimsy.net/quilt/index.php" title="Melissa #188">
+        <img width="40" height="40" src="/graphics/quilt/188-melissa.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20120326112942/http://littlejoni.wordpress.com/quilting-bee/quilt/" title="Joni #24">
+        <img width="40" height="40" src="/graphics/quilt/24-joni.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20120710061137/http://notquitepetite.com/184quilt/" title="Amanda #184">
+        <img width="40" height="40" src="/graphics/quilt/184-amanda.png">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20111229053556/http://kaleidoscrap.net/qbee/popup.html" title="Ciara #146">
+        <img width="40" height="40" src="/graphics/quilt/146-ciara.gif">
+    </a>
     <br>
-    Through the process of creating this shrine, I found some quilts that were preserved better than others. There were many club rules that standardized quilts, including the requirement to keep a trade log. That's how I found proof of my trades even though I didn't have my old personal website anymore. One of my earliest recorded trades I could find was with <a target="_blank" href="https://web.archive.org/web/20081118101654/http://www.lollie.fr/qbee/log.php?log_year=2007">Lollie #32 in February 2007</a> as bee #10. The most recent trade I could find was with <a target="_blank" href="https://web.archive.org/web/20130614001244/http://rainterra.net/">Mylene #258 on April 13, 2013</a> as bee #19 (I changed numbers when I rejoined later on). I'm so grateful that this information is still out there, enabling me to find my old patches and digital footprints that exclaim, "I was here! I was a part of this!" I've collected some of the better preserved quilts here, so click on these patches below to experience their creativity and uniqueness first-hand.
-    <br>
-    <br>
-    <center>
-        <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="traded with Lisa Fehr #231 on Jan 25, 2012">
-            <img width="40" height="40" src="/graphics/quilt/231-Lisa-Fehr.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20130917224631/http://fractured-beauty.com/QBee/" title="Grace #266">
-            <img width="40" height="40" src="/graphics/quilt/266-grace.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20110118071027/http://www.forward-is-calling.net/db/quilt/quilt.htm" title="Caity #64">
-            <img width="40" height="40" src="/graphics/quilt/64-caity.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20100209024237/http://www.lollie.fr/qbee/" title="Lollie #32">
-            <img width="40" height="40" src="/graphics/quilt/32-lollie.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Bubs #77">
-            <img width="40" height="40" src="/graphics/quilt/77-bubs.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20130421091713/http://alittlewhimsy.net/quilt/index.php" title="Melissa #188">
-            <img width="40" height="40" src="/graphics/quilt/188-melissa.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20120326112942/http://littlejoni.wordpress.com/quilting-bee/quilt/" title="Joni #24">
-            <img width="40" height="40" src="/graphics/quilt/24-joni.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20120710061137/http://notquitepetite.com/184quilt/" title="Amanda #184">
-            <img width="40" height="40" src="/graphics/quilt/184-amanda.png">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20111229053556/http://kaleidoscrap.net/qbee/popup.html" title="Ciara #146">
-            <img width="40" height="40" src="/graphics/quilt/146-ciara.gif">
-        </a>
-        <br>
-        <a target="_blank" href="https://web.archive.org/web/20111219214551/http://qbee.sugar-baby.org/" title="Jennifer #242">
-            <img width="40" height="40" src="/graphics/quilt/242-jennifer.png">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20100923112350/http://qbee.astorytocherish.net/" title="Kassie #106">
-            <img width="40" height="40" src="/graphics/quilt/106-kassie.png">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Anne #263">
-            <img width="40" height="40" src="/graphics/quilt/263-anne.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20081220051840/http://www.rainbow-stuff.com/qbee" title="Ashley #267 - this quilt isn't in such good shape">
-            <img width="40" height="40" src="/graphics/quilt/267-ashley.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20081218064900/http://lluvia-abril.es/" title="Oriana #328 - this quilt isn't in such good shape">
-            <img width="40" height="40" src="/graphics/quilt/328-oriana.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20110814051556/http://riyuu.org/qbee-quilt/" title="Jenny #119 - this quilt isn't in such good shape">
-            <img width="40" height="40" src="/graphics/quilt/119-jenny.gif">
-        </a>
-        <br>
-        <br>
-        <img src="/graphics/quilt/layout/qbee-divider.gif">
-        <br>
-        <br>
-        <h2>Free*bees for former bees</h2>
-    </center>
-    Given how much effort went into every pixel and line of code for this club, I would hate it if this work was ever forgotten and never seen again. I felt compelled to create this shrine to cherish this very special time and place on the web, and I've compiled a list of assets here in case any other members want to create a quilt for old times' sake.
+    <a target="_blank" href="https://web.archive.org/web/20111219214551/http://qbee.sugar-baby.org/" title="Jennifer #242">
+        <img width="40" height="40" src="/graphics/quilt/242-jennifer.png">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20100923112350/http://qbee.astorytocherish.net/" title="Kassie #106">
+        <img width="40" height="40" src="/graphics/quilt/106-kassie.png">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Anne #263">
+        <img width="40" height="40" src="/graphics/quilt/263-anne.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20081220051840/http://www.rainbow-stuff.com/qbee" title="Ashley #267 - this quilt isn't in such good shape">
+        <img width="40" height="40" src="/graphics/quilt/267-ashley.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20081218064900/http://lluvia-abril.es/" title="Oriana #328 - this quilt isn't in such good shape">
+        <img width="40" height="40" src="/graphics/quilt/328-oriana.gif">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20110814051556/http://riyuu.org/qbee-quilt/" title="Jenny #119 - this quilt isn't in such good shape">
+        <img width="40" height="40" src="/graphics/quilt/119-jenny.gif">
+    </a>
     <br>
     <br>
-    - <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/">MyQuilt Admin</a>, a PHP/MySQL management script for your Quilting Bee quilt, created by Bubs #77
-    - <a target="_blank" href="https://web.archive.org/web/20100612095306/http://theqbee.net/downloads.php">Template quilt zip files</a>
-    - <a target="_blank" href="https://web.archive.org/web/20080210085659/http://www.theqbee.net/images.php?p=view&cat=patch">Adoptable patches</a> created by members
-    - <a target="_blank" href="https://web.archive.org/web/20080209221817/http://www.theqbee.net/images.php?p=view&cat=tiny">Tiny pixels</a> created by members
-    - <a target="_blank" href="https://web.archive.org/web/20080206073744/http://www.theqbee.net/images.php?p=view&cat=template">Patch templates</a>
-    - <a target="_blank" href="https://web.archive.org/web/20080209090619/http://www.theqbee.net/fb-orgbee.php">Organizer patches provided by the q*bee</a>
-    - <a target="_blank" href="https://web.archive.org/web/20080131134408/http://www.theqbee.net/fb-lucky.php">Lucky cats (maneki neko) patches provided by the q*bee</a>
-    - <a target="_blank" href="https://web.archive.org/web/20080204010105/http://www.theqbee.net/fb-nectar.php">Twilight Stars tenure patches provided by the q*bee</a>
-    - <a target="_blank" href="https://web.archive.org/web/20080210085647/http://www.theqbee.net/fb-cookie.php">One Click Cookie patches provided by the q*bee</a> for members who put a link to their quilt from the landing page of their website
-    - <a target="_blank" href="https://web.archive.org/web/20080209221804/http://www.theqbee.net/images.php?p=view&cat=buttons">88x31 and 32x32 site buttons created by members</a>
+    <img src="/graphics/quilt/layout/qbee-divider.gif">
     <br>
     <br>
-    <center>
-        <img src="/graphics/quilt/extras/button.gif">
-        <img src="/graphics/quilt/extras/button_2.gif">
-        <img src="/graphics/quilt/extras/button_3.gif">
-        <img src="/graphics/quilt/extras/button_4.gif">
-        <img src="/graphics/quilt/extras/button_5_267_1.gif">
-        <img src="/graphics/quilt/extras/button_6_267_2.gif">
-        <img src="/graphics/quilt/extras/button_8.gif">
-        <img src="/graphics/quilt/extras/button_9.gif">
-        <img src="/graphics/quilt/extras/button_10.gif">
-        <img src="/graphics/quilt/extras/button_11.gif">
-        <img src="/graphics/quilt/extras/button_12.gif">
-        <img src="/graphics/quilt/extras/button_13.gif">
-        <img src="/graphics/quilt/extras/button_14.gif">
-        <img src="/graphics/quilt/extras/button_15.png">
-        <img src="/graphics/quilt/extras/button_16.gif">
-        <img src="/graphics/quilt/extras/button_7.gif">
-        <br>
-        <img src="/graphics/quilt/extras/the-quilting-bee-rainbow.png" style="margin: 60px 0 0 0; max-width: 100%;" title="this was the very last graphic on the site when it was updated in 2020"/>
-    </center>
+    <h2>Free*bees for Former Bees</h2>
+</center>
+Given how much effort went into every pixel and line of code for this club, I would hate it if this work was ever forgotten and never seen again. I felt compelled to create this shrine to cherish this very special time and place on the web, and I've compiled a list of assets here in case any other members want to create a quilt for old times' sake.
+<br>
+<br>
+<ul>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/">MyQuilt Admin</a>, a PHP/MySQL management script for your Quilting Bee quilt, created by Bubs #77
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20100612095306/http://theqbee.net/downloads.php">Template quilt zip files</a>
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20080210085659/http://www.theqbee.net/images.php?p=view&cat=patch">Adoptable patches</a> created by members
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20080209221817/http://www.theqbee.net/images.php?p=view&cat=tiny">Tiny pixels</a> created by members
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20080206073744/http://www.theqbee.net/images.php?p=view&cat=template">Patch templates</a>
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20080209090619/http://www.theqbee.net/fb-orgbee.php">Organizer patches provided by the q*bee</a>
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20080131134408/http://www.theqbee.net/fb-lucky.php">Lucky cats (maneki neko) patches provided by the q*bee</a>
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20080204010105/http://www.theqbee.net/fb-nectar.php">Twilight Stars tenure patches provided by the q*bee</a>
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20080210085647/http://www.theqbee.net/fb-cookie.php">One Click Cookie patches provided by the q*bee</a> for members who put a link to their quilt from the landing page of their website
+    </li>
+    <li>
+        <a target="_blank" href="https://web.archive.org/web/20080209221804/http://www.theqbee.net/images.php?p=view&cat=buttons">88x31 and 32x32 site buttons created by members</a>
+    </li>
+</ul>
+<br>
+<br>
+<center>
+    <img src="/graphics/quilt/extras/button.gif">
+    <img src="/graphics/quilt/extras/button_2.gif">
+    <img src="/graphics/quilt/extras/button_3.gif">
+    <img src="/graphics/quilt/extras/button_4.gif">
+    <img src="/graphics/quilt/extras/button_5_267_1.gif">
+    <img src="/graphics/quilt/extras/button_6_267_2.gif">
+    <img src="/graphics/quilt/extras/button_8.gif">
+    <img src="/graphics/quilt/extras/button_9.gif">
+    <img src="/graphics/quilt/extras/button_10.gif">
+    <img src="/graphics/quilt/extras/button_11.gif">
+    <img src="/graphics/quilt/extras/button_12.gif">
+    <img src="/graphics/quilt/extras/button_13.gif">
+    <img src="/graphics/quilt/extras/button_14.gif">
+    <img src="/graphics/quilt/extras/button_15.png">
+    <img src="/graphics/quilt/extras/button_16.gif">
+    <img src="/graphics/quilt/extras/button_7.gif">
+    <br>
+    <img src="/graphics/quilt/extras/the-quilting-bee-rainbow.png" style="margin: 60px 0 0 0; max-width: 100%;" title="this was the very last graphic on the site when it was updated in 2020"/>
+</center>
 </main>
