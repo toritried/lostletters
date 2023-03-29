@@ -94,6 +94,9 @@ menu: pages
     <a target="_blank" href="https://ophanimkei.com/">
         <img src="/graphics/teahouse/teacup/worms-mala.png" title="tastes like worms - made by Mala">
     </a>
+    <a target="_blank" href="https://divergentrays.com/">
+        <img src="/graphics/teahouse/teacup/space-divergentrays.png" title="tastes like the vastness of space - made by Divergent Rays">
+    </a>
     <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
