@@ -3,6 +3,15 @@
     cursor: url("/graphics/cursor/letter_wings.png"), auto;
   }
 
+  body {
+    background-color: #1a1a1a;
+    background-image: url('/graphics/layout/v2_space/slow-star.gif'); 
+    font: 1em 'Asul', sans-serif;
+    line-height: 2em;
+    image-rendering: -webkit-optimize-contrast;
+    color: #ffc6ec;
+  }
+
   alagard {
     font-family: "CustomFont";
     src: url("https://lostletters.neocities.org/fonts/alagard.woff") format("wofff");
@@ -74,14 +83,6 @@
   color: #ffffff;
   }
 
-  body {
-    background-color: #000000;
-    background-image: url('/graphics/layout/slow-star.gif'); 
-    font: 1em 'Bree Serif', sans-serif;
-    line-height: 2em;
-    image-rendering: -webkit-optimize-contrast;
-    color: #ffc6ec;
-  }
     
 @keyframes gradient {
     0% {
@@ -123,12 +124,6 @@
     height: 100%;
     display: flex;
     }
-
-  .s01 { 
-    background: url(graphics/layout/v1_laceletter/f-sita.gif) repeat-x; 
-    height: 67px ; 
-    margin: 0 67px } 
-
 
 /* navigation W3School version*/
 .navbar {
@@ -206,22 +201,25 @@ iframe {
 
 .quilt img {
   display: block;
+  image-rendering: pixelated;
 }
 
 .quilt-link {
   position: absolute;
-  top: 20px;
-  left: 25px;
+  top: 2px;
+  left: 10px;
   animation: bobbing 2s ease-in-out infinite;
   animation-direction: alternate;
   filter: drop-shadow(0px 0px 5px #ffc973);
+  image-rendering: pixelated;
 }
+
 @keyframes bobbing {
   0% {
-      transform: translateY(7px);
+      transform: translateY(6px);
   }
   100% {
-      transform: translateY(-7px);
+      transform: translateY(-6px);
   }
 }
 
