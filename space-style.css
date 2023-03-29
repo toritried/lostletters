@@ -6,8 +6,8 @@
   body {
     background-color: #1a1a1a;
     background-image: url('/graphics/layout/v2_space/slow-star.gif'); 
-    font: 1em 'Asul', sans-serif;
-    line-height: 2em;
+    font: 1.2em 'Asul', sans-serif;
+    line-height: 1.6em;
     image-rendering: -webkit-optimize-contrast;
     color: #ffc6ec;
   }
