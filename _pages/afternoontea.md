@@ -7,96 +7,98 @@ menu: pages
 ---
 <center>
     <h2>you're invited to afternoon tea</h2>
-    <a href="https://lostletters.neocities.org/index.html">
-        <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
-    </a>
-    <a href="https://lostletters.neocities.org/index.html">
-        <img src="/graphics/teahouse/teacup/takoonsen-lostletters.png" title="tastes like salt water - made by Lost Letters"/>
-    </a>
+    <div class="noext">
         <a href="https://lostletters.neocities.org/index.html">
-    <img src="/graphics/teahouse/teacup/shortcake-lostletters.png" title="tastes like strawberry shortcake - made by Lost Letters"/>
-    </a>
-    <a target="_blank" href="https://floral-tears.neocities.org/">
-        <img src="/graphics/teahouse/teacup/MintChocoTea-floral-tears.png" title="tastes like mint tea with a hint of chocolate, definitely not icecream at all - made by floral tears"/>
-    </a>
-    <a target="_blank" href="http://pastelhello.com">
-        <img src="/graphics/teahouse/teacup/teacup-pastellhell.gif" title="tastes like lemon rose - made by pastelhell">
-    </a>
-    <a target="_blank" href="https://artwork.neocities.org/">
-        <img src="/graphics/teahouse/teacup/artworkbearteacup.gif" title="tastes like mixed berries - made by artwork">
-    </a>
-    <a target="_blank" href="https://artwork.neocities.org/">
-        <img src="/graphics/teahouse/teacup/artworksucculent.gif" title="tastes like savory succulents - made by artwork">
-    </a>
-    <a target="_blank" href="https://artwork.neocities.org/">
-        <img src="/graphics/teahouse/teacup/artworkteakeroppi.gif" title="tastes poisonous - made by artwork">
-    </a>
-    <a target="_blank" href="https://artwork.neocities.org/">
-        <img src="/graphics/teahouse/teacup/artworkteatotoro.gif" title="tastes like soot - made by artwork">
-    </a>
-    <a target="_blank" href="http://pastelhello.com">
-        <img src="/graphics/teahouse/teacup/stormtea-pastelhell.gif" title="tastes like rain - made by pastelhell">
-    </a>
-    <a target="_blank" href="https://arunyi.art/">
-        <img src="/graphics/teahouse/teacup/teacup-by-arunyi.gif" title="made by arunyi">
-    </a>
-    <a target="_blank" href="https://porce-lana.blogspot.com/">
-        <img src="/graphics/teahouse/teacup/chocolatemocha-porce-lana.gif" title="tastes like chocolate mocha with whipped cream - made by Lana">
-    </a>
-    <a target="_blank" href="https://hillhouse.neocities.org/">
-        <img src="/graphics/teahouse/teacup/hillhouse-teacup.png" title="tastes like lavender & arsenic - made by hill house">
-    </a>
-    <a target="_blank" href="https://mikaorangeart.neocities.org/">
-        <img src="/graphics/teahouse/teacup/sun-mika.png" title="tastes like the alchemical essence of the Sun - made by Mika">
-    </a>
-    <a target="_blank" href="https://mikaorangeart.neocities.org/">
-        <img src="/graphics/teahouse/teacup/poison-mika.png" title="tastes like... oh dear maybe you shouldn't find out - made by Mika">
-    </a>
-    <a target="_blank" href="https://desertjaguar.casa/">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupmermaid.png" title="made by JN">
-    </a>
-    <a target="_blank" href="https://desertjaguar.casa/">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupfairy.png" title="made by JN">
-    </a>
-    <a target="_blank" href="https://desertjaguar.casa/">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupflamefairy.png" title="made by JN">
-    </a>
-    <a target="_blank" href="https://desertjaguar.casa/">
-        <img src="/graphics/teahouse/teacup/thelastmelon-cupflame.png" title="made by JN">
-    </a>
-    <a target="_blank" href="https://caichee.neocities.org/">
-        <img src="/graphics/teahouse/teacup/caichee-dandelions.png" title="tastes like dandelion wishes - made by caichee">
-    </a>
-    <a target="_blank" href="https://starfighter.neocities.org/">
-        <img src="/graphics/teahouse/teacup/starfighter-rainbow-shake.png" title="tastes like rainbow shake - made by Starfighter">
-    </a>
-    <a target="_blank" href="https://starfighter.neocities.org/">
-        <img src="/graphics/teahouse/teacup/starfighter-tiny-company.gif" title="tastes like tiny company - made by Starfighter">
-    </a>
-    <a target="_blank" href="https://starfighter.neocities.org/">
-        <img src="/graphics/teahouse/teacup/starfighter-pineapple.png" title="tastes like pineapple - made by Starfighter">
-    </a>
-    <a target="_blank" href="https://humanfinny.neocities.org/">
-        <img src="/graphics/teahouse/teacup/humanfinny-cherry-cream.png" title="tastes like cherry cream - made by Finny">
-    </a>
-    <a target="_blank" href="http://themby.neocities.org/">
-        <img src="/graphics/teahouse/teacup/themby-icedtea.png" title="tastes like iced tea - made by Louie">
-    </a>
-    <a target="_blank" href="http://themby.neocities.org/">
-        <img src="/graphics/teahouse/teacup/themby-starcup.gif" title="tastes like stardust - made by Louie">
-    </a>
-    <a target="_blank" href="https://mizuki.world/">
-        <img src="/graphics/teahouse/teacup/strawberrymedicine-mizuki.png" title="tastes like strawberry medicine - made by Mizuki">
-    </a>
-    <a target="_blank" href="https://ophanimkei.com/">
-        <img src="/graphics/teahouse/teacup/heaven-mala.png" title="tastes like heaven - made by Mala">
-    </a>
-    <a target="_blank" href="https://ophanimkei.com/">
-        <img src="/graphics/teahouse/teacup/worms-mala.png" title="tastes like worms - made by Mala">
-    </a>
-    <a target="_blank" href="https://divergentrays.com/">
-        <img src="/graphics/teahouse/teacup/space-divergentrays.png" title="tastes like the vastness of space - made by Divergent Rays">
-    </a>
+            <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
+        </a>
+        <a href="https://lostletters.neocities.org/index.html">
+            <img src="/graphics/teahouse/teacup/takoonsen-lostletters.png" title="tastes like salt water - made by Lost Letters"/>
+        </a>
+            <a href="https://lostletters.neocities.org/index.html">
+        <img src="/graphics/teahouse/teacup/shortcake-lostletters.png" title="tastes like strawberry shortcake - made by Lost Letters"/>
+        </a>
+        <a target="_blank" href="https://floral-tears.neocities.org/">
+            <img src="/graphics/teahouse/teacup/MintChocoTea-floral-tears.png" title="tastes like mint tea with a hint of chocolate, definitely not icecream at all - made by floral tears"/>
+        </a>
+        <a target="_blank" href="http://pastelhello.com">
+            <img src="/graphics/teahouse/teacup/teacup-pastellhell.gif" title="tastes like lemon rose - made by pastelhell">
+        </a>
+        <a target="_blank" href="https://artwork.neocities.org/">
+            <img src="/graphics/teahouse/teacup/artworkbearteacup.gif" title="tastes like mixed berries - made by artwork">
+        </a>
+        <a target="_blank" href="https://artwork.neocities.org/">
+            <img src="/graphics/teahouse/teacup/artworksucculent.gif" title="tastes like savory succulents - made by artwork">
+        </a>
+        <a target="_blank" href="https://artwork.neocities.org/">
+            <img src="/graphics/teahouse/teacup/artworkteakeroppi.gif" title="tastes poisonous - made by artwork">
+        </a>
+        <a target="_blank" href="https://artwork.neocities.org/">
+            <img src="/graphics/teahouse/teacup/artworkteatotoro.gif" title="tastes like soot - made by artwork">
+        </a>
+        <a target="_blank" href="http://pastelhello.com">
+            <img src="/graphics/teahouse/teacup/stormtea-pastelhell.gif" title="tastes like rain - made by pastelhell">
+        </a>
+        <a target="_blank" href="https://arunyi.art/">
+            <img src="/graphics/teahouse/teacup/teacup-by-arunyi.gif" title="made by arunyi">
+        </a>
+        <a target="_blank" href="https://porce-lana.blogspot.com/">
+            <img src="/graphics/teahouse/teacup/chocolatemocha-porce-lana.gif" title="tastes like chocolate mocha with whipped cream - made by Lana">
+        </a>
+        <a target="_blank" href="https://hillhouse.neocities.org/">
+            <img src="/graphics/teahouse/teacup/hillhouse-teacup.png" title="tastes like lavender & arsenic - made by hill house">
+        </a>
+        <a target="_blank" href="https://mikaorangeart.neocities.org/">
+            <img src="/graphics/teahouse/teacup/sun-mika.png" title="tastes like the alchemical essence of the Sun - made by Mika">
+        </a>
+        <a target="_blank" href="https://mikaorangeart.neocities.org/">
+            <img src="/graphics/teahouse/teacup/poison-mika.png" title="tastes like... oh dear maybe you shouldn't find out - made by Mika">
+        </a>
+        <a target="_blank" href="https://desertjaguar.casa/">
+            <img src="/graphics/teahouse/teacup/thelastmelon-cupmermaid.png" title="made by JN">
+        </a>
+        <a target="_blank" href="https://desertjaguar.casa/">
+            <img src="/graphics/teahouse/teacup/thelastmelon-cupfairy.png" title="made by JN">
+        </a>
+        <a target="_blank" href="https://desertjaguar.casa/">
+            <img src="/graphics/teahouse/teacup/thelastmelon-cupflamefairy.png" title="made by JN">
+        </a>
+        <a target="_blank" href="https://desertjaguar.casa/">
+            <img src="/graphics/teahouse/teacup/thelastmelon-cupflame.png" title="made by JN">
+        </a>
+        <a target="_blank" href="https://caichee.neocities.org/">
+            <img src="/graphics/teahouse/teacup/caichee-dandelions.png" title="tastes like dandelion wishes - made by caichee">
+        </a>
+        <a target="_blank" href="https://starfighter.neocities.org/">
+            <img src="/graphics/teahouse/teacup/starfighter-rainbow-shake.png" title="tastes like rainbow shake - made by Starfighter">
+        </a>
+        <a target="_blank" href="https://starfighter.neocities.org/">
+            <img src="/graphics/teahouse/teacup/starfighter-tiny-company.gif" title="tastes like tiny company - made by Starfighter">
+        </a>
+        <a target="_blank" href="https://starfighter.neocities.org/">
+            <img src="/graphics/teahouse/teacup/starfighter-pineapple.png" title="tastes like pineapple - made by Starfighter">
+        </a>
+        <a target="_blank" href="https://humanfinny.neocities.org/">
+            <img src="/graphics/teahouse/teacup/humanfinny-cherry-cream.png" title="tastes like cherry cream - made by Finny">
+        </a>
+        <a target="_blank" href="http://themby.neocities.org/">
+            <img src="/graphics/teahouse/teacup/themby-icedtea.png" title="tastes like iced tea - made by Louie">
+        </a>
+        <a target="_blank" href="http://themby.neocities.org/">
+            <img src="/graphics/teahouse/teacup/themby-starcup.gif" title="tastes like stardust - made by Louie">
+        </a>
+        <a target="_blank" href="https://mizuki.world/">
+            <img src="/graphics/teahouse/teacup/strawberrymedicine-mizuki.png" title="tastes like strawberry medicine - made by Mizuki">
+        </a>
+        <a target="_blank" href="https://ophanimkei.com/">
+            <img src="/graphics/teahouse/teacup/heaven-mala.png" title="tastes like heaven - made by Mala">
+        </a>
+        <a target="_blank" href="https://ophanimkei.com/">
+            <img src="/graphics/teahouse/teacup/worms-mala.png" title="tastes like worms - made by Mala">
+        </a>
+        <a target="_blank" href="https://divergentrays.com/">
+            <img src="/graphics/teahouse/teacup/space-divergentrays.png" title="tastes like the vastness of space - made by Divergent Rays">
+        </a>
+    </div>
     <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">

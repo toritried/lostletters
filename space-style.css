@@ -78,6 +78,21 @@
     text-shadow: 2px 2px 4px #f74acb;
   }
 
+  a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+      content: " ↗";
+      font-size: 0.8em;
+  }
+
+  .quilt a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+    content: "";
+    font-size: 0.8em;
+  }
+
+  .noext a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+    content: "";
+    font-size: 0.8em;
+  }
+
 ::selection {
   background: #ffb8ed3f;
   color: #ffffff;
@@ -132,6 +147,7 @@
   font-style:normal;
   overflow: hidden;
   cursor: pointer;
+  font-size: .8em;
 }
 
 .dropbtn { 
@@ -190,6 +206,7 @@ iframe {
   font-weight: lighter;
   overflow: hidden;
   cursor: pointer;
+  font-size: .8em;
 }
 
 .quilt {
@@ -221,6 +238,17 @@ iframe {
   100% {
       transform: translateY(-6px);
   }
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+  white-space: pre-wrap;
+}
+
+pre, code {
+  font-size: 15px;
+  text-align: left;
 }
 
 /* a11y */

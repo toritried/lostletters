@@ -32,9 +32,11 @@ My most-prized tabletop gaming accessory is my one of a kind dice tray made by m
 <br>
 <br>
 <p>
-    <a target="_new" href="https://www.etsy.com/listing/955886944/festive-violet-white-pink-and-purple">
-        <img src="/graphics/ttrpg/dice/chessex.png" style="max-width: 290px; margin: 5px;" align="right" title="Festive Violet/White 7-piece Dice Set by Chessex">
-    </a>
+    <div class="noext">
+        <a target="_new" href="https://www.etsy.com/listing/955886944/festive-violet-white-pink-and-purple">
+            <img src="/graphics/ttrpg/dice/chessex.png" style="max-width: 290px; margin: 5px;" align="right" title="Festive Violet/White 7-piece Dice Set by Chessex">
+        </a>
+    </div>
     <b>My first 7-piece dice set ever by Chessex (2018)</b> was from my local game shop, eagerly purchased alongside a hard copy of the D&D 5th Edition Player's Handbook at the request of my first DM. I remember pouring over the dice and ultimately selecting these for their vibrant and appealing hues. They still bring me back to my first ever D&D campaign that lasted for 1.5 years before I moved to Japan. I don't use these anymore, and I unofficially bequeathed these to my partner.
 </p>
 <br>
@@ -43,17 +45,19 @@ My most-prized tabletop gaming accessory is my one of a kind dice tray made by m
     <br>
     <br>
     <center>
-        <a target="_new" href="https://dispeldice.com/collections/all/products/nova-blossom-7-piece-polyhedral-dice-set">
-            <img src="/graphics/ttrpg/dice/nova-blossom.png" style="max-width: 290px;" title="Nova Blossom 7-piece Dice Set by Dispel Dice - bought these because they reminded me of the gorgeous trans pride flag :)">
-        </a>
-        <a target="_new" href="https://dispeldice.com/collections/all/products/lavender-dreams-7-piece-polyhedral-set">
-            <img src="/graphics/ttrpg/dice/lilac-song.png" style="max-width: 290px;" title="Lilac Song 7-piece Dice Set by Dispel Dice">
-        </a>
-        <a target="_new" href="https://dispeldice.com/collections/all/products/magenta-inferno-7-piece-polyhedral-dice-set">
-            <img src="/graphics/ttrpg/dice/magenta-inferno.png" style="max-width: 290px;" title="Magenta Inferno 7-piece Dice Set by Dispel Dice">
-        </a>
-        <a target="_new" href="https://dispeldice.com/collections/all/products/first-blush-7-piece-polyhedral-dice-set">
-            <img src="/graphics/ttrpg/dice/first-blush.png" style="max-width: 290px;" title="First Blush 7-piece Dice Set by Dispel Dice">
-        </a>
+        <div class="noext">
+            <a target="_new" href="https://dispeldice.com/collections/all/products/nova-blossom-7-piece-polyhedral-dice-set">
+                <img src="/graphics/ttrpg/dice/nova-blossom.png" style="max-width: 290px;" title="Nova Blossom 7-piece Dice Set by Dispel Dice - bought these because they reminded me of the gorgeous trans pride flag :)">
+            </a>
+            <a target="_new" href="https://dispeldice.com/collections/all/products/lavender-dreams-7-piece-polyhedral-set">
+                <img src="/graphics/ttrpg/dice/lilac-song.png" style="max-width: 290px;" title="Lilac Song 7-piece Dice Set by Dispel Dice">
+            </a>
+            <a target="_new" href="https://dispeldice.com/collections/all/products/magenta-inferno-7-piece-polyhedral-dice-set">
+                <img src="/graphics/ttrpg/dice/magenta-inferno.png" style="max-width: 290px;" title="Magenta Inferno 7-piece Dice Set by Dispel Dice">
+            </a>
+            <a target="_new" href="https://dispeldice.com/collections/all/products/first-blush-7-piece-polyhedral-dice-set">
+                <img src="/graphics/ttrpg/dice/first-blush.png" style="max-width: 290px;" title="First Blush 7-piece Dice Set by Dispel Dice">
+            </a>
+        </div>
     </center>
 </p>

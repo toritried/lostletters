@@ -31,25 +31,27 @@ know in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-0
     <a target="_blank" href="https://social.yesterweb.org/@lostletters" rel="me">mastodon</a>
     <br>
     <br>
-    <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
-    <br>
-    <a href='https://webring.dinhe.net/prev/https://lostletters.neocities.org/'>
-        &lt;&lt;
-    </a>
-    <a target="_blank" href="https://webring.dinhe.net/">
-         Retronaut 
-    </a>
-    <a href='https://webring.dinhe.net/next/https://lostletters.neocities.org/'>
-        &gt;&gt;
-    </a>
-    <br>
-    <a href="https://hotlinewebring.club/lostletters/next">
-        &lt;&lt;
-    </a>
-    <a target="_blank" href="https://hotlinewebring.club/">
-         Hotline 
-    </a>
-    <a href="https://hotlinewebring.club/lostletters/previous">
-        &gt;&gt;
-    </a>
+    <div class="noext">
+        <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
+        <br>
+        <a href='https://webring.dinhe.net/prev/https://lostletters.neocities.org/'>
+            &lt;&lt;
+        </a>
+        <a target="_blank" href="https://webring.dinhe.net/">
+            Retronaut 
+        </a>
+        <a href='https://webring.dinhe.net/next/https://lostletters.neocities.org/'>
+            &gt;&gt;
+        </a>
+        <br>
+        <a href="https://hotlinewebring.club/lostletters/next">
+            &lt;&lt;
+        </a>
+        <a target="_blank" href="https://hotlinewebring.club/">
+            Hotline 
+        </a>
+        <a href="https://hotlinewebring.club/lostletters/previous">
+            &gt;&gt;
+        </a>
+    </div>
 </center>

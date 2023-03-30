@@ -865,82 +865,84 @@ menu: pages
     <br>
     <br>
     <center>
-        <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Baby Blue: 2005 BBS Button Contest">
-            <img src="/graphics/quilt/mushrooms/shroom_babyblue.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Baby Lilac: Unique Website">
-            <img src="/graphics/quilt/mushrooms/mush_babylilac.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Black: Princess Bee">
-            <img src="/graphics/quilt/mushrooms/mush_black.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Black Cherry: Golden Honeybear 2005 Award Winner">
-            <img src="/graphics/quilt/mushrooms/mush_blackcherry.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Blue: Bee of the Week">
-            <img src="/graphics/quilt/mushrooms/mush_blue.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Brown: Honeycomb of the Week Winner">
-            <img src="/graphics/quilt/mushrooms/shroom_brown.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Castle: Sandcastle Activity">
-            <img src="/graphics/quilt/mushrooms/mush_castle.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="Deep Sea: Aquarium Activity">
-            <img src="/graphics/quilt/mushrooms/mush_deepsea.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="Egg: Easter Activity">
-            <img src="/graphics/quilt/mushrooms/mush_egg.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Fan: Hanami Activity"> 
-            <img src="/graphics/quilt/mushrooms/mush_fan.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Green: Random Bee-ut Winner">
-            <img src="/graphics/quilt/mushrooms/mush_green.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Green Spots: Pixel Team">
-            <img src="/graphics/quilt/mushrooms/mush_greenspots.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="Heart: Valentine's Day Activity">
-            <img src="/graphics/quilt/mushrooms/mush_heart.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Indigo: Bee's Spotlight">
-            <img src="/graphics/quilt/mushrooms/mush_indigo.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Palm: Island Activity">
-            <img src="/graphics/quilt/mushrooms/mush_palm.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Pink: Golden Honeybear 2004 Award Winner">
-            <img src="/graphics/quilt/mushrooms/mush_pink.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Polka-Dotted: Creative Patch">
-            <img src="/graphics/quilt/mushrooms/mush_polka.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Purple: Trick or Treat 2004 Activity Winner">
-            <img src="/graphics/quilt/mushrooms/mush_purple.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Rainbow: Cozy Quilt">
-            <img src="/graphics/quilt/mushrooms/mush_rainbow.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Sage: Honey Bee">
-            <img src="/graphics/quilt/mushrooms/mush_sage.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Silver: Graphic Donation Spotlight & Free*Bee Spotlight Winner">
-            <img src="/graphics/quilt/mushrooms/mush_silver.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20130917224631/http://fractured-beauty.com/QBee/">
-            <img src="/graphics/quilt/mushrooms/mush_star.gif">
-        </a>
-        <img src="/graphics/quilt/mushrooms/mush_tan.gif" title="New*bee of the Week">
-        <a target="_blank" href="https://web.archive.org/web/20130917224631/http://fractured-beauty.com/QBee/">
-            <img src="/graphics/quilt/mushrooms/mush_teacup.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Watermelon: Creative Quilt">
-            <img src="/graphics/quilt/mushrooms/shroom_watermelon.gif"/>
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Yellow: Bumble Bee">
-            <img src="/graphics/quilt/mushrooms/mush_yellow.gif"/>
-        </a>
+        <div class="quilt">
+            <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Baby Blue: 2005 BBS Button Contest">
+                <img src="/graphics/quilt/mushrooms/shroom_babyblue.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Baby Lilac: Unique Website">
+                <img src="/graphics/quilt/mushrooms/mush_babylilac.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Black: Princess Bee">
+                <img src="/graphics/quilt/mushrooms/mush_black.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Black Cherry: Golden Honeybear 2005 Award Winner">
+                <img src="/graphics/quilt/mushrooms/mush_blackcherry.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Blue: Bee of the Week">
+                <img src="/graphics/quilt/mushrooms/mush_blue.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Brown: Honeycomb of the Week Winner">
+                <img src="/graphics/quilt/mushrooms/shroom_brown.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Castle: Sandcastle Activity">
+                <img src="/graphics/quilt/mushrooms/mush_castle.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="Deep Sea: Aquarium Activity">
+                <img src="/graphics/quilt/mushrooms/mush_deepsea.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="Egg: Easter Activity">
+                <img src="/graphics/quilt/mushrooms/mush_egg.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Fan: Hanami Activity"> 
+                <img src="/graphics/quilt/mushrooms/mush_fan.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Green: Random Bee-ut Winner">
+                <img src="/graphics/quilt/mushrooms/mush_green.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Green Spots: Pixel Team">
+                <img src="/graphics/quilt/mushrooms/mush_greenspots.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="Heart: Valentine's Day Activity">
+                <img src="/graphics/quilt/mushrooms/mush_heart.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Indigo: Bee's Spotlight">
+                <img src="/graphics/quilt/mushrooms/mush_indigo.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Palm: Island Activity">
+                <img src="/graphics/quilt/mushrooms/mush_palm.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Pink: Golden Honeybear 2004 Award Winner">
+                <img src="/graphics/quilt/mushrooms/mush_pink.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Polka-Dotted: Creative Patch">
+                <img src="/graphics/quilt/mushrooms/mush_polka.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Purple: Trick or Treat 2004 Activity Winner">
+                <img src="/graphics/quilt/mushrooms/mush_purple.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Rainbow: Cozy Quilt">
+                <img src="/graphics/quilt/mushrooms/mush_rainbow.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Sage: Honey Bee">
+                <img src="/graphics/quilt/mushrooms/mush_sage.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Silver: Graphic Donation Spotlight & Free*Bee Spotlight Winner">
+                <img src="/graphics/quilt/mushrooms/mush_silver.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20130917224631/http://fractured-beauty.com/QBee/">
+                <img src="/graphics/quilt/mushrooms/mush_star.gif">
+            </a>
+            <img src="/graphics/quilt/mushrooms/mush_tan.gif" title="New*bee of the Week">
+            <a target="_blank" href="https://web.archive.org/web/20130917224631/http://fractured-beauty.com/QBee/">
+                <img src="/graphics/quilt/mushrooms/mush_teacup.gif">
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20120326112915/http://littlejoni.wordpress.com/quilting-bee/" title="Watermelon: Creative Quilt">
+                <img src="/graphics/quilt/mushrooms/shroom_watermelon.gif"/>
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Yellow: Bumble Bee">
+                <img src="/graphics/quilt/mushrooms/mush_yellow.gif"/>
+            </a>
+        </div>
     </center>
     <br>
     The club was open and accepting to all, but the international membership was "overwhelmingly female, ranging in age from early teens upwards. Male members were welcomed, but the personal web scene was dominated by women in the 00s"(<a target="_blank" href="https://web.archive.org/web/20200812183046/https://theqbee.net/about/">source</a>). There were <a target="_blank" href="https://web.archive.org/web/20101130060701/http://theqbee.net/join.php?step=1">quite a few rules</a> in place to ensure the club remained <a target="_blank" href="https://web.archive.org/web/20121114142710/http://theqbee.net/faq.php#faq11">"more intimate and something extra unique to be a part of in the web world"</a>. Compared to other sites at the time that only required an email address, this relatively higher bar for entry made for an extremely creative, active, and interesting community, achieving the intended goal. 
@@ -950,42 +952,44 @@ menu: pages
     <br>
     <br>
     <center>
-        <img src="/graphics/quilt/mini/qbee-patchinfo.gif" title="Information about Q*bee related Patches">
-        <img src="/graphics/quilt/mini/qbee-bbs.gif" title="BBS">
-        <img src="/graphics/quilt/mini/qbee-beemail.gif" title="Beemail">
-        <img src="/graphics/quilt/mini/qbee-bdaybees.gif" title="Birthday Bees">
-        <img src="/graphics/quilt/mini/qbee-points.gif" title="How to earn points">
-        <img src="/graphics/quilt/mini/qbee-beezaar-shop.gif" title="Bee*zaar - buy things with earned points">
-        <img src="/graphics/quilt/mini/qbee-bigquilt.gif" title="master quilt of all current members">
-        <img src="/graphics/quilt/mini/q-bee-contests.gif" title="Site Contests">
-        <img src="/graphics/quilt/mini/qbee-dailybee-newsletter.gif" title="Daily Bee Newsletter">
-        <img src="/graphics/quilt/mini/qbee-lj-community.gif" title="Q*bee LiveJournal Community">
-        <img src="/graphics/quilt/mini/sandcastle_minipatch.gif" title="Sandcastles 2006">
-        <img src="/graphics/quilt/mini/halloween06_minipatch.gif" title="Trick-or-Treat 2006">
-        <img src="/graphics/quilt/mini/vday_minipatch.gif" title="Valentines 2007">
-        <img src="/graphics/quilt/mini/spring07_minipatch.gif" title="Egg Hunt 2007">
-        <img src="/graphics/quilt/mini/stpat_minipatch.gif" title="St. Patrick's Day 2007">
-        <img src="/graphics/quilt/mini/aquarium_minipatch.gif" title="Aquarium 2007">
-        <img src="/graphics/quilt/mini/hal07_minipatch.gif" title="Goo Party 2007 - cauldron design + regular treats">
-        <a target="_blank" href="https://web.archive.org/web/20081223232808/http://theqbee.net/activity-teaparty08.php"><img src="/graphics/quilt/mini/teacups08_minipatch.gif" title="Tea Party 2008 - tea patches + invitation patches"></a>
-        <img src="/graphics/quilt/mini/xmas_2008.gif" title="Christmas 2008">
-        <a target="_blank" href="https://web.archive.org/web/20100611222509/http://theqbee.net/activity-eggies10.php"><img src="/graphics/quilt/mini/easter10.gif"></a>
-        <a target="_blank" href="https://web.archive.org/web/20101129235919/http://theqbee.net/activity-harvest10.php"><img src="/graphics/quilt/mini/harvest-bounty-2010.gif" title="Harvest Bounty 2010"></a>
-        <img src="/graphics/quilt/mini/hanami-festival-2011.png" title="Hanami Festival 2011">
-        <img src="/graphics/quilt/mini/2011-advent.gif" title="Advent Calendar 2011">
-        <img src="/graphics/quilt/mini/2011-chocobunnies.gif" title="Chocolate Bunnies 2011">
-        <img src="/graphics/quilt/mini/2011-cincodemayo.gif" title="Cinco De Mayo 2011">
-        <img src="/graphics/quilt/mini/2011-derbyrace.gif" title="Derby Race 2011">
-        <img src="/graphics/quilt/mini/2011-dressthehoneybear.png" title="Dress the Honeybear 2011">
-        <img src="/graphics/quilt/mini/2011-earthday.gif" title="Earth Day 2011">
-        <img src="/graphics/quilt/mini/2011-flag.gif" title="Flag 2011">
-        <img src="/graphics/quilt/mini/2011-fruitdrinks.gif" title="Fruity Drinks 2011">
-        <img src="/graphics/quilt/mini/2011-island.gif" title="Mini Island 2011">
-        <img src="/graphics/quilt/mini/2011-pixelpolaroids.gif" title="Pixel Polaroids 2011">
-        <img src="/graphics/quilt/mini/2011-zombie.gif" title="Zombies 2011">
-        <img src="/graphics/quilt/mini/2012-kites.png" title="Kites 2012">
-        <img src="/graphics/quilt/mini/2012-pumpkins.png" title="Pumpkins 2012">
-        <img src="/graphics/quilt/mini/2012-tastycake.gif" title="Tasy Cakes 2012 - I won 3rd place!">
+        <div class="quilt">
+            <img src="/graphics/quilt/mini/qbee-patchinfo.gif" title="Information about Q*bee related Patches">
+            <img src="/graphics/quilt/mini/qbee-bbs.gif" title="BBS">
+            <img src="/graphics/quilt/mini/qbee-beemail.gif" title="Beemail">
+            <img src="/graphics/quilt/mini/qbee-bdaybees.gif" title="Birthday Bees">
+            <img src="/graphics/quilt/mini/qbee-points.gif" title="How to earn points">
+            <img src="/graphics/quilt/mini/qbee-beezaar-shop.gif" title="Bee*zaar - buy things with earned points">
+            <img src="/graphics/quilt/mini/qbee-bigquilt.gif" title="master quilt of all current members">
+            <img src="/graphics/quilt/mini/q-bee-contests.gif" title="Site Contests">
+            <img src="/graphics/quilt/mini/qbee-dailybee-newsletter.gif" title="Daily Bee Newsletter">
+            <img src="/graphics/quilt/mini/qbee-lj-community.gif" title="Q*bee LiveJournal Community">
+            <img src="/graphics/quilt/mini/sandcastle_minipatch.gif" title="Sandcastles 2006">
+            <img src="/graphics/quilt/mini/halloween06_minipatch.gif" title="Trick-or-Treat 2006">
+            <img src="/graphics/quilt/mini/vday_minipatch.gif" title="Valentines 2007">
+            <img src="/graphics/quilt/mini/spring07_minipatch.gif" title="Egg Hunt 2007">
+            <img src="/graphics/quilt/mini/stpat_minipatch.gif" title="St. Patrick's Day 2007">
+            <img src="/graphics/quilt/mini/aquarium_minipatch.gif" title="Aquarium 2007">
+            <img src="/graphics/quilt/mini/hal07_minipatch.gif" title="Goo Party 2007 - cauldron design + regular treats">
+            <a target="_blank" href="https://web.archive.org/web/20081223232808/http://theqbee.net/activity-teaparty08.php"><img src="/graphics/quilt/mini/teacups08_minipatch.gif" title="Tea Party 2008 - tea patches + invitation patches"></a>
+            <img src="/graphics/quilt/mini/xmas_2008.gif" title="Christmas 2008">
+            <a target="_blank" href="https://web.archive.org/web/20100611222509/http://theqbee.net/activity-eggies10.php"><img src="/graphics/quilt/mini/easter10.gif"></a>
+            <a target="_blank" href="https://web.archive.org/web/20101129235919/http://theqbee.net/activity-harvest10.php"><img src="/graphics/quilt/mini/harvest-bounty-2010.gif" title="Harvest Bounty 2010"></a>
+            <img src="/graphics/quilt/mini/hanami-festival-2011.png" title="Hanami Festival 2011">
+            <img src="/graphics/quilt/mini/2011-advent.gif" title="Advent Calendar 2011">
+            <img src="/graphics/quilt/mini/2011-chocobunnies.gif" title="Chocolate Bunnies 2011">
+            <img src="/graphics/quilt/mini/2011-cincodemayo.gif" title="Cinco De Mayo 2011">
+            <img src="/graphics/quilt/mini/2011-derbyrace.gif" title="Derby Race 2011">
+            <img src="/graphics/quilt/mini/2011-dressthehoneybear.png" title="Dress the Honeybear 2011">
+            <img src="/graphics/quilt/mini/2011-earthday.gif" title="Earth Day 2011">
+            <img src="/graphics/quilt/mini/2011-flag.gif" title="Flag 2011">
+            <img src="/graphics/quilt/mini/2011-fruitdrinks.gif" title="Fruity Drinks 2011">
+            <img src="/graphics/quilt/mini/2011-island.gif" title="Mini Island 2011">
+            <img src="/graphics/quilt/mini/2011-pixelpolaroids.gif" title="Pixel Polaroids 2011">
+            <img src="/graphics/quilt/mini/2011-zombie.gif" title="Zombies 2011">
+            <img src="/graphics/quilt/mini/2012-kites.png" title="Kites 2012">
+            <img src="/graphics/quilt/mini/2012-pumpkins.png" title="Pumpkins 2012">
+            <img src="/graphics/quilt/mini/2012-tastycake.gif" title="Tasy Cakes 2012 - I won 3rd place!">
+        </div>
     </center>
     <br>
     The q*bee was like a virtual pixel art summer camp with fun ways to participate happening all of the time. Some activity pages with member-created submissions are still accessible such as <a target="_blank" href="https://web.archive.org/web/20081225061749/http://theqbee.net/activity-castles08.php">Sandcastles from 2008</a>, <a target="_blank" href="https://web.archive.org/web/20081223132105/http://theqbee.net/activity-spring08.php">Spring Flowers from 2008</a>, and <a target="_blank" href="https://web.archive.org/web/20081223134140/http://theqbee.net/activity-val08.php">Valentines Lucky Dip 2008</a>. 
@@ -997,9 +1001,9 @@ menu: pages
         <br>
         <h2>The Joy of Beeing a Bee</h2>
     </center>
-    Whether I was challenging myself to create a submission for a seasonal pixel art contest, getting inspired by unique patches and quilts, or buzzing on the Bee\*Bee\*S message board, I was always having a lovely time as a bee. 
+    Whether I was challenging myself to create a submission for a seasonal pixel art contest, getting inspired by unique patches and quilts, or buzzing on the Bee*Bee*S message board, I was always having a lovely time as a bee. 
     The community was ever-evolving in response to this incredible creative source and outlet. 
-    Some members redesigned their quilts or donated pixel art free\*bees for others to use, and some created many different patches over time, documenting the evolution of their artistic ability. 
+    Some members redesigned their quilts or donated pixel art free*bees for others to use, and some created many different patches over time, documenting the evolution of their artistic ability. 
     <br>
     <center>
         <a target="_blank" href="https://web.archive.org/web/20081219013417/http://www.rainbow-stuff.com/" title="Ashley #267">
@@ -1011,24 +1015,26 @@ menu: pages
     <br>
     <br>
     <center>
-        <a target="_blank" href="https://web.archive.org/web/20081217024029/http://www.hello-love.net/" title="Amber's lovely and resonant account, I really agree with the club always being drama-free and always friendly no matter your skill level, etc.">
-            <img width="40" height="40" src="/graphics/quilt/276-amber-4.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20081218070128/http://www.rockwitch.net/" title="Karin's post">
-            <img width="40" height="40" src="/graphics/quilt/104-karin.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20081217083538/http://dark-rose.org/" title="Amber #248">
-            <img width="40" height="40" src="/graphics/quilt/248-amber-1.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20081220090404/http://www.jemjabella.co.uk/quilting-bee-blog-day-2008" title="Jem #123">
-            <img width="40" height="40" src="/graphics/quilt/123-jem.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20081219013417/http://www.rainbow-stuff.com/" title="Ashley #267">
-            <img width="40" height="40" src="/graphics/quilt/267-ashley.gif">
-        </a>
-        <a target="_blank" href="https://web.archive.org/web/20081218215209/http://www.hello-deer.net/" title="Sofia #33 - missing Sofia's patch :(">
-            <img width="40" height="40" src="/graphics/quilt/extras/sample-patch1.gif">
-        </a>
+        <div class="noext">
+            <a target="_blank" href="https://web.archive.org/web/20081217024029/http://www.hello-love.net/" title="Amber's lovely and resonant account, I really agree with the club always being drama-free and always friendly no matter your skill level, etc.">
+                <img width="40" height="40" src="/graphics/quilt/276-amber-4.gif">
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20081218070128/http://www.rockwitch.net/" title="Karin's post">
+                <img width="40" height="40" src="/graphics/quilt/104-karin.gif">
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20081217083538/http://dark-rose.org/" title="Amber #248">
+                <img width="40" height="40" src="/graphics/quilt/248-amber-1.gif">
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20081220090404/http://www.jemjabella.co.uk/quilting-bee-blog-day-2008" title="Jem #123">
+                <img width="40" height="40" src="/graphics/quilt/123-jem.gif">
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20081219013417/http://www.rainbow-stuff.com/" title="Ashley #267">
+                <img width="40" height="40" src="/graphics/quilt/267-ashley.gif">
+            </a>
+            <a target="_blank" href="https://web.archive.org/web/20081218215209/http://www.hello-deer.net/" title="Sofia #33 - missing Sofia's patch :(">
+                <img width="40" height="40" src="/graphics/quilt/extras/sample-patch1.gif">
+            </a>
+        </div>
     </center>
     <br>
     The quilting bee made the ever-expanding web feel homey by connecting lovely, creative folks all over the world in a positive and healthy way. I'll never forget the thrill of coming across inconspicuous pixel bees placed like easter eggs across personal websites and blogs at the time. 
@@ -1093,53 +1099,54 @@ Through the process of creating this shrine, I found some quilts that were prese
 <br>
 <br>
 <center>
-    <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="traded with Lisa Fehr #231 on Jan 25, 2012">
-        <img width="40" height="40" src="/graphics/quilt/231-Lisa-Fehr.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20130917224631/http://fractured-beauty.com/QBee/" title="Grace #266">
-        <img width="40" height="40" src="/graphics/quilt/266-grace.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20110118071027/http://www.forward-is-calling.net/db/quilt/quilt.htm" title="Caity #64">
-        <img width="40" height="40" src="/graphics/quilt/64-caity.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20100209024237/http://www.lollie.fr/qbee/" title="Lollie #32">
-        <img width="40" height="40" src="/graphics/quilt/32-lollie.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Bubs #77">
-        <img width="40" height="40" src="/graphics/quilt/77-bubs.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20130421091713/http://alittlewhimsy.net/quilt/index.php" title="Melissa #188">
-        <img width="40" height="40" src="/graphics/quilt/188-melissa.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20120326112942/http://littlejoni.wordpress.com/quilting-bee/quilt/" title="Joni #24">
-        <img width="40" height="40" src="/graphics/quilt/24-joni.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20120710061137/http://notquitepetite.com/184quilt/" title="Amanda #184">
-        <img width="40" height="40" src="/graphics/quilt/184-amanda.png">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20111229053556/http://kaleidoscrap.net/qbee/popup.html" title="Ciara #146">
-        <img width="40" height="40" src="/graphics/quilt/146-ciara.gif">
-    </a>
-    <br>
-    <a target="_blank" href="https://web.archive.org/web/20111219214551/http://qbee.sugar-baby.org/" title="Jennifer #242">
-        <img width="40" height="40" src="/graphics/quilt/242-jennifer.png">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20100923112350/http://qbee.astorytocherish.net/" title="Kassie #106">
-        <img width="40" height="40" src="/graphics/quilt/106-kassie.png">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Anne #263">
-        <img width="40" height="40" src="/graphics/quilt/263-anne.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20081220051840/http://www.rainbow-stuff.com/qbee" title="Ashley #267 - this quilt isn't in such good shape">
-        <img width="40" height="40" src="/graphics/quilt/267-ashley.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20081218064900/http://lluvia-abril.es/" title="Oriana #328 - this quilt isn't in such good shape">
-        <img width="40" height="40" src="/graphics/quilt/328-oriana.gif">
-    </a>
-    <a target="_blank" href="https://web.archive.org/web/20110814051556/http://riyuu.org/qbee-quilt/" title="Jenny #119 - this quilt isn't in such good shape">
-        <img width="40" height="40" src="/graphics/quilt/119-jenny.gif">
-    </a>
-    <br>
+    <div class="noext">
+        <a target="_blank" href="https://web.archive.org/web/20131227191523/http://melancholic.net/quilt/" title="traded with Lisa Fehr #231 on Jan 25, 2012">
+            <img width="40" height="40" src="/graphics/quilt/231-Lisa-Fehr.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20130917224631/http://fractured-beauty.com/QBee/" title="Grace #266">
+            <img width="40" height="40" src="/graphics/quilt/266-grace.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20110118071027/http://www.forward-is-calling.net/db/quilt/quilt.htm" title="Caity #64">
+            <img width="40" height="40" src="/graphics/quilt/64-caity.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20100209024237/http://www.lollie.fr/qbee/" title="Lollie #32">
+            <img width="40" height="40" src="/graphics/quilt/32-lollie.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20071002093036/http://qbee.bubblessoc.net/myquilt/" title="Bubs #77">
+            <img width="40" height="40" src="/graphics/quilt/77-bubs.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20130421091713/http://alittlewhimsy.net/quilt/index.php" title="Melissa #188">
+            <img width="40" height="40" src="/graphics/quilt/188-melissa.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20120326112942/http://littlejoni.wordpress.com/quilting-bee/quilt/" title="Joni #24">
+            <img width="40" height="40" src="/graphics/quilt/24-joni.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20120710061137/http://notquitepetite.com/184quilt/" title="Amanda #184">
+            <img width="40" height="40" src="/graphics/quilt/184-amanda.png">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20111229053556/http://kaleidoscrap.net/qbee/popup.html" title="Ciara #146">
+            <img width="40" height="40" src="/graphics/quilt/146-ciara.gif">
+        </a>
+        <br>
+        <a target="_blank" href="https://web.archive.org/web/20111219214551/http://qbee.sugar-baby.org/" title="Jennifer #242">
+            <img width="40" height="40" src="/graphics/quilt/242-jennifer.png">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20100923112350/http://qbee.astorytocherish.net/" title="Kassie #106">
+            <img width="40" height="40" src="/graphics/quilt/106-kassie.png">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20111224001308/http://www.quicksilverqueen.com/quilt/index.php" title="Anne #263">
+            <img width="40" height="40" src="/graphics/quilt/263-anne.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20081220051840/http://www.rainbow-stuff.com/qbee" title="Ashley #267 - this quilt isn't in such good shape">
+            <img width="40" height="40" src="/graphics/quilt/267-ashley.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20081218064900/http://lluvia-abril.es/" title="Oriana #328 - this quilt isn't in such good shape">
+            <img width="40" height="40" src="/graphics/quilt/328-oriana.gif">
+        </a>
+        <a target="_blank" href="https://web.archive.org/web/20110814051556/http://riyuu.org/qbee-quilt/" title="Jenny #119 - this quilt isn't in such good shape">
+            <img width="40" height="40" src="/graphics/quilt/119-jenny.gif">
+        </a>
+    </div>
     <br>
     <img src="/graphics/quilt/layout/qbee-divider.gif">
     <br>

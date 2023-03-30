@@ -10,36 +10,38 @@ Virtual pets start out as tiny pixel eggs or capsules and grow with the help of 
 <br>
 <center>
     <h2>my favorite virtual pets</h2>
-    <a target="other" href='https://finaloutpost.net/view/CCG9D#main'>
-        <img src='https://finaloutpost.net/s/CCG9D.png'>
-    </a>
-    <a target="other" href='https://finaloutpost.net/view/picJj#main'>
-        <img src='https://finaloutpost.net/s/picJj.png'>
-    </a>
-    <a target="other" href='https://finaloutpost.net/view/ohzHb#main'>
-        <img src='https://finaloutpost.net/s/ohzHb1.png'>
-    </a>
-    <a target="other" href='https://finaloutpost.net/view/6tZ5z#main'>
-        <img src='https://finaloutpost.net/s/6tZ5z3.png'>
-    </a>
-    <a target="other" href="https://dragcave.net/view/gpSa9#middle">
-        <img src="https://dragcave.net/image/gpSa9.gif" style="border-width:0"/>
-    </a>
-    <a target="other" href="https://dragcave.net/view/mMntk#middle">
-        <img src="https://dragcave.net/image/mMntk.gif" style="border-width:0"/>
-    </a>
-    <a target="other" href="https://dragcave.net/view/PCf1e">
-        <img src="https://dragcave.net/image/PCf1e.gif" style="border-width:0"/>
-    </a>
-    <a target="other" href="https://dragcave.net/view/OVsMx#middle">
-        <img src="https://dragcave.net/image/OVsMx.gif" style="border-width:0"/>
-    </a>
-    <a target="other" href="https://dragcave.net/view/yLmgd#middle">
-        <img src="https://dragcave.net/image/yLmgd.gif" style="border-width:0"/>
-    </a>
-    <a target="other" href="https://dragcave.net/view/aZAqo#middle">
-        <img src="https://dragcave.net/image/aZAqo.gif" style="border-width:0"/>
-    </a>
+    <div class="quilt">
+        <a target="other" href='https://finaloutpost.net/view/CCG9D#main'>
+            <img src='https://finaloutpost.net/s/CCG9D.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/picJj#main'>
+            <img src='https://finaloutpost.net/s/picJj.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/ohzHb#main'>
+            <img src='https://finaloutpost.net/s/ohzHb1.png'>
+        </a>
+        <a target="other" href='https://finaloutpost.net/view/6tZ5z#main'>
+            <img src='https://finaloutpost.net/s/6tZ5z3.png'>
+        </a>
+        <a target="other" href="https://dragcave.net/view/gpSa9#middle">
+            <img src="https://dragcave.net/image/gpSa9.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/mMntk#middle">
+            <img src="https://dragcave.net/image/mMntk.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/PCf1e">
+            <img src="https://dragcave.net/image/PCf1e.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/OVsMx#middle">
+            <img src="https://dragcave.net/image/OVsMx.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/yLmgd#middle">
+            <img src="https://dragcave.net/image/yLmgd.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/aZAqo#middle">
+            <img src="https://dragcave.net/image/aZAqo.gif" style="border-width:0"/>
+        </a>
+    </div>
     <br>
     <br>
     My full collections can be found at the links below:

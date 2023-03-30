@@ -5,27 +5,30 @@ emoji: 🎃
 permalink: /about-me/
 menu: about
 ---
-<a target="_blank" href="https://www.deviantart.com/sqdpxl/art/moomin-to-the-groove-811004899"><img src="/graphics/toy/moomin_by_SqdPxl.gif" style="margin: 5px 0 5px 5px;" align="right" title="click for artist"/></a>
+<div class="noext">
+    <a target="_blank" href="https://www.deviantart.com/sqdpxl/art/moomin-to-the-groove-811004899"><img src="/graphics/toy/moomin_by_SqdPxl.gif" style="margin: 5px 0 5px 5px;" align="right" title="click for artist"/></a>
+</div>
 <h2>hail and well met,</h2> 
 <img src="/graphics/toy/emoticons/letter-love.gif" style="margin: 0 5px 0 0;" align="left"/>
 I intended for this site to be like a stack of letters, discovered in a lunchbox that washed up on a distant coast like in <i>A Tale for the Time Being</i> by Ruth Ozeki. 
-<a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961">
-    <img src="/graphics/toy/snufkin_by_Caicyo.png" style="margin: 5px;" align="left" title="click for artist"/>
-</a>
+<div class="noext">
+    <a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961">
+        <img src="/graphics/toy/snufkin_by_Caicyo.png" style="margin: 5px;" align="left" title="click for artist"/>
+    </a>
+</div>
 The style and organization of this site hopefully conveys a sense of thought and effort akin to selecting a pretty letter set and fountain pen ink. 
 Even though there is no way of knowing what you'll get out of reading these letters, I hope you take a look around and enjoy it. 
 <img src="/graphics/toy/emoticons/sparkle-watercolor.gif">
 <br>
-<br>
-<a target="_blank" href="https://www.deviantart.com/fairypaws/art/steven-universe-pixels-free-to-use-539281573">
-    <img src="/graphics/toy/pearl-fairypaws.png" align="left" style="margin: 5px 15px 5px 10px;" title="I'm most like Pearl, but I wish I was like Garnet"/>
-</a>
-<img src="/graphics/toy/emoticons/clown.gif" align="left" style="margin: 0 4px 0 0;"> 
+<center>
+    <img src="/graphics/toy/sakura-divider.gif" style="margin: 5px 0;">
+</center>
+<img src="/graphics/toy/emoticons/clown.gif" align="left" style="margin: 0 6px 0 0;"> 
 As for me, I started learning to code thanks to <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">Neopets</a> in ~2003, and I began <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 10px;" align="right" />to pour my heart into mediocre pixel art and website layouts drawn in MS Paint and Photoshop. 
 I'm so glad I never let my dislike of my art stop me from participating in the pixel communities of that time, 
 because I made so many good memories and learned a lot.  
 <center>
-    <img src="/graphics/toy/sakura-divider.gif" style="margin: 0 0 10px 0;">
+    <img src="/graphics/toy/sakura-divider.gif" style="margin: 5px 0;">
 </center>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
 <b>likes</b>: TTRPGs (mostly D&D), lgbtqia+ rights, intersectional feminism, lively cities, onsen 温泉, writing and receiving happy mail from pen pals, words of affirmation, knitting, yakiimo 焼き芋, epic fantasy, therapy
@@ -47,54 +50,58 @@ because I made so many good memories and learned a lot.
 <br>
 <br>
 <center>
-    <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
-        <img src="/graphics/linkout/rss.gif" title="Only my freshest blog posts delivered straight to you!">
-    </a>
-    <a target="_blank" href="https://webmentions.neocities.org/">
-        <img src="/graphics/linkout/webmentions_anim.gif" title="If you mention this site's URL on mastodon, it'll display like a comment on that specific page! So cool, right? Go enable it on your site too!">
-    </a>
-    <a target="_blank" href="https://neocities.org/site/lostletters">
-        <img src="/graphics/linkout/neocitiespink.gif" title="Proudly hosted by NeoCities!">
-    </a>
-    <a target="_blank" href="https://rainy.gay/">
-        <img src="/graphics/linkout/progress.png" title="button by Dime">
-    </a>
-    <a target="_blank" href="https://plasticdino.neocities.org/">
-        <img src="/graphics/linkout/queer.png" title="button by kitty">
-    </a>
-    <a target="_blank" href="https://yesterweb.org/no-to-web3/">
-        <img src="/graphics/linkout/nft_sadgrl.gif" title="button by sadgrl.online">
-    </a>
-    <a target="_blank" href="https://jekyllrb.com/">
-        <img src="/graphics/linkout/jekyll.png" title="I use Jekyll as my Static Site Generator">
-    </a>
-    <a target="_blank" href="https://arremeer.neocities.org/">
-        <img src="/graphics/linkout/masknow.png" title="button by Bruno">
-    </a>
-    <img src="/graphics/linkout/acab.gif">
-    <img src="/graphics/linkout/bob.gif">
+    <div class="quilt">
+        <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
+            <img src="/graphics/linkout/rss.gif" title="Only my freshest blog posts delivered straight to you!">
+        </a>
+        <a target="_blank" href="https://webmentions.neocities.org/">
+            <img src="/graphics/linkout/webmentions_anim.gif" title="If you mention this site's URL on mastodon, it'll display like a comment on that specific page! So cool, right? Go enable it on your site too!">
+        </a>
+        <a target="_blank" href="https://neocities.org/site/lostletters">
+            <img src="/graphics/linkout/neocitiespink.gif" title="Proudly hosted by NeoCities!">
+        </a>
+        <a target="_blank" href="https://rainy.gay/">
+            <img src="/graphics/linkout/progress.png" title="button by Dime">
+        </a>
+        <a target="_blank" href="https://plasticdino.neocities.org/">
+            <img src="/graphics/linkout/queer.png" title="button by kitty">
+        </a>
+        <a target="_blank" href="https://yesterweb.org/no-to-web3/">
+            <img src="/graphics/linkout/nft_sadgrl.gif" title="button by sadgrl.online">
+        </a>
+        <a target="_blank" href="https://jekyllrb.com/">
+            <img src="/graphics/linkout/jekyll.png" title="I use Jekyll as my Static Site Generator">
+        </a>
+        <a target="_blank" href="https://arremeer.neocities.org/">
+            <img src="/graphics/linkout/masknow.png" title="button by Bruno">
+        </a>
+        <img src="/graphics/linkout/acab.gif">
+        <img src="/graphics/linkout/bob.gif">
+    </div>
+    <div class="quilt">
+        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
+        <img src="/graphics/toy/tags/transrights.png">
+        </a>
+        <a target="_blank" href="https://pixels.heylouise.space/">
+        <img src="/graphics/toy/tags/lgbt_pan.png">
+        </a>
+        <a target="_blank" href="https://web.badges.world/">
+        <img src="/graphics/toy/tags/pride2.gif">
+        </a>
+        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
+        <img src="/graphics/toy/tags/veganalways.png">
+        </a>
+        <a target="_blank" href="https://pixels.heylouise.space/">
+        <img src="/graphics/toy/tags/alignment_chaotic_good.png">
+        </a>
+        <a target="_blank" href="https://web.badges.world/">
+        <img src="/graphics/toy/tags/neopets.png">
+        </a>
+        <a target="_blank" href="https://web.badges.world/">
+        <img src="/graphics/toy/tags/tama.png">
+        </a>
+    </div>
     <br>
-    <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
-    <img src="/graphics/toy/tags/transrights.png">
-    </a>
-    <a target="_blank" href="https://pixels.heylouise.space/">
-    <img src="/graphics/toy/tags/lgbt_pan.png">
-    </a>
-    <a target="_blank" href="https://web.badges.world/">
-    <img src="/graphics/toy/tags/pride2.gif">
-    </a>
-    <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
-    <img src="/graphics/toy/tags/veganalways.png">
-    </a>
-    <a target="_blank" href="https://pixels.heylouise.space/">
-    <img src="/graphics/toy/tags/alignment_chaotic_good.png">
-    </a>
-    <a target="_blank" href="https://web.badges.world/">
-    <img src="/graphics/toy/tags/neopets.png">
-    </a>
-    <a target="_blank" href="https://web.badges.world/">
-    <img src="/graphics/toy/tags/tama.png">
-    </a>
     <br>
     <a target="_blank" href="https://quiz.pikminbloom.com/">
         <img style="max-width: 100%;" src="/graphics/toy/quiz/pikmin-quiz-rose.png">
@@ -161,3 +168,58 @@ because I made so many good memories and learned a lot.
         <img src="http://www.nerdtests.com/images/ft/nq/66fc8586df.gif" alt="I am nerdier than 43% of all people. Are you a nerd? Click here to take the Nerd Test, get geeky images and jokes, and talk on the nerd forum!">
     </a>
 </center>
+<br>
+<b>I Am A:</b> <a target="_blank" href="http://www.easydamus.com/character.html"> Neutral Good Human Bard (5th Level)</a>
+<br><br><u>Ability Scores:</u><br>
+<b>Strength - </b>12<br>
+<b>Dexterity - </b>14<br>
+<b>Constitution - </b>14<br>
+<b>Intelligence - </b>13<br>
+<b>Wisdom - </b>14<br>
+<b>Charisma - </b>14
+<br>
+<pre><code>
+    Alignment:
+    Lawful Good ----- XXXXXXXXXXXXXXXXXXXX (20)
+    Neutral Good ---- XXXXXXXXXXXXXXXXXXXXX (21)
+    Chaotic Good ---- XXXXXXXXXXXXXXXXXX (18)
+    Lawful Neutral -- XXXXXXXXXXXXXXXXXXX (19)
+    True Neutral ---- XXXXXXXXXXXXXXXXXXXX (20)
+    Chaotic Neutral - XXXXXXXXXXXXXXXXX (17)
+    Lawful Evil ----- XXXXXXXXXXXXXX (14)
+    Neutral Evil ---- XXXXXXXXXXXXXXX (15)
+    Chaotic Evil ---- XXXXXXXXXXXX (12)
+
+    Law & Chaos:
+    Law ----- XXXXXXXXX (9)
+    Neutral - XXXXXXXXXX (10)
+    Chaos --- XXXXXXX (7)
+
+    Good & Evil:
+    Good ---- XXXXXXXXXXX (11)
+    Neutral - XXXXXXXXXX (10)
+    Evil ---- XXXXX (5)
+
+    Race:
+    Human ---- XXXXXXXXXXXXX (13)
+    Dwarf ---- XXXX (4)
+    Elf ------ XXXXXXXX (8)
+    Gnome ---- XXXXXXXXXXXX (12)
+    Halfling - XXXXXXXXXX (10)
+    Half-Elf - XXXXXXXXXXXXX (13)
+    Half-Orc - XX (2)
+
+    Class:
+    Barbarian - XXXXXX (6)
+    Bard ------ XXXXXXXXXXXXXXXXXX (18)
+    Cleric ---- XX (2)
+    Druid ----- XXXXXXXXXXXXXXXX (16)
+    Fighter --- XXXXXXXX (8)
+    Monk ------ XXXXXXXXXX (10)
+    Paladin --- XXXXXXXXXXXXXX (14)
+    Ranger ---- XXXXXXXXXX (10)
+    Rogue ----- XXXXXXXXXXXX (12)
+    Sorcerer -- XXXXXXXXXXXXXXXX (16)
+    Warlock --- XXXXXXXXXX (10)
+    Wizard ---- XXXXXXXXXX (10)
+</code></pre>

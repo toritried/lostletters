@@ -32,7 +32,7 @@ These are more like a list of exceptions to just generally *not buying stationer
 - ¥3421 - <a target="_blank" href="https://booth.ours.tw/item/567-2023%20OURS%E6%89%8B%E5%B8%B3%20%E8%87%AA%E7%94%B1%E7%A0%94%E7%A9%B6">2023 OURS Research Project Journal A5</a>
 
 **Hobonichi Release - ¥2362 (~$18 USD) total**
-- ¥1680 - <a target="_blank" href="https://www.1101.com/store/techo/en/2023/pc/detail_toolstoys/tt_decorush/">Plus x Hobonichi Deco Rush</a (4): What shall I snack on?, What a feast!, Camp Every Day, Cafe Repose
+- ¥1680 - <a target="_blank" href="https://www.1101.com/store/techo/en/2023/pc/detail_toolstoys/tt_decorush/">Plus x Hobonichi Deco Rush</a> (4): What shall I snack on?, What a feast!, Camp Every Day, Cafe Repose
 - ¥682 - <a target="_blank" href="https://www.loft.co.jp/store/g/g4582660451393/">LOFT-exclusive A5 Hobonichi Bread Thief Pencil Board</a>
 
 **Monthly Allowance - ¥20389 ($152 USD) total**  

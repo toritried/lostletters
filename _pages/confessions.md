@@ -6,9 +6,11 @@ permalink: /confessions/
 menu: pages
 ---
 <center>
-    <a target="_blank" href="https://www.patreon.com/waneella">
-        <img src="https://imglf5.lf127.net/img/L1ZOMzFVTXVFQ2FhZCttVmlzZTEvM0I1Z3JnUS81OHZ0N09rTTVMUFp3MS9GcWZtV2dFcW1RPT0.gif" style="max-height:100%;" title="gif by waneella">
-    </a>
+    <div class="noext">
+        <a target="_blank" href="https://www.patreon.com/waneella">
+            <img src="https://imglf5.lf127.net/img/L1ZOMzFVTXVFQ2FhZCttVmlzZTEvM0I1Z3JnUS81OHZ0N09rTTVMUFp3MS9GcWZtV2dFcW1RPT0.gif" style="max-height:100%;" title="gif by waneella">
+        </a>
+    </div>
 </center>
 <h2>gaijin confessions</h2>
 Although I'm half-Japanese, I wasn't raised in Japan, and I've done a lot of harmless, embarrassing stuff as an inept foreigner, trying to survive the most basic interactions here, 
