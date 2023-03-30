@@ -8,42 +8,45 @@ menu: about
 <div class="noext">
     <a target="_blank" href="https://www.deviantart.com/sqdpxl/art/moomin-to-the-groove-811004899"><img src="/graphics/toy/moomin_by_SqdPxl.gif" style="margin: 5px 0 5px 5px;" align="right" title="click for artist"/></a>
 </div>
-<h2>hail and well met,</h2> 
-<img src="/graphics/toy/emoticons/letter-love.gif" style="margin: 0 5px 0 0;" align="left"/>
-I intended for this site to be like a stack of letters, discovered in a lunchbox that washed up on a distant coast like in <i>A Tale for the Time Being</i> by Ruth Ozeki. 
+<h2>Hail & Well Met,</h2> 
+I started learning to code thanks to <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">Neopets</a> in ~2003, which inspired me <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 10px;" align="left" />to pour my heart into subpar pixel art and website layouts drawn in MS Paint and Photoshop. I'm so glad I never let my frustrating mediocrity stop me from participating in the pixel communities of that time, because I made so many good memories (q*bee, Teahouse MB) and learned some basics of HTML, CSS, and PHP.  
+<br>
+In the intervening decades (<i>oof</i>), I thoroughly dismissed the idea of ever taking any of my strange solo-hobbies like web development seriously (<i>double oof</i>), but I still brushed off my elementary coding skills a few times, learning things like FTP to host my own site and domain, so I could participate in online TCGs, including <a target="_blank" href="https://tcg.fandom.com/wiki/Zest">Zest</a>. These were not like Pokemon or YuGiOh!, because <i>online trading</i> was the game. Through trading cards, you'd collect enough cards to master decks and level up. It used to be horrendously manual; however, I was recently shocked to find and become entirely consumed by newer, fully automated TCGs like <a target="_blank" href="https://heavenspell.la-impresion.org/TCG/">Trading Base</a>. Curiously, it seems like the TCG player base is still heavily female like the previous online spaces I've mentioned.
+<br>
+<br>
+The boredom of the pandemic finally gave me the inspiration and judgement-free opportunity to explore my "strange solo-hobbies" again, leading me back to the threadbare remnants of the early internet I so enjoyed as a child. What started out as setting a goal to earn 10 million neopoints after all these years to achieve "ultimate riches" on Neopets quickly snowballed into discovering the yesterweb and web revival. All of a sudden, I was up until 2am, filled with a sense of urgency to pick back up as much as I could of the early internet of my childhood, which I felt like I was close to losing forever. That urgency inspired this website, so if it feels like an incoherent fever-dream, that's really what this all is. 
+<br>
+<br>
+<center>
+    <img src="/graphics/toy/sakura-divider.gif">
+</center>
+<br>
 <div class="noext">
     <a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961">
         <img src="/graphics/toy/snufkin_by_Caicyo.png" style="margin: 5px;" align="left" title="click for artist"/>
     </a>
 </div>
-The style and organization of this site hopefully conveys a sense of thought and effort akin to selecting a pretty letter set and fountain pen ink. 
-Even though there is no way of knowing what you'll get out of reading these letters, I hope you take a look around and enjoy it. 
-<img src="/graphics/toy/emoticons/sparkle-watercolor.gif">
+Now that I've truly accepted that I'm just a goblin that likes weird stuff instead of someone who does HIIT six days a week before bottomless mimosa brunch, you can typically find me playing, watching, or listening to TTRPGs if I'm offline. I still haven't shed my tendency towards exercise, so I'm probably also working out for my stupid mental health and tracking it obsessively to earn <a target="_blank" href="https://garminbadges.com/">garmin connect badges</a>. I will seriously do anything for the simplest forms of gamification, it's stupid and sometimes dangerous. I also try to stay on top of my daily memory keeping, which involves excessive amounts of fountain pens, stickers, and washi tape. 
+<br>
 <br>
 <center>
-    <img src="/graphics/toy/sakura-divider.gif" style="margin: 5px 0;">
+    <img src="/graphics/toy/sakura-divider.gif">
 </center>
-<img src="/graphics/toy/emoticons/clown.gif" align="left" style="margin: 0 6px 0 0;"> 
-As for me, I started learning to code thanks to <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">Neopets</a> in ~2003, and I began <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 10px;" align="right" />to pour my heart into mediocre pixel art and website layouts drawn in MS Paint and Photoshop. 
-I'm so glad I never let my dislike of my art stop me from participating in the pixel communities of that time, 
-because I made so many good memories and learned a lot.  
-<center>
-    <img src="/graphics/toy/sakura-divider.gif" style="margin: 5px 0;">
-</center>
+<br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
-<b>likes</b>: TTRPGs (mostly D&D), lgbtqia+ rights, intersectional feminism, lively cities, onsen 温泉, writing and receiving happy mail from pen pals, words of affirmation, knitting, yakiimo 焼き芋, epic fantasy, therapy
+<b>likes</b>: trans rights, intersectional feminism, degrowth and ecosocialism, labor organizing, pumpkin spice, living in cities, onsen 温泉, my penpals, words of affirmation, knitting, yakiimo 焼き芋, epic fantasy
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/ahhh_bear.gif" title="if you know who illustrated this, please lmk"/>
-<b>dislikes</b>: silence, alone time, being late/running for trains, never remembering names or lyrics, feeling illiterate in Japan, trauma dumping, non-inclusive clothing sizes, not crediting artists
+<b>dislikes</b>: silence, being late/running for trains, never remembering names or lyrics, feeling illiterate in Japan, trauma dumping, non-inclusive clothing sizes, not crediting artists
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/learning_pig.gif" title="if you know who illustrated this, please lmk"/>
-<b>practicing</b>: buddhism / meditation, web development, 日本語, pixel art, emotional regulation techniques, proper weight lifting form, roller skating, imitating musical instruments with my voice
+<b>practicing</b>: buddhism / meditation, web development, pixel art, emotional regulation techniques, proper weight lifting form, low heart rate training (MAF method), imitating musical instruments with my voice
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_cat.gif" title="if you know who illustrated this, please lmk"/>
-<b>enemies of my wallet</b>: limited edition uni-ball one gel pens (0.38mm), washi tape, <a target="_blank" href="https://www.voluspa.com/">voluspa candles</a>, <a target="_blank" href="https://minimodel.jp/catalogue/nail/nuance">ニュアンスネイル</a>, LUSH bathbombs, <a target="_blank" href="https://dispeldice.com/">pretty math rocks</a>, overpriced vegan/foreigner food in Japan, <a target="_blank" href="https://www.postacollect.com/">seasonal Japanese postcards</a>
+<b>enemies of my wallet</b>: limited edition uni-ball one gel pens (0.38mm), washi tape, <a target="_blank" href="https://www.voluspa.com/">voluspa candles</a>, <a target="_blank" href="https://minimodel.jp/catalogue/nail/nuance">"nuance nail" trend in Japan</a>, LUSH bathbombs, <a target="_blank" href="https://dispeldice.com/">pretty math rocks</a>, overpriced vegan/foreigner food in Japan, <a target="_blank" href="https://www.postacollect.com/">seasonal Japanese postcards</a>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/cute_bear.gif" title="if you know who illustrated this, please lmk"/>
-<b>media</b>: moomin (tv show), <a target="_blank" href="https://www.naddpod.com/">NAADPod</a> (D&D podcast), <a target="_blank" href="https://critrole.com/">Critical Role</a> (D&D show), <a target="_blank" href="https://www.dropout.tv/dimension-20">Dimension 20</a> (TTRPG show), vlogs (Michelle Choi, Namiのくらし, CozyDay, em iffy, deemd), audiobooks (currently: <i>Lightbringer Series</i>  by Brent Weeks)
+<b>media</b>: moomin (tv show), <a target="_blank" href="https://www.naddpod.com/">NAADPod</a> (D&D podcast), <a target="_blank" href="https://critrole.com/">Critical Role</a> (D&D show), <a target="_blank" href="https://www.dropout.tv/dimension-20">Dimension 20</a> (TTRPG show), vlogs (Michelle Choi, Namiのくらし, CozyDay, em iffy, deemd), audiobooks
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/pig_eat.gif" title="if you know who illustrated this, please lmk"/>
 <b>foods I need to veganize</b>: su böreği, spanakopita, gözleme, kugel, braciola, mac n' cheese, calamari, Cuban picadillo
