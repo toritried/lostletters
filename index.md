@@ -53,5 +53,7 @@ know in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-0
         <a href="https://hotlinewebring.club/lostletters/previous">
             &gt;&gt;
         </a>
+        <br>
+        <script src="https://nuthead.neocities.org/ring/ring.js"></script>
     </div>
 </center>
