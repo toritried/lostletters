@@ -15,6 +15,7 @@ I've hoarded stickers, pens, and blank journals for as long as I can remember, b
 - complete and learn from a  <a href="/no-buy">year-long stationery "no-buy" in 2022</a>  
 <center>
     <img src="/graphics/techo/hobonichi.jpg" style="max-width: 100%;margin: 20px 0 0 0;">
+    <br>
     You can find more of my stationery life under <b>@techobytori</b>:
     <br>
     <a target="_blank" href="http://twitch.tv/techobytori">Twitch</a> | 
