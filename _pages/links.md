@@ -3,15 +3,22 @@ layout: space
 title: links 
 emoji: 🔗
 permalink: /links/
-menu: pages
+menu: meta
 ---
+If you would like to link to my site, please use either of the following buttons. <b>Please download and host the image yourself, thanks!</b>
+<br>
 <center>
-    Here you can find a bunch of websites that I enjoy and respect immensely. I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters">every site needs a links page</a>, and I'm hoping this list I spent way too long curating will provide you with some really interesting and helpful places to explore next. If you'd like to link back to my site, please use the buttons on my homepage, and let me know when you do via my guestbook, so I can check out your site too!
+    <img src="/graphics/site_buttons/LostLetters32x32.gif" style="margin: 0 0 10px 0">
+    <img src="/graphics/site_buttons/LostLetters88x31.gif" style="margin: 0 0 10px 0">
 </center>
+<hr>
+<br>
+These are websites that I enjoy and respect immensely. I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters">every site needs a links page</a>, and I'm hoping this list I spent way too long curating will provide you with some really interesting and helpful places to explore next.
+<br>
 <br>
 <h2>Personal Sites</h2>  
 <a target="_blank" href="https://melonking.net">
-    <img src="https://melonking.net/images/badges/MELON-BADGE-2.GIF" title="Melonking.Net" align="left" style="margin: 10px 10px 0 0;">Melonking.Net</a> is so expansive that it literally has its own <a target="_blank" href="https://thoughts.melonking.net/guides/melonkingnet-tourist-guide">tourist guide</a>. I'm constantly inspired by the web-related community provocations from Melon as well as all the creative animation and code on his site, pushing the bounds of possibility.  
+    <img src="https://melonking.net/images/badges/MELON-BADGE-2.GIF" title="Melonking.Net" align="left" style="margin: 10px 10px 0 0;">Melonking.Net</a> is so expansive that it literally has its own tourist guide. I'm constantly inspired by the web-related community provocations from Melon as well as all the creative animation and code on his site, pushing the bounds of possibility.  
 <br>
 <a target="_blank" href="https://lazybones.neocities.org/">
     <img src="https://lazybones.neocities.org/IMAGES/lazybonesicon3.png" title="lazy bones" align="left" style="margin: 10px 10px 0 0;"/>
@@ -27,7 +34,7 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
 <br>
 <a target="_blank" href="https://lu.tiny-universes.net/index2.html">
     <img src="/graphics/linkout/lu.tinyuniverse.gif" title="Lulu in Cyberspace" align="left" style="margin: 10px 10px 0 0;">
-    Lulu in Cyberspace</a>'s ardent support of making web development as accessible as possible resonated with me. Lu is infinitely expressive through her site and has a lot to say that's worth listening to. There's plenty of fun and playful stuff to explore too.  
+    Lulu in Cyberspace</a> - Lulu's ardent support of making web development as accessible as possible resonated with me. Lu is infinitely expressive through her site and has a lot to say that's worth listening to. There's plenty of fun and playful stuff to explore too.  
 <br>
 <a target="_blank" href="https://marzka.cafe/">
     <img src="/graphics/linkout/marzka_cafe_88x31.png"  title="Marzka.Cafe" align="left" style="margin: 10px 10px 0 0;">Marzka.Cafe</a> is a stunningly designed website that's also built using jekyll. I learned a ton from her website's public github repository when trying to figure out how to make my SSG work.  
@@ -42,7 +49,7 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
 <br>
 <a target="_blank" href="https://maya.land/">
     <img src="/graphics/linkout/mayaland.png" title="maya.land" align="left" style="margin: 10px 10px 0 0;">
-    maya.land</a>'s timeless content is always interesting and delightful to peruse. Goblin mode forever!  
+    maya.land</a> - Maya's timeless content is always interesting and delightful to peruse. Goblin mode forever!  
 <br>
 <b>
     <a target="_blank" href="https://winnielim.org/">

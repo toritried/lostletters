@@ -6,17 +6,9 @@ permalink: /site/
 menu: meta
 ---
 <h2>About Lost Letters</h2>
-I intended for this site to be like a lunchbox full of letter by a stranger, which you discovered washed up on a distant shore like in <i>A Tale for the Time Being</i> by Ruth Ozeki. Even though there is no way of knowing what you'll get out of reading these letters, I hope you take a look around and enjoy them.
+I intended for this site to be like a lunchbox full of letters by a stranger, which you discovered washed up on a distant shore like in <i>A Tale for the Time Being</i> by Ruth Ozeki. Even though there is no way of knowing what you'll get out of reading these letters, I hope you take a look around and enjoy them.
 <br>
 <br>
-If you would like to link to my site, please use either of the following buttons. <b>Please download and host the image yourself, thanks!</b>
-<br>
-<center>
-    <img src="/graphics/site_buttons/LostLetters32x32.gif">
-    <img src="/graphics/site_buttons/LostLetters88x31.gif">
-</center>
-<br>
-<hr>
 <hr>
 <br>
 <h2>Past Layouts</h2>

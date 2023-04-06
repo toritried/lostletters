@@ -53,59 +53,6 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
 <br>
 <br>
 <center>
-    <div class="quilt">
-        <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
-            <img src="/graphics/linkout/rss.gif" title="Only my freshest blog posts delivered straight to you!">
-        </a>
-        <a target="_blank" href="https://webmentions.neocities.org/">
-            <img src="/graphics/linkout/webmentions_anim.gif" title="If you mention this site's URL on mastodon, it'll display like a comment on that specific page! So cool, right? Go enable it on your site too!">
-        </a>
-        <a target="_blank" href="https://neocities.org/site/lostletters">
-            <img src="/graphics/linkout/neocitiespink.gif" title="Proudly hosted by NeoCities!">
-        </a>
-        <a target="_blank" href="https://rainy.gay/">
-            <img src="/graphics/linkout/progress.png" title="button by Dime">
-        </a>
-        <a target="_blank" href="https://plasticdino.neocities.org/">
-            <img src="/graphics/linkout/queer.png" title="button by kitty">
-        </a>
-        <a target="_blank" href="https://yesterweb.org/no-to-web3/">
-            <img src="/graphics/linkout/nft_sadgrl.gif" title="button by sadgrl.online">
-        </a>
-        <a target="_blank" href="https://jekyllrb.com/">
-            <img src="/graphics/linkout/jekyll.png" title="I use Jekyll as my Static Site Generator">
-        </a>
-        <a target="_blank" href="https://arremeer.neocities.org/">
-            <img src="/graphics/linkout/masknow.png" title="button by Bruno">
-        </a>
-        <img src="/graphics/linkout/acab.gif">
-        <img src="/graphics/linkout/bob.gif">
-    </div>
-    <div class="quilt">
-        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
-        <img src="/graphics/toy/tags/transrights.png">
-        </a>
-        <a target="_blank" href="https://pixels.heylouise.space/">
-        <img src="/graphics/toy/tags/lgbt_pan.png">
-        </a>
-        <a target="_blank" href="https://web.badges.world/">
-        <img src="/graphics/toy/tags/pride2.gif">
-        </a>
-        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
-        <img src="/graphics/toy/tags/veganalways.png">
-        </a>
-        <a target="_blank" href="https://pixels.heylouise.space/">
-        <img src="/graphics/toy/tags/alignment_chaotic_good.png">
-        </a>
-        <a target="_blank" href="https://web.badges.world/">
-        <img src="/graphics/toy/tags/neopets.png">
-        </a>
-        <a target="_blank" href="https://web.badges.world/">
-        <img src="/graphics/toy/tags/tama.png">
-        </a>
-    </div>
-    <br>
-    <br>
     <a target="_blank" href="https://quiz.pikminbloom.com/">
         <img style="max-width: 100%;" src="/graphics/toy/quiz/pikmin-quiz-rose.png">
     </a>

@@ -4,7 +4,7 @@ title: home
 emoji: 🏠
 ---
 <img src="/graphics/site_buttons/LostLetters32x32.gif" align="left" style="margin: 11px 17px 0 10px;" >
-<img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 0;" align="right" width="82px"/>
+<img src="/graphics/adoptables/dancing-moomin-lostletters-4x.png" style="margin: 10px 0 0 0;" align="right" width="82px"/>
 You have found Lost Letters, a personal website & home of the <a href="/afternoontea/">Afternoon Tea Pixel Club</a>. 
 This site is my small contribution to the 
 <a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
@@ -14,15 +14,11 @@ and an homage to
 <a target="_blank" href="https://zine.yesterweb.org/issue-00/index.php?page=8">
     pixel playgrounds
 </a> 
-and communities of the early 2000s. 
-I'm just another queer, nostalgic girl in her late 20s, figuring out CSS/HTML again. 
- Thank you so much for checking out my site! 
-If you have any questions or like what you see, let me 
-know in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce">guestbook</a>. 
+and communities of the early 2000s. I'm just another queer, nostalgic girl in her late 20s, figuring out CSS/HTML again. Thank you so much for checking out my site! Feel free to reach out or tell me how you found this site in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce">guestbook</a>. 
 <center>
     <br>
     ｡･:*˚:✧｡ 
-    <img src="/graphics/site_buttons/LostLetters88x31.gif">
+    <img src="/graphics/site_buttons/LostLetters88x31-4x.gif" width="88px">
      ｡✧:˚*:･｡
     <br>
     <a target="_blank" href="https://neocities.org/site/lostletters">neocities</a> | 
@@ -30,6 +26,61 @@ know in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-0
     <a target="_blank" href="https://github.com/toritried/lostletters">github</a> | 
     <a target="_blank" href="https://social.yesterweb.org/@lostletters" rel="me">mastodon</a>
     <br>
+    <br>
+    <div class="quilt">
+        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
+        <img src="/graphics/toy/tags/transrights.png">
+        </a>
+        <a target="_blank" href="https://pixels.heylouise.space/">
+        <img src="/graphics/toy/tags/lgbt_pan.png">
+        </a>
+        <a target="_blank" href="https://web.badges.world/">
+        <img src="/graphics/toy/tags/pride2.gif">
+        </a>
+        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
+        <img src="/graphics/toy/tags/union-member.png">
+        </a>
+        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
+        <img src="/graphics/toy/tags/veganalways.png">
+        </a>
+        <a target="_blank" href="https://pixels.heylouise.space/">
+        <img src="/graphics/toy/tags/alignment_chaotic_good.png">
+        </a>
+        <a target="_blank" href="https://web.badges.world/">
+        <img src="/graphics/toy/tags/neopets.png">
+        </a>
+        <a target="_blank" href="https://web.badges.world/">
+        <img src="/graphics/toy/tags/tama.png">
+        </a>
+    </div>
+    <div class="quilt">
+        <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
+            <img src="/graphics/linkout/rss.gif" title="Only my freshest blog posts delivered straight to you!">
+        </a>
+        <a target="_blank" href="https://webmentions.neocities.org/">
+            <img src="/graphics/linkout/webmentions_anim.gif" title="If you mention this site's URL on mastodon, it'll display like a comment on that specific page! So cool, right? Go enable it on your site too!">
+        </a>
+        <a target="_blank" href="https://neocities.org/site/lostletters">
+            <img src="/graphics/linkout/neocitiespink.gif" title="Proudly hosted by NeoCities!">
+        </a>
+        <a target="_blank" href="https://rainy.gay/">
+            <img src="/graphics/linkout/progress.png" title="button by Dime">
+        </a>
+        <a target="_blank" href="https://plasticdino.neocities.org/">
+            <img src="/graphics/linkout/queer.png" title="button by kitty">
+        </a>
+        <a target="_blank" href="https://yesterweb.org/no-to-web3/">
+            <img src="/graphics/linkout/nft_sadgrl.gif" title="button by sadgrl.online">
+        </a>
+        <a target="_blank" href="https://jekyllrb.com/">
+            <img src="/graphics/linkout/jekyll.png" title="I use Jekyll as my Static Site Generator">
+        </a>
+        <a target="_blank" href="https://arremeer.neocities.org/">
+            <img src="/graphics/linkout/masknow.png" title="button by Bruno">
+        </a>
+        <img src="/graphics/linkout/acab.gif">
+        <img src="/graphics/linkout/bob.gif">
+    </div>
     <br>
     <div class="noext">
         <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte

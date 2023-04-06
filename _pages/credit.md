@@ -10,7 +10,7 @@ This is a collection of wonderful people / places / things that helped me create
 <br>
 <br>
 <h2>Graphics</h2>
-💖 <a target="_blank" href="https://trovami.altervista.org/">trovami</a> -  custom web badge / antipixel button creator used for badges I made to reflect my values on my about page
+💖 <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">trovami</a> - 80x15 button creator
 <br>
 💖 <a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 unicorn button base
 <br>
