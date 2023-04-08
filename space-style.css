@@ -3,16 +3,16 @@
     cursor: url("/graphics/cursor/letter_wings.png"), auto;
   }
 
-  body {
-    background-color: #1a1a1a;
-    background-image: url('/graphics/layout/v2_space/slow-star.gif'); 
-    font-family: 'Asul', sans-serif;
-    line-height: 1.6em;
-    image-rendering: -webkit-optimize-contrast;
-    color: #ffc6ec;
-  }
+body {
+  background-color: #1a1a1a;
+  background-image: url('/graphics/layout/v2_space/slow-star.gif'); 
+  font-family: 'Asul', sans-serif;
+  line-height: 1.6em;
+  image-rendering: -webkit-optimize-contrast;
+  color: #ffc6ec;
+}
 
-  /* mobile styles */
+/* mobile styles */
 body {
   font-size: 18px;
 }
@@ -27,136 +27,137 @@ body {
 /* desktop styles */
 @media screen and (min-width: 1024px) {
     body {
-        font-size: 24px;
+        font-size: 20px;
     }
 }
-  alagard {
-    font-family: "CustomFont";
-    src: url("https://lostletters.neocities.org/fonts/alagard.woff") format("wofff");
-  }
-  
-  ol {
-    list-style: decimal inside;
-    margin: 0.2em 0 0px -0.5em;
-  }
-  
-  ul {
-    list-style: '♡  ';
-    margin: 0 0 0 -1em;
-  }
+alagard {
+  font-family: "CustomFont";
+  src: url("https://lostletters.neocities.org/fonts/alagard.woff") format("wofff");
+}
 
-  ol {
-    margin: 0 0 0 -1em;
-  }
-  
-  p {
-    display: block;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    margin-bottom: 5px;
-  }
+ol {
+  list-style: decimal inside;
+  margin: 0.2em 0 0px -0.5em;
+}
 
-  #webmentions img {
-    max-height: 1.2em; 
-    margin-right: -1ex; 
-  }
-  
-  /* ------- Text Customization ------- */
-  h1 {
-    font-family: 'alagard', Arial, sans-serif;
-    font-weight:normal;
-    font-style:normal;
-    padding: 9px 0 13px 0;
-  }
+ul {
+  list-style: '♡  ';
+  margin: 0 0 0 -1em;
+}
 
-  .welcome {
-    font-weight: normal;
-  }
-  
-  h2{
-    font-weight: normal;
-    padding-bottom: 0.4em;
-  }
-  
-  strong, b {
-    background: -webkit-linear-gradient(#fff6e7, #ff9f00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-  
-  a {
-    color: #ff7add;
-    text-decoration: none;
-    cursor: pointer;
-  }
-  
-  a:hover {
-    color: #f74acb;
-    text-decoration: none;
-    text-shadow: 2px 2px 4px #f74acb;
-  }
+ol {
+  margin: 0 0 0 -1em;
+}
 
-  a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
-      content: " ↗";
-      font-size: 0.8em;
-  }
+p {
+  display: block;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-bottom: 5px;
+}
 
-  .quilt a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
-    content: "";
+#webmentions img {
+  max-height: 1.2em; 
+  margin-right: -1ex; 
+}
+
+/* ------- Text Customization ------- */
+h1 {
+  font-family: 'alagard', Arial, sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  padding: 9px 0 13px 0;
+}
+
+.welcome {
+  font-weight: normal;
+}
+
+h2{
+  font-weight: normal;
+  padding-bottom: 0.4em;
+}
+
+strong, b {
+  background: -webkit-linear-gradient(#fff6e7, #ff9f00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a {
+  color: #ff7add;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #f74acb;
+  text-decoration: none;
+  text-shadow: 2px 2px 4px #f74acb;
+}
+
+a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+    content: " ↗";
     font-size: 0.8em;
-  }
+}
 
-  .noext a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
-    content: "";
-    font-size: 0.8em;
-  }
+.quilt a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+  content: "";
+  font-size: 0.8em;
+}
+
+.noext a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+  content: "";
+  font-size: 0.8em;
+}
 
 ::selection {
-  background: #ffb8ed3f;
-  color: #ffffff;
-  }
+background: #ffb8ed3f;
+color: #ffffff;
+}
 
-    
+  
 @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    
-    50% {
-      background-position: 100% 50%;
-    }
-    
-    100% {
-      background-position: 0% 50%;
-    }
+  0% {
+    background-position: 0% 50%;
   }
-
- img { 
-    max-width: 100%;
-    height: auto;
-    filter: blur(0);
-    -webkit-filter: blur(0);
-    transform: translateZ(0);
-    -webkit-transform: translateZ(0);
+  
+  50% {
+    background-position: 100% 50%;
   }
+  
+  100% {
+    background-position: 0% 50%;
+  }
+}
 
-  .box1 {
-    margin: 2em 0 15px 0;
-    position: relative;
-    /* These styling elements are from Pale's Glassy layout 
-    https://palemomos.neocities.org/cool-layouts/ 
-    thought I have tweaked the values */
-    background-color: #34072d6b;
-    box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
-    border: 1px solid var(--light-color);
-    border-radius: 35px;
-    padding: 1.7rem;
-    transition: 0.5s all ease;
-    backdrop-filter: blur(2px);
-    width: 75%;
-    height: 100%;
-    display: flex;
-    }
+img { 
+  max-width: 100%;
+  height: auto;
+  filter: blur(0);
+  -webkit-filter: blur(0);
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+}
+
+.box1 {
+  margin: 2em 0 15px 0;
+  position: relative;
+  /* These styling elements are from Pale's Glassy layout 
+  https://palemomos.neocities.org/cool-layouts/ 
+  thought I have tweaked the values */
+  background-color: #34072d6b;
+  box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
+  border: 1px solid var(--light-color);
+  border-radius: 35px;
+  padding: 1.7rem;
+  transition: 0.5s all ease;
+  backdrop-filter: blur(2px);
+  width: 80%;
+  max-width: 656px;
+  height: 100%;
+  display: flex;
+  }
 
 /* navigation W3School version*/
 .navbar {
