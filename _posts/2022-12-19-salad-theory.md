@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Green Gobblin': Learning How to Make Salads for Adult Consumption"
+title:  "Salads for Adult Consumption"
 date:  2022-12-19 21:02
 tags:  [salad, adulting, self care]  
 ---
