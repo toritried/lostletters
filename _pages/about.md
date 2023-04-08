@@ -17,9 +17,7 @@ In the intervening decades (<i>oof</i>), I thoroughly dismissed the idea of ever
 The boredom of the pandemic finally gave me the inspiration and judgement-free opportunity to explore my "strange solo-hobbies" again, leading me back to the threadbare remnants of the early internet I so enjoyed as a child. What started out as setting a goal to earn 10 million neopoints after all these years to achieve "ultimate riches" on Neopets quickly snowballed into discovering the yesterweb and web revival. All of a sudden, I was up until 2am, filled with a sense of urgency to pick back up as much as I could of the early internet of my childhood, which I felt like I was close to losing forever. That urgency inspired this website, so if it feels like an incoherent fever-dream, that's really what this all is. 
 <br>
 <br>
-<center>
-    <img src="/graphics/toy/sakura-divider.gif">
-</center>
+<hr>
 <br>
 <div class="noext">
     <a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961">
@@ -29,9 +27,7 @@ The boredom of the pandemic finally gave me the inspiration and judgement-free o
 Now that I've truly accepted that I'm just a goblin that likes weird stuff instead of someone who does HIIT six days a week before bottomless mimosa brunch, you can typically find me playing, watching, or listening to TTRPGs if I'm offline. I still haven't shed my tendency towards exercise, so I'm probably also working out for my stupid mental health and tracking it obsessively to earn <a target="_blank" href="https://garminbadges.com/">garmin connect badges</a>. I will seriously do anything for the simplest forms of gamification, it's stupid and sometimes dangerous. I also try to stay on top of my daily memory keeping, which involves excessive amounts of fountain pens, stickers, and washi tape. 
 <br>
 <br>
-<center>
-    <img src="/graphics/toy/sakura-divider.gif">
-</center>
+<hr>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
 <b>likes</b>: trans rights, intersectional feminism, degrowth and ecosocialism, labor organizing, pumpkin spice, living in cities, onsen 温泉, my penpals, words of affirmation, knitting, yakiimo 焼き芋, epic fantasy
