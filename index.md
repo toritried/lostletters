@@ -104,7 +104,9 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
         <a href="https://hotlinewebring.club/lostletters/previous">
             &gt;&gt;
         </a>
-        <br>
+        <script src="https://xandra.cc/safonts/webring.js"></script>
+        <ring-900 site="https://lostletters.neocities.org/"></ring-900>
         <script src="https://nuthead.neocities.org/ring/ring.js"></script>
+
     </div>
 </center>
