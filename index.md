@@ -14,7 +14,7 @@ and an homage to
 <a target="_blank" href="https://zine.yesterweb.org/issue-00/index.php?page=8">
     pixel playgrounds
 </a> 
-and communities of the early 2000s. I'm just another queer, nostalgic girl in her late 20s, figuring out CSS/HTML again. Thank you so much for checking out my site! Feel free to reach out or tell me how you found this site in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce">guestbook</a>. 
+and communities of the early 2000s. I'm just another queer, nostalgic girl in her late 20s, figuring out CSS and HTML again. Thank you so much for checking out my site! Feel free to reach out or tell me how you found this site in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce">guestbook</a>. 
 <center>
     <br>
     ｡･:*˚:✧｡ 
