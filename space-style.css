@@ -6,12 +6,30 @@
   body {
     background-color: #1a1a1a;
     background-image: url('/graphics/layout/v2_space/slow-star.gif'); 
-    font: 1.2em 'Asul', sans-serif;
+    font-family: 'Asul', sans-serif;
     line-height: 1.6em;
     image-rendering: -webkit-optimize-contrast;
     color: #ffc6ec;
   }
 
+  /* mobile styles */
+body {
+  font-size: 18px;
+}
+
+/* tablet styles */
+@media screen and (min-width: 768px) {
+    body {
+        font-size: 20px;
+    }
+}
+
+/* desktop styles */
+@media screen and (min-width: 1024px) {
+    body {
+        font-size: 24px;
+    }
+}
   alagard {
     font-family: "CustomFont";
     src: url("https://lostletters.neocities.org/fonts/alagard.woff") format("wofff");
@@ -123,19 +141,19 @@
   }
 
   .box1 {
-    margin: 4em 0 20px 0;
+    margin: 2em 0 15px 0;
     position: relative;
     /* These styling elements are from Pale's Glassy layout 
     https://palemomos.neocities.org/cool-layouts/ 
     thought I have tweaked the values */
-    background-color: #1701126e;
+    background-color: #34072d6b;
     box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
     border: 1px solid var(--light-color);
     border-radius: 35px;
     padding: 1.7rem;
     transition: 0.5s all ease;
     backdrop-filter: blur(2px);
-    width: 60%;
+    width: 75%;
     height: 100%;
     display: flex;
     }
