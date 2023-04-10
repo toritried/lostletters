@@ -11,16 +11,48 @@ body {
   image-rendering: -webkit-optimize-contrast;
   color: #ffc6ec;
 }
+/* ------- Text Customization ------- */
+h1 {
+  font-family: 'alagard', Arial, sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  padding: 9px 0 13px 0;
+}
+
+.welcome {
+  font-weight: normal;
+}
+
+h2{
+  font-weight: normal;
+  padding-bottom: 0.4em;
+}
 
 /* mobile styles */
 body {
-  font-size: 18px;
+  font-size: 16px;
+}
+
+h1{
+  font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.3em;
 }
 
 /* tablet styles */
 @media screen and (min-width: 768px) {
     body {
-        font-size: 20px;
+        font-size: 18px;
+    }
+
+    h1{
+      font-size: 1.8em;
+    }
+
+    h2 {
+      font-size: 1.3em;
     }
 }
 
@@ -28,6 +60,14 @@ body {
 @media screen and (min-width: 1024px) {
     body {
         font-size: 20px;
+    }
+
+    h1{
+      font-size: 2em;
+    }
+
+    h2 {
+      font-size: 1.5em;
     }
 }
 
@@ -62,23 +102,6 @@ p {
   margin-right: -1ex; 
 }
 
-/* ------- Text Customization ------- */
-h1 {
-  font-family: 'alagard', Arial, sans-serif;
-  font-weight:normal;
-  font-style:normal;
-  padding: 9px 0 13px 0;
-}
-
-.welcome {
-  font-weight: normal;
-}
-
-h2{
-  font-weight: normal;
-  padding-bottom: 0.4em;
-}
-
 strong, b {
   background: -webkit-linear-gradient(#fff6e7, #ff9f00);
   -webkit-background-clip: text;
@@ -92,13 +115,16 @@ a {
 }
 
 a:hover {
-  color: #f74acb;
+  -webkit-text-fill-color: #f74acb; /** needed given styling of bolded links **/
   text-decoration: none;
   text-shadow: 2px 2px 4px #f74acb;
+  position: relative;
+  left: 1.5px;
+  top: 1.5px;
 }
 
 a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
-    content: " ↗";
+    content: " \2924";
     font-size: 0.8em;
 }
 
@@ -107,9 +133,23 @@ a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
   font-size: 0.8em;
 }
 
+.imgwall a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+  content: "";
+  font-size: 0.8em;
+}
+
 .noext a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
   content: "";
   font-size: 0.8em;
+}
+
+.webring {
+  font-size: 90%;
+  line-height: 1.3em;
+}
+
+.webring a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+  content: "";
 }
 
 ::selection {
@@ -254,9 +294,54 @@ word-wrap: normal !important;
 }
 /** End of Jekyll post nav styling **/
 
+.profiles {
+  font-family: 'alagard', Arial, sans-serif; 
+  font-size: 90%; 
+  line-height: 1em;
+}
+
+/** index links styling based off of jekyll post nav styling **/
+.index-links {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.index-links div {
+  flex: 1 1 0;
+}
+    
+.index-links div:last-child {
+  text-align: right;
+}
+
+/** End of index links styling **/
+
+/** status.cafe styling **/
+#statuscafe{
+  font-size: 80%;
+  line-height: 1em;
+}
+
+#statuscafe-username {
+  display:inline;
+}
+
+ #statuscafe-username a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+    content: "";
+  }
+
+#statuscafe-content {
+  display:inline;
+}
+/** End of status.cafe styling **/
+
 hr {
+  background: url("/graphics/toy/sakura-divider.gif");
+  background-repeat: no-repeat;
+  background-position: center;
   border: 0;
-  background: url(/graphics/toy/sakura-divider.gif) no-repeat center;
+  height: 21px;
 }
 
 .footer {
@@ -265,6 +350,17 @@ hr {
   overflow: hidden;
   cursor: pointer;
   font-size: .8em;
+}
+
+.imgwall {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.imgwall img {
+  display: block;
 }
 
 .quilt {
@@ -280,13 +376,15 @@ hr {
 }
 
 .quilt-link {
+  /** original styling was top left
   position: absolute;
   top: 2px;
-  left: 10px;
+  left: 10px; **/
   animation: bobbing 2s ease-in-out infinite;
   animation-direction: alternate;
   filter: drop-shadow(0px 0px 5px #ffc973);
   image-rendering: pixelated;
+  display: inline;
 }
 
 @keyframes bobbing {

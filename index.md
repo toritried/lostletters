@@ -15,19 +15,27 @@ and an homage to
     pixel playgrounds
 </a> 
 and communities of the early 2000s. I'm just another queer, nostalgic girl in her late 20s, figuring out CSS and HTML again. Thank you so much for checking out my site! Feel free to reach out or tell me how you found this site in my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce">guestbook</a>. 
+<br>
 <center>
-    <br>
     ｡･:*˚:✧｡ 
-    <img src="/graphics/site_buttons/LostLetters88x31-4x.gif" width="88px">
-     ｡✧:˚*:･｡
+    <img src="/graphics/site_buttons/LostLetters88x31.gif" width="88px" style="padding-top: 12px;">
+    ｡✧:˚*:･｡
     <br>
-    <a target="_blank" href="https://neocities.org/site/lostletters">neocities</a> | 
-    <a target="_blank" href="https://lostletters.neocities.org/feed.xml">rss</a> | 
-    <a target="_blank" href="https://github.com/toritried/lostletters">github</a> | 
-    <a target="_blank" href="https://social.yesterweb.org/@lostletters" rel="me">mastodon</a>
-    <br>
-    <br>
-    <div class="quilt">
+    <div id="profiles">
+        <a target="_blank" href="https://neocities.org/site/lostletters">neocities</a> | 
+        <a target="_blank" href="https://lostletters.neocities.org/feed.xml">rss</a> | 
+        <a target="_blank" href="https://github.com/toritried/lostletters">github</a> | 
+        <a target="_blank" href="https://social.yesterweb.org/@lostletters" rel="me">mastodon</a>
+    </div>
+    <div id="statuscafe">
+        <div id="statuscafe-username"></div>&nbsp;&nbsp;&nbsp;<div id="statuscafe-content"></div>
+        <script src="https://status.cafe/current-status.js?name=lostletters" defer></script>
+    </div>
+</center>
+<br>
+<div class="index-links"><!-- Button Wall -->
+  <div>
+    <div class="imgwall">
         <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
         <img src="/graphics/toy/tags/transrights.png">
         </a>
@@ -53,27 +61,33 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
         <img src="/graphics/toy/tags/tama.png">
         </a>
     </div>
-    <div class="quilt">
+    <div class="imgwall">
         <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
             <img src="/graphics/linkout/rss.gif" title="Only my freshest blog posts delivered straight to you!">
         </a>
         <a target="_blank" href="https://webmentions.neocities.org/">
             <img src="/graphics/linkout/webmentions_anim.gif" title="If you mention this site's URL on mastodon, it'll display like a comment on that specific page! So cool, right? Go enable it on your site too!">
         </a>
+        <a target="_blank" href="https://jekyllrb.com/">
+            <img src="/graphics/linkout/jekyll.png" title="I use Jekyll as my Static Site Generator">
+        </a>
         <a target="_blank" href="https://neocities.org/site/lostletters">
             <img src="/graphics/linkout/neocitiespink.gif" title="Proudly hosted by NeoCities!">
         </a>
-        <a target="_blank" href="https://rainy.gay/">
-            <img src="/graphics/linkout/progress.png" title="button by Dime">
+        <a  target="_blank" href="https://cyber-rot.neocities.org/mine">
+            <img src="/graphics/linkout/webdesign.gif">
+        </a>
+        <a  target="_blank" href="https://www.deviantart.com/kouenli/art/Forever-Online-Stamp-626217529">
+            <img src="/graphics/linkout/forever-online.gif">
         </a>
         <a target="_blank" href="https://plasticdino.neocities.org/">
             <img src="/graphics/linkout/queer.png" title="button by kitty">
         </a>
+        <a target="_blank" href="https://rainy.gay/">
+            <img src="/graphics/linkout/progress.png" title="button by Dime">
+        </a>
         <a target="_blank" href="https://yesterweb.org/no-to-web3/">
             <img src="/graphics/linkout/nft_sadgrl.gif" title="button by sadgrl.online">
-        </a>
-        <a target="_blank" href="https://jekyllrb.com/">
-            <img src="/graphics/linkout/jekyll.png" title="I use Jekyll as my Static Site Generator">
         </a>
         <a target="_blank" href="https://arremeer.neocities.org/">
             <img src="/graphics/linkout/masknow.png" title="button by Bruno">
@@ -81,32 +95,35 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
         <img src="/graphics/linkout/acab.gif">
         <img src="/graphics/linkout/bob.gif">
     </div>
-    <br>
-    <div class="noext">
-        <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
-        <br>
-        <a href='https://webring.dinhe.net/prev/https://lostletters.neocities.org/'>
-            &lt;&lt;
-        </a>
-        <a target="_blank" href="https://webring.dinhe.net/">
-            Retronaut 
-        </a>
-        <a href='https://webring.dinhe.net/next/https://lostletters.neocities.org/'>
-            &gt;&gt;
-        </a>
-        <br>
-        <a href="https://hotlinewebring.club/lostletters/next">
-            &lt;&lt;
-        </a>
-        <a target="_blank" href="https://hotlinewebring.club/">
-            Hotline 
-        </a>
-        <a href="https://hotlinewebring.club/lostletters/previous">
-            &gt;&gt;
-        </a>
-        <script src="https://xandra.cc/safonts/webring.js"></script>
-        <ring-900 site="https://lostletters.neocities.org/"></ring-900>
-        <script src="https://nuthead.neocities.org/ring/ring.js"></script>
-
+  </div>
+  <div class="index-links-next"><!-- Webrings -->
+    <div class="webring">
+        <center>
+            <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
+            <br>
+            <a href='https://webring.dinhe.net/prev/https://lostletters.neocities.org/'>
+                ⪻
+            </a>
+            <a target="_blank" href="https://webring.dinhe.net/">
+                Retronaut 
+            </a>
+            <a href='https://webring.dinhe.net/next/https://lostletters.neocities.org/'>
+                ⪼
+            </a>
+            <br>
+            <a href="https://hotlinewebring.club/lostletters/next">
+                ⪻
+            </a>
+            <a target="_blank" href="https://hotlinewebring.club/">
+                Hotline 
+            </a>
+            <a href="https://hotlinewebring.club/lostletters/previous">
+                ⪼
+            </a>
+            <script src="https://xandra.cc/safonts/webring.js"></script>
+            <ring-900 site="https://lostletters.neocities.org/"></ring-900>
+            <script src="https://nuthead.neocities.org/ring/ring.js"></script>
+        </center>
     </div>
-</center>
+  </div>
+</div>
