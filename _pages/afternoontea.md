@@ -6,7 +6,7 @@ permalink: /afternoontea/
 menu: pages
 ---
 <center>
-    <h2>you're invited to afternoon tea</h2>
+    <h2>You're invited to Afternoon Tea</h2>
     <div class="noext">
         <a href="https://lostletters.neocities.org/index.html">
             <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
@@ -98,8 +98,10 @@ menu: pages
         <a target="_blank" href="https://divergentrays.com/">
             <img src="/graphics/teahouse/teacup/space-divergentrays.png" title="tastes like the vastness of space - made by Divergent Rays">
         </a>
+        <a target="_blank" href="https://sugarblush.neocities.org/">
+            <img src="/graphics/teahouse/teacup/sugarblush-tea.png" title="tastes like strawberry milkshake - made by SugarBlush">
+        </a>
     </div>
-    <br>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
     If you take any cups, you <b>must link back to its creator</b>. 
@@ -144,3 +146,6 @@ This is a pixel club tribute to <b>Teahouse MB</b>, a kawaii pixel art forum tha
 <br>
 <img src="/graphics/toy/emoticons/shocked-moomin.gif" align="right" style="margin: 0 0 0 7px;" > 
 <i>Note:</i> I created the template for the Afternoon Pixel Club from scratch since I didn't have a copy of the original from Teahouse MB.
+<br>
+<br>
+<i>Update (2023.04.10)</i>: I actually found Joanne's website (the owner of TeahouseMB) who still has a collection <a target="_blank" href="https://www.pausedlife.com/webmiss/me-on-thmb">here</a> as well as <a target="_blank" href="http://caz.pausedlife.com/Me/BBS.html">Caz's collection</a>, so please give those collections a click and get inspired.
