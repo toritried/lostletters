@@ -375,11 +375,13 @@ hr {
   image-rendering: pixelated;
 }
 
+/** q*bee img entry point on top left
+removed because of weird behavior on hover
+
 .quilt-link {
-  /** original styling was top left
   position: absolute;
   top: 2px;
-  left: 10px; **/
+  left: 10px; 
   animation: bobbing 2s ease-in-out infinite;
   animation-direction: alternate;
   filter: drop-shadow(0px 0px 5px #ffc973);
@@ -395,6 +397,7 @@ hr {
       transform: translateY(-6px);
   }
 }
+**/
 
 pre {
   padding: 8px 12px;
