@@ -58,24 +58,45 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
 </b> The relatable personal online library of Winnie Lim is a continuous exploration of self that inspires me to think more deeply about my own life.  
 <br>
 <center>
-    <b>Net Neighbors</b>
+    <b>Affiliates</b>
+    <br>
+</center>
+<div class="imgwall">
     <br>
     <a target="_blank" href="https://tinydiorama.neocities.org/">
         <img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="tiny diorama's original games, pretty phone backgrounds, and hilarious let's build a zoo shrine are super neat!">
     </a>
+    <a target="_blank" href="https://themby.neocities.org/">
+        <img src="/graphics/linkout/themby.png" title="Themby is run by Louie, a fellow postcard and D&D enthusiast. Check out their pleasing and chill site!">
+    </a>
     <a target="_blank" href="https://artwork.neocities.org/">
         <img src="/graphics/linkout/artworkbuttonbambi.gif" title="Artwork has a lot of pixels, graphics, shrines, and art for you to enjoy. They are also a member of my pixel club!">
+    </a>
+    <a target="_blank" href="https://neonaut.neocities.org">
+        <img src="/graphics/linkout/neonaut.png" title="Neonaut">
+    </a>
+    <a target="_blank" href="https://hillhouse.neocities.org/">
+        <img src="/graphics/linkout/hillhouse.png" title="Hillhouse">
+    </a>
+    <a target="_blank" href="https://starfighter.neocities.org/">
+        <img src="/graphics/linkout/starfighter.gif" title="Starfighter">
+    </a>
+    <a target="_blank" href="https://nenrikido.neocities.org/">
+        <img src="/graphics/linkout/nenrikido.gif" title="nenrikido">
     </a>
     <a target="_blank" href="https://www.thefrugalgamer.net/">
         <img src="/graphics/linkout/frugalgamer_button4.png" title="The Frugal Gamer contains a dollmaker, original music, game logs, web material, photoshop brushes, and more.">
     </a>
-    <a target="_blank" href="https://themby.neocities.org/">
-        <img src="/graphics/linkout/themby.png" title="Themby is run by Louie, a fellow postcard and D&D enthusiast. Check out their pleasing and chill site!">
+    <a target="_blank" href="https://www.lovetiny.art/">
+        <img src="/graphics/linkout/lovetiny.png" title="lovetiny pixels">
     </a>
-    <a target="_blank" href="https://rini.neocities.org/">
-        <img src="/graphics/linkout/blahaj_button.png" title="Rini is a classical musician and fellow fan of blahaj, who shares delightful photos and musings.">
-    </a>   
-</center>
+    <a target="_blank" href="https://sugarblush.neocities.org/">
+        <img src="/graphics/linkout/sugarblush.png" title="SugarBlush">
+    </a>
+    <a target="_blank" href="https://xandra.cc/">
+        <img src="/graphics/linkout/xandra.png" title="Museum of Alexandra">
+    </a>
+</div>
 <br>
 <h2>Unique Resources</h2>
 <a target="_blank" href="https://yesterweb.org/">
