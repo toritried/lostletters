@@ -27,7 +27,7 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
         <a target="_blank" href="https://github.com/toritried/lostletters">github</a> | 
         <a target="_blank" href="https://social.yesterweb.org/@lostletters" rel="me">mastodon</a>
     </div>
-    <div id="statuscafe">
+    <div id="statuscafe" style="width: 70%;">
         <div id="statuscafe-username"></div>&nbsp;&nbsp;&nbsp;<div id="statuscafe-content"></div>
         <script src="https://status.cafe/current-status.js?name=lostletters" defer></script>
     </div>
