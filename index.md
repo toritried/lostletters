@@ -120,6 +120,10 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
             <a href="https://hotlinewebring.club/lostletters/previous">
                 ⪼
             </a>
+            <div id='neossg'>
+                <script type="text/javascript" src="https://neossg.neocities.org/onionring-variables.js"></script>
+                <script type="text/javascript" src="https://neossg.neocities.org/onionring-widget.js"></script>
+            </div>
             <script src="https://xandra.cc/safonts/webring.js"></script>
             <ring-900 site="https://lostletters.neocities.org/"></ring-900>
             <script src="https://nuthead.neocities.org/ring/ring.js"></script>
