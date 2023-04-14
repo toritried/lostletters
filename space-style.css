@@ -41,6 +41,12 @@ h2 {
   font-size: 1.3em;
 }
 
+.box1{
+  margin: 1em 0 1em 0;
+  padding: 0.7rem;
+  width: 90%;
+}
+
 /* tablet styles */
 @media screen and (min-width: 768px) {
     body {
@@ -53,6 +59,12 @@ h2 {
 
     h2 {
       font-size: 1.3em;
+    }
+
+    .box1{
+      margin: 0;
+      padding: 0.7rem;
+      width: 90%;
     }
 }
 
@@ -69,11 +81,17 @@ h2 {
     h2 {
       font-size: 1.5em;
     }
+
+    .box1 {
+      margin: 2em 0 15px 0;
+      padding: 1.7rem;
+      width: 80%;
+    }
 }
 
-alagard {
-  font-family: "CustomFont";
-  src: url("https://lostletters.neocities.org/fonts/alagard.woff") format("wofff");
+@font-face {
+  font-family: "alagard";
+  src: url("/fonts/alagard.woff") format("woff");
 }
 
 ol {
@@ -152,26 +170,6 @@ a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
   content: "";
 }
 
-::selection {
-background: #ffb8ed3f;
-color: #ffffff;
-}
-
-  
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  
-  50% {
-    background-position: 100% 50%;
-  }
-  
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
 img { 
   max-width: 100%;
   height: auto;
@@ -182,7 +180,6 @@ img {
 }
 
 .box1 {
-  margin: 2em 0 15px 0;
   position: relative;
   /* These styling elements are from Pale's Glassy layout 
   https://palemomos.neocities.org/cool-layouts/ 
@@ -191,14 +188,13 @@ img {
   box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
   border: 1px solid var(--light-color);
   border-radius: 35px;
-  padding: 1.7rem;
   transition: 0.5s all ease;
   backdrop-filter: blur(2px);
-  width: 80%;
   max-width: 656px;
   height: 100%;
   display: flex;
   }
+
 
 /* navigation W3School version*/
 .navbar {
@@ -462,4 +458,93 @@ a.skip-main:focus, a.skip-main:active {
 html, body {
   overflow-x: hidden;
   overflow-y: overlay;
+}
+
+/* Guestbook styling */
+.sign-gb {
+  width: 80%;
+  filter: drop-shadow(0px 0px 4px #018281);
+}
+
+.gb-container, .gb-reply-container, .gb-form-container {
+  box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #dfdfdf, inset -2px -2px grey, inset 2px 2px #fff;
+  padding: 3px;
+  background: silver;
+  margin: 0 20px 10px 0;
+  filter: drop-shadow(0px 0px 8px #018281);
+}
+
+.gb-reply-container {
+  margin: 0 0 20px 20px;
+}
+
+.gb-form-container{
+  width: 80%;
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'Pixel Sans Serif';
+  src: url('/fonts/Pixel\ Sans\ Serif.ttf');
+}
+
+.gb-meta, .gb-reply-meta {
+  background: linear-gradient(90deg,#018281,#962e8d);
+  padding: 0 0 0 4px;
+  color: #ffffff;
+  border: 2px outset silver;
+  font-family: 'Pixel Sans Serif', Arial;
+  font-size: 40%;
+  -webkit-font-smoothing: none;
+  line-height: 3em;
+}
+
+.gb-meta a, .gb-reply-meta a {
+  color: #ffffff;
+}
+
+.gb-reply-meta {
+  background: linear-gradient(90deg,#490b64,#018281);
+}
+
+@font-face {
+  font-family: w95fa;
+  src: url("/fonts/w95fa.woff") format("woff");
+}
+
+.gb-message, .gb-reply {
+  padding: 1%;
+  color: #1a1a1a;
+  font-family: 'w95fa';
+  line-height: 1.2em;
+  font-size: 14px;
+}
+
+.gb-button, input[type=reset], input[type=submit] {
+  border: none;
+  border-radius: 0;
+  box-sizing: border-box;
+  color: transparent;
+  min-height: 23px;
+  min-width: 75px;
+  padding: 0 12px;
+  text-shadow: 0 0 #222;
+}
+
+.gb-button, input[type=reset], input[type=submit] {
+  background: silver;
+  box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
+}
+
+.gb-form {
+  padding: 3%;
+  color: #1a1a1a;
+  font-family: 'w95fa';
+  line-height: 1.2em;
+  font-size: 14px;
+}
+
+.gb-form, input, textarea {
+  width: 96%;
+  margin-bottom: 0.5em;
 }
