@@ -1,7 +1,7 @@
 ---
 layout: space
 title: stationery life
-emoji: ✒️
+emoji: 💸
 permalink: /stationery/
 menu: stationery
 ---
