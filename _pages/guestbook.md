@@ -11,7 +11,7 @@ menu: meta
 <!-- Guesbook Form -->
 <div style="display: flex; justify-content: center;">
     <div class="gb-form-container">
-        <div class="gb-meta">Send a letter ❤</div>
+        <div class="gb-meta">Send a letter &hearts;</div>
         <form action="https://formspree.io/f/mbjepqvo" method="POST" class="gb-form">
             <div class="field">
             <label for="site-name">Name *</label>
