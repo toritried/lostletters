@@ -21,7 +21,7 @@ menu: meta
             <div class="field">
             <label for="site-url">Email</label>
             <br>
-            <input type="text" name="email" id="email" placeholder="https://site.neocities.org">
+            <input type="text" name="email" id="email" placeholder="example@mail.com">
             </div>
             <div class="field">
             <label for="site-url">Site URL</label>
