@@ -6,7 +6,7 @@ permalink: /credit/
 menu: meta
 ---
 <h2>Site Credits and Attribution</h2>
-This is a collection of wonderful people and things which helped me to create this site. You can click through most graphics on my site to get to the original artists, and there's also attribution commented within my source code for javascript and more. If you ever have a question about where I got or learned something, feel free to ask.
+This is a collection of wonderful people and things which helped me to create this site. You can click through most graphics on my site to get to the original artists, and there's also attribution commented within my source code for javascript and more. If you ever have a question about where I got or learned something, feel free to ask in my <a href="/guestbook/">guestbook</a>.
 <br>
 <br>
 <h2>Graphics</h2>
@@ -15,6 +15,8 @@ This is a collection of wonderful people and things which helped me to create th
     <li><a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 unicorn button base</li>
     <li><a target="_blank" href="https://pixel-soup.tumblr.com/">pixel-soup</a> & <a target="_blank" href="https://lostsozai.tumblr.com/">lost-sozai</a> - in-line emoticons</li>
     <li><a target="_blank" href="https://www.cursors-4u.com/cursor/2010/02/24/flyff-chinese-cute-angel-mail.html">Flyff</a> - cursor</li>
+    <li><a target="_blank" href="https://foollovers.com/">Fool Lovers</a> - sakura divider</li>
+    <li><a target="_blank" href="https://gifcities.org/">GifCities</a> - Guestbook gif</li>
 </ul>
 <br>
 <h2>Webmastery / Dev Environment</h2>
