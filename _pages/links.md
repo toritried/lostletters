@@ -13,7 +13,7 @@ If you would like to link to my site, please use either of the following buttons
     <br>
     <hr>
     <br>
-    <text title="If you've linked my site, I'll add your link here."><b>Net Neighbors</b></text>
+    <text title="If you've linked to my site, let me know so I can add your link here."><b>Net Neighbors</b></text>
 </center>
 <div class="imgwall" style="margin-top: 5px;"> 
     <a target="_blank" href="https://tinydiorama.neocities.org/">
