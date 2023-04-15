@@ -12,7 +12,7 @@ This is a collection of wonderful people and things which helped me to create th
 <h2>Graphics</h2>
 <ul>
     <li><a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">trovami</a> - 80x15 button creator</li>
-    <li><a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 unicorn button base</li>
+    <li><a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 button base</li>
     <li><a target="_blank" href="https://pixel-soup.tumblr.com/">pixel-soup</a> & <a target="_blank" href="https://lostsozai.tumblr.com/">lost-sozai</a> - in-line emoticons</li>
     <li><a target="_blank" href="https://www.cursors-4u.com/cursor/2010/02/24/flyff-chinese-cute-angel-mail.html">Flyff</a> - cursor</li>
     <li><a target="_blank" href="https://foollovers.com/">Fool Lovers</a> - sakura divider</li>
@@ -21,6 +21,7 @@ This is a collection of wonderful people and things which helped me to create th
 <br>
 <h2>Webmastery / Dev Environment</h2>
 <ul>
+    <li><a target="_blank" href="http://manos.malihu.gr">malihu</a> - <a target="_blank" href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin">jQuery Tooltip styling plugin</a></li>
     <li><a target="_blank" href="https://www.goatcounter.com/">GoatCounter</a> -  open source web analytics alternative to Google Analytics that I use on this site</li>
     <li><a target="_blank" href="https://marzka.cafe">marzka.cafe</a> - code for dynamically generating site navigation</li>
     <li><a target="_blank" href="https://github.com/jonchang/deploy-neocities">GitHub Action for deploying to Neocities</a></li>

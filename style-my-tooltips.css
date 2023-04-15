@@ -1,0 +1,23 @@
+/* style-my-tootltips plugin, tooltip styling */
+#s-m-t-tooltip{
+	/* basic */
+	max-width:300px;
+	z-index:10;
+	margin: 1rem;
+	/* style and design */
+	padding: 0.5rem;
+		background: #8d0069c4; /* fallback if rgba not supported */
+	background:rgba(113, 6, 84, 0.812);
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border: 1px solid #fff6e7;
+	-moz-box-shadow:2px 2px 0 rgba(0,0,0,0.15),-1px -1px 0 rgba(255,255,255,0.3);
+	-webkit-box-shadow:2px 2px 0 rgba(0,0,0,0.15),-1px -1px 0 rgba(255,255,255,0.3);
+	box-shadow:2px 2px 0 rgba(0,0,0,0.15),-1px -1px 0 rgba(255,255,255,0.3);
+	/* font */
+	font-family:Verdana,Geneva,sans-serif;
+	font-size: .6em;
+	line-height: 120%;
+	color: #fff6e7;
+}
