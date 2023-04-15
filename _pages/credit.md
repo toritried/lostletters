@@ -21,6 +21,7 @@ This is a collection of wonderful people and things which helped me to create th
 <br>
 <h2>Webmastery / Dev Environment</h2>
 <ul>
+    <li><a target="_blank" href="https://sadgrl.online/learn/articles/last-update-visitors#">sadgrl.online</a> - Neocities last update date and visitor count javascript</li>
     <li><a target="_blank" href="http://manos.malihu.gr">malihu</a> - <a target="_blank" href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin">jQuery Tooltip styling plugin</a></li>
     <li><a target="_blank" href="https://www.goatcounter.com/">GoatCounter</a> -  open source web analytics alternative to Google Analytics that I use on this site</li>
     <li><a target="_blank" href="https://marzka.cafe">marzka.cafe</a> - code for dynamically generating site navigation</li>

@@ -134,6 +134,6 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
 <br>
 <center>
     <div id="neocities-stats">
-        &#9789; &nbsp; last updated: <span id="lastupdate"></span> &nbsp;&nbsp; &#10041; &nbsp;&nbsp; you are visitor #: <span id="hitcount"></span> &nbsp; &#9790;
+        last updated: <span id="lastupdate"></span> &nbsp; &#10041; &nbsp;you are visitor #: <span id="hitcount"></span>
     </div>
 </center>
