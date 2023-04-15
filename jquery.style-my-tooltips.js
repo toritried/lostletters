@@ -5,7 +5,7 @@
         init: function(options) {
             var defaults = {
                 tip_follows_cursor: true, //tooltip follows cursor: boolean
-                tip_delay_time: 700, //tooltip delay before displaying: milliseconds
+                tip_delay_time: 300, //tooltip delay before displaying: milliseconds
                 tip_fade_speed: 300, //tooltip fade in/out speed: milliseconds
                 attribute: "title" //tooltip text come from this attribute
             },
