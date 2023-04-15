@@ -314,9 +314,9 @@ word-wrap: normal !important;
 /** End of index links styling **/
 
 /** status.cafe styling **/
-#statuscafe{
+#statuscafe, #neocities-stats {
   font-size: 80%;
-  line-height: 1em;
+  line-height: 1.1em;
 }
 
 #statuscafe-username {
