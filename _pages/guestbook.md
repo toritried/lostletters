@@ -41,6 +41,12 @@ menu: meta
 <hr>
 <br>
 <div class="gb-container">
+    <div class="gb-meta">#51 | April 15, 2023, 2:28 AM | <a target="_blank" href="https://sidrdds.neocities.org/">ghoul</a></div>
+    <div class="gb-message">
+    OMGGG ur new guestbook is so cute!! : D
+    </div>
+</div>
+<div class="gb-container">
     <div class="gb-meta">#50 | April 12, 2023, 2:47 AM | <a target="_blank" href="http://dreamcloudz.net/">jonathan</a></div>
     <div class="gb-message">
     thank you so much for your sweet messages!! i'm just reliving my nostalgia just like a lot of other people, but i still want to make cute resources :D your website is so cute too! i love all of your backgrounds and your sites vibe. the little bows you made are rly cute too &#60;333
