@@ -58,7 +58,7 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
 </b> The relatable personal online library of Winnie Lim is a continuous exploration of self that inspires me to think more deeply about my own life.  
 <br>
 <center>
-    <b>Affiliates</b>
+    <b>Net Neighbors</b>
     <br>
 </center>
 <div class="imgwall">
@@ -95,6 +95,12 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
     </a>
     <a target="_blank" href="https://xandra.cc/">
         <img src="/graphics/linkout/xandra.png" title="Museum of Alexandra">
+    </a>
+    <a target="_blank" href="https://bisuko.neocities.org/">
+        <img src="/graphics/linkout/tigercarnival.png" title="Tiger Carnival">
+    </a>
+    <a target="_blank" href="https://foreverliketh.is/">
+        <img src="/graphics/linkout/foreverliketh.is.png" title="foreverliketh.is">
     </a>
 </div>
 <br>
