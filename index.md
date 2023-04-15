@@ -24,8 +24,8 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
     <div id="profiles">
         <a target="_blank" href="https://neocities.org/site/lostletters">neocities</a> | 
         <a target="_blank" href="https://lostletters.neocities.org/feed.xml">rss</a> | 
-        <a target="_blank" href="https://github.com/toritried/lostletters">github</a> | 
-        <a target="_blank" href="https://indieweb.social/@lostletters" rel="me">mastodon</a>
+        <a target="_blank" href="https://github.com/toritried/lostletters">site repo</a> | 
+        <a target="_blank" href="https://indieweb.social/@lostletters" rel="me">toots</a>
     </div>
     <div id="statuscafe" style="width: 70%;">
         <div id="statuscafe-username"></div>&nbsp;&nbsp;&nbsp;<div id="statuscafe-content"></div>
@@ -131,3 +131,9 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
     </div>
   </div>
 </div>
+<br>
+<center>
+    <div id="neocities-stats">
+        &#9789; &nbsp; last updated: <span id="lastupdate"></span> &nbsp;&nbsp; &#10041; &nbsp;&nbsp; you are visitor #: <span id="hitcount"></span> &nbsp; &#9790;
+    </div>
+</center>
