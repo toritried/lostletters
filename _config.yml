@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A personal site home to the Afternoon Tea Pixel Club
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon_username: lostletters@social.yesterweb.org
+mastodon_username: lostletters@indieweb.social
 github_username:  toritried
+timezone: Asia/Tokyo
 
 # Build settings
 plugins:
