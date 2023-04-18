@@ -16,21 +16,11 @@ and an homage to
 </a> 
 and communities of the early 2000s. I'm just another queer, nostalgic girl in her late 20s, figuring out CSS and HTML again. Thank you so much for checking out my site! Feel free to reach out or tell me how you found this site in my <a href="/guestbook/">guestbook</a>. 
 <br>
+<br>
 <center>
     ｡･:*˚:✧｡ 
-    <img src="/graphics/site_buttons/LostLetters88x31.gif" width="88px" style="padding-top: 12px;">
+    <img src="/graphics/site_buttons/LostLetters88x31.gif" width="88px">
     ｡✧:˚*:･｡
-    <br>
-    <div id="profiles">
-        <a target="_blank" href="https://neocities.org/site/lostletters">neocities</a> | 
-        <a target="_blank" href="https://lostletters.neocities.org/feed.xml">rss</a> | 
-        <a target="_blank" href="https://github.com/toritried/lostletters">site repo</a> | 
-        <a target="_blank" href="https://indieweb.social/@lostletters" rel="me">toots</a>
-    </div>
-    <div id="statuscafe" style="width: 70%;">
-        <div id="statuscafe-username"></div>&nbsp;&nbsp;&nbsp;<div id="statuscafe-content"></div>
-        <script src="https://status.cafe/current-status.js?name=lostletters" defer></script>
-    </div>
 </center>
 <br>
 <div class="index-links"><!-- Button Wall -->
@@ -133,7 +123,7 @@ and communities of the early 2000s. I'm just another queer, nostalgic girl in he
 </div>
 <br>
 <center>
-    <div id="neocities-stats">
+    <div id="neocities-stats" style="font-size: 85%;">
         last updated: <span id="lastupdate"></span> &nbsp; &#10041; &nbsp;you are visitor #: <span id="hitcount"></span>
     </div>
 </center>

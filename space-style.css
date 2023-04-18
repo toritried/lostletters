@@ -63,8 +63,9 @@ h2 {
 
     .box1{
       margin: 0;
-      padding: 0.7rem;
+      padding: 2.5rem;
       width: 90%;
+      margin-top: 2em;
     }
 }
 
@@ -84,8 +85,9 @@ h2 {
 
     .box1 {
       margin: 2em 0 15px 0;
-      padding: 1.7rem;
+      padding: 2.5rem;
       width: 80%;
+      margin-top: 2em;
     }
 }
 
@@ -311,21 +313,11 @@ word-wrap: normal !important;
   text-align: right;
 }
 
-/** End of index links styling **/
-
 /** status.cafe styling **/
-#statuscafe, #neocities-stats {
-  font-size: 80%;
-  line-height: 1.1em;
-}
 
 #statuscafe-username {
   display:inline;
 }
-
- #statuscafe-username a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
-    content: "";
-  }
 
 #statuscafe-content {
   display:inline;
