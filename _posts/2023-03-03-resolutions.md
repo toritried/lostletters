@@ -20,7 +20,7 @@ While I enjoy reflecting, I enjoy making resolutions and setting goals more. Her
 - **Reading** - Last year was an incredibly unsatisfying reading year, because I tried and DNF-ed 15+ books. I only managed to finish 16 books total (7,743 pages), so I'm setting much more conservative goals this year:
 	- **DONE** - Read daily in January for [The Story Graph January Pages Challenge](https://app.thestorygraph.com/january_pages_challenges/3ee9885d-775f-4eb5-84eb-82d8063044f4)
 	- Finish 20 books this year. [I've already finished 9](https://app.thestorygraph.com/books-read/3744ead2-75cd-4a90-a9cb-7c85f68aab83?year=2023).
-- **Health** - Physical exercise is critical to improving my ability to regulate my emotions, and I also want to see my body as strong and capable, so we're going to be moving *a lot* this year. I'm also unbelivably inspired by [Savannah Sachdev](https://www.instagram.com/savannahsachdev/) right now, who has run every day for 619+ days. 
+- **Health** - Physical exercise is critical to improving my ability to regulate my emotions, and I also want to see my body as strong and capable, so we're going to be moving *a lot* this year. I'm also unbelievably inspired by [Savannah Sachdev](https://www.instagram.com/savannahsachdev/) right now, who has run every day for 619+ days. 
 	- Workout 3 days per week
 	- Walk at least 10,000 steps daily
 	- Run at least one 5km run monthly (I'll admit it, I want to do it because I'm addicted to earning Garmin and Strava badges)
