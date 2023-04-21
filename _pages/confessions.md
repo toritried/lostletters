@@ -3,12 +3,12 @@ layout: space
 title: confessions
 emoji: 🤫
 permalink: /confessions/
-menu: about
+menu: pages
 ---
 <center>
     <div class="noext">
         <a target="_blank" href="https://www.patreon.com/waneella">
-            <img src="https://imglf5.lf127.net/img/L1ZOMzFVTXVFQ2FhZCttVmlzZTEvM0I1Z3JnUS81OHZ0N09rTTVMUFp3MS9GcWZtV2dFcW1RPT0.gif" style="max-height:100%;" title="gif by waneella">
+            <img src="/graphics/layout/waneella.gif" style="max-height:100%;" title="gif by waneella">
         </a>
     </div>
     <br>
