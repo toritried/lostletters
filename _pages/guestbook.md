@@ -41,6 +41,12 @@ menu: meta
 <hr>
 <br>
 <div class="gb-container">
+    <div class="gb-meta">#52 | April 21, 2023, 7:36 AM | <a target="_blank" href="http://cobyzaby.neocities.org/">Cobyzaby</a></div>
+    <div class="gb-message">
+    Hi! I'm a huge fan of journaling/stationery as well and it's super cool to see all your thoughts about it! Also you have a wonderful/chill website in general. Keep it up!
+    </div>
+</div>
+<div class="gb-container">
     <div class="gb-meta">#51 | April 15, 2023, 2:28 AM | <a target="_blank" href="https://sidrdds.neocities.org/">ghoul</a></div>
     <div class="gb-message">
     OMGGG ur new guestbook is so cute!! : D
