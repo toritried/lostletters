@@ -59,7 +59,6 @@ If you would like to link to my site, please use either of the following buttons
         <svg class="missing-button" width="88" height="31" style="fill: #7294bd; border-color:#92b3dd;">
 
             <rect width="88" height="31"></rect>
-            <image width="88" height="31" help="/graphics/linkout/template-button.png"></image>
             <text class="buttontext" x="42px" y="16px">cobyzaby</text>
         </svg>
     </a>
@@ -111,7 +110,6 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
     <a target="_blank" href="https://winnielim.org/" title="cobyzaby">
         <svg class="missing-button" width="88" height="31" style="fill: #769ba5; border-color:#a4c5ce;">
             <rect width="88" height="31"></rect>
-            <image width="88" height="31" help="/graphics/linkout/template-button.png"></image>
             <text class="buttontext" x="42px" y="16px">Winnie Lim</text>
         </svg>
     winnielim.org</a> - This relatable personal online library is a continuous exploration of self that inspires me to think more deeply about my own life.  
