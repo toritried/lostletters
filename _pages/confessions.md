@@ -8,7 +8,7 @@ menu: pages
 <center>
     <div class="noext">
         <a target="_blank" href="https://www.patreon.com/waneella">
-            <img src="/graphics/layout/waneella.gif" style="max-height:100%;" title="gif by waneella">
+            <img src="/graphics/layout/waneella.gif" style="max-height:100%;" title="gif by waneella" style="image-rendering: pixelated;">
         </a>
     </div>
     <br>
@@ -19,7 +19,7 @@ Although I'm half-Japanese, I wasn't raised in Japan, and I've done a lot of har
 <br>
 <center>
     <div class="noext">
-        <a target="_blank" href="http://bitmapdreams.lastsecret.net">
+        <a target="_blank" href="http://bitmapdreams.lastsecret.net" style="image-rendering: pixelated;">
             <img src="/graphics/toy/bitmapdreams_hyoketsu.gif" title="hyoketsu pixel by Bitmap Dreams" style="margin: 5px;">
             <img src="/graphics/toy/bitmapdreams_hyoketsu.gif" title="hyoketsu pixel by Bitmap Dreams" style="margin: 5px;">
             <img src="/graphics/toy/bitmapdreams_hyoketsu.gif" title="hyoketsu pixel by Bitmap Dreams" style="margin: 5px;">
