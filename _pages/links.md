@@ -13,7 +13,7 @@ If you would like to link to my site, please use either of the following buttons
     <br>
     <hr>
     <br>
-    <text title="If you've linked to my site, let me know so I can add your link here."><b>Net Neighbors</b></text>
+    <b>Net Neighbors</b>
 </center>
 <div class="imgwall" style="margin-top: 5px;"> 
     <a target="_blank" href="https://tinydiorama.neocities.org/">
@@ -52,10 +52,21 @@ If you would like to link to my site, please use either of the following buttons
     <a target="_blank" href="https://bisuko.neocities.org/">
         <img src="/graphics/linkout/tigercarnival.png" title="Tiger Carnival">
     </a>
-    <a target="_blank" href="https://foreverliketh.is/">
-        <img src="/graphics/linkout/foreverliketh.is.png" title="foreverliketh.is">
+    <a target="_blank" href="https://foreverliketh.is/" title="foreverliketh.is">
+        <img src="/graphics/linkout/foreverliketh.is.png">
+    </a>
+    <a target="_blank" href="https://cobyzaby.neocities.org/" title="cobyzaby">
+        <svg class="missing-button" width="88" height="31" style="fill: #7294bd; border-color:#92b3dd;">
+
+            <rect width="88" height="31"></rect>
+            <image width="88" height="31" help="/graphics/linkout/template-button.png"></image>
+            <text class="buttontext" x="42px" y="16px">cobyzaby</text>
+        </svg>
     </a>
 </div>
+<center>
+    <text style="font-size: 80%;font-style: italic;">If you've linked to my site, let me know so I can add your link here.</text>
+</center>
 <br>
 <hr>
 <br>
@@ -97,18 +108,17 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
     <img src="/graphics/linkout/mayaland.png" title="maya.land" align="left" style="margin: 10px 10px 0 0;">
     maya.land</a> - Maya's timeless content is always interesting and delightful to peruse. Goblin mode forever!  
 <br>
-<b>
-    <a target="_blank" href="https://winnielim.org/">
-        [ winnielim.org ]
-    </a>
-</b> The relatable personal online library of Winnie Lim is a continuous exploration of self that inspires me to think more deeply about my own life.  
+    <a target="_blank" href="https://winnielim.org/" title="cobyzaby">
+        <svg class="missing-button" width="88" height="31" style="fill: #769ba5; border-color:#a4c5ce;">
+            <rect width="88" height="31"></rect>
+            <image width="88" height="31" help="/graphics/linkout/template-button.png"></image>
+            <text class="buttontext" x="42px" y="16px">Winnie Lim</text>
+        </svg>
+    winnielim.org</a> - This relatable personal online library is a continuous exploration of self that inspires me to think more deeply about my own life.  
 <br>
 <h2>Unique Resources</h2>
 <a target="_blank" href="https://yesterweb.org/">
     <img src="/graphics/linkout/yesterweb.png" title="Yesterweb" align="left" style="margin: 10px 10px 0 0;">Yesterweb</a> is a community (and a larger movement) about the internet how it's <a target="_blank" href="https://yesterweb.org/manifesto/">changed</a>. We are creating, discovering and enjoying websites, digital spaces, zines, radio, and more. My site wouldn't exist had it not been for the Yesterweb movement.  
-<br>
-<a target="_blank" href="https://yesterweb.org/">
-    <img src="/graphics/linkout/yw-masto.png" title="Yesterweb's Mastodon Instance" align="left" style="margin: 10px 10px 0 0;">Yesterweb's Mastodon Instance</a> is proudly the one I call home! It's another extension of the community, filled with fellow passionate webmasters.  
 <br>
 <a target="_blank" href="https://gloomlee.neocities.org/">
     <img src="/graphics/linkout/gloomlee-button.png" title="Gloomlee" align="left" style="margin: 10px 10px 0 0;">
@@ -171,6 +181,14 @@ Gloomlee</a> is the genius behind the Neocities-friendly (all HTML and JS, no PH
     </a>
 </b>
  blinkie generator
+<br>
+<br>
+<b>
+    <a target="_blank" href="http://ianlunn.github.io/Hover/">
+        [ hover:css ]
+    </a>
+</b>
+ demos of tons of on:hover effects
 <br>
 <br>
 <b>

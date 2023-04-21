@@ -3,6 +3,16 @@
     cursor: url("/graphics/cursor/letter_wings.png"), auto;
   }
 
+@font-face {
+  font-family: "alagard";
+  src: url("/fonts/alagard.woff") format("woff");
+}
+  
+@font-face {
+  font-family: 'pixel';
+  src: url('/fonts/04B_03__.TTF')  format('truetype');
+}
+  
 body {
   background-color: #1a1a1a;
   background-image: url('/graphics/layout/v2_space/slow-star.gif'); 
@@ -89,11 +99,6 @@ h2 {
       width: 80%;
       margin-top: 2em;
     }
-}
-
-@font-face {
-  font-family: "alagard";
-  src: url("/fonts/alagard.woff") format("woff");
 }
 
 ol {
@@ -521,11 +526,20 @@ html, body {
   min-width: 75px;
   padding: 0 12px;
   text-shadow: 0 0 #222;
+  font-family: 'w95fa';
+  font-size: 14px;
 }
 
 .gb-button, input[type=reset], input[type=submit] {
   background: silver;
   box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
+}
+
+.gb-button:hover{
+  position: relative;
+  left: 1.5px;
+  top: 1.5px;
+  box-shadow: inset -1px -1px #fff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px grey;
 }
 
 .gb-form {
@@ -540,4 +554,31 @@ html, body {
   width: 96%;
   margin-bottom: 0.5em;
   border-radius: 0;
+}
+
+/* Net Neighbors Button Styling */
+.missing-button {
+  transform: scale(calc(1.0 + 1.0 * var(--big)));
+  transform-origin: top left;
+  vertical-align: middle;
+}
+
+.missing-button, image {
+  box-sizing: border-box;
+  border-style: outset;
+  border-width: 2px;
+}
+
+.buttontext {
+  font-family: 'pixel';
+  font-size: 8px;
+  stroke: white;
+  paint-order: stroke;
+  stroke-width: 3px;
+  fill: #000000;
+  text-anchor: middle;
+}
+
+.missing-button:hover{
+  text-shadow: none;
 }
