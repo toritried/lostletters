@@ -108,7 +108,6 @@ ol {
 
 ul {
   list-style: '♡  ';
-  margin: 0 0 0 -1em;
 }
 
 ol {
@@ -569,8 +568,14 @@ html, body {
   border-width: 2px;
 }
 
+
+@font-face {
+  font-family: mario;
+  src: url("/fonts/Super-Mario-World.ttf") format("truetype");
+}
+
 .buttontext {
-  font-family: 'pixel';
+  font-family: 'mario';
   font-size: 8px;
   stroke: white;
   paint-order: stroke;
