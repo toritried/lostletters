@@ -57,10 +57,12 @@ If you would like to link to my site, please use either of the following buttons
     </a>
     <a target="_blank" href="https://cobyzaby.neocities.org/" title="cobyzaby">
         <svg class="missing-button" width="88" height="31" style="fill: #7294bd; border-color:#92b3dd;">
-
             <rect width="88" height="31"></rect>
             <text class="buttontext" x="42px" y="16px">cobyzaby</text>
         </svg>
+    </a>
+    <a target="_blank" href="https://daintyeco.neocities.org/" title="daintyeco">
+        <img src="/graphics/linkout/daintyeco.gif">
     </a>
 </div>
 <center>
