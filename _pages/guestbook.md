@@ -41,9 +41,15 @@ menu: meta
 <hr>
 <br>
 <div class="gb-container">
-    <div class="gb-meta">#52 | April 21, 2023, 7:36 AM | <a target="_blank" href="http://cobyzaby.neocities.org/">Cobyzaby</a></div>
+    <div class="gb-meta">#53 | April 21, 2023, 7:36 AM | <a target="_blank" href="http://cobyzaby.neocities.org/">Cobyzaby</a></div>
     <div class="gb-message">
     Hi! I'm a huge fan of journaling/stationery as well and it's super cool to see all your thoughts about it! Also you have a wonderful/chill website in general. Keep it up!
+    </div>
+</div>
+<div class="gb-container">
+    <div class="gb-meta">#52 | April 17, 2023, 12:31 PM | <a target="_blank" href="https://sugarblush.neocities.org/">SugarBlush</a></div>
+    <div class="gb-message">
+    Oh my gosh, this guestbook is SO CUTE!!! I adore this layout, so funky and fresh &lt;3 Thanks for adding me on Afternoon Tea, I had fun designing my cup
     </div>
 </div>
 <div class="gb-container">
@@ -59,7 +65,7 @@ menu: meta
     </div>
 </div>
 <div class="gb-reply-container">
-    <div class="gb-reply-meta">April 14, 2023, 12:35pm | Reply by Lost Letters</div>
+    <div class="gb-reply-meta">April 14, 2023, 12:35 PM | Reply by Lost Letters</div>
     <div class="gb-message">
     I really appreciate you stopping by and leaving such a kind comment on my site! I hope we can continue to enjoy the nostalgia trip for years to come. I love this part of the indie web.
     </div>
