@@ -15,12 +15,12 @@
   
 body {
   background-color: #1a1a1a;
-  background-image: url('/graphics/layout/v2_space/slow-star.gif'); 
+  background-image: url('/graphics/layout/v2_space/slow-star.gif');
   font-family: 'Asul', sans-serif;
   line-height: 1.6em;
-  image-rendering: -webkit-optimize-contrast;
   color: #ffc6ec;
 }
+
 /* ------- Text Customization ------- */
 h1 {
   font-family: 'alagard', Arial, sans-serif;
