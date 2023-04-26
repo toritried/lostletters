@@ -31,7 +31,7 @@ menu: meta
             <div class="field">
             <label for="neocities-profile">Message *</label>
             <br>
-            <textarea rows="4" name="message" id="message"></textarea>
+            <textarea rows="6" name="message" id="message" placeholder="Not sure what to write? How about sharing how you found this site, something you like, or something we have in common. °˖✧◝(⁀ᗢ⁀)◜✧˖°"></textarea>
             </div>
             <button class="gb-button" type="submit">Send</button>
         </form>
@@ -40,6 +40,18 @@ menu: meta
 <br>
 <hr>
 <br>
+<div class="gb-container">
+    <div class="gb-meta">#54 | April 25, 2023, 9:35 AM | <a target="_blank" href="https://alissocool.neocities.org/">alis</a></div>
+    <div class="gb-message">
+    OMG amos is also my favorite character from the expanse!!!! i loved the show. i need to read the books next :D
+    </div>
+</div>
+<div class="gb-reply-container">
+    <div class="gb-reply-meta">April 25, 2023, 5:35 PM | Reply by Lost Letters</div>
+    <div class="gb-message">
+    I'm so glad he got more time to shine and develop in the later seasons of The Expanse. He's really standout alongside the best dressed Chrisjen Avasarala. I'm almost finished with the first book in the series, and Amos didn't leave as much of an impression there compared to the show, so kudos to Wes Chatham for such a great performance. 
+    </div>
+</div>
 <div class="gb-container">
     <div class="gb-meta">#53 | April 21, 2023, 7:36 AM | <a target="_blank" href="http://cobyzaby.neocities.org/">Cobyzaby</a></div>
     <div class="gb-message">
