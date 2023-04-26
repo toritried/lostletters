@@ -64,6 +64,9 @@ If you would like to link to my site, please use either of the following buttons
     <a target="_blank" href="https://daintyeco.neocities.org/" title="daintyeco">
         <img src="/graphics/linkout/daintyeco.gif">
     </a>
+    <a target="_blank" href="https://onio.cafe/" title="Onio Café - a truly delightful personal site with a focus on community chat. Don't miss Onio's interesting and well-written thought posts!">
+        <img src="/graphics/linkout/oniocafe.gif">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;font-style: italic;">If you've linked to my site, let me know so I can add your link here.</text>
