@@ -101,6 +101,9 @@ menu: pages
         <a target="_blank" href="https://sugarblush.neocities.org/">
             <img src="/graphics/teahouse/teacup/sugarblush-tea.png" title="tastes like strawberry milkshake - made by SugarBlush">
         </a>
+        <a target="_blank" href="https://paintkiller.neocities.org/">
+            <img src="/graphics/teahouse/teacup/paintkiller-formaldehyde.png" title="tastes like formaldehyde - made by PAINTKILLER">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">

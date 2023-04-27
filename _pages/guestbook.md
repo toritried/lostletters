@@ -41,6 +41,12 @@ menu: meta
 <hr>
 <br>
 <div class="gb-container">
+    <div class="gb-meta">#55 | April 27, 2023, 10:31 AM | <a target="_blank" href="https://paintkiller.neocities.org/">PAINTKILLER</a></div>
+    <div class="gb-message">
+    I joined The Afternoon Tea Party! My website is - https://paintkiller.neocities.org/ and the link to my teacup is - https://paintkiller.neocities.org/new/TEA/MINE/PaintkillerAFternoonTeaCup01.png and it tastes like formaldehyde - cheers!
+    </div>
+</div>
+<div class="gb-container">
     <div class="gb-meta">#54 | April 25, 2023, 9:35 AM | <a target="_blank" href="https://alissocool.neocities.org/">alis</a></div>
     <div class="gb-message">
     OMG amos is also my favorite character from the expanse!!!! i loved the show. i need to read the books next :D
