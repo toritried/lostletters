@@ -26,31 +26,40 @@
                         <h1><a href="/" class="welcome">Welcome to Lost Letters</a></h1>
                     </header>
                     <div class="navbar">
-                        <button class="dropbtn" aria-controls="dropdown-pages" aria-expanded="false">
-                            💾 pages 
+                        <a href="/blog.html" style="display: inline-block; white-space: nowrap; color: #c09dba; padding: 3px 6px; font-family: inherit; cursor: pointer;">📝 blog</a>
+                        <button class="dropbtn" aria-controls="dropdown-webcore" aria-expanded="false">
+                            💾 webcore
                             <span class="fa fa-caret-down"></span>
                         </button>
                         <button class="dropbtn" aria-controls="dropdown-stationery" aria-expanded="false">
-                            ✒️ stationery 
-                            <span class="fa fa-caret-down"></span>
+                            ✒️ stationery
+                        <span class="fa fa-caret-down"></span>
                         </button>
                         <button class="dropbtn" aria-controls="dropdown-ttrpg" aria-expanded="false">
-                            🦄 ttrpgs 
-                            <span class="fa fa-caret-down"></span>
+                            🦄 ttrpgs
+                        <span class="fa fa-caret-down"></span>
+                        </button>
+                        <button class="dropbtn" aria-controls="dropdown-health" aria-expanded="false">
+                            🧠 health
+                        <span class="fa fa-caret-down"></span>
                         </button>
                         <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
-                            👑 web admin 
-                            <span class="fa fa-caret-down"></span>
-                        </button>
-                        <button class="dropbtn" aria-controls="dropdown-meta" aria-expanded="false">
-                            🧭 meta
+                            🔎 about
                             <span class="fa fa-caret-down"></span>
                         </button>
                     <div>
-                        <div class="dropdown-content" id="dropdown-pages">
-                            <a href="/blog.html">📝 blog</a>
-                            {% for page in site.pages %}
-                                {% if page.menu == "pages" %}
+                        <div class="dropdown-content" id="dropdown-webcore">
+                            Fun: {% for page in site.pages %}
+                                {% if page.menu == "webcore" %}
+                                <a href="{{ page.url }}">
+                                    {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                                    {{ page.title }}
+                                </a>
+                                {% endif %}
+                            {% endfor %}
+                            <br>
+                            Meta: {% for page in site.pages %}
+                                {% if page.menu == "meta" %}
                                 <a href="{{ page.url }}">
                                     {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                                     {{ page.title }}
@@ -78,9 +87,18 @@
                                 {% endif %}
                             {% endfor %}
                         </div>
-                        <div class="dropdown-content" id="dropdown-about">
-                            {% for page in site.pages %}
-                                {% if page.menu == "about" %}
+                        <div class="dropdown-content" id="dropdown-health">
+                            Running: {% for page in site.pages %}
+                                {% if page.menu == "running" %}
+                                <a href="{{ page.url }}">
+                                    {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                                    {{ page.title }}
+                                </a>
+                                {% endif %}
+                            {% endfor %}
+                            <br>
+                            Other: {% for page in site.pages %}
+                                {% if page.menu == "health" %}
                                 <a href="{{ page.url }}">
                                     {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                                     {{ page.title }}
@@ -88,15 +106,24 @@
                                 {% endif %}
                             {% endfor %}
                         </div>
-                        <div class="dropdown-content" id="dropdown-meta">
-                            {% for page in site.pages %}
-                                {% if page.menu == "meta" %}
+                        <div class="dropdown-content" id="dropdown-about">
+                            Author: {% for page in site.pages %}
+                                {% if page.menu == "about" %}
                                 <a href="{{ page.url }}">
                                     {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                                     {{ page.title }}
                                 </a>
                                 {% endif %}
                             {% endfor %}
+                            <br>
+                            Site: {% for page in site.pages %}
+                            {% if page.menu == "site" %}
+                            <a href="{{ page.url }}">
+                                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                                {{ page.title }}
+                            </a>
+                            {% endif %}
+                        {% endfor %}
                         </div>
                     </div>
                 </div>
