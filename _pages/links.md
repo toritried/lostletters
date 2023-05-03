@@ -5,72 +5,67 @@ emoji: 🔗
 permalink: /links/
 menu: meta
 ---
-If you would like to link to my site, please use either of the following buttons. <b>Please download and host the image yourself, thanks!</b>
-<br>
-<center>
-    <img src="/graphics/site_buttons/LostLetters32x32.gif" style="margin: 10px 0">
-    <img src="/graphics/site_buttons/LostLetters88x31.gif" style="margin: 10px 0">
-    <br>
-    <hr>
-    <br>
-    <b>Net Neighbors</b>
-</center>
-<div class="imgwall" style="margin-top: 5px;"> 
-    <a target="_blank" href="https://tinydiorama.neocities.org/">
-        <img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="tiny diorama's original games, pretty phone backgrounds, and hilarious let's build a zoo shrine are super neat!">
-    </a>
-    <a target="_blank" href="https://themby.neocities.org/">
-        <img src="/graphics/linkout/themby.png" title="Themby is run by Louie, a fellow postcard and D&D enthusiast. Check out their pleasing and chill site!">
-    </a>
-    <a target="_blank" href="https://artwork.neocities.org/">
-        <img src="/graphics/linkout/artworkbuttonbambi.gif" title="Artwork has a lot of pixels, graphics, shrines, and art for you to enjoy. They are also a member of my pixel club!">
-    </a>
-    <a target="_blank" href="https://neonaut.neocities.org">
-        <img src="/graphics/linkout/neonaut.png" title="Neonaut">
-    </a>
-    <a target="_blank" href="https://hillhouse.neocities.org/">
-        <img src="/graphics/linkout/hillhouse.png" title="Hillhouse">
-    </a>
-    <a target="_blank" href="https://starfighter.neocities.org/">
-        <img src="/graphics/linkout/starfighter.gif" title="Starfighter">
-    </a>
-    <a target="_blank" href="https://nenrikido.neocities.org/">
-        <img src="/graphics/linkout/nenrikido.gif" title="nenrikido">
-    </a>
-    <a target="_blank" href="https://www.thefrugalgamer.net/">
-        <img src="/graphics/linkout/frugalgamer_button4.png" title="The Frugal Gamer contains a dollmaker, original music, game logs, web material, photoshop brushes, and more.">
-    </a>
-    <a target="_blank" href="https://www.lovetiny.art/">
-        <img src="/graphics/linkout/lovetiny.png" title="lovetiny pixels">
-    </a>
-    <a target="_blank" href="https://sugarblush.neocities.org/">
-        <img src="/graphics/linkout/sugarblush.png" title="SugarBlush">
-    </a>
-    <a target="_blank" href="https://xandra.cc/">
-        <img src="/graphics/linkout/xandra.png" title="Museum of Alexandra">
-    </a>
-    <a target="_blank" href="https://bisuko.neocities.org/">
-        <img src="/graphics/linkout/tigercarnival.png" title="Tiger Carnival">
-    </a>
-    <a target="_blank" href="https://foreverliketh.is/" title="foreverliketh.is">
-        <img src="/graphics/linkout/foreverliketh.is.png">
-    </a>
-    <a target="_blank" href="https://cobyzaby.neocities.org/" title="cobyzaby">
-        <svg class="missing-button" width="88" height="31" style="fill: #7294bd; border-color:#92b3dd;">
-            <rect width="88" height="31"></rect>
-            <text class="buttontext" x="42px" y="16px">cobyzaby</text>
-        </svg>
-    </a>
-    <a target="_blank" href="https://daintyeco.neocities.org/" title="daintyeco">
-        <img src="/graphics/linkout/daintyeco.gif">
-    </a>
-    <a target="_blank" href="https://onio.cafe/" title="Onio Café - a truly delightful personal site with a focus on community chat. Don't miss Onio's interesting and well-written thought posts!">
-        <img src="/graphics/linkout/oniocafe.gif">
-    </a>
-</div>
-<center>
-    <text style="font-size: 80%;font-style: italic;">If you've linked to my site, let me know so I can add your link here.</text>
-</center>
+<details>
+    <summary>
+        Net Neighbors / Affiliates
+        <div class="imgwall" style="margin-top: 5px;"> 
+            <a target="_blank" href="https://tinydiorama.neocities.org/">
+                <img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="tiny diorama's original games, pretty phone backgrounds, and hilarious let's build a zoo shrine are super neat!">
+            </a>
+            <a target="_blank" href="https://themby.neocities.org/">
+                <img src="/graphics/linkout/themby.png" title="Themby is run by Louie, a fellow postcard and D&D enthusiast. Check out their pleasing and chill site!">
+            </a>
+            <a target="_blank" href="https://artwork.neocities.org/">
+                <img src="/graphics/linkout/artworkbuttonbambi.gif" title="Artwork has a lot of pixels, graphics, shrines, and art for you to enjoy. They are also a member of my pixel club!">
+            </a>
+            <a target="_blank" href="https://neonaut.neocities.org">
+                <img src="/graphics/linkout/neonaut.png" title="Neonaut">
+            </a>
+            <a target="_blank" href="https://hillhouse.neocities.org/">
+                <img src="/graphics/linkout/hillhouse.png" title="Hillhouse">
+            </a>
+            <a target="_blank" href="https://starfighter.neocities.org/">
+                <img src="/graphics/linkout/starfighter.gif" title="Starfighter">
+            </a>
+            <a target="_blank" href="https://nenrikido.neocities.org/">
+                <img src="/graphics/linkout/nenrikido.gif" title="nenrikido">
+            </a>
+            <a target="_blank" href="https://www.thefrugalgamer.net/">
+                <img src="/graphics/linkout/frugalgamer_button4.png" title="The Frugal Gamer contains a dollmaker, original music, game logs, web material, photoshop brushes, and more.">
+            </a>
+            <a target="_blank" href="https://www.lovetiny.art/">
+                <img src="/graphics/linkout/lovetiny.png" title="lovetiny pixels">
+            </a>
+            <a target="_blank" href="https://sugarblush.neocities.org/">
+                <img src="/graphics/linkout/sugarblush.png" title="SugarBlush">
+            </a>
+            <a target="_blank" href="https://xandra.cc/">
+                <img src="/graphics/linkout/xandra.png" title="Museum of Alexandra">
+            </a>
+            <a target="_blank" href="https://bisuko.neocities.org/">
+                <img src="/graphics/linkout/tigercarnival.png" title="Tiger Carnival">
+            </a>
+            <a target="_blank" href="https://foreverliketh.is/" title="foreverliketh.is">
+                <img src="/graphics/linkout/foreverliketh.is.png">
+            </a>
+            <a target="_blank" href="https://cobyzaby.neocities.org/" title="cobyzaby">
+                <svg class="missing-button" width="88" height="31" style="fill: #7294bd; border-color:#92b3dd;">
+                    <rect width="88" height="31"></rect>
+                    <text class="buttontext" x="42px" y="16px">cobyzaby</text>
+                </svg>
+            </a>
+            <a target="_blank" href="https://daintyeco.neocities.org/" title="daintyeco">
+                <img src="/graphics/linkout/daintyeco.gif">
+            </a>
+            <a target="_blank" href="https://onio.cafe/" title="Onio Café - a truly delightful personal site with a focus on community chat. Don't miss Onio's interesting and well-written thought posts!">
+                <img src="/graphics/linkout/oniocafe.gif">
+            </a>
+        </div>
+    </summary>
+    <center>
+        <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here. Feel free to use the buttons on my homepage, but please download and host them yourself.</text>
+    </center>
+</details>
 <br>
 <hr>
 <br>
@@ -121,7 +116,7 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
 <br>
 <h2>Unique Resources</h2>
 <a target="_blank" href="https://yesterweb.org/">
-    <img src="/graphics/linkout/yesterweb.png" title="Yesterweb" align="left" style="margin: 10px 10px 0 0;">Yesterweb</a> is a community (and a larger movement) about the internet how it's <a target="_blank" href="https://yesterweb.org/manifesto/">changed</a>. We are creating, discovering and enjoying websites, digital spaces, zines, radio, and more. My site wouldn't exist had it not been for the Yesterweb movement.  
+    <img src="/graphics/linkout/yesterweb.png" title="Yesterweb" align="left" style="margin: 10px 10px 0 0;">Yesterweb</a> opened my eyes to how the web has <a target="_blank" href="https://yesterweb.org/manifesto/">changed</a>, inspiring me to create this site.  
 <br>
 <a target="_blank" href="https://gloomlee.neocities.org/">
     <img src="/graphics/linkout/gloomlee-button.png" title="Gloomlee" align="left" style="margin: 10px 10px 0 0;">
@@ -148,99 +143,11 @@ Gloomlee</a> is the genius behind the Neocities-friendly (all HTML and JS, no PH
     </a>
 </b> a quick, worthwhile read on what we should do to help make the internet better
 <br>
-<br>
-<b>
-    <a target="_blank" href="https://www.drlinkcheck.com/">
-        [ Dr. Link Check ]
-    </a>
-</b> checks your site for broken links! A true godsend!
-<br>
-<br>
-<b>
-    <a target="_blank" href="https://loveblush.net/">
-        [ loveblush.net ]
-    </a>
-</b> free assets and tutorials for web design
-<br>
-<br>
-<b>
-    <a target="_blank" href="https://www.piskelapp.com/">
-        [ piskel ]
-    </a>
-</b> free, browser-based pixel art/animation tool
-<br>
-<br>
-<b>
-    <a target="_blank" href="http://coolors.co">
-        [ coolors.co ]
-    </a>
-</b>
- color palette generator
-<br>
-<br>
-<b>
-    <a target="_blank" href="https://blinkies.cafe/">
-        [ blinkies.cafe ]
-    </a>
-</b>
- blinkie generator
-<br>
-<br>
-<b>
-    <a target="_blank" href="http://ianlunn.github.io/Hover/">
-        [ hover:css ]
-    </a>
-</b>
- demos of tons of on:hover effects
+    <a target="_blank" href="https://blinkies.cafe/">blinkies.cafe</a> - blinkie generator
 <br>
 <br>
 <b>
     <a target="_blank" href="https://trainstream.github.io/streams/">
          [ livestreams of train stations throughout Japan ]
     </a>
-</b>  - Enjoyment may vary, depending on your timezone  
-<br>
-<h2>Japanese Pixel Sozai Sites</h2>
-<a target="_blank" href="https://foollovers.com/">
-    <img src="/graphics/linkout/foollovers8826.gif" title="Fool Lovers" align="left" style="margin: 10px 10px 0 0;">
-    Fool Lovers</a> provided key assets for my current website layout and contains so much more!  
-<br>
-<a target="_blank" href="http://sorahana.ciao.jp/itempage.htm">
-    <img src="/graphics/linkout/sorahana.gif" title="Sorahana" align="left" style="margin: 10px 10px 0 0;"/>
-    Sorahana</a> primarily contains cute, nature-themed graphics for soft, fairytale vibes.  
-<br>
-<a target="_blank" href="http://cute.lolipop.jp/hotchoco.html">
-    <img src="/graphics/linkout/hotchoco.gif" title="Hotchoco" align="left" style="margin: 10px 10px 0 0;"/>
-    Hotchoco</a> has a lot of cute pixel graphics, though the site may be a bit difficult to enter if you don't know Japanese.  
-<br>
-<a target="_blank" href="http://www.asterism-m.com/">
-    <img src="/graphics/linkout/asterism.gif" title="Asterism" align="left" style="margin: 10px 10px 0 0;">
-    Asterism</a> contains elegant, sparkly, and lacy web material, covering backgrounds, icons, and templates.  
-<br>
-<a target="_blank" href="http://pokyaron.fc2web.com/">
-   <img src="/graphics/linkout/pokyaron.gif" title="great sozai resource"/>
-   Pokyaron</a> has small pixel web resources as well as large art, spanning many styles. However, it may be difficult to navigate if you don't know Japanese. 
-<br>
-<br>
-<h2>English Pixel Art Sites</h2>
-<a target="_blank" href="http://whimsical.heartette.net/">
-    <img src="/graphics/linkout/whimsical.gif" title="Whimsical" align="left" style="margin: 10px 10px 0 0;"/>
-    Whimsical
-</a> was created by <a target="_blank" href="https://heartette.net/">Sumomoco</a> and holds the best pixel adoptables. I've been a fan since 2006.
-<br>
-<br>
-<a target="_blank" href="http://bitmapdreams.lastsecret.net/">
-    <img src="/graphics/linkout/bitmapdreams.gif" title="Bitmap Dreams" align="left" style="margin: 10px 10px 0 0;">
-    Bitmap Dreams</a> pixel art is iconic, elegant, and nostalgic, especially for anyone who has ever lived in Japan.  
-<br>
-<a target="_blank" href="https://www.lejlart.com/apple.html">
-    <img src="/graphics/linkout/ad_skullsprinkles.gif" title="Appledust" align="left" style="margin: 10px 10px 0 0;"/>
-    Appledust</a> contains creepy, cute, and Neopets-themed pixel art and other web material.  
-<br>
-<a target="_blank" href="https://pixels.heylouise.space/">
-    <img src="/graphics/linkout/elfwink-btn3.gif" title="Elfwink's Pixels" align="left" style="margin: 10px 10px 0 0;"/>
-    Elfwink's Pixels</a> contains a bunch of adoptables like food, tamagochi, Maneki Neko, and more!  
-<br>
-<a target="_blank" href="https://amelia.sg/ametarium/">
-    <img src="/graphics/linkout/88x31-ametarium.gif" title="Ametarium" align="left" style="margin: 10px 10px 0 0;">
-    Ametarium</a> is a space-themed pixel and vector art adoptables site.  
+</b>  - Enjoyment may vary, depending on your timezone
