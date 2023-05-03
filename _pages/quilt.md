@@ -3,7 +3,7 @@ layout: space
 title: q*bee shrine
 emoji: 🐝
 permalink: /quilt/
-menu: pages
+menu: webcore
 ---
 <!--- before every *, add a \, so that it won't be italicized in MD -->
 <a class="skip-main" href="#main">
@@ -852,7 +852,7 @@ menu: pages
         <h2>Shrine Disclaimer</h2>
     </center>
     <img src="/graphics/quilt/extras/site-link.gif" style="margin: 12px 12px 12px 0;" align="left" title="the best pixel club on the web!"/>
-    This forever incomplete shrine is my best effort at documenting as much as I can find and recall about the q*bee. I hope everyone on the old web had a place as special as this site, because there really won't ever <i>bee</i> anything like it again. If I got something wrong or if any former bees want to also add to this, please drop me a message on my <a target="_blank" href="http://users.smartgb.com/g/g.php?a=s&i=g19-00587-ce">guestbook</a> or <a target="_blank" href="https://social.yesterweb.org/@lostletters">mastodon</a>. I'd love to just reconnect and reminisce too.
+    This forever incomplete shrine is my best effort at documenting as much as I can find and recall about the q*bee. I hope everyone on the old web had a place as special as this site, because there really won't ever <i>bee</i> anything like it again. If I got something wrong or if any former bees want to also add to this, please drop me a message on my <a href="/guestbook">guestbook</a> or <a target="_blank" href="https://indieweb.social/@lostletters">mastodon</a>. I'd love to just reconnect and reminisce too.
     <br>
     <br>
     <center>

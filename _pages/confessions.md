@@ -3,7 +3,7 @@ layout: space
 title: confessions
 emoji: 🤫
 permalink: /confessions/
-menu: pages
+menu: about
 ---
 <center>
     <div class="noext">

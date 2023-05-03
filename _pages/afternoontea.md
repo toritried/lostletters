@@ -3,7 +3,7 @@ layout: space
 title: afternoon tea
 emoji: 🍵
 permalink: /afternoontea/
-menu: pages
+menu: webcore
 ---
 <center>
     <h2>You're invited to Afternoon Tea</h2>

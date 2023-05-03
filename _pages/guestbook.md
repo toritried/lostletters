@@ -3,7 +3,7 @@ layout: space-no-wm
 title: guestbook
 emoji: 💌
 permalink: /guestbook/
-menu: meta
+menu: site
 ---
 <center>
     <img src="/graphics/layout/v2_space/gb-spin.gif" class="sign-gb">

@@ -1,9 +1,9 @@
 ---
 layout: space
 title: toybox
-emoji: 🎁
+emoji: 🧸
 permalink: /toybox/
-menu: about
+menu: webcore
 ---
 <div class="noext">
     <a target="_blank" href="https://foollovers.com/">
@@ -11,7 +11,7 @@ menu: about
     </a>
 </div>
 <b>disclaimer</b>: where possible, original creators are given credit for their work, but there are a few pixels that I couldn't trace to their original creators. 
-I am keen on citing original sources, so I would sincerely appreciate it if you could please reach out via the guestbook if you know one of the orignal artists that I'm missing. &lt;3
+I am keen on citing original sources, so I would sincerely appreciate it if you could please reach out via the guestbook if you know one of the orignal artists that I'm missing. &#9825;
 <br>
 <br>
 <center>
