@@ -5,16 +5,16 @@ emoji: 🏠
 ---
 <img src="/graphics/site_buttons/LostLetters32x32.gif" align="left" style="margin: 11px 17px 0 10px;" >
 <img src="/graphics/adoptables/dancing-moomin-lostletters-4x.png" style="margin: 10px 0 0 0;" align="right" width="82px"/>
-You have found Lost Letters, a personal website & home of the <a href="/afternoontea/">Afternoon Tea Pixel Club</a>. 
-This site is my small contribution to the 
+You have found Lost Letters, a personal website of a 29th-level female commoner who is working on gaining a single level in amateur web development. 
+This site is my small, nostalgic contribution to the 
 <a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
     web revival movement
 </a> 
-and an homage to 
+and homage to girls' y2k-era online subcultures like 
 <a target="_blank" href="https://zine.yesterweb.org/issue-00/index.php?page=8">
     pixel playgrounds
-</a> 
-and communities of the early 2000s. I'm just another queer, nostalgic girl in her late 20s, figuring out CSS and HTML again. Thank you so much for checking out my site! Feel free to reach out or tell me how you found this site in my <a href="/guestbook/">guestbook</a>. 
+</a>, which will forever hold a fond and formative place in my heart. 
+Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
 <br>
 <br>
 <center>
