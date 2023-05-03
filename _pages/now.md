@@ -15,6 +15,29 @@ menu: about
     <div id="statuscafe-username"></div>&nbsp;&nbsp;<div id="statuscafe-content"></div>
     <script src="https://status.cafe/current-status.js?name=lostletters" defer></script>
 </div>
+<b>Find Me Elsewhere:</b>
+<br>
+<a target="_blank" href="https://neocities.org/site/lostletters">Neocities profile</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/toritried/lostletters">Github</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="https://indieweb.social/@lostletters" rel="me">Mastodon</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="https://app.thestorygraph.com/profile/lostletters" rel="me">StoryGraph</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="https://finaloutpost.net/visit/lostletters" rel="me">The Final Outpost</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="https://dragcave.net/user/lostletters" rel="me">Dragon Cave</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="https://www.pixelcatsend.com/profile&id=5618" rel="me">Pixel Cat's End</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="https://neopets.com/userlookup.phtml?user=waterfish57" rel="me">Neopets</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="https://www.fallenlondon.com/profile/Reina%20Hanwin" rel="me">Fallen London</a>
+<br>
+<br>
+<hr>
+<br>
 The following mostly contains my recent fixations and haunts at specific points in time. This was inspired by <a target="_blank" href="https://nownownow.com/about">"now" pages</a>.
 <br>
 <br>

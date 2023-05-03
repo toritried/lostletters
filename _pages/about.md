@@ -1,7 +1,7 @@
 ---
 layout: space
 title: about me
-emoji: 🎃
+emoji: 🤡
 permalink: /about-me/
 menu: about
 ---
@@ -11,10 +11,10 @@ I started learning to code thanks to Neopets in ~2003, which inspired me <img sr
 <div class="noext">
     <a target="_blank" href="https://www.deviantart.com/sqdpxl/art/moomin-to-the-groove-811004899"><img src="/graphics/toy/moomin_by_SqdPxl.gif" style="margin: 0 0 0 10px;" align="right" title="click for artist"/></a>
 </div>
-In the intervening decades (<i>oof</i>), I thoroughly dismissed the idea of ever taking any of my hobbies like web development seriously (<i>double oof</i>), but I still brushed off my elementary coding skills a few times, learning things like FTP to host my own site and domain, so I could participate in online TCGs, including <a target="_blank" href="https://tcg.fandom.com/wiki/Zest">Zest</a>. These were not like Pokemon or YuGiOh!, because <i>online trading</i> was the game. Through trading cards, you'd collect enough cards to master decks and level up. It used to be horrendously manual; however, I was recently shocked to find and become entirely consumed by newer, fully automated TCGs like <a target="_blank" href="https://heavenspell.la-impresion.org/TCG/">Trading Base</a>. Curiously, it seems like the TCG player base is still heavily female like the previous online spaces I've mentioned.
+In the intervening decades, I thoroughly dismissed the idea of ever taking any of my hobbies like web development seriously, but I still brushed off my elementary coding skills a few times, learning things like FTP to host my own site and domain, so I could participate in online TCGs, including <a target="_blank" href="https://tcg.fandom.com/wiki/Zest">Zest</a>. These were not like Pokemon or YuGiOh!, because <i>online trading</i> was the game. Through trading cards, you'd collect enough cards to master decks and level up. It used to be horrendously manual; however, I was recently shocked to find and subsequently became entirely consumed by newer, fully automated TCGs like <a target="_blank" href="https://heavenspell.la-impresion.org/TCG/">Trading Base</a>. Curiously, it seems like the TCG player base is still heavily female like the previous online spaces I've mentioned.
 <br>
 <br>
-The boredom of the pandemic finally gave me the inspiration and judgement-free opportunity to explore those hobbies of yore again, leading me back to the threadbare remnants of the early internet I so enjoyed as a child. What started out as setting a goal to earn 10 million neopoints after all these years to achieve "ultimate riches" on Neopets quickly snowballed into discovering the yesterweb and web revival. All of a sudden, I was up until 2am, filled with a sense of urgency to pick back up as much as I could of the early internet of my childhood, which I felt like I was close to losing forever. That urgency inspired this website, so if it feels like an incoherent fever-dream, that's really what this all is.
+The boredom of the pandemic finally gave me the inspiration and judgement-free opportunity to explore those hobbies of yore again, leading me back to the threadbare remnants of the early internet I so enjoyed as a child. What started out as setting a goal to earn 10 million neopoints after all these years to achieve "ultimate riches" on Neopets quickly snowballed into discovering the yesterweb and web revival. All of a sudden, I was up until 2am, filled with a sense of urgency to pick back up as much as I could of the early internet of my childhood, which I felt like I was close to losing forever. That urgency inspired this website, so if it feels like an incoherent fever-dream, that's because it is.
 <br>
 <br>
 <div class="noext">
@@ -24,32 +24,6 @@ The boredom of the pandemic finally gave me the inspiration and judgement-free o
 </div>
 Now that I've truly accepted that I'm just a goblin that likes weird stuff instead of someone who does HIIT six days a week before bottomless mimosa brunch, you can typically find me playing, watching, or listening to TTRPGs if I'm offline. I still haven't shed my tendency towards exercise, so I'm probably also working out for my stupid mental health and tracking it obsessively to earn <a target="_blank" href="https://garminbadges.com/">garmin connect badges</a>. I will seriously do anything for the simplest forms of gamification, it's stupid and sometimes dangerous. I also try to stay on top of my daily memory keeping, which involves excessive amounts of fountain pens, stickers, and washi tape. 
 <br>
-<br>
-<hr>
-<br>
-<div style="
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;">
-    <div class="left-links" style="flex: 1 1 0;">
-        <b>Find Me Elsewhere:</b>
-        <ul>
-            <li><a target="_blank" href="https://neocities.org/site/lostletters">Neocities profile</a></li>
-            <li><a target="_blank" href="https://github.com/toritried/lostletters">Github</a></li>
-            <li><a target="_blank" href="https://indieweb.social/@lostletters" rel="me">Mastodon</a></li>
-            <li><a target="_blank" href="https://app.thestorygraph.com/profile/lostletters" rel="me">StoryGraph</a></li>
-            <li><a target="_blank" href="https://finaloutpost.net/visit/lostletters" rel="me">The Final Outpost</a></li>
-            <li><a target="_blank" href="https://dragcave.net/user/lostletters" rel="me">Dragon Cave</a></li>
-            <li><a target="_blank" href="https://www.pixelcatsend.com/profile&id=5618" rel="me">Pixel Cat's End</a></li>
-            <li><a target="_blank" href="https://neopets.com/userlookup.phtml?user=waterfish57" rel="me">Neopets</a></li>
-        </ul>
-    </div>
-    <div class="noext" style="flex: 1 1 0;">
-        <a target="_blank" href="https://picrew.me/en/image_maker/1944831">
-            <img src="/graphics/layout/v2_space/piccrew.png" title="click for piccrew">
-        </a>
-    </div>
-</div>
 <br>
 <hr>
 <br>
