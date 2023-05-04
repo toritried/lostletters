@@ -41,6 +41,12 @@ menu: site
 <hr>
 <br>
 <div class="gb-container">
+    <div class="gb-meta">#56 | May 03, 2023, 11:26 PM | <a target="_blank" href="http://kawaiiness.net">Mai</a></div>
+    <div class="gb-message">
+    I will join the Afternoon Tea Party, I love the idea. &lt;3
+    </div>
+</div>
+<div class="gb-container">
     <div class="gb-meta">#55 | April 27, 2023, 10:31 AM | <a target="_blank" href="https://paintkiller.neocities.org/">PAINTKILLER</a></div>
     <div class="gb-message">
     I joined The Afternoon Tea Party! My website is - https://paintkiller.neocities.org/ and the link to my teacup is - https://paintkiller.neocities.org/new/TEA/MINE/PaintkillerAFternoonTeaCup01.png and it tastes like formaldehyde - cheers!
