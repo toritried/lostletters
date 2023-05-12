@@ -41,6 +41,15 @@ menu: site
 <hr>
 <br>
 <div class="gb-container">
+    <div class="gb-meta">#57 | May 10, 2023, 01:17 AM | <a target="_blank" href="https://yourdevilfriends.art/">Bruno</a></div>
+    <div class="gb-message">
+    Ah, wasn't expecting to find my old &#171;Mask now!&#187; button in the wild! It reminded me that I really need to make my graphics page XD
+    <br>
+    <br>
+    Anyways... I've been following your site for a bit, it's quite charming! Keep it up ^u^&#41;b
+    </div>
+</div>
+<div class="gb-container">
     <div class="gb-meta">#56 | May 03, 2023, 11:26 PM | <a target="_blank" href="http://kawaiiness.net">Mai</a></div>
     <div class="gb-message">
     I will join the Afternoon Tea Party, I love the idea. &lt;3
