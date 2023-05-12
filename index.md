@@ -85,7 +85,7 @@ Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
         <a target="_blank" href="https://yesterweb.org/no-to-web3/">
             <img src="/graphics/linkout/nft_sadgrl.gif" title="anti-NFT button by sadgrl.online">
         </a>
-        <a target="_blank" href="https://arremeer.neocities.org/">
+        <a target="_blank" href="https://yourdevilfriends.art/freebies.html">
             <img src="/graphics/linkout/masknow.png" title="Wear a mask now button by Bruno">
         </a>
         <img src="/graphics/linkout/acab.gif" title="ACAB button - not sure who made this, so please drop me a note if you know who did in my guestbook. Attribution is so important!">
