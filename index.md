@@ -4,7 +4,7 @@ title: home
 emoji: 🏠
 ---
 <img src="/graphics/site_buttons/LostLetters32x32.gif" align="left" style="margin: 11px 17px 0 10px;" >
-<img src="/graphics/adoptables/dancing-moomin-lostletters-4x.png" style="margin: 10px 0 0 0;" align="right" width="82px"/>
+<img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 10px;" align="right" width="82px"/>
 You have found Lost Letters, a personal website of a 29th-level female commoner who is working on gaining a single level in amateur web development. 
 This site is my small, nostalgic contribution to the 
 <a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
