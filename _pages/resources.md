@@ -6,7 +6,9 @@ permalink: /resources/
 menu: meta
 ---
 <h2>My Pixel Art & Sozai</h2>
+<img src="/graphics/adoptables/parfait.png">
 <img src="/graphics/adoptables/dancing-moomin-lostletters.png" title="Note: I do not claim ownership of Moomin, I just drew him because he's the best boy">
+<img src="/graphics/adoptables/flowers-pitcher.png">
 <img src="/graphics/adoptables/bow-pink-lostletters.png">
 <img src="/graphics/adoptables/bow-blush-lostletters.png">
 <img src="/graphics/adoptables/bow-gold-lostletters.png">
