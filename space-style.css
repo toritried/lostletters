@@ -586,3 +586,31 @@ html, body {
 .missing-button:hover{
   text-shadow: none;
 }
+
+/* tweaked from melonking.net */
+#star-background {
+  background-image: url(/graphics/layout/v2_space/sparkle.gif);
+  opacity: .45;
+  position: fixed;
+  width: 500%;
+  height: 500%;
+  top: -250%;
+  left: -250%;
+  z-index: -5;
+  animation-name: spin;
+  animation-duration: 1400s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation-fill-mode: forwards;
+}
+
+@keyframes spin {
+  from {
+      transform: rotate(0deg);
+  }
+  to {
+      transform: rotate(360deg);
+  }
+}
