@@ -348,7 +348,7 @@ menu: about
             <div class="content">
                 <div id="div1" class="postit yellow row1 column1">
                     <p>
-                        Growing up multi-racial, one of my earliest memories is being asked, "What are you?" It's such a broad question that disappointingly gets sharped to a point with peoples' repugnant racial gaze, but I feel like I've only explored a small fraction of its actual infinite and ever-changing answers. 
+                        Growing up multi-racial, one of my earliest memories is being asked, "What are you?" It's such a broad question that disappointingly gets sharpened to a point with peoples' repugnant racial gaze, but I feel like I've only explored a small fraction of its actual infinite and ever-changing answers. 
                     </p>
                 </div>
                 <div id="div2" class="postit cyan row1 column3">
