@@ -34,10 +34,6 @@ This is a collection of resources that helped me create this site, which may hel
     <li><a target="_blank" href="https://www.drlinkcheck.com/">Dr. Link Check</a> - checks your site for broken links</li>
 </ul>
 <br>
-My <a href="/blog.html">blog posts</a> on web dev include all the sources I found and used while working on technical aspects of this site and creating my ideal developer environment. 
-I felt like it was most useful to attribute those in context, so please refer to individual posts for those sources.
-<br>
-<br>
 <h3>Code Snippets</h3>
 <ul>
     <li><a target="_blank" href="https://sadgrl.online/">sadgrl.online</a> - <a target="_blank" href="https://sadgrl.online/learn/articles/last-update-visitors#">Neocities last update date and visitor count javascript</a></li>
@@ -52,11 +48,6 @@ I felt like it was most useful to attribute those in context, so please refer to
 <h3>Graphics</h3>
 <ul>
     <li><a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">trovami</a> - 80x15 button creator</li>
-    <li><a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 button base</li>
-    <li><a target="_blank" href="https://pixel-soup.tumblr.com/">pixel-soup</a> & <a target="_blank" href="https://lostsozai.tumblr.com/">lost-sozai</a> - in-line emoticons</li>
-    <li><a target="_blank" href="https://www.cursors-4u.com/cursor/2010/02/24/flyff-chinese-cute-angel-mail.html">Flyff</a> - cursor</li>
-    <li><a target="_blank" href="https://foollovers.com/">Fool Lovers</a> - sakura divider</li>
-    <li><a target="_blank" href="https://gifcities.org/">GifCities</a> - Guestbook gif</li>
     <li><a target="_blank" href="https://www.piskelapp.com/">piskel</a> - free, browser-based pixel art/animation tool</li>
     <li><a target="_blank" href="http://coolors.co">coolors.co</a> - color palette generator</li>
     <li><a target="_blank" href="https://blinkies.cafe/">blinkies.cafe</a> - blinkie generator</li>
