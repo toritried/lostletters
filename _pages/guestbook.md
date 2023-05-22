@@ -41,12 +41,33 @@ menu: site
 <hr>
 <br>
 <div class="gb-container">
+    <div class="gb-meta">#59 | May 22, 2023, 14:02 PM | May</div>
+    <div class="gb-message">
+        your website has such a cozy vibe to it &lt;3 the text is so visually appealing it makes my brain so happy
+    </div>
+</div>
+<div class="gb-container">
+    <div class="gb-meta">#58 | May 22, 2023, 09:38 AM | <a target="_blank" href="https://paintkiller.neocities.org/">PAINTKILLER</a></div>
+    <div class="gb-message">
+    I made a new teacup!
+    <br>
+    <br>
+    https://paintkiller.neocities.org/new/TEA/MINE/Paintkiller-Beercup.png
+    <br>
+    <br>
+    Tastes like beer, because it's beer, but in a teacup that's part beer mug
+    <br>
+    <br>
+    :&#41; 
+    </div>
+</div>
+<div class="gb-container">
     <div class="gb-meta">#57 | May 10, 2023, 01:17 AM | <a target="_blank" href="https://yourdevilfriends.art/">Bruno</a></div>
     <div class="gb-message">
     Ah, wasn't expecting to find my old &#171;Mask now!&#187; button in the wild! It reminded me that I really need to make my graphics page XD
     <br>
     <br>
-    Anyways... I've been following your site for a bit, it's quite charming! Keep it up ^u^&#41;b
+    Anyways... I've been following your site for a bit, it's quite charming! Keep it up ^u^&#41; b
     </div>
 </div>
 <div class="gb-container">
