@@ -10,6 +10,7 @@ menu: about
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Pan Pride</title>
+        <link href="/graphics/favicon/pan-favicon.ico" rel="icon" type="image/x-icon" />
         <style>
             body {
                 background-image: url('/graphics/layout/pride/pride.png');
@@ -327,7 +328,9 @@ menu: about
                     I chose post-its because I have various memories and experiences that directly relate or intersect with my queer identity, and the endless possible arrangements of them can inspire new interpretations and deepen my understanding of myself.
                     <br>
                     <br>
-                    Background by <a target="_blank" href="https://www.vecteezy.com/free-vector/pansexual">Vecteezy</a>.
+                    Background by <a target="_blank" href="https://www.vecteezy.com/free-vector/pansexual">Vecteezy</a>
+                    <br>
+                    Favicon by <a target="_blank" href="https://www.favicon.cc/?action=icon&file_id=829096">MxNoncompliant</a>
                     <br>
                     <br>
                     <center>
