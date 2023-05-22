@@ -316,7 +316,7 @@ menu: about
                     <br>
                 </div>
                 <text>
-                    This page was page was created for the <a target="_blank" href="https://32bit.cafe/pride23/">32-bit cafe's June pride 2023 event</a>!
+                    This was created for the <a target="_blank" href="https://32bit.cafe/pride23/">32-bit cafe's Pride 2023 event</a>!
                     <br>
                     <br>
                     This interactive work focuses on my pansexuality, but also explores themes of self-love / self-determination, intersectional identities, and queer allyship. 
@@ -328,17 +328,21 @@ menu: about
                     I chose post-its because I have various memories and experiences that directly relate or intersect with my queer identity, and the endless possible arrangements of them can inspire new interpretations and deepen my understanding of myself.
                     <br>
                     <br>
+                    <center>
+                        <a href="/">Return to Lost Letters</a>
+                    </center>
+                    <br>
+                    <hr>
+                    <br>
+                    <center>
+                        <a target="_blank" href="https://32bit.cafe/pride23/"><img src="/graphics/linkout/32bitcafe-pride.png" title="click here to see more of the 32-bit cafe pride event"></a>
+                    </center>
+                    <br>
                     Background by <a target="_blank" href="https://www.vecteezy.com/free-vector/pansexual">Vecteezy</a>
                     <br>
                     Favicon by <a target="_blank" href="https://www.favicon.cc/?action=icon&file_id=829096">MxNoncompliant</a>
                     <br>
                     <br>
-                    <center>
-                        💖💛💙
-                        <br>
-                        <br>
-                        <a href="/">Return to Lost Letters</a>
-                    </center>
                 </text>
             </div>
             <div class="content">
