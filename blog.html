@@ -11,10 +11,17 @@ title: Blog
     </h2>
 </center>
 <br>
-{% for post in site.posts %}
-    <h3>✉ <a href="{{ post.url }}">{{ post.title }}</a></h3>
-{{ post.excerpt }}
+<div class="envelope">
+    {% for post in site.posts %}
+        <img src="/graphics/layout/v2_space/postage.gif" align="right" style="margin: 10px;">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    {{ post.excerpt }}
+    <center>
+        <a href="{{ post.url }}">open this letter to continue reading...</a>
+    </center>
+</div>
 <br>
 <hr>
 <br>
-{% endfor %}
+<div class="envelope">
+    {% endfor %}</div>

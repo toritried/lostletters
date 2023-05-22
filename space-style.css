@@ -614,3 +614,16 @@ html, body {
       transform: rotate(360deg);
   }
 }
+
+.envelope { /* https://sharkcoder.com/visual/borders */
+  padding: 1em;
+  border: 1em solid transparent;
+  background: linear-gradient(#160415, #160415)
+              padding-box,
+              repeating-linear-gradient(-45deg,
+              #f69ec4 0, #f69ec4 12.5%,
+              #ffffff 0, #ffffff 25%,
+              #7eb4e2 0, #7eb4e2 37.5%,
+              #ffffff 0, #ffffff 50%)
+              0 / 5em 5em;
+}
