@@ -8,7 +8,7 @@ menu: ttrpg
 <h2>Meet some weirdos who crawled out of my head.</h2>
 <div class="noext">
     <a target="_new" href="https://picrew.me/en/image_maker/1222838">
-        <img src="/graphics/ttrpg/oc/mama.png" style="max-width: 290px; margin: 10px;" align="right">
+        <img src="/graphics/ttrpg/oc/mama.png" style="max-width: 40%; margin: 10px;" align="right">
     </a>
 </div>
 The first D&D character I ever played was called <b>"Mama", a min-maxed 5th edition forest gnome circle of the moon druid</b> that I played from 3rd to 5th level over the course of 1.5 years. Mama is captured on this page as a tan woman with an orange headband and antlers, wearing a large gold hoop earing and a brown patchwork shawl across one shoulder.  
@@ -17,7 +17,7 @@ During that campaign, Mama's signature move was becoming a mountable bear and ca
 <br>
 <div class="noext">
     <a target="_new" href="https://picrew.me/en/image_maker/1222838">
-        <img src="/graphics/ttrpg/oc/kaylis.png" style="max-width: 290px; margin: 10px;" align="left">
+        <img src="/graphics/ttrpg/oc/kaylis.png" style="max-width: 40%; margin: 10px;" align="left">
     </a>
 </div>
 My second D&D 5th edition game started during the pandemic as a one-shot to break out of hell with a couple of my friends who I convinced to try D&D for the first time. The DM asked what type of characters we wanted to be (The Face, The Brains, The Muscle, etc.) and handed us pre-made characters. I chose the Face as the only friend who was comfortable role playing at first. I got a <b>female tiefling bard named Kaylis</b> in return. She is captured on this page as a pink-skinned female tiefling wearing a gold crown, earrings, necklaces, and a red one-shouldered cape over a black top. She is crying while smiling and forming a heart symbol with her fingers.  
