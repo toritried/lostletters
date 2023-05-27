@@ -5,12 +5,12 @@ emoji: 🏠
 ---
 <img src="/graphics/site_buttons/LostLetters32x32.gif" align="left" style="margin: 11px 17px 0 10px;" >
 <img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 10px;" align="right" width="82px"/>
-You have found Lost Letters, a personal website of a 29th-level female commoner who is working on gaining a single level in amateur web development. 
-This site is my small, nostalgic contribution to the 
+You have found Lost Letters, a personal website of a 29th-level female commoner. 
+This site is my amateur and nostalgic contribution to the 
 <a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
     web revival movement
-</a> 
-and homage to girls' y2k-era online subcultures like 
+</a>
+and an homage to girls' y2k-era online subcultures like 
 <a target="_blank" href="https://zine.yesterweb.org/issue-00/index.php?page=8">
     pixel playgrounds
 </a>, which will forever hold a fond and formative place in my heart. 
