@@ -41,6 +41,24 @@ menu: site
 <hr>
 <br>
 <div class="gb-container">
+    <div class="gb-meta">#65 | May 29, 2023, 15:14 | <a target="_blank" href="http://ramses.neocities.org">ramses</a></div>
+    <div class="gb-message">
+        Thanks for your hard work in this site. I always come around and browse randomly, I love the atmosphere and all the little details that are taken care of so well 🙇🏻 thank you!
+    </div>
+</div>
+<div class="gb-container">
+    <div class="gb-meta">#64 | May 29, 2023, 10:38 | <a target="_blank" href="https://magic-boots.xyz">Eva</a></div>
+    <div class="gb-message">
+        I just joined afternoon tea!
+        <br>
+        URL: https://magic-boots.xyz
+        <br>
+        Teacup Link: https://magic-boots.xyz/tea/magicboots-strawberryteacup.png
+        <br>
+        *(submitted later)*: I forgot to include the flavor! It's strawberry black tea.
+    </div>
+</div>
+<div class="gb-container">
     <div class="gb-meta">#63 | May 26, 2023, 17:18 | <a target="_blank" href="https://slashdiv.neocities.org">slashdiv</a></div>
     <div class="gb-message">
         hiyaa thank you for leaving that message on my site! yours looks pretty cool too!

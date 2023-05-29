@@ -107,6 +107,9 @@ menu: webcore
         <a target="_blank" href="https://paintkiller.neocities.org/">
             <img src="/graphics/teahouse/teacup/Paintkiller-Beercup.png" title="tastes like beer, because it's beer, but in a teacup that's part beer mug - made by PAINTKILLER">
         </a>
+        <a target="_blank" href="https://magic-boots.xyz/">
+            <img src="/graphics/teahouse/teacup/magicboots-strawberryteacup.png" title="tastes like strawberry black tea - made by Eva">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
