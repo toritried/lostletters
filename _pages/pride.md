@@ -329,6 +329,13 @@ menu: about
                     <br>
                     <br>
                     <center>
+                        <a href="/afternoontea/"><img src="/graphics/teahouse/teacup/lostletters-panpride.gif" title="tastes like pan pride - made by Lost Letters"></a>
+                        <br>
+                        <span style="font-size: 70%; line-height: 1.1em;">
+                        <br>
+                        Enjoy this Pride adoptable for your site by downloading the image and linking back to my site for attribution.</span>
+                        <br>
+                        <br>
                         <a href="/">Return to Lost Letters</a>
                     </center>
                     <br>

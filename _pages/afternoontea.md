@@ -8,13 +8,13 @@ menu: webcore
 <center>
     <h2>You're invited to Afternoon Tea</h2>
     <div class="noext">
-        <a href="https://lostletters.neocities.org/index.html">
+        <a href="/">
             <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
         </a>
-        <a href="https://lostletters.neocities.org/index.html">
+        <a href="/">
             <img src="/graphics/teahouse/teacup/takoonsen-lostletters.png" title="tastes like salt water - made by Lost Letters"/>
         </a>
-            <a href="https://lostletters.neocities.org/index.html">
+            <a href="/">
         <img src="/graphics/teahouse/teacup/shortcake-lostletters.png" title="tastes like strawberry shortcake - made by Lost Letters"/>
         </a>
         <a target="_blank" href="https://floral-tears.neocities.org/">
@@ -109,6 +109,9 @@ menu: webcore
         </a>
         <a target="_blank" href="https://magic-boots.xyz/">
             <img src="/graphics/teahouse/teacup/magicboots-strawberryteacup.png" title="tastes like strawberry black tea - made by Eva">
+        </a>
+        <a href="/pride/">
+            <img src="/graphics/teahouse/teacup/lostletters-panpride.gif" title="tastes like pan pride - made by Lost Letters"/>
         </a>
     </div>
     <br>
