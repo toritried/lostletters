@@ -456,6 +456,19 @@ html, body {
 }
 
 /* Guestbook styling */
+.guestbook {
+  overflow: hidden;
+}
+
+.gb-entry {
+  display: none; /* Hidden by default */
+}
+
+/* The "show" class is added to the filtered guestbook entries*/
+.show {
+  display: block;
+}
+
 .sign-gb {
   width: auto;
   filter: drop-shadow(0px 0px 4px #018281);
@@ -497,6 +510,13 @@ html, body {
 .gb-meta a, .gb-reply-meta a {
   color: #ffffff;
 }
+.gb-reply-container a {
+  color: #962e8d;
+}
+.gb-reply-container a:hover {
+  -webkit-text-fill-color: #962e8d; /** needed given styling of bolded links **/
+  text-shadow: none;
+}
 
 .gb-reply-meta {
   background: linear-gradient(90deg,#490b64,#018281);
@@ -515,7 +535,7 @@ html, body {
   font-size: 14px;
 }
 
-.gb-button, input[type=reset], input[type=submit] {
+.gb-button, input[type=reset], input[type=submit], .btn {
   border: none;
   border-radius: 0;
   box-sizing: border-box;
@@ -528,12 +548,12 @@ html, body {
   font-size: 14px;
 }
 
-.gb-button, input[type=reset], input[type=submit] {
+.gb-button, input[type=reset], input[type=submit], .btn {
   background: silver;
   box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
 }
 
-.gb-button:hover{
+.gb-button:hover, .btn:hover {
   position: relative;
   left: 1.5px;
   top: 1.5px;
