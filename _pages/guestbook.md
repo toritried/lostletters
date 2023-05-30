@@ -38,7 +38,6 @@ menu: site
     </div>
 </div>
 <br>
-<hr>
 <br><!-- Control buttons -->
 <script src="/guestbook.js"></script>
 <center>
