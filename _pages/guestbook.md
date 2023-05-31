@@ -52,6 +52,14 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#68 | May 31, 2023, 09:19 | <a target="_blank" href="https://xandra.cc">alexandra</a></div>
+            <div class="gb-message">
+                after being on my to-do list for months, i've finally made my afternoon tea! it "tastes like broken hearts" :&#41; thank you for making the clique!!!
+            </div>
+        </div>
+    </div>
     <div class="gb-entry love">
         <div class="gb-container">
             <div class="gb-meta">#67 | May 30, 2023, 09:45 | <a target="_blank" href="https://nenrikido.neocities.org/">Rio</a></div>
