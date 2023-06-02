@@ -89,7 +89,9 @@ Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
             <img src="/graphics/linkout/masknow.png" title="Wear a mask now button by Bruno">
         </a>
         <img src="/graphics/linkout/acab.gif" title="ACAB button - not sure who made this, so please drop me a note if you know who did in my guestbook. Attribution is so important!">
-        <img src="/graphics/linkout/bob.gif" title="Powered by bob button - not sure who made this, so please drop me a note if you know who did in my guestbook. Attribution is so important!">
+        <a target="_blank" href="https://zanarkand.neocities.org/">
+            <img src="/graphics/linkout/bob.gif" title="Powered by bob button by zanarkand">
+        </a>
     </div>
   </div>
   <div class="index-links-next"><!-- Webrings -->
