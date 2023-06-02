@@ -54,6 +54,28 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry tea">
         <div class="gb-container">
+            <div class="gb-meta">#70 | June 06, 2023, 21:31 | <a target="_blank" href="https://snals.neocities.org/">toha</a></div>
+            <div class="gb-message">
+                hiii !!!
+                <br>
+                heres my tea cup :DDD
+                <br>
+                <a target="_blank" href="https://snals.neocities.org/snals/snalscup.png">https://snals.neocities.org/snals/snalscup.png</a>
+            </div>
+        </div>
+    </div>
+<div class="guestbook">
+    <div class="gb-entry other">
+        <div class="gb-container">
+            <div class="gb-meta">#69 | June 01, 2023, 23:58 | <a target="_blank" href="https://sanguineroyal.com/">Krish</a></div>
+            <div class="gb-message">
+                I was here! Reading your about was like I could've written it- I also got my start in html/css because of neopets, haha. I plan on joining your afternoon tea clique eventually. Also, the "powered by Bob" button on your homepage is by <a target="_blank" href="https://neocities.org/site/zanarkand">Zanarkand on neocities</a>!
+            </div>
+        </div>
+    </div>
+<div class="guestbook">
+    <div class="gb-entry tea">
+        <div class="gb-container">
             <div class="gb-meta">#68 | May 31, 2023, 09:19 | <a target="_blank" href="https://xandra.cc">alexandra</a></div>
             <div class="gb-message">
                 after being on my to-do list for months, i've finally made my afternoon tea! it "tastes like broken hearts" :&#41; thank you for making the clique!!!

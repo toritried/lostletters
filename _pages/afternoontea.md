@@ -116,6 +116,9 @@ menu: webcore
         <a target="_blank" href="https://xandra.cc/">
             <img src="/graphics/teahouse/teacup/xandra-brokenhearts.png" title="tastes like broken hearts - made by alexandra"/>
         </a>
+        <a target="_blank" href="https://snals.neocities.org/">
+            <img src="/graphics/teahouse/teacup/snalscup.png" title="made by toha">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
