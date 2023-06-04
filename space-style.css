@@ -12,6 +12,11 @@
   font-family: 'pixel';
   src: url('/fonts/04B_03__.TTF')  format('truetype');
 }
+
+@font-face {
+  font-family: "dogicapixel";
+  src: url("/fonts/dogicapixel.ttf") format("truetype");
+}
   
 body {
   background-color: #1a1a1a;
@@ -510,7 +515,7 @@ html, body {
 .gb-meta a, .gb-reply-meta a {
   color: #ffffff;
 }
-.gb-reply-container a {
+.gb-reply-container a, .gb-message a {
   color: #962e8d;
 }
 .gb-reply-container a:hover {
