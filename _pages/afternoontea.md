@@ -117,7 +117,7 @@ menu: webcore
             <img src="/graphics/teahouse/teacup/xandra-brokenhearts.png" title="tastes like broken hearts - made by alexandra"/>
         </a>
         <a target="_blank" href="https://snals.neocities.org/">
-            <img src="/graphics/teahouse/teacup/snalscup.png" title="made by toha">
+            <img src="/graphics/teahouse/teacup/snalscup.png" title="tastes like chicken soup - made by toha">
         </a>
     </div>
     <br>
