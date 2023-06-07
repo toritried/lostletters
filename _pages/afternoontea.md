@@ -119,6 +119,9 @@ menu: webcore
         <a target="_blank" href="https://snals.neocities.org/">
             <img src="/graphics/teahouse/teacup/snalscup.png" title="tastes like chicken soup - made by toha">
         </a>
+        <a target="_blank" href="https://ziggybeeps.neocities.org">
+            <img src="/graphics/teahouse/teacup/ziggy-cup.png" title="tastes like it was reheated in the microwave and forgotten a second time - made by Ziggy">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">

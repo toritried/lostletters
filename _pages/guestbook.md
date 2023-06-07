@@ -54,6 +54,23 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry tea">
         <div class="gb-container">
+            <div class="gb-meta">#72 | June 07, 2023, 00:55 | <a target="_blank" href="https://ziggybeeps.neocities.org">Ziggy</a></div>
+            <div class="gb-message">
+                Hey there! I've got a teacup to add to the club collection. It tastes like it was reheated in the microwave and forgotten a second time
+                <a target="_blank" href="https://ziggybeeps.neocities.org/img/pxl/ziggycup.png">https://ziggybeeps.neocities.org/img/pxl/ziggycup.png</a>
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#71 | June 06, 2023, 15:29 | <a target="_blank" href="https://floral-tears.neocities.org/">floral-tears</a></div>
+            <div class="gb-message">
+                Hi! I read your post about crocheting- I'm excited to see how your top turns out, your yarn choice looks lovely! Also I would love to be a learning accountability buddy, I've been in a slump with drawing/painting lately, but found a video on composition (which I really struggle with) that inspired me. I think it would be fun to have weekly check ins :-)
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
             <div class="gb-meta">#70 | June 06, 2023, 21:31 | <a target="_blank" href="https://snals.neocities.org/">toha</a></div>
             <div class="gb-message">
                 hiii !!!
@@ -64,7 +81,6 @@ menu: site
             </div>
         </div>
     </div>
-<div class="guestbook">
     <div class="gb-entry other">
         <div class="gb-container">
             <div class="gb-meta">#69 | June 01, 2023, 23:58 | <a target="_blank" href="https://sanguineroyal.com/">Krish</a></div>
@@ -73,7 +89,6 @@ menu: site
             </div>
         </div>
     </div>
-<div class="guestbook">
     <div class="gb-entry tea">
         <div class="gb-container">
             <div class="gb-meta">#68 | May 31, 2023, 09:19 | <a target="_blank" href="https://xandra.cc">alexandra</a></div>
