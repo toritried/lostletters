@@ -122,6 +122,13 @@ menu: webcore
         <a target="_blank" href="https://ziggybeeps.neocities.org">
             <img src="/graphics/teahouse/teacup/ziggy-cup.png" title="tastes like it was reheated in the microwave and forgotten a second time - made by Ziggy">
         </a>
+        <a target="_blank" href="https://slashdiv.neocities.org/home.html">
+            <img src="/graphics/teahouse/teacup/slashdiv-anim.webp" title="tastes like crisp air and shimmering starlight - made by slashdiv">
+        </a>
+        <a target="_blank" href="http://layercake.neocities.org/">
+            <img src="/graphics/teahouse/teacup/june-shadows-goo.gif" title="tastes like  shadows, goo and... something else...? - made by June">
+        </a>
+        
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">

@@ -7,6 +7,11 @@ menu: site
 ---
 <center>
     <img src="/graphics/layout/v2_space/gb-spin.gif" class="sign-gb">
+    <br>
+    <br>
+    <b>Disclaimer: I will be on a trip from June 9 - June 17, so there will be no updates to my website during that time, including posting new guestbook entries submitted here. I will post them as soon as I'm back. Thanks for your patience!</b>
+    <br>
+    <br>
 </center>
 <!-- Guesbook Form -->
 <div style="display: flex; justify-content: center;">
@@ -52,6 +57,38 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#75 | June 08, 2023, 00:53 | <a target="_blank" href="http://layercake.neocities.org/">June</a></div>
+            <div class="gb-message">
+                I have a teacup to add to the cup collection! it tastes like shadows, goo and... something else...? https://files.catbox.moe/p15tb8.gif
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#74 | June 07, 2023, 21:51 | <a target="_blank" href="https://slashdiv.neocities.org/home.html">Ziggy</a></div>
+            <div class="gb-message">
+                https://slashdiv.neocities.org/cliques/afternoon-tea.html
+                https://slashdiv.neocities.org/assets/teacups/slashdiv-anim.webp
+                https://slashdiv.neocities.org/assets/teacups/slashdiv.png
+                https://i.postimg.cc/Cx0y5bpy/tea1.png
+                https://i.postimg.cc/13BG612m/tea-animated.webp
+                <br>
+                here's my entry for the afternoon tea club! The page above displays outside of the iframe, so it might look better to link my homepage directly.
+                <br>
+                my tea tastes like crisp air and shimmering starlight! :DDD
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#73 | June 07, 2023, 18:57 | <a target="_blank" href="beelzebabe.wtf">✂--BEEZLEBABE--</a></div>
+            <div class="gb-message">
+                ✪ ω ✪ Its so cute here
+            </div>
+        </div>
+    </div>
     <div class="gb-entry tea">
         <div class="gb-container">
             <div class="gb-meta">#72 | June 07, 2023, 00:55 | <a target="_blank" href="https://ziggybeeps.neocities.org">Ziggy</a></div>
