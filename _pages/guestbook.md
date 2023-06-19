@@ -9,9 +9,6 @@ menu: site
     <img src="/graphics/layout/v2_space/gb-spin.gif" class="sign-gb">
     <br>
     <br>
-    <b>Disclaimer: I will be on a trip from June 9 - June 17, so there will be no updates to my website during that time, including posting new guestbook entries submitted here. I will post them as soon as I'm back. Thanks for your patience!</b>
-    <br>
-    <br>
 </center>
 <!-- Guesbook Form -->
 <div style="display: flex; justify-content: center;">
@@ -57,6 +54,26 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#77 | June 18, 2023, 06:19 | <a target="_blank" href="https://fizzsea.neocities.org/">Citrus</a></div>
+            <div class="gb-message">
+                https://fizzsea.neocities.org/assets/extras/teacup1.png
+                <br>
+                made a tea cup for afternoon tea! tastes like bit crushed sugar
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#76 | June 13, 2023, 22:52 | <a target="_blank" href="https://chickenham.art/">chickenham</a></div>
+            <div class="gb-message">
+                Hihi!! I hope your trip is going well :D I made three little chicken teacups for Afternoon Tea !! Here's the page they're on: https://chickenham.art/pixelclubs
+                <br>
+                This is such a fun idea, I'll definitely make more :)
+            </div>
+        </div>
+    </div>
     <div class="gb-entry tea">
         <div class="gb-container">
             <div class="gb-meta">#75 | June 08, 2023, 00:53 | <a target="_blank" href="http://layercake.neocities.org/">June</a></div>

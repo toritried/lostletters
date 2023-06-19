@@ -7,7 +7,7 @@ menu: webcore
 ---
 <center>
     <h2>You're invited to Afternoon Tea</h2>
-    <div class="noext">
+    <div class="noext" style="image-rendering: pixelated;">
         <a href="/">
             <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
         </a>
@@ -128,7 +128,18 @@ menu: webcore
         <a target="_blank" href="http://layercake.neocities.org/">
             <img src="/graphics/teahouse/teacup/june-shadows-goo.gif" title="tastes like  shadows, goo and... something else...? - made by June">
         </a>
-        
+        <a target="_blank" href="https://chickenham.art/">
+            <img src="/graphics/teahouse/teacup/ChickenHamCup.png" title="made by chickenham">
+        </a>
+        <a target="_blank" href="https://chickenham.art/">
+            <img src="/graphics/teahouse/teacup/ChickenHamCup2.png" title="made by chickenham">
+        </a>
+        <a target="_blank" href="https://chickenham.art/">
+            <img src="/graphics/teahouse/teacup/ChickenHamCup3.png" title="made by chickenham">
+        </a>
+        <a target="_blank" href="https://fizzsea.neocities.org/">
+            <img src="/graphics/teahouse/teacup/fizzsea-crushedsugar.png" title="tastes like bit crushed sugar - made by Citrus">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
