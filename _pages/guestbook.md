@@ -56,6 +56,42 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry tea">
         <div class="gb-container">
+            <div class="gb-meta">#80 | June 21, 2023, 04:29 | <a target="_blank" href="http://spiders.neocities.org">nico</a></div>
+            <div class="gb-message">
+                hiii i made a teacup! https://spiders.neocities.org/B/gifs/teeacup.png i've (randomly) decided it tastes like tomatoes
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#79 | June 21, 2023, 02:58 | <a target="_blank" href="https://solaria.neocities.org/">Solaria</a></div>
+            <div class="gb-message">
+                Hai!!
+                <br>
+                I was wondering if my teacup could be added to your Afternoon Tea Club! Heres the link to the pixel art on my site:
+                <br>
+                https://solaria.neocities.org/pixel/afternoontea/solariateacup.png
+                <br>
+                im honestly not sure how to describe the taste ^^; anyways my url is the same as provided in the form, but heres the page ill be displaying pixel art club pixels in: https://solaria.neocities.org/pixel/ thank you for starting this club!!!
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#78 | June 20, 2023, 23:34 | <a target="_blank" href="https://thegardenofmadeline.neocities.org/">webmaster m</a></div>
+            <div class="gb-message">
+                finally created my teacup for afternoon tea!! tastes like morning dew :)
+                <br>
+                <br>
+                thank you for introducing me to the world of pixel clubs! I'm having an amazing time discovering new ones, I'd love to create one myself one day.
+                <br>
+                <br>
+                https://thegardenofmadeline.neocities.org/images/pixelclubs/thegardenofmadeline_teacup.gif
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
             <div class="gb-meta">#77 | June 18, 2023, 06:19 | <a target="_blank" href="https://fizzsea.neocities.org/">Citrus</a></div>
             <div class="gb-message">
                 https://fizzsea.neocities.org/assets/extras/teacup1.png

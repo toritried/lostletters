@@ -140,6 +140,15 @@ menu: webcore
         <a target="_blank" href="https://fizzsea.neocities.org/">
             <img src="/graphics/teahouse/teacup/fizzsea-crushedsugar.png" title="tastes like bit crushed sugar - made by Citrus">
         </a>
+        <a target="_blank" href="https://thegardenofmadeline.neocities.org/">
+            <img src="/graphics/teahouse/teacup/thegardenofmadeline_teacup.gif" title="tastes like morning dew - made by webmaster m">
+        </a>
+        <a target="_blank" href="https://solaria.neocities.org/">
+            <img src="/graphics/teahouse/teacup/solariateacup.png" title="made by Solaria">
+        </a>
+        <a target="_blank" href="http://spiders.neocities.org">
+            <img src="/graphics/teahouse/teacup/nico-tomatoes.png" title="tastes like tomatoes - made by nico">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
