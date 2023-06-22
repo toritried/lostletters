@@ -149,6 +149,9 @@ menu: webcore
         <a target="_blank" href="http://spiders.neocities.org">
             <img src="/graphics/teahouse/teacup/nico-tomatoes.png" title="tastes like tomatoes - made by nico">
         </a>
+        <a target="_blank" href="https://mouthsweets.neocities.org/">
+            <img src="/graphics/teahouse/teacup/mouthsweets-tea.png" title="tastes like fresh garden flowers - made by Mouthsweets">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">

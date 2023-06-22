@@ -56,6 +56,20 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry tea">
         <div class="gb-container">
+            <div class="gb-meta">#81 | June 22, 2023, 13:14 | <a target="_blank" href="https://mouthsweets.neocities.org/">PJ [Mouthsweets]</a></div>
+            <div class="gb-message">
+                i love the afternoon tea club and i would love to join :+)
+                <br>
+                https://mouthsweets.neocities.org/mouthsweets-tea.png
+                <br>
+                "tastes like fresh garden flowers - made by Mouthsweets"
+                <br>
+                thank you very much ♥
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
             <div class="gb-meta">#80 | June 21, 2023, 04:29 | <a target="_blank" href="http://spiders.neocities.org">nico</a></div>
             <div class="gb-message">
                 hiii i made a teacup! https://spiders.neocities.org/B/gifs/teeacup.png i've (randomly) decided it tastes like tomatoes
