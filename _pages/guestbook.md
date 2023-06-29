@@ -56,6 +56,26 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry tea">
         <div class="gb-container">
+            <div class="gb-meta">#83 | June 29, 2023, 10:19 | <a target="_blank" href="https://mossforestdollz.neocities.org">Nemo</a></div>
+            <div class="gb-message">
+                Hello! I have made a teacup! https://mossforestdollz.neocities.org/images/clubs/blackcoffee.gif
+                <br>
+                "coffee as black as midnight on a moonless night - made by Nemo"
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#82 | June 26, 2023, 03:00 | <a target="_blank" href="https://dollarchive.neocities.org/">edie</a></div>
+            <div class="gb-message">
+                hello!! i love your site, i really like seeing your yarn projects. i made a teacup for afternoon tea! you can find it here: https://dollarchive.neocities.org/guilds/teacup1.png https://dollarchive.neocities.org/guilds
+                <br>
+                thanks for organizing this, it's really cool!!
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
             <div class="gb-meta">#81 | June 22, 2023, 13:14 | <a target="_blank" href="https://mouthsweets.neocities.org/">PJ [Mouthsweets]</a></div>
             <div class="gb-message">
                 i love the afternoon tea club and i would love to join :+)

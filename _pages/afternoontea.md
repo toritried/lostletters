@@ -152,6 +152,12 @@ menu: webcore
         <a target="_blank" href="https://mouthsweets.neocities.org/">
             <img src="/graphics/teahouse/teacup/mouthsweets-tea.png" title="tastes like fresh garden flowers - made by Mouthsweets">
         </a>
+        <a target="_blank" href="https://dollarchive.neocities.org/">
+            <img src="/graphics/teahouse/teacup/edie-teacup.png" title="tastes like ick blech that's not coffee oh ew - made by edie">
+        </a>
+        <a target="_blank" href="https://mossforestdollz.neocities.org">
+            <img src="/graphics/teahouse/teacup/nemo-blackcoffee.gif" title="tastes like coffee as black as midnight on a moonless night - made by Nemo">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
