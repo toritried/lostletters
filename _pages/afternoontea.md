@@ -158,6 +158,21 @@ menu: webcore
         <a target="_blank" href="https://mossforestdollz.neocities.org">
             <img src="/graphics/teahouse/teacup/nemo-blackcoffee.gif" title="tastes like coffee as black as midnight on a moonless night - made by Nemo">
         </a>
+        <a target="_blank" href="https://ashtreelane.neocities.com/">
+            <img src="/graphics/teahouse/teacup/ashtreelane-teacup.png" title="tastes like blood and shards of broken ceramic - made by ciarán">
+        </a>
+        <a target="_blank" href="https://bechnokid.neocities.org/">
+            <img src="/graphics/teahouse/teacup/bechnokid-steak.png" title="tastes like a well-done steak! mmm...so tasty! - made by Bechno Kid">
+        </a>
+        <a target="_blank" href="https://cloudcover.neocities.org/">
+            <img src="/graphics/teahouse/teacup/frode-teacup.gif" title="tastes like a wet summer night - made by Frode">
+        </a>
+        <a target="_blank" href="https://antikrist.lol/">
+            <img src="/graphics/teahouse/teacup/orcateacup.gif" title="made by antikrist">
+        </a>
+        <a target="_blank" href="https://cloudcover.neocities.org/">
+            <img src="/graphics/teahouse/teacup/CloudcoverTeacup.png" title="tastes like iced coffee with mint and brown sugar - made by Cloudy">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
