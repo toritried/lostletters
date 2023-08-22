@@ -7,15 +7,10 @@
   font-family: "alagard";
   src: url("/fonts/alagard.woff") format("woff");
 }
-  
-@font-face {
-  font-family: 'pixel';
-  src: url('/fonts/04B_03__.TTF')  format('truetype');
-}
 
 @font-face {
-  font-family: "dogicapixel";
-  src: url("/fonts/dogicapixel.ttf") format("truetype");
+  font-family: "DIEDIEDIE";
+  src: url("/fonts/DIEDIEDIE.TTF") format("truetype");
 }
   
 body {
