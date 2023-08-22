@@ -1,28 +1,10 @@
 ---
 layout: space
-title: website resources
+title: make your own site
 emoji: 🎁
 permalink: /resources/
 menu: meta
 ---
-<h2>My Pixel Art & Sozai</h2>
-<img src="/graphics/adoptables/parfait.png">
-<img src="/graphics/adoptables/dancing-moomin-lostletters.png" title="Note: I do not claim ownership of Moomin, I just drew him because he's the best boy">
-<img src="/graphics/adoptables/flowers-pitcher.png">
-<img src="/graphics/adoptables/bow-pink-lostletters.png">
-<img src="/graphics/adoptables/bow-blush-lostletters.png">
-<img src="/graphics/adoptables/bow-gold-lostletters.png">
-<img src="/graphics/adoptables/bow-matcha-lostletters.png">
-<img src="/graphics/adoptables/bow-seafoam-lostletters.png">
-<img src="/graphics/adoptables/bow-purple-lostletters.png">
-<br>
-- These graphics are closed-source freeware for personal and non-commercial use only. 
-- Download and host these yourself. Do not hotlink.
-- Credit me with a visible link back to <a href="https://lostletters.neocities.org/">Lost Letters</a>.
-- **DO NOT** use for commercial purposes nor NFTs.
-- **DO NOT** edit, copy, or use in your art works, products, or services.
-<br>
-<br>
 <h2>Web Dev Resources</h2>
 This is a collection of resources that helped me create this site, which may help you with yours too! You can click through most graphics on my site to get to the original artists, and there's also attribution sporadically commented within my source code. If you ever have a question about where I got or learned something, feel free to ask in my <a href="/guestbook/">guestbook</a>.
 <br>

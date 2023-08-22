@@ -1,6 +1,6 @@
 ---
 layout: space
-title: afternoon tea
+title: afternoon tea pixel club
 emoji: 🍵
 permalink: /afternoontea/
 menu: webcore

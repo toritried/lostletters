@@ -1,6 +1,6 @@
 ---
 layout: space
-title: links 
+title: net neighbors & links 
 emoji: 🔗
 permalink: /links/
 menu: meta

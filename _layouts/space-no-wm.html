@@ -50,7 +50,7 @@
                         </button>
                     <div>
                         <div class="dropdown-content" id="dropdown-webcore">
-                            Fun: {% for page in site.pages %}
+                            {% for page in site.pages %}
                                 {% if page.menu == "webcore" %}
                                 <a href="{{ page.url }}">
                                     {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
@@ -58,8 +58,7 @@
                                 </a>
                                 {% endif %}
                             {% endfor %}
-                            <br>
-                            Meta: {% for page in site.pages %}
+                            {% for page in site.pages %}
                                 {% if page.menu == "meta" %}
                                 <a href="{{ page.url }}">
                                     {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
