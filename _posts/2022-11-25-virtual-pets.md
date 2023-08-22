@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "A Guide to Virtual Pixel Art Pet Sites"
+title:  "A Guide to Virtual Pixel Pet Sites"
 date:  2022-11-25 1:35
 tags:  [fun, virtual pets]  
 ---
@@ -132,5 +132,4 @@ There are many other virtual pet sites I've found going down this rabbit hole. T
 - [Paw Borough](https://www.pawborough.net/) - currently in development; collect felines of all different stripes, lineages, and colors, breed them  
 <br>
   
-If this was helpful or if you join/play any of these sites, please let me know in my guestbook. Don't forget to share links to your pets, so that I can give you clicks and views to help them grow too! 🥚🐣🐉💕  
-  
+If this was helpful or if you join/play any of these sites, please let me know in my guestbook. Don't forget to share links to your pets, so that I can give you clicks and views to help them grow too! 🥚🐣🐉💕
