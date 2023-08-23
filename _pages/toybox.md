@@ -5,7 +5,6 @@ emoji: 🧸
 permalink: /toybox/
 menu: webcore
 ---
-
 <style>
     .container {
         /* We first create a flex layout context */
@@ -233,6 +232,10 @@ menu: webcore
         [ Revival ] <a target="_blank" href="https://divergentrays.com/pocket">Pocket Town</a>
         <br>
         [ Revival ] <a target="_blank" href="https://keysklubhouse.com/teenytowers">Teeny Towers</a>
+        <br>
+        [ Revival ] <a target="_blank" href="https://blissnet.neocities.org/toybox/JJ">Jar Jams</a>
+        <br>
+        [ Revival ] <a target="_blank" href="https://blissnet.neocities.org/toybox/Nyanbo">Nyanbo Astume</a>
         <br>
         [ New Era ] <a target="_blank" href="https://charmbracelets.neocities.org/">Charm Bracelets</a>
         <br>
