@@ -67,32 +67,32 @@ I think there's something just so compelling about these cute characters, especi
         <details>
             <summary>
                 <b>1st generation: woopatchi, queer & iconic</b>
+                <center>
+                    <img src="/graphics/tama/niinitchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="niinitchi - baby">
+                    <img src="/graphics/tama/teftetchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="teftetchi - teen">
+                    <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - adult">
+                    <img src="/graphics/tama/harapparatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="harapparatchi - tamapet">
+                </center>
             </summary>
             <p>These are the various evolutions of my tama and tamapet from my first time running my Tamagotchi Uni. I was so eager to run this as the device had been recently released. I had just gotten back from a month in Europe, so I was extremely jet lagged and accidentally left my baby tama unattended for a while during a nap. She turned into a teftetchi, but I was still able to get a cutie adult tama from this evolution, so I consider the little neglect a happy accident. I love the final result of ✨woopatchi✨, my little pride mascot whose facial expression is a whole mood hehehe.</p>
         </details>
-        <center>
-            <img src="/graphics/tama/niinitchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="niinitchi - baby">
-            <img src="/graphics/tama/teftetchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="teftetchi - teen">
-            <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - adult">
-            <img src="/graphics/tama/harapparatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="harapparatchi - tamapet">
-        </center>
     </div>
     <div class="flex-item">
         <details>
             <summary>
                 <b>2nd generation: TBD</b>
+                <center>
+                    <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - proposed to skykutchi after the first date">
+                    <img src="/graphics/tama/shykutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="shykutchi - rando on the internet">
+                    <br>
+                    <img src="/graphics/tama/yooyutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="yooyutchi - baby">
+                    <img src="/graphics/tama/welcotchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="welcotchi - my little welsh corgi tama I'd do anything for">
+                    <img src="/graphics/tama/Monatototchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Monatototchi - a little taiyaki pet that showed up to play with welcotchi. cuteness overload">
+                    <img src="/graphics/tama/curltchi-on.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="curltchi - my little gamer tama">
+                </center>
             </summary>
-            <p>woopatchi couldn't resist that shykutchi. ;P They got busy immediately and made an egg, which hatched into yooyutchi. With some diligent care, he grew quickly into a shy little welcotchi, which has to be one of the cutest tamas in the whole game. I love welsh corgis so much, so I was overjoyed by getting this character who just constantly blushes and asks for cookies and jelly beans. Unfortunately, I won too many arcade games and influenced the growth tree to get curltchi, so my dreams of getting Mametchi were completely dashed; however, I'm still excited about possibly getting a Unimarutchi if I play my cards right.</p>
+            <p>Woopatchi couldn't resist that Shykutchi. ;P They got busy immediately and made an egg, which hatched into yooyutchi. With some diligent care, he grew quickly into a shy little welcotchi, which has to be one of the cutest tamas in the whole game. I love welsh corgis so much, so I was overjoyed by getting this character who just constantly blushes and asks for cookies and jelly beans. I love that he got to play with the taiyaki-shaped Monatototchi tama pet in the garden all day. Unfortunately, I won too many arcade games and influenced the growth tree to get curltchi, so my dreams of getting Mametchi were completely dashed; however, I'm still excited about possibly getting a Unimarutchi if I play my cards right.</p>
         </details>
-        <center>
-            <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - proposed to skykutchi after the first date">
-            <img src="/graphics/tama/shykutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="shykutchi - rando on the internet">
-            <br>
-            <img src="/graphics/tama/yooyutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="yooyutchi - baby">
-            <img src="/graphics/tama/welcotchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="welcotchi - my little welsh corgi tama I'd do anything for">
-            <img src="/graphics/tama/Monatototchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Monatototchi - a little taiyaki pet that showed up to play with welcotchi. cuteness overload">
-            <img src="/graphics/tama/curltchi-on.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="curltchi - my little gamer tama">
-        </center>
     </div>
 </div>
 <span id="tamagotchimeets" style="display: inline-block; margin: 10px 0 10px 0;">
@@ -108,13 +108,13 @@ I think there's something just so compelling about these cute characters, especi
         <details>
             <summary>
                 <b>1st generation: TBD</b>
+                <center>
+                    <img src="/graphics/tama/riboputchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Riboputchi - my little baby girl tama">
+                    <img src="/graphics/tama/yumehotchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Yumehotchi - pan pride child?! Can it get more perfect? No. I would crime for Yumehotchi!!!">
+                </center>
             </summary>
             <p>I was so excited to start my first run of my sanrio meets! As soon as my girlfriend brought home the batteries, I turned it on and started with the cutest pink egg. It hatched revealing a very sickly Riboputchi. Within that first hour, I must have medicated it twice, cleaned at least 7 poos, and fed it dozens of times. She takes after me! XD It was much more involved than the Tamagotchi Uni characters; however, it was entirely worth all the effort to max out hunger and happiness because it turned into Yumehotchi, which is a little ghosty girl with a star crown in the pan pride colors !!! I was so excited that I jumped up immediately to run over to my girlfriend and show her. This device was so worth it.</p>
         </details>
-    <center>
-        <img src="/graphics/tama/riboputchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Riboputchi - my little baby girl tama">
-        <img src="/graphics/tama/yumehotchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Yumehotchi - pan pride child?! Can it get more perfect? No. I would crime for Yumehotchi!!!">
-    </center>
     </div>
 </div>
 <span id="tamagotchiuni" style="display: inline-block; margin: 10px 0 10px 0;">
