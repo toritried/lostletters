@@ -173,6 +173,9 @@ menu: webcore
         <a target="_blank" href="https://cloudcover.neocities.org/">
             <img src="/graphics/teahouse/teacup/CloudcoverTeacup.png" title="tastes like iced coffee with mint and brown sugar - made by Cloudy">
         </a>
+        <a target="_blank" href="https://blissnet.neocities.org/">
+            <img src="/graphics/teahouse/teacup/ash-tea.png" title="Taste like tora and flan pudding.. - made by Ash">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">

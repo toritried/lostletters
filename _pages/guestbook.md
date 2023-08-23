@@ -56,7 +56,23 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry tea">
         <div class="gb-container">
-            <div class="gb-meta">#90 | August 10, 2023, 23:39 | <a target="_blank" href="https://cloudcover.neocities.org/">Cloudy</a></div>
+            <div class="gb-meta">#92 | August 23, 2023, 00:21 | <a target="_blank" href="https://blissnet.neocities.org/">Ash</a></div>
+            <div class="gb-message">
+                I made a tea cup for your collection : https://i.imgur.com/cpbeItA.png, Hope you enjoy! You've been doing awesome work in terms of reviving the pixel art trading scene, keep vibin and thrivin
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#92 | August 23, 2023, 00:21 | <a target="_blank" href="https://jasm1nii.xyz/">jasmine</a></div>
+            <div class="gb-message">
+                love your site, especially the toybox page! 💜
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#91 | August 10, 2023, 23:39 | <a target="_blank" href="https://cloudcover.neocities.org/">Cloudy</a></div>
             <div class="gb-message">
                 Hi! I've made a lil teacup- thank you for sharing this super cute idea!
                 <br>
@@ -68,7 +84,7 @@ menu: site
     </div>
     <div class="gb-entry tea">
         <div class="gb-container">
-            <div class="gb-meta">#89 | August 10, 2023, 04:11 | <a target="_blank" href="https://antikrist.lol/">antikrist</a></div>
+            <div class="gb-meta">#90 | August 10, 2023, 04:11 | <a target="_blank" href="https://antikrist.lol/">antikrist</a></div>
             <div class="gb-message">
                 Absolutely love this clique. Here is my teacup! I'll be making more too!! https://antikrist.lol/images/afternoontea/orcateacup.gif
                 <br>
@@ -78,7 +94,7 @@ menu: site
     </div>
     <div class="gb-entry tea">
         <div class="gb-container">
-            <div class="gb-meta">#88 | August 10, 2023, 01:24 | <a target="_blank" href="https://hellofrode.neocities.org/">Frode</a></div>
+            <div class="gb-meta">#89 | August 10, 2023, 01:24 | <a target="_blank" href="https://hellofrode.neocities.org/">Frode</a></div>
             <div class="gb-message">
                 Hello! I love your site, the vibes are amazing!
                 <br>
@@ -90,7 +106,7 @@ menu: site
     </div>
     <div class="gb-entry love">
         <div class="gb-container">
-            <div class="gb-meta">#87 | August 7, 2023, 23:26 | <a target="_blank" href="https://bloopywoopy.neocities.org/">Bloop</a></div>
+            <div class="gb-meta">#88 | August 7, 2023, 23:26 | <a target="_blank" href="https://bloopywoopy.neocities.org/">Bloop</a></div>
             <div class="gb-message">
                 Your website is so cool!! I found it while looking for virtual pet sites to try out, someone linked your guide on a forum and it was super helpful! thank you :D
             </div>
@@ -98,7 +114,7 @@ menu: site
     </div>
     <div class="gb-entry love">
         <div class="gb-container">
-            <div class="gb-meta">#86 | August 2, 2023, 19:30 | NoIdeaHowIGotHere</div>
+            <div class="gb-meta">#87 | August 2, 2023, 19:30 | NoIdeaHowIGotHere</div>
             <div class="gb-message">
                 Hello from Kathmandu, Nepal!
             </div>
@@ -106,11 +122,19 @@ menu: site
     </div>
     <div class="gb-entry tea">
         <div class="gb-container">
-            <div class="gb-meta">#85 | August 2, 2023, 11:44 | <a target="_blank" href="https://bechnokid.neocities.org">Bechno Kid</a></div>
+            <div class="gb-meta">#86 | August 2, 2023, 11:44 | <a target="_blank" href="https://bechnokid.neocities.org">Bechno Kid</a></div>
             <div class="gb-message">
                 Hello! I hope you're having a good day. I made a tea cup: https://bechnokid.neocities.org/images/cliques/tea_steak.png
                 <br>
                 "tastes like a well-done steak! mmm...so tasty! - made by Bechno Kid"
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#85 | June 30, 2023, 06:34am | <a target="_blank" href="http://sweetcharm.net/">Clover</a></div>
+            <div class="gb-message">
+                I saw your beautiful unicorn banner and I had to click ;o; so cute! Check my site out if you get some time, I've been working on it this summer.
             </div>
         </div>
     </div>
