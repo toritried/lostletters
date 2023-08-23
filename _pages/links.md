@@ -8,7 +8,10 @@ menu: meta
 <details>
     <summary>
         Net Neighbors / Affiliates
-        <div class="imgwall" style="margin-top: 5px;"> 
+        <div class="imgwall" style="margin-top: 5px;">
+            <a target="_blank" href="https://pastelhello.com/">
+                <img src="/graphics/linkout/pastelhell.gif" title="Pastel Hell and I are full of the same early web pixel site nostalgia. Robyn's lovingly curated Neopets resources, pixel clique memberships, and original pixel art are a true delight." align="left">
+            </a>
             <a target="_blank" href="https://tinydiorama.neocities.org/">
                 <img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="tiny diorama's original games, pretty phone backgrounds, and hilarious let's build a zoo shrine are super neat!">
             </a>
@@ -60,6 +63,15 @@ menu: meta
             <a target="_blank" href="https://onio.cafe/" title="Onio Café - a truly delightful personal site with a focus on community chat. Don't miss Onio's interesting and well-written thought posts!">
                 <img src="/graphics/linkout/oniocafe.gif">
             </a>
+            <a target="_blank" href="https://darnielle.me/" title="darnielle.me">
+                <img src="/graphics/linkout/darnielle.gif">
+            </a>
+            <a target="_blank" href="https://bloopywoopy.neocities.org/" title="bloopywoopy">
+                <img src="/graphics/linkout/bloopywoopy-button.gif">
+            </a>
+            <a target="_blank" href="https://ashtreelane.neocities.org/" title="ash tree lane">
+                <img src="/graphics/linkout/ashtreelane.gif">
+            </a>
         </div>
     </summary>
     <center>
@@ -97,11 +109,7 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
 <br>
 <a target="_blank" href="https://palemomos.neocities.org/">
     <img src="/graphics/linkout/palemomos.gif" title="Palemomos" align="left" style="margin: 10px 10px 0 0;">
-    Palemomos</a> is a true visual delight for pixel and anime lovers. My favorite part that literally made me gasp in amazement the first time I saw it was Pale's Yu-Gi-Oh! shrine. The cursor hover effects were out of this world good.  
-<br>
-<a target="_blank" href="https://pastelhello.com/">
-    <img src="/graphics/linkout/pastelhell.gif" title="Pastel Hell" align="left" style="margin: 10px 10px 0 0;">
-    Pastel Hell</a> and I are full of the same early web pixel site nostalgia. Robyn's lovingly curated Neopets resources, pixel clique memberships, and original pixel art are a true delight.  
+    Palemomos</a> is a true visual delight for pixel and anime lovers. My favorite part that literally made me gasp in amazement the first time I saw it was Pale's Yu-Gi-Oh! shrine. The cursor hover effects were out of this world good.
 <br>
 <a target="_blank" href="https://maya.land/">
     <img src="/graphics/linkout/mayaland.png" title="maya.land" align="left" style="margin: 10px 10px 0 0;">
