@@ -5,6 +5,43 @@ emoji: 🐣
 permalink: /tamagotchi/
 menu: webcore
 ---
+<style>
+    .container {
+        /* We first create a flex layout context */
+        display: flex;
+
+        /* Then we define the flow direction 
+            and if we allow the items to wrap 
+        * Remember this is the same as:
+        * flex-direction: row;
+        * flex-wrap: wrap;
+        */
+        flex-flow: row wrap;
+
+        /* Then we define how is distributed the remaining space */
+        align-content: flex-start;
+        align-items: stretch;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .flex-item {
+        width: 42%;  /* Or whatever */
+        flex-grow: 1;
+        border: 1px solid #fa77d8;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0px 0px 10px 2px #fa77d8;
+        font-family: verdana, Arial;
+        font-size: 14px;
+        line-height: 1.6em;
+    }
+
+    h2 {
+        font-family: 'alagard', Arial;
+        color: aqua;
+    }
+</style>
 <center>
 <h1 style="font-family: 'DIEDIEDIE', Arial, sans-serif; font-size: 3.3em; background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">TAmaGotchi</h1>
 </center>
@@ -22,35 +59,64 @@ I think there's something just so compelling about these cute characters, especi
     <b>ﾟ･✧∘ tamagotchi uni ∘✧･ﾟ</b>
     <br>
     I really didn't think I was going to get into tamagotchi as an adult because I remember the game part of the device was pretty dull when I was a kid. The brand has come a long way since the original generation of tamas, and now growing different characters is so fun! I also love to collect the decor and accessories to dress up my tama and their room. Like many other tamagotchi fans, I am hoping they release a different shell for this tamagotchi, ideally a transparent one. 
-    <br>
-    <center>
-        <img src="/graphics/tama/niinitchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="niinitchi - baby">
-        <img src="/graphics/tama/teftetchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="teftetchi - teen">
-        <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - adult">
-        <img src="/graphics/tama/harapparatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="harapparatchi - tamapet">
-    </center>
-    These are the various evolutions of my tama and tamapet from my first time running my Tamagotchi Uni. I was so eager to run this as the device had been recently released. I had just gotten back from a month in Europe, so I was extremely jet lagged and accidentally left my baby tama unattended for a while during a nap. She turned into a teftetchi, but I was still able to get a cutie adult tama from this evolution, so I consider the little neglect a happy accident. I love the final result of ✨woopatchi✨, my little pride mascot whose facial expression is a whole mood hehehe.
-    <center>
-        <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - proposed to skykutchi after the first date">
-        <img src="/graphics/tama/shykutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="shykutchi - rando on the internet">
-        <img src="/graphics/tama/yooyutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="yooyutchi - baby">
-        <img src="/graphics/tama/welcotchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="welcotchi - my little welsh corgi tama I'd do anything for">
-    </center>
-    August 22 was an eventful day, starting with love at first date and a proposal to shykutchi by woopatchi. They got busy immediately and made an egg, which hatched into yooyutchi. With some diligent care, he grew quickly into a shy little welcotchi, which has to be one of the cutest tamas in the whole game. I love welsh corgis so much, so I was overjoyed by getting this character who just constantly blushes and asks for cookies and jelly beans.
 </span>
 <br>
 <br>
-<hr>
-<span id="tamagotchiuni" style="display: inline-block; margin: 10px 0 10px 0;">
+<div class="container" style="image-rendering: pixelated;">
+    <div class="flex-item">
+        <details>
+            <summary>
+                <b>1st generation: woopatchi, queer & iconic</b>
+            </summary>
+            <p>These are the various evolutions of my tama and tamapet from my first time running my Tamagotchi Uni. I was so eager to run this as the device had been recently released. I had just gotten back from a month in Europe, so I was extremely jet lagged and accidentally left my baby tama unattended for a while during a nap. She turned into a teftetchi, but I was still able to get a cutie adult tama from this evolution, so I consider the little neglect a happy accident. I love the final result of ✨woopatchi✨, my little pride mascot whose facial expression is a whole mood hehehe.</p>
+        </details>
+        <center>
+            <img src="/graphics/tama/niinitchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="niinitchi - baby">
+            <img src="/graphics/tama/teftetchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="teftetchi - teen">
+            <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - adult">
+            <img src="/graphics/tama/harapparatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="harapparatchi - tamapet">
+        </center>
+    </div>
+    <div class="flex-item">
+        <details>
+            <summary>
+                <b>2nd generation: TBD</b>
+            </summary>
+            <p>woopatchi couldn't resist that shykutchi. ;P They got busy immediately and made an egg, which hatched into yooyutchi. With some diligent care, he grew quickly into a shy little welcotchi, which has to be one of the cutest tamas in the whole game. I love welsh corgis so much, so I was overjoyed by getting this character who just constantly blushes and asks for cookies and jelly beans. Unfortunately, I won too many arcade games and influenced the growth tree to get curltchi, so my dreams of getting Mametchi were completely dashed; however, I'm still excited about possibly getting a Unimarutchi if I play my cards right.</p>
+        </details>
+        <center>
+            <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - proposed to skykutchi after the first date">
+            <img src="/graphics/tama/shykutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="shykutchi - rando on the internet">
+            <br>
+            <img src="/graphics/tama/yooyutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="yooyutchi - baby">
+            <img src="/graphics/tama/welcotchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="welcotchi - my little welsh corgi tama I'd do anything for">
+            <img src="/graphics/tama/Monatototchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Monatototchi - a little taiyaki pet that showed up to play with welcotchi. cuteness overload">
+            <img src="/graphics/tama/curltchi-on.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="curltchi - my little gamer tama">
+        </center>
+    </div>
+</div>
+<span id="tamagotchimeets" style="display: inline-block; margin: 10px 0 10px 0;">
     <img src="/graphics/tama/meets_sanrio.png" style="margin: 55px 0 5px 20px;" width="30%" align="right" title="Tamagotchi Meets x Sanrio Pink - Purchased on August 21, 2023 for ¥25,400 (equivalent to $174.72 USD)">
     <br>
     <b>ﾟ･✧∘ tamagotchi meets sanrio ∘✧･ﾟ</b>
     <br>
-    This was a semi-impulsive purchase, but I'm so glad I found a decent price on a resale site because I was told anything under $200 USD is a good price for this version. I haven't actually run this tama yet because it's currently being shipped to me. I really wanted to get this tamagotchi because you can grow a sanrio character, then marry other tamagotchi original characters. The children will inherit hybrid physical traits from their sanrio and tamagotchi parents, and the number of different types of possible tamas for this generation of tamagotchi is truly astounding, especially when you consider just <a target="_blank" href="https://tamaplanet.com/charts/tamagotchi-meets-version-chart">the sheer number of base characters</a>. I really want to get a sweets version of the tamagotchi meets as well because the sweets and sanrio hybrid characters would be amazing!
+    This was a semi-impulsive purchase, but I'm so glad I found a decent price on a resale site because I was told anything under $200 USD is a good price for this version. I really wanted to get this tamagotchi because you can grow a sanrio character, then marry other tamagotchi original characters. The children will inherit hybrid physical traits from their sanrio and tamagotchi parents, and the number of different types of possible tamas for this generation of tamagotchi is truly astounding, especially when you consider just <a target="_blank" href="https://tamaplanet.com/charts/tamagotchi-meets-version-chart">the sheer number of base characters</a>. I really want to get a sweets version of the tamagotchi meets as well because the sweets and sanrio hybrid characters would be amazing!
+    <br>
 </span>
-<br>
-<br>
-<hr>
+<div class="container" style="image-rendering: pixelated;">
+    <div class="flex-item">
+        <details>
+            <summary>
+                <b>1st generation: TBD</b>
+            </summary>
+            <p>I was so excited to start my first run of my sanrio meets! As soon as my girlfriend brought home the batteries, I turned it on and started with the cutest pink egg. It hatched revealing a very sickly Riboputchi. Within that first hour, I must have medicated it twice, cleaned at least 7 poos, and fed it dozens of times. She takes after me! XD It was much more involved than the Tamagotchi Uni characters; however, it was entirely worth all the effort to max out hunger and happiness because it turned into Yumehotchi, which is a little ghosty girl with a star crown in the pan pride colors !!! I was so excited that I jumped up immediately to run over to my girlfriend and show her. This device was so worth it.</p>
+        </details>
+    <center>
+        <img src="/graphics/tama/riboputchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Riboputchi - my little baby girl tama">
+        <img src="/graphics/tama/yumehotchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Yumehotchi - pan pride child?! Can it get more perfect? No. I would crime for Yumehotchi!!!">
+    </center>
+    </div>
+</div>
 <span id="tamagotchiuni" style="display: inline-block; margin: 10px 0 10px 0;">
     <center>
         <b>ﾟ･✧∘ gifted tamas ∘✧･ﾟ</b>
@@ -60,7 +126,7 @@ I think there's something just so compelling about these cute characters, especi
         <img src="/graphics/tama/pix-party-pink.png" style="margin: 5px;" width="30%" title="Tamagotchi Pix Party Pink">
     </center>
     <br>
-    These are tamas I haven't played with yet because my friend is giving them to me this week, but I'm so excited to run my sanrio meets with this magical meets (the purple one) to create hybrid characters. I really wonder how many I can run concurrently without becoming overwhelmed. The middle tama is a tamagotchi P's (pronounced like piece in Japanese), which has a removable heart charm / piece that can be swapped with other charms for basically DLC content and characters. One of the more expensive pieces is the disney piece because it was the only collab tamagotchi has done with Disney. The tamagotchi on the right is a pink Pix Party, and it actually comes with a build-in camera! I'm going to have to take at least one photo and post it in this shrine regardless of how much it drains the battery.
+    These are tamas I haven't played with yet because my friend is giving them to me this week, but I'm so excited to run my sanrio meets with this magical meets (the purple one) to create hybrid characters. I really wonder how many I can run concurrently without becoming overwhelmed. The middle tama is a tamagotchi P's (pronounced like "piece" in Japanese), which has a removable heart charm piece that can be swapped with other charms for DLC items and characters. One of the more expensive pieces is the disney piece because it was the only collab tamagotchi has done with Disney. The tamagotchi on the right is a pink Pix Party, and it actually comes with a build-in camera! I'm going to have to take at least one photo and post it in this shrine regardless of how much it drains the battery.
 </span>
 <br>
 <br>
