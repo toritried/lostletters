@@ -1,6 +1,6 @@
 ---
 layout: space
-title: my origin story
+title: my tabletop origin story
 emoji: 🧝🏻‍♀️
 permalink: /origins/
 menu: ttrpg
