@@ -1,12 +1,12 @@
 ---
 layout: space
-title: my slow story
+title: life in the back of the pack
 emoji: 🏆
 permalink: /running-history/
 menu: running
 ---
-<h2>History of a Slow Runner</h2>
-Recently, running has become my preferred, meditative form of stress relief that also gives me a sense of accomplishment. I've run on and off for more than a decade, but I've only started enjoying and studying it recently.
+<h2>I'm a Very Slow Runner</h2>
+Running is one of my preferred, meditative form of stress relief that also gives me a sense of accomplishment. I've run on and off for more than a decade, but I've only started enjoying and studying it as an adult.
 <br>
 <br>
 <b>High School | 5k PR: 26:28, 8:32/mi</b> - I only signed up for cross country because my best friend already had. We were so slow that we gave ourselves the nickname of "team caboose" because we always came in last on our team. Monday through Friday, we would force ourselves to attend practice, dreading whatever fresh torture our coach chose for the day.
