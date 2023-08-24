@@ -1,12 +1,12 @@
 ---
 layout: space
-title: free motivation
-emoji: 😤
-permalink: /run-motivation/
+title: run more easily
+emoji: 🥵
+permalink: /run-more-easily/
 menu: running
 ---
-<h2>Free Running Motivation</h2>
-One of the hardest parts of running consistently is motivation. I've been running consistently for all of 2023 so far, completing a 5km run at least once a month in addition to an 11-week training program. Here are a few keys to my consistency that are completely free and may help you:
+<h2>Run More Easily</h2>
+During my consistent running periods (when I'm not sick/injured), these are a few keys to my consistency that are completely free and may help you:
 <ul>
     <li><b>Gratitude reflection after every run</b> - This is easiest when I'm in a good mood after running. I like to override my typical negative self-talk with some gratitude towards my body for allowing me the opportunity to run regardless of distance and pace. This helps me remember how good I feel after running.</li>
     <li><b>I don't stress or judge if I have to reschedule a run</b>, which allows me to fit it into my life when I'm more prepared and in a better mindset instead of avoiding the run due to dread.</li>
