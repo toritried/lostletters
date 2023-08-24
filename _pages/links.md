@@ -72,6 +72,9 @@ menu: meta
             <a target="_blank" href="https://ashtreelane.neocities.org/" title="ash tree lane">
                 <img src="/graphics/linkout/ashtreelane.gif">
             </a>
+            <a target="_blank" href="https://doqmeat.neocities.org/" title="doqmeat">
+                <img src="/graphics/linkout/doqmeat.png">
+            </a>
         </div>
     </summary>
     <center>
