@@ -75,6 +75,9 @@ menu: meta
             <a target="_blank" href="https://doqmeat.neocities.org/" title="doqmeat">
                 <img src="/graphics/linkout/doqmeat.png">
             </a>
+            <a target="_blank" href="https://jasm1nii.neocities.org/" title="jasmine's journal">
+                <img src="/graphics/linkout/jasmines-journal-button.png">
+            </a>
         </div>
     </summary>
     <center>
