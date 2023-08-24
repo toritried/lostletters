@@ -26,29 +26,21 @@ Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
 <div class="index-links"><!-- Button Wall -->
   <div>
     <div class="imgwall">
-        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
-        <img src="/graphics/toy/tags/transrights.png">
+        <img src="/graphics/toy/tags/transrights.png" title="trans rights!">
+        <a target="_blank" href="/pride/">
+            <img src="/graphics/toy/tags/lgbt_pan.png" title="pansexual af">
         </a>
-        <a target="_blank" href="https://pixels.heylouise.space/">
-        <img src="/graphics/toy/tags/lgbt_pan.png">
+        <img src="/graphics/toy/tags/pride2.gif" title="queer af">
+        <img src="/graphics/toy/tags/union-member.png" title="Union Strong!">
+        <img src="/graphics/toy/tags/veganalways.png" title="I'm just doing the best I can in Japan where it's horrible for vegans 🙃">
+        <a target="_blank" href="/origins/">
+            <img src="/graphics/toy/tags/alignment_chaotic_good.png" title="click for my chaotic good origin story">
         </a>
-        <a target="_blank" href="https://web.badges.world/">
-        <img src="/graphics/toy/tags/pride2.gif">
+        <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">
+            <img src="/graphics/toy/tags/neopets.png" title="neopets badge from web.badges.world">
         </a>
-        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
-        <img src="/graphics/toy/tags/union-member.png">
-        </a>
-        <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">
-        <img src="/graphics/toy/tags/veganalways.png">
-        </a>
-        <a target="_blank" href="https://pixels.heylouise.space/">
-        <img src="/graphics/toy/tags/alignment_chaotic_good.png">
-        </a>
-        <a target="_blank" href="https://web.badges.world/">
-        <img src="/graphics/toy/tags/neopets.png">
-        </a>
-        <a target="_blank" href="https://web.badges.world/">
-        <img src="/graphics/toy/tags/tama.png">
+        <a target="_blank" href="/tamagotchi/">
+            <img src="/graphics/toy/tags/tama.png" title="wanna see my collection?">
         </a>
     </div>
     <div class="imgwall">
