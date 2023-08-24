@@ -142,7 +142,7 @@ I think there's something just so compelling about these cute characters, especi
                     <img src="/graphics/tama/Chiroritchi_meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Chiroritchi - a little happy bell">
                 </center>
             </summary>
-            <p>I started up my magical meets as soon as I could because I can't wait to mix genetics with the character of my sanrio meets! We're off to a good start, making no care mistakes with my baby, so she evolved into Chiroritchi. I am really loving how much the tamas bounce around, come closer and go further from the screen, and generally behave in a much more expressive manner. It makes the game feel more fun than the Uni, but I do struggle with the Japanese vocab, which is embarrassing because this is a toy for 3 year olds, so that really gives you a clue as to how poor my Japanese is.</p>
+            <p>I started up my magical meets as soon as I could because I couldn't wait to mix genetics with the character of my sanrio meets! We're off to a good start, making no care mistakes with my baby, so she evolved into Chiroritchi. I am really loving how much the tamas bounce around, come closer and go further from the screen, and generally behave in a much more expressive manner on this device. It makes the game feel more fun than the Uni, but I do struggle with the Japanese vocab, which is embarrassing because this is a toy for 3 year olds, so that really gives you a clue as to how poor my Japanese is.</p>
         </details>
     </div>
 </div>
