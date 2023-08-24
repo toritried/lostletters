@@ -1,8 +1,8 @@
 ---
 layout: space
-title: gear
+title: running gear
 emoji: 👟
-permalink: /run-gear/
+permalink: /running-gear/
 menu: running
 ---
 <h2>My Running Gear</h2>
