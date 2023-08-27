@@ -78,6 +78,9 @@ menu: meta
             <a target="_blank" href="https://jasm1nii.neocities.org/" title="jasmine's journal">
                 <img src="/graphics/linkout/jasmines-journal-button.png">
             </a>
+            <a target="_blank" href="https://sakana.neocities.org/" title="sakana">
+                <img src="/graphics/linkout/sakana.png">
+            </a>
         </div>
     </summary>
     <center>
