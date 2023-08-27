@@ -8,7 +8,6 @@ After ~70 hours, I've finished knitting the <a target="_blank" href="https://www
 <br>
 <br>
 <center>
-    
     <img src="/graphics/blog/faye-summer-top-irene-lin.png" title="a slim person holding a rattan bag with flowers, wearing a dusty pink loose fitting knitted blouse that features soft ruffle sleeves and lots of intricate cables and baubles.">
     <br>
     © Irene Lin
