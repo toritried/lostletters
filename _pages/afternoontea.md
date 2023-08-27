@@ -194,7 +194,7 @@ menu: webcore
         Create a pixel teacup with a transparent background to show off your style. Animations are welcome! 
     </li>
     <li>
-        Share a link to your pixel teacup + your URL in my <a href="/guestbook/">guestbook</a>, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text. 
+        Post a message on my <a target="_blank" href="https://neocities.org/site/lostletters">Neocities Profile</a> or in my <a href="/guestbook/">guestbook</a> with a link to your pixel teacup + your URL, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text. 
         <img src="/graphics/toy/emoticons/letter-bear.gif"> 
     </li>
     <li>
