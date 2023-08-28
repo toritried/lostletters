@@ -192,6 +192,11 @@ For a free vpet, consider getting a tamaNOTchi (below) or check out my <a href="
         </a>
     </li>
     <li>
+        <a target="_blank" href="https://lu.tiny-universes.net/tamagotchi.html">
+            Beck's collection and shrine
+        </a>
+    </li>
+    <li>
         <a target="_blank" href="https://juriettoo.neocities.org/">
             juliette's collection of tamas and one digimon vpets
         </a>
