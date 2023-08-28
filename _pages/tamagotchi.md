@@ -67,114 +67,63 @@ I think there's something just so compelling about these cute characters, especi
     </center>
     <br>
     <img src="/graphics/tama/uni_pink.png" style="margin: 0 20px 0 0;" width="30%" align="left" title="Tamagotchi Uni Pink- Purchased on August 17, 2023 for ￥7,174 (equivalent to $49.50 USD)">
-    I really didn't think I was going to get into tamagotchi as an adult because I remember the game part of the device was pretty dull when I was a kid. The brand has come a long way since the original generation of tamas, and now growing different characters is so fun! I also love to collect the decor and accessories to dress up my tama and their room. Like many other tamagotchi fans, I am hoping they release a different shell for this tamagotchi, ideally a transparent one. 
+    I really didn't think I was going to get into tamagotchi as an adult because I remember the game part of the device was pretty dull when I was a kid. The brand has come a long way since the original generation of tamas, and now growing different characters is so fun! I also love to collect the decor and accessories to dress up my tama and their room. Like many other tamagotchi fans, I am hoping they release a different shell for this tamagotchi, ideally a transparent one, but I'm having a great time playing with the one I have in the meantime. Here are all the characters I've grown and unlocked so far:
+    <br>
+    <br>
+    <center>
+        <img src="/graphics/tama/niinitchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="niinitchi - baby">
+        <img src="/graphics/tama/yooyutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="yooyutchi - baby">
+        <img src="/graphics/tama/Lionetchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="lionetchi - child">
+        <img src="/graphics/tama/welcotchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="welcotchi - my little welsh corgi tama I'd do anything for">
+        <img src="/graphics/tama/teftetchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="teftetchi - teen">
+        <img src="/graphics/tama/curltchi-on.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="curltchi - my little gamer tama">
+        <img src="/graphics/tama/gunchitchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="gunchitchi">
+        <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 0;" title="woopatchi - adult">
+        <img src="/graphics/tama/Kikitchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Kikitchi - monkey tama!">
+        <img src="/graphics/tama/neliatchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="neliatchi">
+        <img src="/graphics/tama/harapparatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="harapparatchi - tamapet">
+        <img src="/graphics/tama/Monatototchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Monatototchi - a little taiyaki pet that showed up to play with welcotchi. cuteness overload">
+    </center>
 </span>
 <br>
-<br>
-<div class="container" style="image-rendering: pixelated; margin: 0 0 10px 0;">
-    <div class="flex-item">
-        <span title="These are the various evolutions of my tama and tamapet from my first time running my Tamagotchi Uni. I was so eager to run this as the device had been recently released. I had just gotten back from a month in Europe, so I was extremely jet lagged and accidentally left my child tama unattended for a while during a nap. She turned into a teftetchi, but I was still able to get a cutie adult tama from this evolution, so I consider the little neglect a happy accident. I love the final result of ✨woopatchi✨, my little pride mascot whose facial expression is a whole mood hehehe."><b>1st generation: woopatchi, queer & iconic</b></span>
-        <br>
-        <br>
-        <center>
-            <img src="/graphics/tama/niinitchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="niinitchi - baby">
-            <img src="/graphics/tama/Lionetchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="lionetchi - child">
-            <img src="/graphics/tama/teftetchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="teftetchi - teen">
-            <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - adult">
-            <img src="/graphics/tama/harapparatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="harapparatchi - tamapet">
-        </center>
-    </div>
-    <div class="flex-item">
-        <span title="Woopatchi couldn't resist that Shykutchi. ;P They got busy immediately and made an egg, which hatched into yooyutchi. With some diligent care, he grew quickly into a shy little welcotchi, which has to be one of the cutest tamas in the whole game. I love welsh corgis so much, so I was overjoyed by getting this character who just constantly blushes and asks for cookies and jelly beans. I love that he got to play with the taiyaki-shaped Monatototchi tama pet in the garden all day. Unfortunately, I won too many arcade games and influenced the growth tree to get curltchi, so my dreams of getting Mametchi were completely dashed. Since I had to grind for money, I ended up forcing the evolution towards Kikitchi, our little monkey prince. I didn't love this character design, so as soon as he evolved, I married him off.">
-            <b>2nd generation: Kikitchi, gamer boy</b>
-        </span>
-        <br>
-        <br>
-        <center>
-            <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="woopatchi - proposed to skykutchi after the first date">
-            <img src="/graphics/tama/shykutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="shykutchi - rando on the internet">
-            <br>
-            <img src="/graphics/tama/yooyutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="yooyutchi - baby">
-            <img src="/graphics/tama/welcotchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="welcotchi - my little welsh corgi tama I'd do anything for">
-            <img src="/graphics/tama/Monatototchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Monatototchi - a little taiyaki pet that showed up to play with welcotchi. cuteness overload">
-            <img src="/graphics/tama/curltchi-on.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="curltchi - my little gamer tama">
-            <img src="/graphics/tama/Kikitchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Kikitchi - monkey tama!">
-        </center>
-    </div>
-    <div class="flex-item">
-        <span title="When my monkey met milktchi, I got another girl!">
-            <b>3rd generation: TBD</b>
-        </span>
-        <br>
-        <br>
-        <center>
-            <img src="/graphics/tama/Kikitchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Kikitchi - monkey tama!">
-            <img src="/graphics/tama/Milktchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Milktchi - mommy">
-            <br>
-            <img src="/graphics/tama/niinitchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="niinitchi - baby">
-            <img src="/graphics/tama/Lionetchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="lionetchi - child">
-        </center>
-    </div>
-</div>
-<center>
-    <span style="font-size: .8em;">
-        <b>tip: </b> 
-        hover over the generation titles and the characters to read more!
-    </span>
-</center>
 <span id="tamagotchimeets" style="display: inline-block; margin: 10px 0 10px 0;">
     <center>
         <b>ﾟ･✧∘ tamagotchi meets sanrio ∘✧･ﾟ</b>
     </center>
     <br>
     <img src="/graphics/tama/meets_sanrio.png" style="margin: 55px 0 5px 20px;" width="30%" align="right" title="Tamagotchi Meets x Sanrio Pink - Purchased on August 21, 2023 for ¥25,400 (equivalent to $174.72 USD)">
-    This was a semi-impulsive purchase, but I'm so glad I found a decent price on a resale site because I was told anything under $200 USD is a good price for this version. I really wanted to get this tamagotchi because you can grow a sanrio character, then marry other tamagotchi original characters. The children will inherit hybrid physical traits from their sanrio and tamagotchi parents, and the number of different types of possible tamas for this generation of tamagotchi is truly astounding, especially when you consider just <a target="_blank" href="https://tamaplanet.com/charts/tamagotchi-meets-version-chart">the sheer number of base characters</a>. I really want to get a sweets version of the tamagotchi meets as well because the sweets and sanrio hybrid characters would be amazing!
+    This was a semi-impulsive purchase, but I'm so glad I found a decent price on mercari because I was told anything under $200 USD is a good price for this version. I really wanted to get this tamagotchi because you can grow a sanrio character, then marry other tamagotchi original characters. The children will inherit hybrid physical traits from their sanrio and tamagotchi parents, and the number of different types of possible tamas for this generation of tamagotchi is truly astounding, especially when you consider just <a target="_blank" href="https://tamaplanet.com/charts/tamagotchi-meets-version-chart">the sheer number of base characters</a>. I really want to get a sweets version of the tamagotchi meets as well because the sweets and sanrio hybrid characters would be amazing!
+    <br>
+    <br>
+    <center>
+        <img src="/graphics/tama/riboputchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Riboputchi - my little baby girl tama">
+        <img src="/graphics/tama/yumehotchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Yumehotchi - pan pride child?! Can it get more perfect? No. I would crime for Yumehotchi!!!">
+        <img src="/graphics/tama/hanbunkotchi_female_meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="hanbunkotchi - an angel in a devil child's playsuit">
+        <img src="/graphics/tama/Lovelitchi_meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Lovelitchi - a sweet bunny tama">
+    </center>
+    <br>
+    I will never forget my first time playing this game nor the tamagotchi I raised. A little sickly Riboputchi hatched, and, within that first hour, I must have medicated it twice, cleaned at least 7 poos, and fed it dozens of times. She takes after me I thought to myself as I mashed away at the buttons. It was much more needy than the tamagotchi uni characters in the baby stage; however, it was entirely worth all the effort to max out hunger and happiness because it turned into Yumehotchi, which is a little ghosty girl with a star crown in the pan pride colors !!! I was so excited that I jumped up immediately and ran over to my girlfriend to show her. The next day, we got Hanbunkotchi, which is quite a cute little split-colored tama followed by her final form: Lovelitchi, a sweet little bunny tama that likes to run around the room, smiling. From this generation onwards, the genetic mixing means there isn't really pixel art of all the variations, so I'll just preserve this first generation in pixel art unless I get extremely inspired to make my own.
 </span>
 <br>
 <br>
-<div class="container" style="image-rendering: pixelated;">
-    <div class="flex-item">
-        <span title="I was so excited to start my first run of my sanrio meets! As soon as my girlfriend brought home the batteries, I turned it on and started with the cutest pink egg. It hatched revealing a very sickly Riboputchi. Within that first hour, I must have medicated it twice, cleaned at least 7 poos, and fed it dozens of times. She takes after me! XD It was much more involved than the Tamagotchi Uni characters; however, it was entirely worth all the effort to max out hunger and happiness because it turned into Yumehotchi, which is a little ghosty girl with a star crown in the pan pride colors !!! I was so excited that I jumped up immediately to run over to my girlfriend and show her. This device was so worth it. The next day, we got hanbunkotchi, which is quite a cute little split-colored tama followed by her final form: Lovelitchi, a sweet little bunny tama that likes to run around the room, smiling.">
-            <b>1st generation: Lovelitchi, a bunny born of perfect care!</b>
-        </span>
-        <br>
-        <center>
-            <img src="/graphics/tama/riboputchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Riboputchi - my little baby girl tama">
-            <img src="/graphics/tama/yumehotchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Yumehotchi - pan pride child?! Can it get more perfect? No. I would crime for Yumehotchi!!!">
-            <img src="/graphics/tama/hanbunkotchi_female_meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="hanbunkotchi - an angel in a devil child's playsuit">
-            <img src="/graphics/tama/Lovelitchi_meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Lovelitchi - a sweet bunny tama">
-        </center>
-    </div>
-</div>
 <span style="display: inline-block; margin: 10px 0 10px 0;">
     <center>
         <b>ﾟ･✧∘ gifted tamas ∘✧･ﾟ</b>
     </center>
     <br>
-    My friend dove deep into the rabbit hole of tamagotchi, but quickly gave it up. I am so grateful they gave me these tamas and a phone capable of a specific band of infrared for connecting to the P's tama all for the low price of ¥12,000 JPY ($82.49 USD equivalent at date of purchase)!
+    My friend who inspired me to get the uni dove deep into the rabbit hole of tamagotchi, but quickly gave it up and gave me these tamas and a phone capable of a specific band of infrared for connecting to the P's tama all for ¥12,000 JPY ($82.49 USD)! They are all in great condition, and the tamagotchi pix even came brand new and sealed in its original box. Unreal! I wonder how many I can run concurrently without becoming overwhelmed. 
     <br>
     <br>
     <center>
         <img src="/graphics/tama/meets-magical-purple.png" style="margin; 5px;" width="30%" title="Tamagotchi Meets Magical Purple">
-        <img src="/graphics/tama/ps-pink.png" style="margin: 5px;" width="30%" title="Tamagotchi P's Pink">
+        <img src="/graphics/tama/ps-pink.png" style="margin: 5px;" width="30%" title="Tamagotchi P's Love & Melody set">
         <img src="/graphics/tama/pix-party-pink.png" style="margin: 5px;" width="30%" title="Tamagotchi Pix Party Pink">
     </center>
     <br>
-     I really wonder how many I can run concurrently without becoming overwhelmed. The middle tama is a tamagotchi P's (pronounced like "piece" in Japanese), which has a removable heart charm piece that can be swapped with other charms for DLC items and characters. One of the more expensive pieces is the disney piece because it was the only collab tamagotchi has done with Disney. The tamagotchi on the right is a pink Pix Party, and it actually comes with a build-in camera! I'm going to have to take at least one photo and post it in this shrine regardless of how much it drains the battery.
+     I was most excited to get another meets device, so I can run it concurrently with my sanrio meets, but these are all incredible tamagotchi. The middle tama is a tamagotchi P's (pronounced like "piece" in Japanese), which has a removable heart charm "pierce" that can be swapped with other pierces for DLC items and characters. One of the more expensive pierces is the disney piece because it was the only collab tamagotchi has done with Disney. The tamagotchi on the right is a pink Pix Party, and it actually comes with a build-in camera! I'm going to have to take at least one photo and post it in this shrine regardless of how much it drains the battery.
 </span>
 <br>
 <br>
-<div class="container" style="image-rendering: pixelated;">
-    <div class="flex-item">
-        <span title="">
-            <b>Magical 1st generation: TBD</b>
-        </span>
-        <center>
-            <img src="/graphics/tama/Marupitchi-meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Marupitchi - my little baby girl tama">
-            <img src="/graphics/tama/Chiroritchi_meets.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Chiroritchi - a little happy bell">
-        </center>
-    </div>
-</div>
 <span style="display: inline-block; margin: 10px 0 10px 0;">
     <center>
         <b>ﾟ･✧∘ new to me, unplayed ∘✧･ﾟ</b>
@@ -190,6 +139,26 @@ I think there's something just so compelling about these cute characters, especi
     <span style="display: inline-block;">
         <img src="/graphics/tama/pink-sweets-meets.png" style="margin: 0 20px 0 0;" width="30%" align="left" title="Tamagotchi Meets Sweets Pink- Purchased on August 25, 2023 for ¥11,000 (equivalent to $75.36 USD)">
         Although I really am struggling with the amount of Japanese up front, I had to get another tamagotchi meets. I can't wait to run this sweets version alongside my magical and sanrio versions. Out of all the colors, pink is definitely my favorite, which is good because white seems to be the most expensive version.
+    </span>
+    <br>
+    <br>
+    <span style="display: inline-block;">
+        <img src="/graphics/tama/nano-gudetama.png" style="margin: 0 0 0 10px;" width="30%" align="right" title="Gudetama nano tamagotchi with gudetama stand - Purchased on August 26, 2023 for ¥2,800 (equivalent to $19.11 USD)">
+        <br>
+        Gudetama is a forever mood, and I love this character so much. I looked up a couple listings, and this didn't seem like a horrible price for both the nano and the case, so I got him to keep me company at my desk. I've heard that the nanos don't have games, you just feed and clean up poo, so I'm not sure if I'll play this one anytime soon.
+    </span>
+    <br>
+    <br>
+    <span style="display: inline-block;">
+        <img src="/graphics/tama/original-pink-glitter.png" style="margin: 0 20px 0 0;" width="30%" align="left" title="Tamagotchi Original Pink Glitter - Purchased on August 25, 2023 for ¥4,699 (equivalent to $32.07 USD)">
+        Since I couldn't get this in stores and everywhere but Amazon US seemed to be sold out, I got this secondhand for ~$12 cheaper than Amazon US. It's new in box, so I'm actually quite pleased. I don't think the gameplay of the originals is quite compelling aside from the Angelgotchi where you take care of dead tamas, so I really just got this because of the gorgeous shell. 
+    </span>
+    <br>
+    <br>
+    <span style="display: inline-block;">
+        <img src="/graphics/tama/original-starry-shower.png" style="margin: 0 0 0 10px;" width="30%" align="right" title="Tamagotchi Original Starry Shower - Purchased on August 27, 2023 for ¥5,555 (equivalent to $37.90 USD)">
+        <br>
+        I couldn't resist this shell glittery transparent shell either. It was new in box, so I did pay a slight aftermarket markup, but I knew I would be upset if I missed out on getting such a gorgeous version of the most iconic shell shape. It could be fun to do a joint run of all my originals at the same time!
     </span>
 </span>
 <br>
@@ -250,9 +219,6 @@ For a free vpet, consider getting a tamaNOTchi (below) or check out my <a href="
     </li>
     <li>
         Tama shell source: <a target="_blank" href="http://www.tamashell.com/">tamashell.com</a>
-    </li>
-    <li>
-        Low-res shell image editing: GIMP & <a target="_blank" href="https://ditherit.com/">ditherit.com</a>
     </li>
     <li>
         Tamagotchi title font: <a target="_blank" href="https://www.dafont.com/diediedie.font?text=TAmaGotchi">Static Type
