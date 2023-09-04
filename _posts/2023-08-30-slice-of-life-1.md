@@ -1,8 +1,12 @@
 ---
-layout:  post
-title:  "Slice of Life: Vol. 1"
-date:  2023-08-30 22:13
-tags:  [bipolar, food, vegan]  
+layout: post
+title: "Slice of Life: Vol. 1"
+date: 2023-08-30 22:13
+tags:
+  - bipolar
+  - food
+  - vegan
+  - mental-health
 ---
 <b>CW: food mention, bipolar disorder is discussed in a neutral manner</b>
 <!--excerpt-->
