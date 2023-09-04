@@ -5,6 +5,7 @@ emoji: 💌
 permalink: /guestbook/
 menu: site
 ---
+
 <center>
     <img src="/graphics/layout/v2_space/gb-spin.gif" class="sign-gb">
     <br>
@@ -54,9 +55,40 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#96 | September 01, 2023, 20:02 | <a target="_blank" href="http://creaturefeature.neocities.org/">Ghastly</a></div>
+            <div class="gb-message">
+                Hey I´ve read your tamagotchi shrine. you will love to know that someone made a tamagtochi fangame for the pc.
+                <br>
+                <br>
+                I even reviewed it myself on my wordpress blog you can read it here: <a target="_blank" href="https://ghastlymirror.wordpress.com/2022/03/02/eternichi-a-tamagotchi-that-lives-on-your-pc/">https://ghastlymirror.wordpress.com/2022/03/02/eternichi-a-tamagotchi-that-lives-on-your-pc/</a>
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#95 | September 01, 2023, 15:53 | <a target="_blank" href="http://nicolettelim.com">nicolette</a></div>
+            <div class="gb-message">
+                I've been down a rabbit hole researching dollers and drawing pixel art in my free time, which lead to neocities and suggested doller websites. You and everyone in this sphere on neocities are so inspiring!!! I need to re-learn html so I can be a part of this! This is so healing thank you ໒꒰ྀིっ˕ -｡꒱ྀི১٨
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#94 | September 01, 2023, 15:53 | <a target="_blank" href="http://aquaticircus.neocities.org">christine</a></div>
+            <div class="gb-message">
+                Hello! 初めまして！ I found your site by searching for "stationery" on neocities and I was surprised at how similar we were! I also lived in Japan for many years and just recently returned to the US. I wasn't vegan, but as a vegetarian, I understand the struggles of ordering or even finding vegetarian food in the first place. I don't regret moving back, but I really really miss buying stationery off mercari, especially those uniball ones haha.
+                <br>
+                Anyway, we had so much in common that I had to reach out! Let me know if you want any Tokyo-insider knowledge on vegetarian places and little stationery shops!
+                <br>
+                (and excuse the under-construction-site- i just started on Thursday...)
+            </div>
+        </div>
+    </div>
     <div class="gb-entry tea">
         <div class="gb-container">
-            <div class="gb-meta">#92 | August 23, 2023, 00:21 | <a target="_blank" href="https://blissnet.neocities.org/">Ash</a></div>
+            <div class="gb-meta">#93 | August 23, 2023, 00:21 | <a target="_blank" href="https://blissnet.neocities.org/">Ash</a></div>
             <div class="gb-message">
                 I made a tea cup for your collection : https://i.imgur.com/cpbeItA.png, Hope you enjoy! You've been doing awesome work in terms of reviving the pixel art trading scene, keep vibin and thrivin
             </div>

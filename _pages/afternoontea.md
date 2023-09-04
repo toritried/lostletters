@@ -5,6 +5,7 @@ emoji: 🍵
 permalink: /afternoontea/
 menu: webcore
 ---
+
 <center>
     <h2>You're invited to Afternoon Tea</h2>
     <div class="noext" style="image-rendering: pixelated;">
@@ -175,6 +176,9 @@ menu: webcore
         </a>
         <a target="_blank" href="https://blissnet.neocities.org/">
             <img src="/graphics/teahouse/teacup/ash-tea.png" title="Taste like tora and flan pudding.. - made by Ash">
+        </a>
+        <a target="_blank" href="http://pastelhello.com">
+            <img src="/graphics/teahouse/teacup/crockpot-pastellhell.gif" title="tastes like stew - made by pastelhell">
         </a>
     </div>
     <br>
