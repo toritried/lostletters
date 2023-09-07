@@ -178,7 +178,10 @@ menu: webcore
             <img src="/graphics/teahouse/teacup/ash-tea.png" title="Taste like tora and flan pudding.. - made by Ash">
         </a>
         <a target="_blank" href="http://pastelhello.com">
-            <img src="/graphics/teahouse/teacup/crockpot-pastellhell.gif" title="tastes like stew - made by pastelhell">
+            <img src="/graphics/teahouse/teacup/crockpot-pastelhell.gif" title="tastes like stew - made by pastelhell">
+        </a>
+        <a target="_blank" href="https://abyssbloom.neocities.org/">
+            <img src="/graphics/teahouse/teacup/AbyssBloomTeacup.png" title="made by Abyss Bloom">
         </a>
     </div>
     <br>
