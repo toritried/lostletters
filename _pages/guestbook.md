@@ -55,6 +55,17 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#97 | September 08, 2023, 01:58 | <a target="_blank" href="https://bloopywoopy.neocities.org/">Bloop</a></div>
+            <div class="gb-message">
+                Heyo!! I've made a teacup :3
+                <br>
+                https://bloopywoopy.neocities.org/images/pixel-clubs/my-pixels/bloopywoopy-teacup.png
+                <br>It tastes like hot chocolate, whipped cream, and marshmallows! :D
+            </div>
+        </div>
+    </div>
     <div class="gb-entry love">
         <div class="gb-container">
             <div class="gb-meta">#96 | September 01, 2023, 20:02 | <a target="_blank" href="http://creaturefeature.neocities.org/">Ghastly</a></div>

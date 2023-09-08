@@ -183,6 +183,9 @@ menu: webcore
         <a target="_blank" href="https://abyssbloom.neocities.org/">
             <img src="/graphics/teahouse/teacup/AbyssBloomTeacup.png" title="made by Abyss Bloom">
         </a>
+        <a target="_blank" href="https://bloopywoopy.neocities.org/">
+            <img src="/graphics/teahouse/teacup/bloopywoopy-teacup.png" title="tastes like hot chocolate, whipped cream, and marshmallows! :D - made by Bloop">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
