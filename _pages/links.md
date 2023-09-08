@@ -1,10 +1,11 @@
 ---
 layout: space
-title: net neighbors & links 
+title: net neighbors & links
 emoji: 🔗
 permalink: /links/
 menu: meta
 ---
+
 <details>
     <summary>
         Net Neighbors / Affiliates
@@ -80,6 +81,9 @@ menu: meta
             </a>
             <a target="_blank" href="https://sakana.neocities.org/" title="sakana">
                 <img src="/graphics/linkout/sakana.png">
+            </a>
+            <a target="_blank" href="https://cherrywaves.neocities.org">
+                <img src="/graphics/linkout/cherrywaves.gif">
             </a>
         </div>
     </summary>
