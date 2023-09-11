@@ -1,5 +1,5 @@
 ---
-layout: space
+layout: flex-space
 title: net neighbors & links
 emoji: 🔗
 permalink: /links/

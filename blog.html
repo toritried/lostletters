@@ -1,18 +1,15 @@
 ---
-layout: space
+layout: flex-space-no-wm
 title: Blog
 ---
 <center>
     <h2>
-        Latest Posts 
-        <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
-        <img src="/graphics/layout/v1_laceletter/feed.gif" width="16px" style="margin: 5px; vertical-align: bottom;" title="RSS feed"/>
-        </a>
+        Latest Posts
     </h2>
 </center>
 <br>
 <div class="envelope">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
         <img src="/graphics/layout/v2_space/postage.gif" align="right" style="margin: 10px;">
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     {{ post.excerpt }}

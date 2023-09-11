@@ -1,5 +1,5 @@
 ---
-layout: space
+layout: flex-space
 title: toybox era
 emoji: 🧸
 permalink: /toybox/

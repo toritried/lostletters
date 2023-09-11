@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: real self-care
 emoji: 🫂
 permalink: /selfcare/
 menu: health
 ---
+
 <h2>Real Self-Care Under Oppressive Systems</h2>
 <div style="
     border: 1px solid #fa77d8;

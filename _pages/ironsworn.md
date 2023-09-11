@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: ironsworn
 emoji: ⚔️
 permalink: /ironsworn/
 menu: ttrpg
 ---
+
 <h2>What is Ironsworn?</h2>
 <a target="_blank" href="https://www.ironswornrpg.com/products-ironsworn">Ironsworn</a> is a famous, award-winning, completely free solo-TTRPG that you should totally play! You play as "a hero sworn to undertake perilous quests in the dark fantasy setting of the Ironlands." <b>Ironsworn is perfect for folks who want more TTRPG time in their lives, but find it difficult to coordinate group play OR folks who find it hard to pay attention for marathon TTRPG sessions</b>. In this game, you can play as little or as much as you want in a session while still advancing the fiction rapidly just by yourself!
 <br>
@@ -17,12 +18,13 @@ Unlike my Starforged logs, which I co-write with my partner during sessions, my 
 <hr>
 <br>
 <h2>Character Creation</h2>
-Amara is sensitive to the mystical world and travels with her Cave Lion companion, healing for coin. She roams in search of herbs for potions and has an affinity for the natural world. Magic courses through this land as the rivers flow through the hills, and she feels the wild magic pulse in her veins. The tips of her fingers are ivy green and her back bears a huge maple leaf birthmark that changes colors with the seasons, a sign of her god-touched existence. 
+Amara is sensitive to the mystical world and travels with her Cave Lion companion, healing for coin. She roams in search of herbs for potions and has an affinity for the natural world. Magic courses through this land as the rivers flow through the hills, and she feels the wild magic pulse in her veins. The tips of her fingers are ivy green and her back bears a huge maple leaf birthmark that changes colors with the seasons, a sign of her god-touched existence.
 
-She comes from a nomadic clan, yet grew up with found family after her family was murdered by monsters when she was too young to go out hunting with them. Her family was ambushed, barely escaping with their lives. However, they were left poisoned by the claws of the horrors, and Amara never felt so hopeless as when she watched them succumb to the spasms that eventually killed them. 
-* She greets all nomadic people with warmth and kindness. 
-* She seeks to understand the poison of the horrors, so she can save lives in honor of her family. 
-* Her god-touched nature was noticed early, and she was sent to train with her mentor, High Druid Temir Namba of the Grimtree Coven. 
+She comes from a nomadic clan, yet grew up with found family after her family was murdered by monsters when she was too young to go out hunting with them. Her family was ambushed, barely escaping with their lives. However, they were left poisoned by the claws of the horrors, and Amara never felt so hopeless as when she watched them succumb to the spasms that eventually killed them.
+
+- She greets all nomadic people with warmth and kindness.
+- She seeks to understand the poison of the horrors, so she can save lives in honor of her family.
+- Her god-touched nature was noticed early, and she was sent to train with her mentor, High Druid Temir Namba of the Grimtree Coven.
 <br>
 <br>
 <hr>
@@ -139,6 +141,6 @@ She comes from a nomadic clan, yet grew up with found family after her family wa
 </ol>
 <br>
 <b>Session Summary</b>
-* Delve the Brackish Caves (2 prog per area) - Completed
-* Fulfill Your Iron Vow: Forge a weapon with iron of the Brackish Cave - Completed +2 EXP
-* Acquired Arakhi as an ally and fighting companion. - 1 progress towards iron vow of stopping the corrupted Ironlander.
+- Delve the Brackish Caves (2 prog per area) - Completed
+- Fulfill Your Iron Vow: Forge a weapon with iron of the Brackish Cave - Completed +2 EXP
+- Acquired Arakhi as an ally and fighting companion. - 1 progress towards iron vow of stopping the corrupted Ironlander.

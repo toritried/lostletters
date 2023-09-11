@@ -1,17 +1,18 @@
 ---
-layout: space
+layout: flex-space
 title: about the site
 emoji: 🪲
 permalink: /site/
 menu: site
 ---
+
 <h2>Past Layouts</h2>
 I wanted to start a log of the past iterations of the site, so I can look back on all the <i><strike>terrible code I've written</strike></i> good memories I've made!
 <br>
 <br>
 <h3>🎀 Version 1: Lace Letters  |  Oct 2022 - March 2023</h3>
 <a target="_new" href="/graphics/layout/v1_laceletter/screenshot.png">
-    <img src="/graphics/layout/v1_laceletter/screenshot.png" align="left" style="padding: 10px 20px 0 0; max-width: 200px;" title="click to open full size">
+    <img src="/graphics/layout/v1_laceletter/screenshot.png" align="right" style="padding: 10px; max-width: 200px;" title="click to open full size">
 </a>
 This layout was adapted from a template by <a target="_blank" href="https://foollovers.com/">Fool Lovers</a>. They provided the lace header, lacy content container graphics and code, url hover sparkles, favicon, and bouncing sakura divider. I will always be extremely fond of this layout since it was the first one I tweaked to my liking to launch Lost Letters on Neocities. A lot of folks enjoyed the gorgeous pixel art based on the guestbook entries from that time.
 <br>

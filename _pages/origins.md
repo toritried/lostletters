@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: my tabletop origin story
 emoji: 🧝🏻‍♀️
 permalink: /origins/
 menu: ttrpg
 ---
+
 <h2>How I got started with TTRPGs</h2>
 Most people are shocked when I tell them <b>I started playing tabletop role-playing games &#40;TTRPGs&#41;  online with complete strangers</b> on <a target="_new" href="https://roll20.net/">Roll20.net</a>. But, I think it's important to keep in mind that I didn't have any openly nerdy close friends until ~5 years ago, so no one was inviting me to play fun stuff like D&D. I had to find that all on my own, far later in life than I should have.  
 <br>
@@ -16,4 +17,4 @@ At the start of 2018, I saw a recommendation online to listen to Season 1 of a p
 Before I even finished the first arc of Campaign 1 of TAZ, I began scouring my extended friend group for a DM and fellow players. Every bone in my body hummed with excitement at the idea of collaboratively telling a stupid hilarious fantasy story with friends. It took a while to actually get the in-person group running regularly, so, in the meantime, I turned to virtual tabletops to get a feel for RPGs. I swallowed my initial nerves and joined several strangers in a multi-session <a target="_new" href="https://evilhat.com/product/blades-in-the-dark/">Blades in the Dark</a> game as well as a D&D one-shot for beginners. 
 <br>
 <br>
-Looking back, I was truly unhinged by how badly I wanted to play any TTRPGs, but I have zero regrets. Despite perpetually being the only female player, <b>I had nothing but great experiences in every beginner-friendly game I joined on Roll20</b>, and I encourage people to keep an open-mind about pursuing this route, especially if you don't have friends you can play with in-person as regularly as your TTRPG-loving heart may desire.  
+Looking back, I was truly unhinged by how badly I wanted to play any TTRPGs, but I have zero regrets. Despite perpetually being the only female player, <b>I had nothing but great experiences in every beginner-friendly game I joined on Roll20</b>, and I encourage people to keep an open-mind about pursuing this route, especially if you don't have friends you can play with in-person as regularly as your TTRPG-loving heart may desire.

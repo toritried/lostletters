@@ -19,64 +19,8 @@ body {
   font-family: 'Asul', sans-serif;
   line-height: 1.6em;
   color: #ffc6ec;
-}
-
-/* ------- Text Customization ------- */
-h1 {
-  font-family: 'alagard', Arial, sans-serif;
-  font-weight:normal;
-  font-style:normal;
-  padding: 9px 0 13px 0;
-}
-
-.welcome {
-  font-weight: normal;
-}
-
-h2{
-  font-weight: normal;
-  padding-bottom: 0.4em;
-}
-
-/* mobile styles */
-body {
   font-size: 16px;
-}
-
-h1{
-  font-size: 1.8em;
-}
-
-h2 {
-  font-size: 1.3em;
-}
-
-.box1{
-  margin: 1em 0 1em 0;
-  padding: 0.7rem;
-  width: 90%;
-}
-
-/* tablet styles */
-@media screen and (min-width: 768px) {
-    body {
-        font-size: 18px;
-    }
-
-    h1{
-      font-size: 1.8em;
-    }
-
-    h2 {
-      font-size: 1.3em;
-    }
-
-    .box1{
-      margin: 0;
-      padding: 2.5rem;
-      width: 90%;
-      margin-top: 2em;
-    }
+  padding: 2em; 
 }
 
 /* desktop styles */
@@ -108,10 +52,6 @@ ol {
 
 ul {
   list-style: '♡  ';
-}
-
-ol {
-  margin: 0 0 0 -1em;
 }
 
 p {
@@ -185,21 +125,47 @@ img {
   -webkit-transform: translateZ(0);
 }
 
-.box1 {
-  position: relative;
-  /* These styling elements are from Pale's Glassy layout 
-  https://palemomos.neocities.org/cool-layouts/ 
-  thought I have tweaked the values */
+.wrapper {
+  display: flex;  
+  flex-flow: row wrap;
   background-color: #34072d6b;
   box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
   border: 1px solid var(--light-color);
   border-radius: 35px;
   transition: 0.5s all ease;
   backdrop-filter: blur(2px);
-  max-width: 656px;
   height: 100%;
-  }
+}
 
+.wrapper > * {
+  padding: 25px 25px 0 25px;
+  flex: 1 100%;
+}
+.header {
+  text-align: center;
+  font-family: 'alagard', Arial, sans-serif;
+}
+.site-name {
+  font-weight: normal;
+  font-size: 2em;
+}
+
+.main {
+  text-align: left;
+}
+
+@media screen and (min-width: 1000px) {
+  .wrapper{
+      margin: 0 auto;
+      max-width: 1000px;
+  }
+}
+/* Medium screens */
+@media all and (max-width: 800px) {
+  .wrapper {
+      margin: -20px;
+  }
+}
 
 /* navigation W3School version*/
 .navbar {
@@ -318,13 +284,10 @@ word-wrap: normal !important;
 
 /** status.cafe styling **/
 
-#statuscafe-username {
+#statuscafe-username, #statuscafe-content {
   display:inline;
 }
 
-#statuscafe-content {
-  display:inline;
-}
 /** End of status.cafe styling **/
 
 hr {
@@ -341,6 +304,7 @@ hr {
   overflow: hidden;
   cursor: pointer;
   font-size: .8em;
+  text-align: center;
 }
 
 .imgwall {

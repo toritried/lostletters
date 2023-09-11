@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: make your own site
 emoji: 🎁
 permalink: /resources/
 menu: meta
 ---
+
 <h2>Web Dev Resources</h2>
 This is a collection of resources that helped me create this site, which may help you with yours too! You can click through most graphics on my site to get to the original artists, and there's also attribution sporadically commented within my source code. If you ever have a question about where I got or learned something, feel free to ask in my <a href="/guestbook/">guestbook</a>.
 <br>
@@ -78,4 +79,4 @@ This is a collection of resources that helped me create this site, which may hel
 <br>
 <a target="_blank" href="https://amelia.sg/ametarium/">
     <img src="/graphics/linkout/88x31-ametarium.gif" title="Ametarium" align="left" style="margin: 10px 10px 0 0;">
-    Ametarium</a> is a space-themed pixel and vector art adoptables site.  
+    Ametarium</a> is a space-themed pixel and vector art adoptables site.

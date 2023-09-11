@@ -1,5 +1,5 @@
 ---
-layout: space
+layout: flex-space
 title: afternoon tea pixel club
 emoji: 🍵
 permalink: /afternoontea/

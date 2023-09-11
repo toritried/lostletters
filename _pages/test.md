@@ -1,8 +1,9 @@
 ---
-layout: space
+layout: flex-space
 title: test title
 permalink: /test/
 ---
+
 <h1>Heading One</h1>
 <p>
   This is a paragraph of text that should be long enough to wrap. If not, we can repeat it over and over again until it does wrap. This is a paragraph of text that should be long enough to wrap. If not, we can repeat it over and over again until it does wrap. This is a paragraph of text that should be long enough to wrap.

@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: confessions
 emoji: 🤫
 permalink: /confessions/
 menu: about
 ---
+
 <center>
     <div class="noext">
         <a target="_blank" href="https://www.patreon.com/waneella">

@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: my OCs
 emoji: 😈
 permalink: /oc/
 menu: ttrpg
 ---
+
 <h2>Meet some weirdos who crawled out of my head.</h2>
 <div class="noext">
     <a target="_new" href="https://picrew.me/en/image_maker/1222838">

@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: run more easily
 emoji: 🥵
 permalink: /run-more-easily/
 menu: running
 ---
+
 <h2>Run More Easily</h2>
 During my consistent running periods (when I'm not sick/injured), these are a few keys to my consistency that are completely free and may help you:
 <ul>

@@ -1,5 +1,5 @@
 ---
-layout: space-no-wm
+layout: flex-space-no-wm
 title: guestbook
 emoji: 💌
 permalink: /guestbook/
@@ -55,6 +55,14 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#98 | September 09, 2023, 10:44 | <a target="_blank" href="https://floral-tears.neocities.org/">floral-tears</a></div>
+            <div class="gb-message">
+                Hi! Hope you're doing well. I just wanted to share that I relate a lot to your most recent blog update. Me and "future me" almost feels like the latter invited me to their house but didn't tell how to get there lol. I even had the same video recommended to me a couple days before you shared your post. I really like your plan/takeaways specifically; I wish you the best!! Sorry if this is a weird message to send, but also I wanted you to know you're heard.
+            </div>
+        </div>
+    </div>
     <div class="gb-entry tea">
         <div class="gb-container">
             <div class="gb-meta">#97 | September 08, 2023, 01:58 | <a target="_blank" href="https://bloopywoopy.neocities.org/">Bloop</a></div>

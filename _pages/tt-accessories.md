@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: tabletop accessories
 emoji: 🎲
 permalink: /tt-accessories/
 menu: ttrpg
 ---
+
 <h2>My Custom Dice Tray Made by My Dad 💝</h2>
 <p>
 My most-prized tabletop gaming accessory is my one of a kind dice tray made by my dad for me for Christmas in 2022. I told him I would love something like the <a target="_new" href="https://wyrmwoodgaming.com/products/the-tabletop-dice-tray/">Tabletop Dice Tray from Wyrmwood</a>, but with a vegan interior. With just that to go off of, he made this <b>stunning dice tray with gold-flecked cork interior!</b> It is made with different types of American woods, namely cherry from Michigan as well as maple and walnut from Indiana. My partner's box is made of exotic woods, including wenge from Africa as well as bocote and leopard wood from South America. 

@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: q*bee shrine
 emoji: 🐝
 permalink: /quilt/
 menu: webcore
 ---
+
 <!--- before every *, add a \, so that it won't be italicized in MD -->
 <a class="skip-main" href="#main">
     Skip to main content

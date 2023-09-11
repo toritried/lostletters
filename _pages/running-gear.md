@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: running gear
 emoji: 👟
 permalink: /running-gear/
 menu: running
 ---
+
 <h2>My Running Gear</h2>
 While running can be a very economical form of exercise, nerding out on this hobby can get expensive and not very sustainable since running gear is not something you really want to buy used. I have scored heavily discounted "new with tags" items off of resale apps like Poshmark before, so if you need new gear, definitely check there first. <b>None of these are affiliate links</b>, and I'm not being paid to post any of this. I really just love these products:
 <ul>

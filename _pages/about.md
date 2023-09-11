@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: about me
 emoji: 🤡
 permalink: /about-me/
 menu: about
 ---
+
 <h2>Hail & Well Met,</h2> 
 I started learning to code thanks to Neopets in ~2003, which inspired me <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 0 10px 0 0;" align="left" />to pour my heart into subpar pixel art and website layouts drawn in MS Paint and Photoshop. I'm so glad I never let my frustrating mediocrity stop me from participating in the pixel communities of that time, because I made so many good memories (q*bee, Teahouse MB) and learned some basics of HTML, CSS, and PHP.  
 <br>
@@ -25,7 +26,39 @@ The boredom of the pandemic finally gave me the inspiration and judgement-free o
 Now that I've truly accepted that I'm just a goblin that likes weird stuff instead of someone who does HIIT six days a week before bottomless mimosa brunch, you can typically find me playing, watching, or listening to TTRPGs if I'm offline. I still haven't shed my tendency towards exercise, so I'm probably also working out for my stupid mental health and tracking it obsessively to earn <a target="_blank" href="https://garminbadges.com/">garmin connect badges</a>. I will seriously do anything for the simplest forms of gamification, it's stupid and sometimes dangerous. I also try to stay on top of my daily memory keeping, which involves excessive amounts of fountain pens, stickers, and washi tape. 
 <br>
 <br>
-<hr>
+<span title="inspired by https://daintye.co/"><b>Life Counters</b></span>
+<br>
+🐇 played <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">Neopets</a> for <span id="counter1"></span>
+<br>
+🌱 been plant-based for <span id="counter2"></span>
+<br>
+🦋 been in love for <span id="counter3"></span>
+<br>
+👯 lived with my girlfriend for <span id="counter4"></span>
+<script> /** Thanks to Justin Wright for this javascript that I modified https://stackoverflow.com/a/48918684 **/
+    var targetDate1 = new Date("2003-11-20T00:00:00");
+    var targetDate2 = new Date("2016-01-28T00:00:00");
+    var targetDate3 = new Date("2020-06-28T00:00:00");
+    var targetDate4 = new Date("2021-08-01T00:00:00");
+    setInterval(updateCounters, 1000);
+    function updateCounters() {
+        var currentDate = new Date();
+        updateCounter(targetDate1, "counter1");
+        updateCounter(targetDate2, "counter2");
+        updateCounter(targetDate3, "counter3");
+        updateCounter(targetDate3, "counter4");
+        function updateCounter(targetDate, counterId) {
+            var duration = currentDate - targetDate;
+            var years = Math.floor(duration / 3.154e+10);
+            var durationMinusYears = duration - (years * 3.154e+10);
+            var months = Math.floor(duration / 2.628e+9) % 12;
+            var durationMinusMonths = durationMinusYears - (months * 2.628e+9);
+            var days = Math.floor(durationMinusMonths / 8.64e+7);
+            document.getElementById(counterId).innerHTML = years + " years, " + days + " days";
+        }
+    }
+</script>
+<br>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
 <b>likes</b>: trans rights, intersectional feminism, degrowth and ecosocialism, labor organizing, pumpkin spice, living in cities, onsen 温泉, my penpals, words of affirmation, knitting, yakiimo 焼き芋, epic fantasy
@@ -166,4 +199,5 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
     Sorcerer -- XXXXXXXXXXXXXXXX (16)
     Warlock --- XXXXXXXXXX (10)
     Wizard ---- XXXXXXXXXX (10)
+
 </code></pre>

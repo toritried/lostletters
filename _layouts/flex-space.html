@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Lost Letters">
+    <title>Lost Letters</title>
+    <link rel="icon" href="/graphics/favicon/df10-icon-ribbon.gif" type="image/gif">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Asul" rel="stylesheet">
+    <link href="/space-style.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/style-my-tooltips.css" rel="stylesheet" type="text/css"/>
+    <link rel="me" href="https://cutie.city/@lostletters"/>
+    <!-- this is for setting up webmentions.neocities.org -->
+    <link rel="me" href="https://github.com/toritried"/>
+    <link rel="webmention" href="https://webmention.io/lostletters.neocities.org/webmention"/>
+    <link rel="pingback" href="https://webmention.io/lostletters.neocities.org/xmlrpc"/>
+  </head>
+<body>
+    <div id="star-background"></div>
+    <div class="wrapper">
+        <header class="header">
+            <a class="site-name" href="/">Welcome to Lost Letters</a>
+            <br>
+            <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
+                <img src="/graphics/layout/v1_laceletter/feed.gif" width="16px" title="RSS feed" style="cursor: pointer;"/>
+            </a>
+            <a href="/blog.html" style="display: inline-block; white-space: nowrap; color: #c09dba; padding: 3px 6px; font-family: inherit; cursor: pointer;">blog</a>
+                <button class="dropbtn" aria-controls="dropdown-webcore" aria-expanded="false">
+                    💾 webcore
+                    <span class="fa fa-caret-down"></span>
+                </button>
+                <button class="dropbtn" aria-controls="dropdown-stationery" aria-expanded="false">
+                    ✒️ stationery
+                <span class="fa fa-caret-down"></span>
+                </button>
+                <button class="dropbtn" aria-controls="dropdown-ttrpg" aria-expanded="false">
+                    🦄 ttrpgs
+                <span class="fa fa-caret-down"></span>
+                </button>
+                <button class="dropbtn" aria-controls="dropdown-health" aria-expanded="false">
+                    🧠 health
+                <span class="fa fa-caret-down"></span>
+                </button>
+                <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
+                    🔎 about
+                    <span class="fa fa-caret-down"></span>
+                </button>
+                <div class="dropdown-content" id="dropdown-webcore">
+                    {% for page in site.pages %}
+                        {% if page.menu == "webcore" %}
+                        <a href="{{ page.url }}">
+                            {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                            {{ page.title }}
+                        </a>
+                        {% endif %}
+                    {% endfor %}
+                    {% for page in site.pages %}
+                        {% if page.menu == "meta" %}
+                        <a href="{{ page.url }}">
+                            {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                            {{ page.title }}
+                        </a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="dropdown-content" id="dropdown-stationery">
+                    {% for page in site.pages %}
+                        {% if page.menu == "stationery" %}
+                        <a href="{{ page.url }}">
+                            {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                            {{ page.title }}
+                        </a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="dropdown-content" id="dropdown-ttrpg">
+                    {% for page in site.pages %}
+                        {% if page.menu == "ttrpg" %}
+                        <a href="{{ page.url }}">
+                            {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                            {{ page.title }}
+                        </a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="dropdown-content" id="dropdown-health">
+                    Running: {% for page in site.pages %}
+                        {% if page.menu == "running" %}
+                        <a href="{{ page.url }}">
+                            {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                            {{ page.title }}
+                        </a>
+                        {% endif %}
+                    {% endfor %}
+                    <br>
+                    Other: {% for page in site.pages %}
+                        {% if page.menu == "health" %}
+                        <a href="{{ page.url }}">
+                            {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                            {{ page.title }}
+                        </a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="dropdown-content" id="dropdown-about">
+                    Author: {% for page in site.pages %}
+                        {% if page.menu == "about" %}
+                        <a href="{{ page.url }}">
+                            {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                            {{ page.title }}
+                        </a>
+                        {% endif %}
+                    {% endfor %}
+                    <br>
+                    Site: {% for page in site.pages %}
+                    {% if page.menu == "site" %}
+                    <a href="{{ page.url }}">
+                        {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                        {{ page.title }}
+                    </a>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+        </header>
+        <article class="main">
+            <div slot="content">
+                {{ content }}
+                <br>
+                <div id="webmentions"></div>
+                <br>
+            </div>  
+        </article>
+        <footer class="footer">
+            {% include footer.html %}
+        </footer>
+    </div>
+</body>
+</html>
