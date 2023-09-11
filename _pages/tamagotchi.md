@@ -1,10 +1,11 @@
 ---
-layout: space
+layout: flex-space
 title: tamagotchi shrine
 emoji: 🐣
 permalink: /tamagotchi/
 menu: webcore
 ---
+
 <style>
     .container {
         /* We first create a flex layout context */
@@ -47,7 +48,7 @@ menu: webcore
     }
 </style>
 <center>
-<h1 style="font-family: 'DIEDIEDIE', Arial, sans-serif; font-size: 3.3em; background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">TAmaGotchi</h1>
+<text style="font-family: 'DIEDIEDIE', Arial, sans-serif; font-size: 3.3em; background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">TAmaGotchi</text>
 <br>
 <img src="/graphics/tama/heart_tama.gif" width="30%" title="gif by Josué Grotesco">
 <img src="/graphics/tama/purple_ps.gif" width="30%" title="gif by Josué Grotesco">
@@ -77,10 +78,15 @@ I think there's something just so compelling about these cute characters, especi
         <img src="/graphics/tama/welcotchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="welcotchi - my little welsh corgi tama I'd do anything for">
         <img src="/graphics/tama/teftetchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="teftetchi - teen">
         <img src="/graphics/tama/curltchi-on.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="curltchi - my little gamer tama">
+        <img src="/graphics/tama/tustustchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="tustustchi - teen">
         <img src="/graphics/tama/gunchitchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="gunchitchi">
         <img src="/graphics/tama/woopatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 0;" title="woopatchi - adult">
         <img src="/graphics/tama/Kikitchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Kikitchi - monkey tama!">
         <img src="/graphics/tama/neliatchi_uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="neliatchi">
+        <img src="/graphics/tama/Kuchipatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Kuchipatchi">
+        <img src="/graphics/tama/Shykutchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Shykutchi">
+        <img src="/graphics/tama/Momotchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Momotchi">
+        <img src="/graphics/tama/Sebiretchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Sebiretchi">
         <img src="/graphics/tama/harapparatchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="harapparatchi - tamapet">
         <img src="/graphics/tama/Monatototchi-uni.png" style="filter: drop-shadow(0 0 15px #ed5db1); margin: 0 5px 0 5px;" title="Monatototchi - a little taiyaki pet that showed up to play with welcotchi. cuteness overload">
     </center>
