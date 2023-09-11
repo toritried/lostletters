@@ -1,8 +1,9 @@
 ---
-layout: space-no-wm
+layout: flex-space-no-wm
 title: home
 emoji: 🏠
 ---
+
 <img src="/graphics/site_buttons/LostLetters32x32.gif" align="left" style="margin: 11px 17px 0 10px;" >
 <img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 10px;" align="right" width="82px"/>
 You have found Lost Letters, a personal website of a 29th-level female commoner. 
@@ -17,11 +18,13 @@ and an homage to girls' y2k-era online subcultures like
 Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
 <br>
 <br>
-<center>
-    ｡･:*˚:✧｡ 
-    <img src="/graphics/site_buttons/LostLetters88x31.gif" width="88px">
-    ｡✧:˚*:･｡
-</center>
+📝 <b>latest blog post</b>: {% for post in site.posts limit: 1 %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
+<div id="status-cafe">
+    🍵 <b>status cafe</b>: <div id="statuscafe-username"></div>&nbsp;&nbsp;<div id="statuscafe-content"></div>
+    <script src="https://status.cafe/current-status.js?name=lostletters" defer></script>
+</div>
 <br>
 <div class="index-links"><!-- Button Wall -->
   <div>
@@ -116,14 +119,7 @@ Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
             </div>
             <script src="https://xandra.cc/safonts/webring.js"></script>
             <ring-900 site="https://lostletters.neocities.org/"></ring-900>
-            <script src="https://nuthead.neocities.org/ring/ring.js"></script>
         </center>
     </div>
   </div>
 </div>
-<br>
-<center>
-    <div id="neocities-stats" style="font-size: 85%;">
-        last updated: <span id="lastupdate"></span> &nbsp; &#10041; &nbsp;you are visitor #: <span id="hitcount"></span>
-    </div>
-</center>
