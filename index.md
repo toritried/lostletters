@@ -18,7 +18,10 @@ and an homage to girls' y2k-era online subcultures like
 Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
 <br>
 <br>
-📝 <b>latest blog post</b>: {% for post in site.posts limit: 1 %}
+<a target="_blank" href="https://lostletters.neocities.org/feed.xml">
+    <img src="/graphics/layout/v1_laceletter/feed.gif" width="16px" title="RSS feed" style="cursor: pointer; margin: 0 5px;" title="click for RSS feed"/>
+</a> 
+<b>latest blog post</b>: {% for post in site.posts limit: 1 %}
 <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 <div id="status-cafe">
