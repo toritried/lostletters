@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Static Blogging on The Small Web: Bear Blog"
+date: 2023-09-14 09:46
+tags:
+  - reflection
+  - webmastery
+  - learning
+---
+There are always aspects of my website that I want to improve, but they sit in the back of my mind and just yammer away, begging for attention until I eventually conduct all the proper rituals necessary to coax my mind into focusing. One of these neglected yammerings is my blog. <a href="/2022/11/06/blogging">My Obsidian & Jekyll blogging setup</a> is still working well, yet <a target="_blank" href="https://bearblog.dev/">bear blog</a> calls to me.<!--excerpt--> 
+- It has a barebones <a target="_blank" href="https://bearblog.dev/discover/">discovery feed</a> with upvoting that makes it really easy to find and sort through interesting posts from all bear blogs. Given that Neocities' follow feature is the reason I'm still active on Neocitites, I know that discoverability is essential to sustaining my own long-term participation in the small web, so I'm definitely drawn to a blogging solution that has more of that.
+- It also provides built-in RSS feeds for all blogs, which has become quite important for me now that I'm happily set up with an instance of Fresh RSS that is generously provided by the amazing <a target="_blank" href="https://32bit.cafe/">32-bit cafe</a>, which you should join if you're 18+ and want a fun, helpful, and SFW community across the small web. I'm quite disappointed by how few Neocities sites have RSS or atom feeds because I want to keep up with y'all and your blog posts!
+
+Despite commenting being a top requested feature, bear blog <a target="_blank" href="https://bear.nolt.io/9">won't support it</a>, so I would still be struggling with that there. Currently, if anyone wants to interact with one of my posts, they can only do that through the Fediverse thanks to <a target="_blank" href="https://webmentions.neocities.org/">webmentions</a>. While I am extremely happy with my mastodon instance and have slowly developed a list of people to follow that make it an interesting place to return to daily, I know that many folks have found Fedi to be Not It for them for a variety of reasons. So, how can I enable commenting for folks who aren't on Fedi?
+- I will never use Disqus because people on the internet tell me it's a tracking nightmare and also slows down your site (<a target="_blank" href="https://renatello.com/wordpress-disqus-comments/#:~:text=Disqus%20cons,-Slow%20site%20speed&text=It's%20a%20well%2Dknown%20fact,additional%20~2MB%20of%20absolute%20junk.">1</a>, <a target="_blank" href="https://fatfrogmedia.com/delete-disqus-comments-wordpress/">2</a>). 
+- Work and my ADHD have made answering emails a dreadful chore that I need to be paid to do, so I don't want to give out my email just to disappointingly leave a lovely soul on read if they care enough to write to me.
+- I could try to figure out how to set up comments with <a target="_blank" href="https://staticman.net/">Staticman</a>, but Jekyll is something I barely understand as an amateur web dev hobbyist, so I don't need to add an additional point of failure into the mix quite yet. 
+If you think I should consider another solution for commenting for static sites, please get in touch. I apologize that I cannot accept messages via carrier pigeon nor smoke signals at this time. 
+
+So will I move to bear blog? Not right now. I prefer my Obsidian writing experience that is bolstered with a <a target="_blank" href="https://github.com/PKM-er/obsidian-editing-toolbar">rich text editing toolbar plugin</a> and built-in spell checker. To have the bear blog integrated within my site instead of pointing off to the bear blog site, I'm pretty sure I'd have to have a custom domain. While I've flirted with the idea of getting a domain for Lost Letters, I think it better supports the small web if I don't remove neocities.org from my site's URL to help promote it as a home for personal sites like mine. 
