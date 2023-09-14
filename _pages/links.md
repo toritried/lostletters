@@ -53,10 +53,7 @@ menu: meta
                 <img src="/graphics/linkout/foreverliketh.is.png">
             </a>
             <a target="_blank" href="https://cobyzaby.neocities.org/" title="cobyzaby">
-                <svg class="missing-button" width="88" height="31" style="fill: #7294bd; border-color:#92b3dd;">
-                    <rect width="88" height="31"></rect>
-                    <text class="buttontext" x="42px" y="16px">cobyzaby</text>
-                </svg>
+                <img src="/graphics/linkout/cobyzabybutton.gif">
             </a>
             <a target="_blank" href="https://daintyeco.neocities.org/" title="daintyeco">
                 <img src="/graphics/linkout/daintyeco.gif">
@@ -140,7 +137,7 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
     <img src="/graphics/linkout/mayaland.png" title="maya.land" align="left" style="margin: 10px 10px 0 0;">
     maya.land</a> - Maya's timeless content is always interesting and delightful to peruse. Goblin mode forever!  
 <br>
-    <a target="_blank" href="https://winnielim.org/" title="cobyzaby">
+    <a target="_blank" href="https://winnielim.org/" title="Winnie Lim">
         <svg class="missing-button" width="88" height="31" style="fill: #769ba5; border-color:#a4c5ce;">
             <rect width="88" height="31"></rect>
             <text class="buttontext" x="42px" y="16px">Winnie Lim</text>
