@@ -186,6 +186,9 @@ menu: webcore
         <a target="_blank" href="https://bloopywoopy.neocities.org/">
             <img src="/graphics/teahouse/teacup/bloopywoopy-teacup.png" title="tastes like hot chocolate, whipped cream, and marshmallows! :D - made by Bloop">
         </a>
+        <a target="_blank" href="https://owlsroost.xyz/">
+            <img src="/graphics/teahouse/teacup/owlroost.png" title="tastes like terracotta - made by owlroost">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
