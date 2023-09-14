@@ -19,14 +19,14 @@ body {
   font-family: 'Asul', sans-serif;
   line-height: 1.6em;
   color: #ffc6ec;
-  font-size: 16px;
+  font-size: 1.2em;
   padding: 2em; 
 }
 
 /* desktop styles */
 @media screen and (min-width: 1024px) {
     body {
-        font-size: 20px;
+        font-size: 1.3em;
     }
 
     h1{
