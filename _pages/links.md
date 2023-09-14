@@ -91,6 +91,12 @@ menu: meta
             <a target="_blank" href="https://pinkvampyr.leprd.space/">
                 <img src="/graphics/linkout/pinkvampyr.gif" title="pinkvampyr">
             </a>
+            <a target="_blank" href="https://paintkiller.neocities.org/">
+                <img src="/graphics/linkout/paintkiller.gif" title="paintkiller">
+            </a>
+            <a target="_blank" href="https://justfluffingaround.neocities.org/">
+                <img src="/graphics/linkout/justfluffingaroundbutton.png" title="Just Fluffing Around">
+            </a>
         </div>
     </summary>
     <center>
