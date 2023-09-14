@@ -83,7 +83,10 @@ menu: meta
                 <img src="/graphics/linkout/sakana.png">
             </a>
             <a target="_blank" href="https://cherrywaves.neocities.org">
-                <img src="/graphics/linkout/cherrywaves.gif">
+                <img src="/graphics/linkout/cherrywaves.gif" title="cherry waves">
+            </a>
+            <a target="_blank" href="https://theabsoluterealm.com/">
+                <img src="/graphics/linkout/theabsolutelrealm.gif" title="the absolute realm">
             </a>
         </div>
     </summary>
