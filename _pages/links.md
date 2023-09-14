@@ -88,6 +88,9 @@ menu: meta
             <a target="_blank" href="https://theabsoluterealm.com/">
                 <img src="/graphics/linkout/theabsolutelrealm.gif" title="the absolute realm">
             </a>
+            <a target="_blank" href="https://pinkvampyr.leprd.space/">
+                <img src="/graphics/linkout/pinkvampyr.gif" title="pinkvampyr">
+            </a>
         </div>
     </summary>
     <center>
