@@ -69,9 +69,9 @@ html[data-theme="dark"] {
   --dropdown-content: #ed9fc42b;
   --dropdown-link-hover: #41333ec7;
   --scrollbar-box-shadow: rgba(100, 84, 94, 1);
-  --scrollbar-bg: rgba(100, 84, 94, 1); 
-  --scrollbar-gradient-start: hsla(308, 16%, 48%, 0.727);
-  --scrollbar-gradient-end: hsla(281, 52%, 18%, 0.19);
+  --scrollbar-bg: rgb(0, 0, 0); 
+  --scrollbar-gradient-start: hsla(281, 52%, 18%, 0.19);
+  --scrollbar-gradient-end: hsla(308, 16%, 48%, 0.727);
   --star-background-url: url(/graphics/layout/v2_space/sparkle.gif);
   --toybox-outline: #fa77d8;
 }
@@ -93,9 +93,9 @@ html[data-theme="dark"] {
     --dropdown-content: #ed9fc42b;
     --dropdown-link-hover: #41333ec7;
     --scrollbar-box-shadow: rgba(100, 84, 94, 1);
-    --scrollbar-bg: rgba(100, 84, 94, 1); 
-    --scrollbar-gradient-start: hsla(308, 16%, 48%, 0.727);
-    --scrollbar-gradient-end: hsla(281, 52%, 18%, 0.19);
+    --scrollbar-bg: rgb(0, 0, 0); 
+    --scrollbar-gradient-start: hsla(281, 52%, 18%, 0.19);
+    --scrollbar-gradient-end: hsla(308, 16%, 48%, 0.727);
     --star-background-url: url(/graphics/layout/v2_space/sparkle.gif);
     --toybox-outline: #fa77d8;
 	}
@@ -545,10 +545,14 @@ a.skip-main:focus, a.skip-main:active {
     background-color: transparent;
 }
 
+::-webkit-scrollbar-track{
+  background-color: var(--scrollbar-bg);
+}
+
 ::-webkit-scrollbar-thumb {
   border-radius: 2ex;
   -webkit-box-shadow: inset 0 0 0px var(--scrollbar-box-shadow); 
-  background: linear-gradient(180deg, var(--scrollbar-gradient-start) 0%, var(scrollbar-gradient-end) 100%);
+  background: linear-gradient(180deg, var(--scrollbar-gradient-start) 0%, var(--scrollbar-gradient-end) 100%);
 } 
 
 /* To avoid a horizontal scrollbar from appearing due to the cursor sparkles */
@@ -559,7 +563,7 @@ html, body {
 }
 
 
-/* Net Neighbors Button Styling */
+/* Text-based 88x31 Button Styling */
 .missing-button {
   transform: scale(calc(1.0 + 1.0 * var(--big)));
   transform-origin: top left;

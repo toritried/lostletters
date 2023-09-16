@@ -14,7 +14,6 @@
   
   .sign-gb {
     width: auto;
-    filter: drop-shadow(0px 0px 4px #018281);
   }
   
   .gb-container, .gb-reply-container, .gb-form-container {
@@ -22,7 +21,6 @@
     padding: 3px;
     background: silver;
     margin: 0 20px 10px 0;
-    filter: drop-shadow(0px 0px 8px #018281);
   }
   
   .gb-reply-container {
