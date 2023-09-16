@@ -6,15 +6,13 @@ emoji: 🏠
 
 <img src="/graphics/site_buttons/LostLetters32x32.gif" align="left" style="margin: 11px 17px 0 10px;" >
 <img src="/graphics/adoptables/dancing-moomin-lostletters.png" style="margin: 10px 0 0 10px;" align="right" width="82px"/>
-You have found Lost Letters, a personal website of a 29th-level female commoner. 
-This site is my amateur and nostalgic contribution to the 
-<a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
-    web revival movement
-</a>
-and an homage to girls' y2k-era online subcultures like 
+You have found Lost Letters, a personal site and nostalgic homage to girls' y2k-era online subcultures like 
 <a target="_blank" href="https://zine.yesterweb.org/issue-00/index.php?page=8">
     pixel playgrounds
-</a>, which will forever hold a fond and formative place in my heart. 
+</a>, which will forever hold a fond and formative place in my heart. Although I'm just a web dev hobbyist who lacks any formal programming training or education, I have tried to contribute to the 
+<a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
+    web revival movement
+</a> through this site and various like-minded communities, including the <a target="_blank" href="https://www.32bit.cafe">32bit.cafe</a>. I hope that this website can inspire fellow web dev amateurs to see themselves as creators of a delightful and fun future internet that is inclusive, brimming with personality, and divorced from corporate social media monopolies.
 Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
 <br>
 <br>
