@@ -19,6 +19,7 @@ This is a collection of resources that helped me create this site, which may hel
 <br>
 <h3>Code Snippets</h3>
 <ul>
+    <li><a target="_blank" href="https://matthewjamestaylor.com/web-design">Matthew James Taylor</a> offers extremely (!!!) helpful and bare bones responsive website layouts that work for desktop and mobile!</li>
     <li><a target="_blank" href="https://sadgrl.online/">sadgrl.online</a> - <a target="_blank" href="https://sadgrl.online/learn/articles/last-update-visitors#">Neocities last update date and visitor count javascript</a></li>
     <li><a target="_blank" href="https://maya.land">maya.land</a> - <a target="_blank" href="https://maya.land/monologues/2020/11/12/external-link-icon-with-css.html">how to add an external link icon with CSS</a>, <a target="_blank" href="https://maya.land/technicalities/svg/">creating 88x31 svg buttons</a></li>
     <li><a target="_blank" href="http://manos.malihu.gr">malihu</a> - <a target="_blank" href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin">jQuery Tooltip styling plugin</a></li>
