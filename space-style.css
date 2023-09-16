@@ -107,12 +107,12 @@ a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
   font-size: 0.8em;
 }
 
-.webring {
+.webrings {
   font-size: 90%;
   line-height: 1.3em;
 }
 
-.webring a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+.webrings a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
   content: "";
 }
 
@@ -163,7 +163,10 @@ img {
 /* Medium screens */
 @media all and (max-width: 800px) {
   .wrapper {
-      margin: -20px;
+      margin: -38px;
+  }
+  .wrapper > * {
+    padding: 20px 15px 0 15px;
   }
 }
 
@@ -270,16 +273,21 @@ word-wrap: normal !important;
 /** index links styling based off of jekyll post nav styling **/
 .index-links {
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
 }
 
-.index-links div {
-  flex: 1 1 0;
+.index-links > * {
+  flex: 1 auto;
 }
     
 .index-links div:last-child {
   text-align: right;
+}
+
+@media all and (min-width: 800px) {
+  .index-links > * {
+    flex: 1 100%
+  }
 }
 
 /** status.cafe styling **/
@@ -308,14 +316,12 @@ hr {
 }
 
 .imgwall {
-  display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
 
 .imgwall img {
-  display: block;
+  display: inline-block;
 }
 
 .quilt {
@@ -624,22 +630,42 @@ html, body {
   * flex-wrap: wrap;
   */
   flex-flow: row wrap;
-
   /* Then we define how is distributed the remaining space */
   align-content: flex-start;
-  align-items: stretch;
-  justify-content: space-between;
+  justify-content: center;
   gap: 20px;
 }
 
 .flex-item {
   width: 42%;  /* Or whatever */
   flex-grow: 1;
-  border: 1px solid #fa77d8;
-  border-radius: 10px;
-  padding: 20px;
-  box-shadow: 0px 0px 10px 2px #fa77d8;
-  font-family: verdana, Arial;
-  font-size: 14px;
-  line-height: 1.6em;
+}
+
+/* container */
+.responsive-two-columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.badgewall {
+  flex: 0 0 48%;
+  line-height: 0em;
+  margin-right:-4px;
+}
+
+.badgewall a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+  content: "";
+  font-size: 0.8em; 
+}
+
+.webrings {
+  flex: 0 0 48%;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+  .badgewall, .webrings {
+    flex: 100%;
+  }
 }

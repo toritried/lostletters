@@ -11,6 +11,15 @@ menu: webcore
         font-family: 'alagard', Arial;
         color: aqua;
     }
+    .flex-item {
+        border: 1px solid #fa77d8;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0px 0px 10px 2px #fa77d8;
+        font-family: verdana, Arial;
+        font-size: 14px;
+        line-height: 1.6em;
+    }
 </style>
 <div class="container">
     <div class="flex-item">

@@ -29,9 +29,9 @@ Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
     <script src="https://status.cafe/current-status.js?name=lostletters" defer></script>
 </div>
 <br>
-<div class="index-links"><!-- Button Wall -->
-  <div>
-    <div class="imgwall">
+<div class="responsive-two-columns">
+    <div class="badgewall"> <!-- Button Wall -->
+        <center>
         <img src="/graphics/toy/tags/transrights.png" title="trans rights!">
         <a target="_blank" href="/pride/">
             <img src="/graphics/toy/tags/lgbt_pan.png" title="pansexual af">
@@ -48,8 +48,7 @@ Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
         <a target="_blank" href="/tamagotchi/">
             <img src="/graphics/toy/tags/tama.png" title="wanna see my collection?">
         </a>
-    </div>
-    <div class="imgwall">
+        <br>
         <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
             <img src="/graphics/linkout/rss.gif" title="Only my freshest blog posts delivered straight to you via RSS!">
         </a>
@@ -83,17 +82,16 @@ Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
         <a target="_blank" href="https://yesterweb.org/no-to-web3/">
             <img src="/graphics/linkout/nft_sadgrl.gif" title="anti-NFT button by sadgrl.online">
         </a>
-        <a target="_blank" href="https://yourdevilfriends.art/freebies.html">
-            <img src="/graphics/linkout/masknow.png" title="Wear a mask now button by Bruno">
+        <a target="_blank" href="https://yourdevilfriends.neocities.org/creative/freebies">
+            <img src="/graphics/linkout/masknow.png" title="Wear a mask now button by devils">
         </a>
         <img src="/graphics/linkout/acab.gif" title="ACAB button - not sure who made this, so please drop me a note if you know who did in my guestbook. Attribution is so important!">
         <a target="_blank" href="https://zanarkand.neocities.org/">
             <img src="/graphics/linkout/bob.gif" title="Powered by bob button by zanarkand">
         </a>
+        </center>
     </div>
-  </div>
-  <div class="index-links-next"><!-- Webrings -->
-    <div class="webring">
+    <div class="webrings">
         <center>
             <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
             <br>
@@ -124,5 +122,4 @@ Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
             <ring-900 site="https://lostletters.neocities.org/"></ring-900>
         </center>
     </div>
-  </div>
 </div>
