@@ -39,6 +39,7 @@ html, html[data-theme="light"] {
     0 / 5em 5em;
   --wrapper-border: 1em solid transparent;
   --dropbtn: #87b3e1;
+  --blog-link: #87b3e1;
   --navbar-hover: #ed9fc42b;
   --dropdown-content: #ed9fc42b;
   --dropdown-link-hover: #ffffff87;
@@ -63,6 +64,7 @@ html[data-theme="dark"] {
   --wrapper-bg: ;
   --wrapper-border: 1px solid var(--light-color);
   --dropbtn: #c09dba;
+  --blog-link: #c09dba;
   --navbar-hover: #41333ec7;
   --dropdown-content: #ed9fc42b;
   --dropdown-link-hover: #41333ec7;
@@ -86,6 +88,7 @@ html[data-theme="dark"] {
     --wrapper-bg: ;
     --wrapper-border: 1px solid var(--light-color);
     --dropbtn: #c09dba;
+    --blog-link: #c09dba;
     --navbar-hover: #41333ec7;
     --dropdown-content: #ed9fc42b;
     --dropdown-link-hover: #41333ec7;
@@ -122,6 +125,7 @@ html[data-theme="dark"] {
       0 / 5em 5em;
       --wrapper-border: 1em solid transparent;
     --dropbtn: #87b3e1;
+    --blog-link: #87b3e1;
     --navbar-hover: #ed9fc42b;
     --dropdown-content: #ed9fc42b;
     --dropdown-link-hover: #ffffff87;
@@ -233,6 +237,15 @@ a:hover {
 a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
     content: " \2924";
     font-size: 0.8em;
+}
+
+.blog-link{
+  color: var(--blog-link);
+  display: inline-block;
+  white-space: nowrap;
+  padding: 3px 6px;
+  font-family: inherit;
+  cursor: pointer;
 }
 
 .quilt a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
