@@ -4,7 +4,7 @@ let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)");
 // the system preferences 
 let theme = sessionStorage.getItem('theme');
 if (systemInitiatedDark.matches) {
-	document.getElementById("theme-toggle").innerHTML = "Light Mode";
+	document.getElementById("theme-toggle").innerHTML = "🌞";
 } else {
 	document.getElementById("theme-toggle").innerHTML = "🌚";
 }
