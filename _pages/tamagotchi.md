@@ -188,6 +188,11 @@ For a free vpet, consider getting a tamaNOTchi (below) or check out my <a href="
     <summary><b>Shrines</b></summary>
 <ul>
     <li>
+        <a target="_blank" href="https://moonview.neocities.org/shrines/tamagotchi">
+            A tamagotchi introduction and collection at moonview
+        </a>
+    </li>
+    <li>
         <a target="_blank" href="https://cinni.net/shrine/tama/">
             Cinni's collection
         </a>
