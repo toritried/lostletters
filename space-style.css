@@ -474,8 +474,8 @@ hr {
 }
 
 .imgwall {
-  align-items: center;
-  justify-content: center;
+  font-size: 0;
+  line-height: 0em;
 }
 
 .imgwall img {
@@ -641,6 +641,7 @@ html, body {
   flex: 0 0 48%;
   line-height: 0em;
   margin-right:-4px;
+  font-size: 0;
 }
 
 .badgewall a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
