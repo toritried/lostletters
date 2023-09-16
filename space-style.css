@@ -12,15 +12,164 @@
   font-family: "DIEDIEDIE";
   src: url("/fonts/DIEDIEDIE.TTF") format("truetype");
 }
-  
+/* light mode color scheme */
+html, html[data-theme="light"] { 
+  --light-text-color: rgb(72, 72, 74);
+  --link-color: #87b3e1;
+  --link-hover-fill: #4895e6;
+  --link-hover-shadow: #4895e6;
+  --main-background-color: rgb(255, 255, 255);
+  --main-text-color: hsl(0, 0%, 36%);
+  --background-image: url('/graphics/layout/hip-square.png'); /*https://www.toptal.com/designers/subtlepatterns/graph-paper/*/
+  --wrapper-bg-color:
+    linear-gradient(#fff, #fff) padding-box,
+    repeating-linear-gradient(-45deg,
+  #f69ec4 0, #f69ec4 12.5%,
+  #ffffff 0, #ffffff 25%,
+  #7eb4e2 0, #7eb4e2 37.5%,
+  #ffffff 0, #ffffff 50%)
+    0 / 5em 5em;
+    --wrapper-bg:linear-gradient(#fff, #fff)
+    padding-box,
+    repeating-linear-gradient(-45deg,
+    #f69ec4 0, #f69ec4 12.5%,
+    #ffffff 0, #ffffff 25%,
+    #7eb4e2 0, #7eb4e2 37.5%,
+    #ffffff 0, #ffffff 50%)
+    0 / 5em 5em;
+  --wrapper-border: 1em solid transparent;
+  --dropbtn: #87b3e1;
+  --navbar-hover: #ed9fc42b;
+  --dropdown-content: #ed9fc42b;
+  --dropdown-link-hover: #ffffff87;
+  --scrollbar-box-shadow: rgb(238 159 197);
+  --scrollbar-bg: rgb(239 235 228);
+  --scrollbar-gradient-start: rgb(239 235 228);
+  --scrollbar-gradient-end: rgb(238 159 197);
+  --star-background-url: ;
+  --toybox-outline: #f6d1e3;
+}
+
+/* dark mode color scheme */
+html[data-theme="dark"] {
+  --light-text-color: hsl(0, 0%, 10%);
+  --link-color: #ff7add;
+  --link-hover-fill: #f74acb;
+  --link-hover-shadow: #f74acb;
+  --main-background-color: rgb(28, 28, 30);
+  --main-text-color: hsl(320, 100%, 89%);
+  --background-image: url('/graphics/layout/v2_space/slow-star.gif');
+  --wrapper-bg-color: #34072d6b;
+  --wrapper-bg: ;
+  --wrapper-border: 1px solid var(--light-color);
+  --dropbtn: #c09dba;
+  --navbar-hover: #41333ec7;
+  --dropdown-content: #ed9fc42b;
+  --dropdown-link-hover: #41333ec7;
+  --scrollbar-box-shadow: rgba(100, 84, 94, 1);
+  --scrollbar-bg: rgba(100, 84, 94, 1); 
+  --scrollbar-gradient-start: hsla(308, 16%, 48%, 0.727);
+  --scrollbar-gradient-end: hsla(281, 52%, 18%, 0.19);
+  --star-background-url: url(/graphics/layout/v2_space/sparkle.gif);
+  --toybox-outline: #fa77d8;
+}
+@media (prefers-color-scheme: dark) {
+	html, html[data-theme="dark"] {
+		--light-text-color: hsl(0, 0%, 10%);
+  	--link-color: #ff7add;
+    --link-hover-fill: #f74acb;
+    --link-hover-shadow: #f74acb;
+  	--main-background-color: rgb(28, 28, 30);
+  	--main-text-color: hsl(320, 100%, 89%);
+    --background-image: url('/graphics/layout/v2_space/slow-star.gif');
+    --wrapper-bg-color: #34072d6b;
+    --wrapper-bg: ;
+    --wrapper-border: 1px solid var(--light-color);
+    --dropbtn: #c09dba;
+    --navbar-hover: #41333ec7;
+    --dropdown-content: #ed9fc42b;
+    --dropdown-link-hover: #41333ec7;
+    --scrollbar-box-shadow: rgba(100, 84, 94, 1);
+    --scrollbar-bg: rgba(100, 84, 94, 1); 
+    --scrollbar-gradient-start: hsla(308, 16%, 48%, 0.727);
+    --scrollbar-gradient-end: hsla(281, 52%, 18%, 0.19);
+    --star-background-url: url(/graphics/layout/v2_space/sparkle.gif);
+    --toybox-outline: #fa77d8;
+	}
+  html[data-theme="light"] { 
+    --light-text-color: rgb(72, 72, 74);
+    --link-color: #87b3e1;
+    --link-hover-fill: #4895e6;
+    --link-hover-shadow: #4895e6;
+    --main-background-color: rgb(255, 255, 255);
+    --main-text-color: hsl(0, 0%, 36%);
+    --background-image: url('/graphics/layout/hip-square.png'); /*https://www.toptal.com/designers/subtlepatterns/graph-paper/*/
+    --wrapper-bg-color:
+      linear-gradient(#fff, #fff) padding-box,
+      repeating-linear-gradient(-45deg,
+    #f69ec4 0, #f69ec4 12.5%,
+    #ffffff 0, #ffffff 25%,
+    #7eb4e2 0, #7eb4e2 37.5%,
+    #ffffff 0, #ffffff 50%)
+      0 / 5em 5em;
+      --wrapper-bg:linear-gradient(#fff, #fff)
+      padding-box,
+      repeating-linear-gradient(-45deg,
+      #f69ec4 0, #f69ec4 12.5%,
+      #ffffff 0, #ffffff 25%,
+      #7eb4e2 0, #7eb4e2 37.5%,
+      #ffffff 0, #ffffff 50%)
+      0 / 5em 5em;
+      --wrapper-border: 1em solid transparent;
+    --dropbtn: #87b3e1;
+    --navbar-hover: #ed9fc42b;
+    --dropdown-content: #ed9fc42b;
+    --dropdown-link-hover: #ffffff87;
+    --scrollbar-box-shadow: rgb(238 159 197);
+    --scrollbar-bg: rgb(239 235 228);
+    --scrollbar-gradient-start: rgb(239 235 228);
+    --scrollbar-gradient-end: rgb(238 159 197);
+    --star-background-url: ;
+    --toybox-outline: #f6d1e3;
+  }
+}
+
 body {
-  background-color: #1a1a1a;
-  background-image: url('/graphics/layout/v2_space/slow-star.gif');
+  background-color: var(--background-color);
+  background-image: var(--background-image);
   font-family: 'Asul', sans-serif;
   line-height: 1.6em;
-  color: #ffc6ec;
+  color: var(--main-text-color);
   font-size: 1.2em;
   padding: 2em; 
+}
+
+/* tweaked from melonking.net */
+#star-background {
+  background-image: var(--star-background-url);
+  opacity: .45;
+  position: fixed;
+  width: 500%;
+  height: 500%;
+  top: -250%;
+  left: -250%;
+  z-index: -5;
+  animation-name: spin;
+  animation-duration: 1400s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation-fill-mode: forwards;
+}
+
+@keyframes spin {
+  from {
+      transform: rotate(0deg);
+  }
+  to {
+      transform: rotate(360deg);
+  }
 }
 
 /* desktop styles */
@@ -66,22 +215,16 @@ p {
   margin-right: -1ex; 
 }
 
-strong, b {
-  background: -webkit-linear-gradient(#fff6e7, #ff9f00);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 a {
-  color: #ff7add;
+  color: var(--link-color);
   text-decoration: none;
   cursor: pointer;
 }
 
 a:hover {
-  -webkit-text-fill-color: #f74acb; /** needed given styling of bolded links **/
+  -webkit-text-fill-color: var(--link-hover-fill); /** needed given styling of bolded links **/
   text-decoration: none;
-  text-shadow: 2px 2px 4px #f74acb;
+  text-shadow: 2px 2px 4px var(--link-hover-shadow);
   position: relative;
   left: 1.5px;
   top: 1.5px;
@@ -128,13 +271,14 @@ img {
 .wrapper {
   display: flex;  
   flex-flow: row wrap;
-  background-color: #34072d6b;
-  box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
-  border: 1px solid var(--light-color);
-  border-radius: 35px;
   transition: 0.5s all ease;
-  backdrop-filter: blur(2px);
   height: 100%;
+  background: var(--wrapper-bg);
+  background-color: var(--wrapper-bg-color);
+  box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
+  border: var(--wrapper-border);
+  border-radius: 35px;
+  backdrop-filter: blur(2px);
 }
 
 .wrapper > * {
@@ -183,7 +327,7 @@ img {
 .dropbtn { 
   border: none;
   outline: none;
-  color: #c09dba;
+  color: var(--dropbtn);
   font-size: 1em;
   padding: 6px;
   background-color: inherit;
@@ -193,13 +337,13 @@ img {
 }
 
 .navbar a:hover, .dropbtn:hover {
-  background-color: #41333ec7;
+  background-color: (var(--navbar-hover));
   border-radius: 12px;
 }
 
 .dropdown-content {
   display: none;
-  background-color: #41333e78;
+  background-color: var(--dropdown-content);
   border-radius: 12px;
 }
 
@@ -212,8 +356,9 @@ img {
 }
 
 .dropdown-content a:hover {
-  background-color: #41333ec7;
+  background-color: var(--dropdown-link-hover);
   display: inline-block;
+  border-radius: 12px;
 }
 
 .fa-caret-down:before {
@@ -336,30 +481,6 @@ hr {
   image-rendering: pixelated;
 }
 
-/** q*bee img entry point on top left
-removed because of weird behavior on hover
-
-.quilt-link {
-  position: absolute;
-  top: 2px;
-  left: 10px; 
-  animation: bobbing 2s ease-in-out infinite;
-  animation-direction: alternate;
-  filter: drop-shadow(0px 0px 5px #ffc973);
-  image-rendering: pixelated;
-  display: inline;
-}
-
-@keyframes bobbing {
-  0% {
-      transform: translateY(6px);
-  }
-  100% {
-      transform: translateY(-6px);
-  }
-}
-**/
-
 pre {
   padding: 8px 12px;
   overflow-x: auto;
@@ -413,9 +534,8 @@ a.skip-main:focus, a.skip-main:active {
 
 ::-webkit-scrollbar-thumb {
   border-radius: 2ex;
-  -webkit-box-shadow: inset 0 0 0px rgba(100, 84, 94, 1); 
-  background:rgba(100, 84, 94, 1); 
-  background: linear-gradient(180deg, rgba(141, 103, 136, 0.727) 0%, rgb(55 22 70 / 19%) 100%);
+  -webkit-box-shadow: inset 0 0 0px var(--scrollbar-box-shadow); 
+  background: linear-gradient(180deg, var(--scrollbar-gradient-start) 0%, var(scrollbar-gradient-end) 100%);
 } 
 
 /* To avoid a horizontal scrollbar from appearing due to the cursor sparkles */
@@ -425,124 +545,6 @@ html, body {
   overflow-y: overlay;
 }
 
-/* Guestbook styling */
-.guestbook {
-  overflow: hidden;
-}
-
-.gb-entry {
-  display: none; /* Hidden by default */
-}
-
-/* The "show" class is added to the filtered guestbook entries*/
-.show {
-  display: block;
-}
-
-.sign-gb {
-  width: auto;
-  filter: drop-shadow(0px 0px 4px #018281);
-}
-
-.gb-container, .gb-reply-container, .gb-form-container {
-  box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #dfdfdf, inset -2px -2px grey, inset 2px 2px #fff;
-  padding: 3px;
-  background: silver;
-  margin: 0 20px 10px 0;
-  filter: drop-shadow(0px 0px 8px #018281);
-}
-
-.gb-reply-container {
-  margin: 0 0 20px 20px;
-}
-
-.gb-form-container{
-  width: 80%;
-  margin: 0;
-}
-
-@font-face {
-  font-family: 'Pixel Sans Serif';
-  src: url('/fonts/Pixel\ Sans\ Serif.ttf');
-}
-
-.gb-meta, .gb-reply-meta {
-  background: linear-gradient(90deg,#018281,#962e8d);
-  padding: 0 0 0 4px;
-  color: #ffffff;
-  border: 2px outset silver;
-  font-family: 'Pixel Sans Serif', Arial;
-  font-size: 40%;
-  -webkit-font-smoothing: none;
-  line-height: 3em;
-}
-
-.gb-meta a, .gb-reply-meta a {
-  color: #ffffff;
-}
-.gb-reply-container a, .gb-message a {
-  color: #962e8d;
-}
-.gb-reply-container a:hover {
-  -webkit-text-fill-color: #962e8d; /** needed given styling of bolded links **/
-  text-shadow: none;
-}
-
-.gb-reply-meta {
-  background: linear-gradient(90deg,#490b64,#018281);
-}
-
-@font-face {
-  font-family: w95fa;
-  src: url("/fonts/w95fa.woff") format("woff");
-}
-
-.gb-message, .gb-reply {
-  padding: 1%;
-  color: #1a1a1a;
-  font-family: 'w95fa';
-  line-height: 1.2em;
-  font-size: 14px;
-}
-
-.gb-button, input[type=reset], input[type=submit], .btn {
-  border: none;
-  border-radius: 0;
-  box-sizing: border-box;
-  color: transparent;
-  min-height: 23px;
-  min-width: 75px;
-  padding: 0 12px;
-  text-shadow: 0 0 #222;
-  font-family: 'w95fa';
-  font-size: 14px;
-}
-
-.gb-button, input[type=reset], input[type=submit], .btn {
-  background: silver;
-  box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
-}
-
-.gb-button:hover, .btn:hover {
-  position: relative;
-  left: 1.5px;
-  top: 1.5px;
-  box-shadow: inset -1px -1px #fff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px grey;
-}
-
-.gb-form {
-  padding: 3%;
-  color: #1a1a1a;
-  font-family: 'w95fa';
-  line-height: 1.2em;
-  font-size: 14px;
-}
-
-.gb-form, input, textarea {
-  width: 96%;
-  margin-bottom: 0.5em;
-  border-radius: 0;
-}
 
 /* Net Neighbors Button Styling */
 .missing-button {
@@ -577,45 +579,8 @@ html, body {
   text-shadow: none;
 }
 
-/* tweaked from melonking.net */
-#star-background {
-  background-image: url(/graphics/layout/v2_space/sparkle.gif);
-  opacity: .45;
-  position: fixed;
-  width: 500%;
-  height: 500%;
-  top: -250%;
-  left: -250%;
-  z-index: -5;
-  animation-name: spin;
-  animation-duration: 1400s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  transform-box: fill-box;
-  transform-origin: center;
-  animation-fill-mode: forwards;
-}
-
-@keyframes spin {
-  from {
-      transform: rotate(0deg);
-  }
-  to {
-      transform: rotate(360deg);
-  }
-}
-
 .envelope { /* https://sharkcoder.com/visual/borders */
   padding: 1em;
-  border: 1em solid transparent;
-  background: linear-gradient(#160415, #160415)
-              padding-box,
-              repeating-linear-gradient(-45deg,
-              #f69ec4 0, #f69ec4 12.5%,
-              #ffffff 0, #ffffff 25%,
-              #7eb4e2 0, #7eb4e2 37.5%,
-              #ffffff 0, #ffffff 50%)
-              0 / 5em 5em;
 }
 
 /* Flexbox / Flex */
@@ -641,6 +606,17 @@ html, body {
   flex-grow: 1;
 }
 
+.toy-flex-item {
+  border: 1px solid var(--toybox-outline);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px 2px var(--toybox-outline);
+  font-family: verdana, Arial;
+  font-size: 14px;
+  line-height: 1.6em;
+  width: 42%;  /* Or whatever */
+  flex-grow: 1;
+}
 /* container */
 .responsive-two-columns {
   display: flex;

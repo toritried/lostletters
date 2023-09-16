@@ -6,6 +6,7 @@ permalink: /guestbook/
 menu: site
 ---
 
+<link href="/guestbook.css" rel="stylesheet" type="text/css" media="all">
 <center>
     <img src="/graphics/layout/v2_space/gb-spin.gif" class="sign-gb">
     <br>

@@ -6,28 +6,13 @@ permalink: /toybox/
 menu: webcore
 ---
 
-<style>
-    h2 {
-        font-family: 'alagard', Arial;
-        color: aqua;
-    }
-    .flex-item {
-        border: 1px solid #fa77d8;
-        border-radius: 10px;
-        padding: 20px;
-        box-shadow: 0px 0px 10px 2px #fa77d8;
-        font-family: verdana, Arial;
-        font-size: 14px;
-        line-height: 1.6em;
-    }
-</style>
 <div class="container">
-    <div class="flex-item">
-        <h2>The Pixel Toybox Era</h2>
+    <div class="toy-flex-item">
+        <h2 style="font-family: 'alagard', Arial;">The Pixel Toybox Era</h2>
         <img src="/graphics/toy/cakepink.gif" align="left" style="margin: 5px;" title="made by duckyfeet, linked below">Around 2003, I had moved on from my roots, coding HTML neopets pet pages. I was briefly on freewebs before I made a good enough website and layout to apply for hosting. My host kindly provided me an FTP login, and I would manually edit my HTML files using <a target="_blank" href="https://cutephp.com">CuteNews</a><img src="/graphics/toy/soda1b.gif" align="right" style="margin: 5px;" title="made by jo of Whimsical!, linked below"> to update my site. This was a world that lived alongside but separate from Wordpress, a world before Tumblr had taken off. This was a web meticulously crafted by teenage girls who created their own pixel paradises or punchy green day-themed vector layout complete with lots of visual overlays and eyeliner. These personal sites acted as portfolios of art with <img src="/graphics/toy/harbortaffy_lobster.gif" align="left" style="margin: 5px;" title="made by Bitmap Dreams, linked below">free to use graphics ("sozai" in Japanese) and pixel art adoptables to be added to your toybox, a <a target="_blank" href="https://www.cbox.ws/">cbox</a> to leave comments, a button wall filled with 88x31 and 32x32 buttons to "affies", and a minimal <img src="/graphics/toy/nyan_strawbshort.gif" align="right" style="margin: 5px;" title="made by lejlart, linked below">about me with a tour of what's in my bag. We connected over Harmonyland and Teahouse MB forums daily. <a target="_blank" href="https://cinni.net/">Cinni</a> also captures this period well in her post, <a target="_blank" href="https://zine.yesterweb.org/issue-00/index.php?page=8"><i>i dream of pixel paradise</i></a>.
     </div>
-    <div class="flex-item">
-        <h2>My Toybox</h2>
+    <div class="toy-flex-item">
+        <h2 style="font-family: 'alagard', Arial;">My Toybox</h2>
         <div class="noext">
             <a target="_blank" href="https://pixelins.tumblr.com/">
             <img src="/graphics/toy/pixelins.gif">
@@ -122,8 +107,8 @@ menu: webcore
             <b>credit disclaimer</b>: whenever possible, original creators are given credit for their work, but there are a few pixels that I couldn't trace to original sources. I really want to ensure correct attribution, so I would sincerely appreciate it if you could please reach out via the guestbook if you know one of the original artists that I'm missing. &#9825;
         </div>
     </div>
-    <div class="flex-item">
-        <h2>Halloween 2022</h2>
+    <div class="toy-flex-item">
+        <h2 style="font-family: 'alagard', Arial;">Halloween 2022</h2>
         These treats were collected from <a target="_blank" href="https://yesterweb.org/trickortreat2022/">Yesterweb's 2022 Trick-or-Treat event</a>.
         <br>
         <br>
@@ -179,8 +164,8 @@ menu: webcore
             </a>
         </div>
     </div>
-    <div class="flex-item">
-        <h2>Surviving Pixel Websites From That Era</h2>
+    <div class="toy-flex-item">
+        <h2 style="font-family: 'alagard', Arial;">Surviving Pixel Websites From That Era</h2>
         While you can experience quite a bit of this era of mostly static sites just by browsing the Internet Archive, there are still a handful of these sites that are live, allowing you to fully immerse yourself in it. I vividly and fondly recall visiting these sites as a kid and marveling at these folks' incredible artistic talent. I still am in awe nearly 20 years later. Please check these sites out:
         <br>
         <br>
@@ -199,8 +184,8 @@ menu: webcore
         </ul>
         <hr>
     </div>
-    <div class="flex-item">
-        <h2>Pixel Clubs</h2>
+    <div class="toy-flex-item">
+        <h2 style="font-family: 'alagard', Arial;">Pixel Clubs</h2>
         During this time, pixel clubs were a popular way to participate and collect art from each other. The most famous pixel art club was <a href="/quilt/">the quilting bee</a>, but there were many smaller ones which were much easier to join. This still remains popular today with new pixel clubs popping up all the time. I've listed a couple here which are categorized into clubs that are revivals of bygone ones, "new" clubs that didn't originate from the early 2000s era, and a few clubs that are archived without any person who has tried to revive it (note: several neocities folks have put up yum-yum shoppe pages but link to the internet archive page).
         <br>
         <br>
@@ -232,8 +217,8 @@ menu: webcore
         <br>
         [ Archived ] <a target="_blank" href="https://web.archive.org/web/20091028051422/http://www.geocities.com/heathershomedaycare/snowflakes.html">Snowflakes</a>
     </div>
-    <div class="flex-item">
-    <h2>My Pixel Art & Sozai</h2>
+    <div class="toy-flex-item">
+    <h2 style="font-family: 'alagard', Arial;">My Pixel Art & Sozai</h2>
     Here's a couple of pieces of pixel art that I made for you to adopt and sprinkle throughout your site: 
     <br>
     <br>
@@ -262,8 +247,8 @@ menu: webcore
         <li><b>DO NOT</b> edit, copy, or use in your art works, products, or services.</li>
     </ul>
     </div>
-    <div class="flex-item">
-        <h2>About This Page</h2>
+    <div class="toy-flex-item">
+        <h2 style="font-family: 'alagard', Arial;">About This Page</h2>
         <img src="/graphics/toy/forest3.gif" align="right" style="margin: 5px;" title="made by duckyfeet, linked below">
         I reworked my toybox page as my entry for the <a target="_blank" href="https://itch.io/jam/oldweb-nostalgia-jam">Oldweb Nostalgia Jam</a> hosted by <a target="_blank" href="https://metaparadox.neocities.org/">Metaparadox</a>. 
         <br>
