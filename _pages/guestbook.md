@@ -56,6 +56,14 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#99 | September 15, 2023, 03:35 | <a target="_blank" href="http://luvxury.neocities.org">Joanna</a></div>
+            <div class="gb-message">
+                Love your site so much! The colours, fonts, vibes make me so happy! Haha totally relate to being a goblin who loves weird things, even though I usually walk around like a normie Disney Princess most of the time - if a Disney Princess can be normie lol. So excited to discover the web revival community!! Thanks for sharing and inspiring!!! xoxo!!
+            </div>
+        </div>
+    </div>
     <div class="gb-entry tea">
         <div class="gb-container">
             <div class="gb-meta">#98 | September 09, 2023, 10:44 | <a target="_blank" href="https://floral-tears.neocities.org/">floral-tears</a></div>
