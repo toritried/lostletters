@@ -7,12 +7,12 @@ menu: about
 ---
 
 <h2>Hail & Well Met,</h2> 
-I started learning to code thanks to Neopets in ~2003, which inspired me <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 0 10px 0 0;" align="left" />to pour my heart into subpar pixel art and website layouts drawn in MS Paint and Photoshop. I'm so glad I never let my frustrating mediocrity stop me from participating in the pixel communities of that time, because I made so many good memories (q*bee, Teahouse MB) and learned some basics of HTML, CSS, and PHP.  
+I started informally teaching myself to code thanks to Neopets in ~2003, which inspired me <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 0 10px 0 0;" align="left" />to pour my heart into subpar pixel art and website layouts drawn in MS Paint and Photoshop. I'm so glad I never let my frustrating mediocrity stop me from participating in the pixel communities of that time, because I made so many good memories (q*bee, Teahouse MB) and learned some basics of HTML, CSS, and PHP.  
 <br>
 <div class="noext">
     <a target="_blank" href="https://www.deviantart.com/sqdpxl/art/moomin-to-the-groove-811004899"><img src="/graphics/toy/moomin_by_SqdPxl.gif" style="margin: 0 0 0 10px;" align="right" title="click for artist"/></a>
 </div>
-In the intervening decades, I thoroughly dismissed the idea of ever taking any of my hobbies like web development seriously, but I still brushed off my elementary coding skills a few times, learning things like FTP to host my own site and domain, so I could participate in online TCGs, including <a target="_blank" href="https://tcg.fandom.com/wiki/Zest">Zest</a>. These were not like Pokemon or YuGiOh!, because <i>online trading</i> was the game. Through trading cards, you'd collect enough cards to master decks and level up. It used to be horrendously manual; however, I was recently shocked to find and subsequently became entirely consumed by newer, fully automated TCGs like <a target="_blank" href="https://heavenspell.la-impresion.org/TCG/">Trading Base</a>. Curiously, it seems like the TCG player base is still heavily female like the previous online spaces I've mentioned.
+In the intervening decades, I thoroughly dismissed the idea of ever taking any of my hobbies like web development seriously, but I still brushed off my elementary coding skills a few times in addition to learning things like FTP to host my own site and domain, so I could participate in online TCGs, including <a target="_blank" href="https://tcg.fandom.com/wiki/Zest">Zest</a>. These were not like Pokemon or YuGiOh!, because <i>online trading</i> was the game. Through trading cards, you'd collect enough cards to master decks and level up. It used to be horrendously manual; however, I was recently shocked to find and subsequently became entirely consumed by newer, fully automated TCGs like <a target="_blank" href="https://heavenspell.la-impresion.org/TCG/">Trading Base</a>. Curiously, it seems like the TCG player base is still heavily female like the previous online spaces I've mentioned.
 <br>
 <br>
 The boredom of the pandemic finally gave me the inspiration and judgement-free opportunity to explore those hobbies of yore again, leading me back to the threadbare remnants of the early internet I so enjoyed as a child. What started out as setting a goal to earn 10 million neopoints after all these years to achieve "ultimate riches" on Neopets quickly snowballed into discovering the yesterweb and web revival. All of a sudden, I was up until 2am, filled with a sense of urgency to pick back up as much as I could of the early internet of my childhood, which I felt like I was close to losing forever. That urgency inspired this website, so if it feels like an incoherent fever-dream, that's because it is.
@@ -46,7 +46,7 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
         updateCounter(targetDate1, "counter1");
         updateCounter(targetDate2, "counter2");
         updateCounter(targetDate3, "counter3");
-        updateCounter(targetDate3, "counter4");
+        updateCounter(targetDate4, "counter4");
         function updateCounter(targetDate, counterId) {
             var duration = currentDate - targetDate;
             var years = Math.floor(duration / 3.154e+10);
@@ -54,7 +54,10 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
             var months = Math.floor(duration / 2.628e+9) % 12;
             var durationMinusMonths = durationMinusYears - (months * 2.628e+9);
             var days = Math.floor(durationMinusMonths / 8.64e+7);
-            document.getElementById(counterId).innerHTML = years + " years, " + days + " days";
+            var hours = Math.floor(duration / 3.6e+6 ) % 24;
+            var mins = Math.floor(duration / 60000 ) % 60;
+            var secs = Math.floor(duration / 1000 ) % 60;
+            document.getElementById(counterId).innerHTML = years + " years, " + days + " days," + hours + " hours," + mins " minutes";
         }
     }
 </script>
