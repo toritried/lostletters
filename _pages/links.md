@@ -109,6 +109,9 @@ menu: meta
             <a href="https://abyssbloom.neocities.org/" target="_blank">
                 <img src="/graphics/linkout/abyssbloom.png" title="Abyss Bloom">
             </a>
+            <a href="https://screamingegg.neocities.org/" target="_blank">
+                <img src="/graphics/linkout/screamingegg.png" title="Screaming Egg!">
+            </a>
         </div>
     </summary>
     <center>
