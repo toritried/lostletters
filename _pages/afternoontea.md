@@ -189,6 +189,9 @@ menu: webcore
         <a target="_blank" href="https://owlsroost.xyz/">
             <img src="/graphics/teahouse/teacup/owlroost.png" title="tastes like terracotta - made by owlroost">
         </a>
+        <a target="_blank" href="https://forgettablename.neocities.org/">
+            <img src="/graphics/teahouse/teacup/forgettablename.gif" title="tastes like a half empty water bottle drunk in the middle of the night - made by katrina">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">

@@ -56,6 +56,28 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#101 | September 23, 2023, 13:11 | <a target="_blank" href="https://forgettablename.neocities.org/">katrina</a></div>
+            <div class="gb-message">
+                heres my cup: https://files.catbox.moe/pvi20e.gif!! it tastes like a half empty water bottle drunk in the middle of the night. URL: https://forgettablename.neocities.org/
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry other">
+        <div class="gb-container">
+            <div class="gb-meta">#100 | September 20, 2023, 02:50 | Diane</div>
+            <div class="gb-message">
+                In response to: ‘One thing that bothers me about this so far is that this all seems a bit “pull yourself up by your bootstraps”, so I want to seek out BIPOC and disabled perspectives on this to understand and acknowledge the role that systems of oppression play within this paradigm.’
+                <br>
+                <br>
+                This might not be a 100% perfect match, but this reminded me of an Instagram post I saw recently. Maybe it could at least point you to some interesting leads: https://www.instagram.com/p/Co5t78-uMbt/
+                <br>
+                <br>
+                (Also hello! Hope it’s not creepy that I dropped by! Love the light/dark theme!!)
+            </div>
+        </div>
+    </div>
     <div class="gb-entry love">
         <div class="gb-container">
             <div class="gb-meta">#99 | September 15, 2023, 03:35 | <a target="_blank" href="http://luvxury.neocities.org">Joanna</a></div>
