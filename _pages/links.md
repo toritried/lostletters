@@ -110,6 +110,9 @@ menu: meta
     <a href="https://screamingegg.neocities.org/" target="_blank">
         <img src="/graphics/linkout/screamingegg.png" title="Screaming Egg!">
     </a>
+    <a href="https://forgettablename.neocities.org/" target="_blank">
+        <img src="/graphics/linkout/forgettablename.gif" title="Hello World">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use the buttons on my homepage, but please download and host them yourself.</text>

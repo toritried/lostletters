@@ -56,6 +56,14 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#102 | September 27, 2023, 01:44 | <a target="_blank" href="https://forgettablename.neocities.org/">katrina</a></div>
+            <div class="gb-message">
+                hey! i would like to let you know that I have linked to your site. if you are interested in becoming net neighbors with me, I have my two 88x31s in the bottom of my site (that's where I also put your button). awesome site!!
+            </div>
+        </div>
+    </div>
     <div class="gb-entry tea">
         <div class="gb-container">
             <div class="gb-meta">#101 | September 23, 2023, 13:11 | <a target="_blank" href="https://forgettablename.neocities.org/">katrina</a></div>
