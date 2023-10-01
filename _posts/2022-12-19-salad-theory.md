@@ -1,8 +1,10 @@
 ---
-layout:  post
-title:  "Salads for Adult Consumption"
-date:  2022-12-19 21:02
-tags:  [salad, adulting, self care]  
+layout: post
+title: Salads for Adult Consumption
+date: 2022-12-19 21:02
+tags:
+  - salad
+  - adulting
 ---
 I'm nearly 30 and, although I can whip up cooked meals with ease and confidence, I have nearly zero intuition when it comes to making a satisfying leafy salad. As a vegan, I've been subjected to many a sad, cold salad as the only vegan option at a restaurant, which has led me to kind of resent them, honestly. However, when I eat a lot of veggies, my skin is clearer, and I don't get acid reflux before sleeping, so I'm going to try to take care of myself by learning “salad theory”.   
 <!--excerpt-->

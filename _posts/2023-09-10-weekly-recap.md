@@ -7,7 +7,6 @@ tags:
   - reflection
   - fun
   - learning
-  - now
   - food
   - weekly-recap
 ---
