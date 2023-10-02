@@ -56,6 +56,14 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry tea">
+        <div class="gb-container">
+            <div class="gb-meta">#103 | October 03, 2023, 00:33 | <a target="_blank" href="http://surlybutterfly.net/">Surly Butterfly</a></div>
+            <div class="gb-message">
+                Hello! I'm so glad I came across your website - it inspired me to work on websites and fanlistings again. Thank you! I'd always wanted to join the qBee, and now I can join Afternoon Tea :) My cup is here: http://surlybutterfly.net/images/tea/01.gif and the URL is http://surlybutterfly.net/
+            </div>
+        </div>
+    </div>
     <div class="gb-entry love">
         <div class="gb-container">
             <div class="gb-meta">#102 | September 27, 2023, 01:44 | <a target="_blank" href="https://forgettablename.neocities.org/">katrina</a></div>

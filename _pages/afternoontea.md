@@ -192,6 +192,9 @@ menu: webcore
         <a target="_blank" href="https://forgettablename.neocities.org/">
             <img src="/graphics/teahouse/teacup/forgettablename.gif" title="tastes like a half empty water bottle drunk in the middle of the night - made by katrina">
         </a>
+        <a target="_blank" href="http://surlybutterfly.net/">
+            <img src="/graphics/teahouse/teacup/surlybutterfly.gif" title="made by Surly Butterfly">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
