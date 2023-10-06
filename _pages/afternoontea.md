@@ -195,6 +195,9 @@ menu: webcore
         <a target="_blank" href="http://surlybutterfly.net/">
             <img src="/graphics/teahouse/teacup/surlybutterfly.gif" title="made by Surly Butterfly">
         </a>
+        <a target="_blank" href="https://oldwebperson.neocities.org/">
+            <img src="/graphics/teahouse/teacup/oldwebperson.png" title="tastes like Elmer's Glue - made by oldwebperson">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
