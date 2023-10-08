@@ -119,6 +119,9 @@ menu: meta
     <a href="https://spiritcellar.neocities.org/" target="_blank">
         <img src="/graphics/linkout/spiritcellar_badge.gif" title="Spirit Cellar">
     </a>
+    <a href="https://creaturefeature.neocities.org/" target="_blank">
+        <img src="/graphics/linkout/creaturefeature.png" title="creature feature">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use the buttons on my homepage, but please download and host them yourself.</text>
