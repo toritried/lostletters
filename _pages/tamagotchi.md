@@ -6,47 +6,7 @@ permalink: /tamagotchi/
 menu: webcore
 ---
 
-<style>
-    .container {
-        /* We first create a flex layout context */
-        display: flex;
-
-        /* Then we define the flow direction 
-            and if we allow the items to wrap 
-        * Remember this is the same as:
-        * flex-direction: row;
-        * flex-wrap: wrap;
-        */
-        flex-flow: row wrap;
-
-        /* Then we define how is distributed the remaining space */
-        align-content: flex-start;
-        align-items: stretch;
-        justify-content: space-between;
-        gap: 20px;
-    }
-
-    .flex-item {
-        width: 24%;  /* Or whatever */
-        flex-grow: 1;
-        border: 1px solid #fa77d8;
-        border-radius: 10px;
-        padding: 20px;
-        box-shadow: 0px 0px 10px 2px #fa77d8;
-        font-family: verdana, Arial;
-        font-size: 14px;
-        line-height: 1.6em;
-    }
-
-    h2 {
-        font-family: 'alagard', Arial;
-        color: aqua;
-    }
-    details > summary {
-    /** use this if you want to hide the expando triangle
-        list-style: none; **/
-    }
-</style>
+<br>
 <center>
 <text style="font-family: 'DIEDIEDIE', Arial, sans-serif; font-size: 3.3em; background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">TAmaGotchi</text>
 <br>
