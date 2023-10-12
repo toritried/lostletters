@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: stationery life
 emoji: 💸
 permalink: /stationery/

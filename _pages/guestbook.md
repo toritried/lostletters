@@ -1,5 +1,5 @@
 ---
-layout: flex-space-no-wm
+layout: 3col-no-wm
 title: guestbook
 emoji: 💌
 permalink: /guestbook/

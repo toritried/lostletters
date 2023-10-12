@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: about me
 emoji: 🤡
 permalink: /about-me/
@@ -84,7 +84,7 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
 <br>
 <center>
     <a target="_blank" href="https://quiz.pikminbloom.com/">
-        <img style="max-width: 100%;" src="/graphics/toy/quiz/pikmin-quiz-rose.png">
+        <img style="max-width: 50%;" src="/graphics/toy/quiz/pikmin-quiz-rose.png">
     </a>
     <a target="_blank" href="https://lu.tiny-universes.net" target="_blank">
         <img style="max-width: 100%;" src="/graphics/toy/quiz/webkinz.png" title="I'm not an abandoned Neopet at all. Are you?">
@@ -158,7 +158,8 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
 <b>Wisdom - </b>14<br>
 <b>Charisma - </b>14
 <br>
-<pre><code>
+<pre>
+<code>
     Alignment:
     Lawful Good ----- XXXXXXXXXXXXXXXXXXXX (20)
     Neutral Good ---- XXXXXXXXXXXXXXXXXXXXX (21)
@@ -203,4 +204,5 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
     Warlock --- XXXXXXXXXX (10)
     Wizard ---- XXXXXXXXXX (10)
 
-</code></pre>
+</code>
+</pre>

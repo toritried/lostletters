@@ -1,18 +1,18 @@
 ---
-layout: flex-space
+layout: 3col
 title: toybox era
 emoji: 🧸
 permalink: /toybox/
 menu: webcore
 ---
 
-<div class="container">
+<div class="container" style="image-rendering: pixelated;">
     <div class="toy-flex-item">
-        <h2 style="font-family: 'alagard', Arial;">The Pixel Toybox Era</h2>
+        <h2>The Pixel Toybox Era</h2>
         <img src="/graphics/toy/cakepink.gif" align="left" style="margin: 5px;" title="made by duckyfeet, linked below">Around 2006, I had moved on from my roots, coding HTML neopets pet pages. I was briefly on freewebs before I made a website and layout that were good enough to apply for hosting. My host freely provided me an FTP login, and I manually edited my HTML files using <a target="_blank" href="https://cutephp.com">CuteNews</a><img src="/graphics/toy/soda1b.gif" align="right" style="margin: 5px;" title="made by jo of Whimsical!, linked below"> to update my site. This was a world that lived alongside but separate from Wordpress, a world before Tumblr had taken off. This was a web meticulously crafted by teenage girls who created their own pixel paradises or punchy green day-themed vector layout complete with lots of visual overlays and eyeliner. These personal sites acted as portfolios of art with <img src="/graphics/toy/harbortaffy_lobster.gif" align="left" style="margin: 5px;" title="made by Bitmap Dreams, linked below">free to use graphics ("sozai" in Japanese) and pixel art adoptables to be added to your toybox, a <a target="_blank" href="https://www.cbox.ws/">cbox</a> to leave comments, a button wall filled with 88x31 and 32x32 buttons to "affies", and a minimal <img src="/graphics/toy/nyan_strawbshort.gif" align="right" style="margin: 5px;" title="made by lejlart, linked below">about me section with a mandatory tour of what's in my bag. We connected over Harmonyland and Teahouse MB forums daily. <a target="_blank" href="https://cinni.net/">Cinni</a> also captures this period well in her post, <a target="_blank" href="https://zine.yesterweb.org/issue-00/index.php?page=8"><i>i dream of pixel paradise</i></a>.
     </div>
     <div class="toy-flex-item">
-        <h2 style="font-family: 'alagard', Arial;">My Toybox</h2>
+        <h2>My Toybox</h2>
         <div class="noext">
             <a target="_blank" href="https://pixelins.tumblr.com/">
             <img src="/graphics/toy/pixelins.gif">
@@ -108,7 +108,7 @@ menu: webcore
         </div>
     </div>
     <div class="toy-flex-item">
-        <h2 style="font-family: 'alagard', Arial;">Halloween 2022</h2>
+        <h2>Halloween 2022</h2>
         These treats were collected from <a target="_blank" href="https://yesterweb.org/trickortreat2022/">Yesterweb's 2022 Trick-or-Treat event</a>.
         <br>
         <br>
@@ -165,7 +165,7 @@ menu: webcore
         </div>
     </div>
     <div class="toy-flex-item">
-        <h2 style="font-family: 'alagard', Arial;">Surviving Pixel Websites From That Era</h2>
+        <h2>Surviving Pixel Websites From That Era</h2>
         While you can experience quite a bit of this era of mostly static sites just by browsing the Internet Archive, there are still a handful of these sites that are live, allowing you to fully immerse yourself in it. I vividly and fondly recall visiting these sites as a kid and marveling at these folks' incredible artistic talent. I still am in awe nearly 20 years later. Please check these sites out:
         <br>
         <br>
@@ -182,16 +182,42 @@ menu: webcore
             <li><a target="_blank" href="http://pixels.ingerssite.de/">ingerssite</a></li>
             <li><a target="_blank" href="https://thepixelpalace.forumotion.com/">thepixelpalace</a></li>
         </ul>
-        <hr>
     </div>
     <div class="toy-flex-item">
-        <h2 style="font-family: 'alagard', Arial;">Pixel Clubs</h2>
+        <h2>Pixel Clubs</h2>
         During this time, pixel clubs were a popular way to participate and collect art from each other. The most famous pixel art club was <a href="/quilt/">the quilting bee</a>, but there were many smaller ones which were much easier to join. This still remains popular today with new pixel clubs popping up all the time. I've listed a couple here which are categorized into clubs that are revivals of bygone ones, "new" clubs that didn't originate from the early 2000s era, and a few clubs that are archived without any person who has tried to revive it (note: several neocities folks have put up yum-yum shoppe pages but link to the internet archive page).
         <br>
         <br>
         [ Revival ] <a href="/afternoontea/">Afternoon Tea</a>
         <br>
         [ Revival ] <a target="_blank" href="https://divergentrays.com/kitty">Kitty Friends</a>
+        <br>
+        <div class="imgwall">
+            <a href="/">
+                <img src="/graphics/adoptables/kuromi-lostletters.png" title="Kuromi wishes you a Happy Halloween - made by Lost Letters">
+            </a>
+            <a target="_blank" href="https://solaria.neocities.org/">
+                <img src="/graphics/toy/kitty-sol-garf.gif" title="made by Solaria">
+            </a>
+            <a target="_blank" href="https://paintkiller.neocities.org/">
+                <img src="/graphics/toy/kitty-Paintkiller.png" title="made by Paintkiller">
+            </a>
+            <a target="_blank" href="https://thegardenofmadeline.neocities.org/">
+                <img src="/graphics/toy/kitty_spacekitty-madeline.gif" title="made by Madeline">
+            </a>
+            <a target="_blank" href="https://dollarchive.neocities.org/guilds">
+                <img src="/graphics/toy/kitty-dollarchive.png" title="made by doll archive">
+            </a>
+            <a target="_blank" href="https://qrunchysnaq.neocities.org/">
+                <img src="/graphics/toy/kitty-qrunchy.gif" title="Merle - made by qrunchy">
+            </a>
+            <a target="_blank" href="https://hillhouse.neocities.org/pixels#kitty">
+                <img src="/graphics/toy/kitty-hillhouse.gif" title="made by rosemary">
+            </a>
+            <a target="_blank" href="https://strawbebby228.neocities.org/">
+                <img src="/graphics/toy/kitty-strawbebby.gif" title="made by strawbebby">
+            </a>
+        </div>
         <br>
         [ Revival ] <a target="_blank" href="https://divergentrays.com/pocket">Pocket Town</a>
         <br>
@@ -204,6 +230,39 @@ menu: webcore
         [ New Era ] <a target="_blank" href="https://charmbracelets.neocities.org/">Charm Bracelets</a>
         <br>
         [ New Era ] <a target="_blank" href="https://fizzsea.neocities.org/extra/fizzyvendor">Fizzy Vendor</a>
+        <br>
+        <div class="imgwall">
+            <a href="/">
+                <img src="/graphics/adoptables/campfire_lostletters.png" title="Enjoy the bottled warmth of a crackling campfire on a brisk fall night - by Lost Letters">
+            </a>
+            <a target="_blank" href="https://cloudcover.neocities.org/">
+                <img src="/graphics/toy/drink-lime.png" title="Tastes like fresh berries, limes, and summer - By cloudcover" alt="A plastic bottle filled with green liquid, limes, and berries. The lavender label reads 'lime' in all capitalized blue letters">
+            </a>
+            <a target="_blank" href="https://spiders.neocities.org/">
+                <img src="/graphics/toy/drink-spiders.png" title="Tastes buggy - By spiders" alt="A clear plastic bottle with a red label and cap. The label has a blue beetle with a pink head on it. The drink inside is green.">
+            </a>
+            <a target="_blank" href="https://antikrist.lol/">
+                <img src="/graphics/toy/drink-antikrist.png" title="it tastes salty. and a little sandy. is don't drink the salt water - By antikrist" alt="A glass bottle with purple liquid and a one-eyed tentacle creature inside">
+            </a>
+            <a target="_blank" href="https://fizzsea.neocities.org/">
+                <img src="/graphics/toy/drink-fizzy.png" title="Lemonade but pink! - By fizzsea" alt="a ramune bottle with a small figurine of a slice lemon sitting next to it, it has pink lemonade inside. The label is pink with yellow text on it. The bead is shaped like a citrus slice">
+            </a>
+            <a target="_blank" href="https://solaria.neocities.org/">
+                <img src="/graphics/toy/drink-solaria.png" title="Centries old. Its ... Blue. Drink it? - By solaria" alt="A blue glass bottle with golden line accents and cap. The label is a golden S.">
+            </a>
+            <a target="_blank" href="https://artwork.neocities.org/cliques">
+                <img src="/graphics/toy/drink-artwork.png" title="By artwork" alt="a milk carton of Korilakkuma with text reading strawberry o'lait in Japanese">
+            </a>
+            <a target="_blank" href="https://starbage.neocities.org/">
+                <img src="/graphics/toy/drink-starbage.gif" title="By starbage" alt="a looping gif of a purple tinted can with a dark purple label with stars. white text reads 'stellar grape' in all caps. A shine gleams across the can">
+            </a>
+            <a target="_blank" href="https://butt0n-z.neocities.org/">
+                <img src="/graphics/toy/drink-buttonz.png" title="A Nostalgic Citrus drink for youe ghostly pals! - By butt0n-z" alt="A grey soda can with a gradient label going from green to orange. It has a green ghost on it, smiling with raised arms. Text on it reads Hi-C Ectocooler">
+            </a>
+            <a target="_blank" href="https://bloopywoopy.neocities.org/cool-stuff/collections">
+                <img src="/graphics/toy/drink-bloopywoopy.png" title="lemon flavoured soda - By bloopywoopy" alt="a pink can with a lemon logo">
+            </a>
+        </div>
         <br>
         [ New Era ] <a target="_blank" href="https://lavalounge.neocities.org/">The Lava Lounge</a>
         <br>
@@ -218,7 +277,7 @@ menu: webcore
         [ Archived ] <a target="_blank" href="https://web.archive.org/web/20091028051422/http://www.geocities.com/heathershomedaycare/snowflakes.html">Snowflakes</a>
     </div>
     <div class="toy-flex-item">
-    <h2 style="font-family: 'alagard', Arial;">My Pixel Art & Sozai</h2>
+    <h2>My Pixel Art & Sozai</h2>
     Here's a couple of pieces of pixel art that I made for you to adopt and sprinkle throughout your site: 
     <br>
     <br>
@@ -248,7 +307,7 @@ menu: webcore
     </ul>
     </div>
     <div class="toy-flex-item">
-        <h2 style="font-family: 'alagard', Arial;">About This Page</h2>
+        <h2>About This Page</h2>
         <img src="/graphics/toy/forest3.gif" align="right" style="margin: 5px;" title="made by duckyfeet, linked below">
         I reworked my toybox page as my entry for the <a target="_blank" href="https://itch.io/jam/oldweb-nostalgia-jam">Oldweb Nostalgia Jam</a> hosted by <a target="_blank" href="https://metaparadox.neocities.org/">Metaparadox</a>. 
         <br>

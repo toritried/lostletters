@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: run more easily
 emoji: 🥵
 permalink: /run-more-easily/

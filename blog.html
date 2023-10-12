@@ -1,5 +1,5 @@
 ---
-layout: flex-space-no-wm
+layout: 3col-no-wm
 title: Blog
 ---
 <center>
@@ -7,18 +7,14 @@ title: Blog
         Latest Posts
     </h2>
 </center>
-<br>
 <div class="envelope">
     {% for post in site.posts limit:5 %}
-        <img src="/graphics/layout/v2_space/postage.gif" align="right" style="margin: 10px;">
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     {{ post.excerpt }}
     <center>
-        <a href="{{ post.url }}">open this letter to continue reading...</a>
+        <a href="{{ post.url }}">continue reading...</a>
     </center>
 </div>
-<br>
-<hr>
-<br>
 <div class="envelope">
-    {% endfor %}</div>
+    {% endfor %}
+</div>

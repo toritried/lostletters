@@ -423,12 +423,6 @@ word-wrap: normal !important;
 }
 /** End of Jekyll post nav styling **/
 
-.profiles {
-  font-family: 'alagard', Arial, sans-serif; 
-  font-size: 90%; 
-  line-height: 1em;
-}
-
 /** index links styling based off of jekyll post nav styling **/
 .index-links {
   display: flex;

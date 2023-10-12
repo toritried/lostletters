@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: afternoon tea pixel club
 emoji: 🍵
 permalink: /afternoontea/
@@ -197,6 +197,9 @@ menu: webcore
         </a>
         <a target="_blank" href="https://oldwebperson.neocities.org/">
             <img src="/graphics/teahouse/teacup/oldwebperson.png" title="tastes like Elmer's Glue - made by oldwebperson">
+        </a>
+        <a target="_blank" href="https://paintkiller.neocities.org/">
+            <img src="/graphics/teahouse/teacup/32BitCafeHalloweenAfternoonTeaPaintkiller.gif" title="tastes lilke boiling blood, AB negative to be precise - made by PAINTKILLER">
         </a>
     </div>
     <br>

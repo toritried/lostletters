@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: 2022 "no buy"
 emoji: 💰
 permalink: /no-buy/

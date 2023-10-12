@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: test title
 permalink: /test/
 ---

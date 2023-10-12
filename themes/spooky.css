@@ -1,0 +1,74 @@
+:root {
+    /** generated using https://colorffy.com/css-generator */
+    --colors-primary-a0-translucent: #130029;
+    --color-primary-a90: #ffffff;
+    --color-primary-a80: #d5c0e8;
+    --color-primary-a70: #aa84d0;
+    --color-primary-a60: #7d4ab7;
+    --color-primary-a50: #4a009e;
+    --color-primary-a30: #3a0b74;
+    --color-primary-a20: #2a0e4d;
+    --color-primary-a10: #1b0b29;
+    --color-primary-a0: #000000;
+    --orange: #ffa85d;
+    
+     --background-image: url('/graphics/layout/bat-halloween.gif'); /*https://www.asterism-m.com/item/background/wall-simple01.php */
+  }
+  body {
+      background-image: var(--background-image);
+      color: var(--color-primary-a80);
+      font-family: 'pixel';
+  }
+  a, .mobile_nav {
+      color: var(--orange);
+  }
+  a:hover{
+      background-image: linear-gradient(to right, var(--color-primary-a50) , #a34c00);
+  }
+  /* assign columns to grid areas */
+  .holy-grail-grid > .header {
+      background-color: var(--colors-primary-a0-translucent);
+      border: none;
+      border-radius: .5em;
+  }
+  header, .floating {
+      background-color: var(--colors-primary-a0-translucent);
+      border: none;
+      box-shadow: rgb(18 0 41) 0px 15px 10px -10px;
+      border-radius: .5em;
+  }
+  /* breakpoints */
+  @media (max-width: 1026px) {
+  }
+  .nav-title {
+      color: var(--color-primary-a90);
+      background-color: var(--color-primary-a60);
+      border-bottom: none;
+      border: dashed #ffa85d;
+      border-radius: .5em;
+  }
+  /** status.cafe styling **/
+  #statuscafe-username {
+      background: var(--color-primary-a30);
+  }
+  /* navigation*/
+  .dropbtn { 
+  color: var(--orange);
+  }
+  .navbar a:hover, .dropbtn:hover {
+  background-color: var(--color-primary-a10);
+  }
+  .dropdown-content {
+  background-color: var(--color-primary-a10);
+  }
+  .dropdown-content a:hover {
+  background-color: var(--color-primary-a0);
+  }
+  .theme-image{
+    content: url("/graphics/toy/Teru-Teru-Bozus-kingluludeer.gif");
+    image-rendering: pixelated;
+  }
+  .theme-stamp{
+    image-rendering: pixelated;
+    content: url("/graphics/toy/stamp/purple-halloween-.png") /* credit: https://www.deviantart.com/toxickdesign/art/Stamp-Halloween-847508448 */
+  }

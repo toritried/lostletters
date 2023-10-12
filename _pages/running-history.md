@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: life in the back of the pack
 emoji: 🏆
 permalink: /running-history/

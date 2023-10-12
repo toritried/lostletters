@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: my tabletop origin story
 emoji: 🧝🏻‍♀️
 permalink: /origins/

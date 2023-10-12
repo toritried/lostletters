@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: confessions
 emoji: 🤫
 permalink: /confessions/
@@ -9,7 +9,7 @@ menu: about
 <center>
     <div class="noext">
         <a target="_blank" href="https://www.patreon.com/waneella">
-            <img src="/graphics/layout/waneella.gif" style="max-height:100%;" title="gif by waneella" style="image-rendering: pixelated;">
+            <img src="/graphics/layout/waneella.gif" title="gif by waneella" style="image-rendering: pixelated;">
         </a>
     </div>
     <br>

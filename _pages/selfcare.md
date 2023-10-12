@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: real self-care
 emoji: 🫂
 permalink: /selfcare/

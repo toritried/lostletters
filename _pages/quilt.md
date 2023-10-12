@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: q*bee shrine
 emoji: 🐝
 permalink: /quilt/
@@ -11,7 +11,7 @@ menu: webcore
     Skip to main content
 </a>
 <center>
-    <img src="/graphics/quilt/layout/2012-qbee-banner.png" title="from the 2012 version of the q*bee site" style="max-width: 100%">
+    <img src="/graphics/quilt/layout/2012-qbee-banner.png" title="the quilting bee banner from the 2012 version of the q*bee site" style="max-width: 100%; image-rendering: pixelated;">
     <br>
     <div class="quilt">
         <img width="40" height="40" src="/graphics/quilt/qbee-1.gif">
@@ -845,7 +845,7 @@ menu: webcore
     </div>
 </center>
 <br>
-<main id="main">
+<main id="main" style="image-rendering: pixelated;">
     <center>
         <img src="/graphics/quilt/layout/qbee-divider.gif">
         <br>
@@ -1191,24 +1191,26 @@ Given how much effort went into every pixel and line of code for this club, I wo
 </ul>
 <br>
 <br>
-<center>
-    <img src="/graphics/quilt/extras/button.gif">
-    <img src="/graphics/quilt/extras/button_2.gif">
-    <img src="/graphics/quilt/extras/button_3.gif">
-    <img src="/graphics/quilt/extras/button_4.gif">
-    <img src="/graphics/quilt/extras/button_5_267_1.gif">
-    <img src="/graphics/quilt/extras/button_6_267_2.gif">
-    <img src="/graphics/quilt/extras/button_8.gif">
-    <img src="/graphics/quilt/extras/button_9.gif">
-    <img src="/graphics/quilt/extras/button_10.gif">
-    <img src="/graphics/quilt/extras/button_11.gif">
-    <img src="/graphics/quilt/extras/button_12.gif">
-    <img src="/graphics/quilt/extras/button_13.gif">
-    <img src="/graphics/quilt/extras/button_14.gif">
-    <img src="/graphics/quilt/extras/button_15.png">
-    <img src="/graphics/quilt/extras/button_16.gif">
-    <img src="/graphics/quilt/extras/button_7.gif">
-    <br>
-    <img src="/graphics/quilt/extras/the-quilting-bee-rainbow.png" style="margin: 60px 0 0 0; max-width: 100%;" title="this was the very last graphic on the site when it was updated in 2020"/>
-</center>
+<div class="imgwall">
+    <center>
+        <img src="/graphics/quilt/extras/button.gif">
+        <img src="/graphics/quilt/extras/button_2.gif">
+        <img src="/graphics/quilt/extras/button_3.gif">
+        <img src="/graphics/quilt/extras/button_4.gif">
+        <img src="/graphics/quilt/extras/button_5_267_1.gif">
+        <img src="/graphics/quilt/extras/button_6_267_2.gif">
+        <img src="/graphics/quilt/extras/button_8.gif">
+        <img src="/graphics/quilt/extras/button_9.gif">
+        <img src="/graphics/quilt/extras/button_10.gif">
+        <img src="/graphics/quilt/extras/button_11.gif">
+        <img src="/graphics/quilt/extras/button_12.gif">
+        <img src="/graphics/quilt/extras/button_13.gif">
+        <img src="/graphics/quilt/extras/button_14.gif">
+        <img src="/graphics/quilt/extras/button_15.png">
+        <img src="/graphics/quilt/extras/button_16.gif">
+        <img src="/graphics/quilt/extras/button_7.gif">
+        <br>
+        <img src="/graphics/quilt/extras/the-quilting-bee-rainbow.png" style="margin: 60px 0 0 0; max-width: 100%;" title="this was the very last graphic on the site when it was updated in 2020"/>
+    </center>
+</div>
 </main>

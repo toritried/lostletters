@@ -1,5 +1,5 @@
 ---
-layout: flex-space
+layout: 3col
 title: about the site
 emoji: 🪲
 permalink: /site/

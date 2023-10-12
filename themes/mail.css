@@ -1,0 +1,98 @@
+:root {
+    /** generated using https://colorffy.com/css-generator */
+    --colors-primary-a0-translucent: #ffffffb3;
+    --color-primary-a0: #ffffff;
+    --color-primary-a10: #fee7f0;
+    --color-primary-a20: #fdcfe1;
+    --color-primary-a30: #fab7d2;
+    --color-primary-a50: #f69ec4;
+    --color-primary-a60: #b2748f;
+    --color-primary-a70: #734d5d;
+    --color-primary-a80: #3a2930;
+    --color-primary-a90: #000000;
+    
+     --background-image: url('/graphics/layout/hip-square.png'); 
+     --wrapper-bg-color:  /* https://sharkcoder.com/visual/borders */
+    linear-gradient(#fff, #fff) padding-box,
+    repeating-linear-gradient(-45deg,
+  #f69ec4 0, #f69ec4 12.5%,
+  #ffffff 0, #ffffff 25%,
+  #7eb4e2 0, #7eb4e2 37.5%,
+  #ffffff 0, #ffffff 50%)
+    0 / 5em 5em;
+    --wrapper-bg:linear-gradient(#fff, #fff)
+    padding-box,
+    repeating-linear-gradient(-45deg,
+    #f69ec4 0, #f69ec4 12.5%,
+    #ffffff 0, #ffffff 25%,
+    #7eb4e2 0, #7eb4e2 37.5%,
+    #ffffff 0, #ffffff 50%)
+    0 / 5em 5em;
+  --wrapper-border: 1em solid transparent;
+  }
+  body {
+      background-image: var(--background-image);
+      color: var(--color-primary-a80);
+      font-family: 'pixel', sans-serif;
+  }
+a, .mobile_nav {
+      color: var(--color-primary-a60);
+  }
+  a:hover{
+      background-image: linear-gradient(to right, var(--color-primary-a0) , var(--color-primary-a10));
+  }
+  .holy-grail-grid {
+    background: var(--wrapper-bg);
+    background-color: var(--wrapper-bg-color);
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
+    border: var(--wrapper-border);
+    border-radius: 35px;
+}
+  /* assign columns to grid areas */
+  .holy-grail-grid > .header {
+    background-color: transparent;
+    border: none;
+  }
+  .floating {
+      background-color: transparent;
+      border: none;
+  }
+  /* breakpoints */
+  @media (max-width: 1026px) {
+  }
+  .nav-title {
+      color: var(--color-primary-a90);
+      background-color: var(--color-primary-a10);
+      border-bottom: none;
+  }
+  /* tablet breakpoint */
+@media (min-width:1024px) {
+    .holy-grail-grid {
+        margin-top: 1em;
+    }
+}
+  /** status.cafe styling **/
+  #statuscafe-username {
+      background: var(--color-primary-a10);
+  }
+  /* navigation*/
+  .dropbtn { 
+  color: var(--color-primary-a60);
+  }
+  .navbar a:hover, .dropbtn:hover {
+  background-color: var(--color-primary-a10);
+  }
+  .dropdown-content {
+  background-color: var(--color-primary-a10);
+  }
+  .dropdown-content a:hover {
+  background-color: var(--color-primary-a0);
+  }
+  .theme-image{
+      content: url("/graphics/toy/stationery-kingluludeer.png");
+      image-rendering: pixelated;
+  }
+  .theme-stamp{
+      content: url("/graphics/toy/stamp/cinnamoroll.png"); /* credit: https://www.deviantart.com/profiledecor/art/F2U-Cinnamoroll-Stamp-720524588 */
+      image-rendering: pixelated;
+  }
