@@ -7,7 +7,7 @@ menu: about
 ---
 
 <h2>Hail & Well Met,</h2> 
-I started informally teaching myself to code thanks to Neopets in ~2003, which inspired me <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 0 10px 0 0;" align="left" />to pour my heart into subpar pixel art and website layouts drawn in MS Paint and Photoshop. I'm so glad I never let my frustrating mediocrity stop me from participating in the pixel communities of that time, because I made so many good memories (q*bee, Teahouse MB) and learned some basics of HTML, CSS, and PHP.  
+I started informally teaching myself to code thanks to Neopets in ~2003, which inspired me <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 0 10px 0 0;" align="left" />to pour my heart into subpar pixel art and website layouts drawn in MS Paint and Photoshop. I'm so glad I never let my frustrating mediocrity stop me from participating in the pixel communities of that time, because I made so many good memories (q*bee, Teahouse MB) and learned some basics of HTML, CSS, and PHP.
 <br>
 <div class="noext">
     <a target="_blank" href="https://www.deviantart.com/sqdpxl/art/moomin-to-the-groove-811004899"><img src="/graphics/toy/moomin_by_SqdPxl.gif" style="margin: 0 0 0 10px;" align="right" title="click for artist"/></a>
@@ -17,50 +17,23 @@ In the intervening decades, I thoroughly dismissed the idea of ever taking any o
 <br>
 The boredom of the pandemic finally gave me the inspiration and judgement-free opportunity to explore those hobbies of yore again, leading me back to the threadbare remnants of the early internet I so enjoyed as a child. What started out as setting a goal to earn 10 million neopoints after all these years to achieve "ultimate riches" on Neopets quickly snowballed into discovering the yesterweb and web revival. All of a sudden, I was up until 2am, filled with a sense of urgency to pick back up as much as I could of the early internet of my childhood, which I felt like I was close to losing forever. That urgency inspired this website, so if it feels like an incoherent fever-dream, that's because it is.
 <br>
-<br>
 <div class="noext">
     <a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961">
         <img src="/graphics/toy/snufkin_by_Caicyo.png" style="margin: 0 10px 0 0;" align="left" title="click for artist"/>
     </a>
 </div>
-Now that I've truly accepted that I'm just a goblin that likes weird stuff instead of someone who does HIIT six days a week before bottomless mimosa brunch, you can typically find me playing, watching, or listening to TTRPGs if I'm offline. I still haven't shed my tendency towards exercise, so I'm probably also working out for my stupid mental health and tracking it obsessively to earn <a target="_blank" href="https://garminbadges.com/">garmin connect badges</a>. I will seriously do anything for the simplest forms of gamification, it's stupid and sometimes dangerous. I also try to stay on top of my daily memory keeping, which involves excessive amounts of fountain pens, stickers, and washi tape. 
+Now that I've truly accepted that I'm just a goblin that likes weird stuff instead of someone who does HIIT six days a week before bottomless mimosa brunch, you can typically find me playing, watching, or listening to TTRPGs if I'm offline. I still haven't shed my tendency towards exercise, so I'm probably also working out for my stupid mental health and tracking it obsessively to earn <a target="_blank" href="https://garminbadges.com/">garmin connect badges</a>. I will seriously do anything for the simplest forms of gamification. It's stupid and sometimes dangerous. I also try to stay on top of my daily memory keeping, which involves excessive amounts of fountain pens, stickers, and washi tape. 
 <br>
 <br>
 <span title="inspired by https://daintye.co/"><b>Life Counters</b></span>
 <br>
-🐇 played <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">Neopets</a> for <span id="counter1"></span>
+🐇 played <a target="_blank" href="https://www.neopets.com/userlookup.phtml?user=waterfish57">Neopets</a> since 2003-11-20
 <br>
-🌱 been plant-based for <span id="counter2"></span>
+🌱 been plant-based since 2016-01-28
 <br>
-🦋 been in love for <span id="counter3"></span>
+🦋 been in love since 2020-06-28
 <br>
-👯 lived with my girlfriend for <span id="counter4"></span>
-<script> /** Thanks to Justin Wright for this javascript that I modified https://stackoverflow.com/a/48918684 **/
-    var targetDate1 = new Date("2003-11-20T00:00:00");
-    var targetDate2 = new Date("2016-01-28T00:00:00");
-    var targetDate3 = new Date("2020-06-28T00:00:00");
-    var targetDate4 = new Date("2021-08-01T00:00:00");
-    setInterval(updateCounters, 1000);
-    function updateCounters() {
-        var currentDate = new Date();
-        updateCounter(targetDate1, "counter1");
-        updateCounter(targetDate2, "counter2");
-        updateCounter(targetDate3, "counter3");
-        updateCounter(targetDate4, "counter4");
-        function updateCounter(targetDate, counterId) {
-            var duration = currentDate - targetDate;
-            var years = Math.floor(duration / 3.154e+10);
-            var durationMinusYears = duration - (years * 3.154e+10);
-            var months = Math.floor(duration / 2.628e+9) % 12;
-            var durationMinusMonths = durationMinusYears - (months * 2.628e+9);
-            var days = Math.floor(durationMinusMonths / 8.64e+7);
-            var hours = Math.floor(duration / 3.6e+6 ) % 24;
-            var mins = Math.floor(duration / 60000 ) % 60;
-            var secs = Math.floor(duration / 1000 ) % 60;
-            document.getElementById(counterId).innerHTML = years + " years, " + days + " days," + hours + " hours," + mins " minutes";
-        }
-    }
-</script>
+👯 lived with my girlfriend since 2021-08-01
 <br>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
