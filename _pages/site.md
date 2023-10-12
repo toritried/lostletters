@@ -21,13 +21,17 @@ This layout was adapted from a template by <a target="_blank" href="https://fool
 * <a target="_blank" href="https://www.dafont.com/alagard.font">Hewett Tsoi</a> - creator of my pixel header font (Alagard)
 <br>
 <br>
-<h3>🚀 Version 2: Lost in Space!  |  March 2023 - current</h3>
+<h3>🚀 Version 2: Lost in Space!  |  March 2023 - October 2023</h3>
 With this layout, I simplified the elements of my first layout using the body styling from <a target="_new" href="https://palemomos.neocities.org/cool-layouts/">Pale's gorgeous Glassy layout</a>. I've been totally on a space kick, playing <a  href="/starforged/">Starforged</a>, reading Leviathan Wakes by James S. A. Corey, and watching The Expanse, which is based on that book. I think that probably explains why I went with the space background. It's hard to find something dark, but not too boring.
 <br>
 * Added this page (Mar '23), TTRPG section (Mar '23), Health section (May '23), reworked my toybox into a semi-shrine (Aug '23), tamagotchi shrine (Aug '23)
 * High-contrast text colors for better accessibility
 * <a target="_blank" href="https://linktr.ee/muk_monsalve">Mariela Monsalv</a> - creator of my body font (Asul)
 * <a target="_blank" href="https://www.design-research.be/by-womxn/">Directory of open source fonts by womxn</a> - how I found Asul
+<br>
+<br>
+<h3>🎃 Version 3: 3-column throwback |  October 2023 - current</h3>
+I have wanted to create a vintage-style 3-column layout for the longest time. I still don't think the left sidebar's content justifies its prominence, but I just wanted to have fun with making a 3-column responsive layout. The mobile and small screens revert to the single column layout of previous layouts, making it quite easy to adapt my old light and dark modes to the new structure. With this change, I also introduced two new layouts: spoopy and purple plaid. I coded the purple layout listening to The Crane's Pain Hasn't Hit Me on repeat. Such a vibe. 
 <br>
 <br>
 <hr>
