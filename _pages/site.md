@@ -31,7 +31,7 @@ With this layout, I simplified the elements of my first layout using the body st
 <br>
 <br>
 <h3>🎃 Version 3: 3-column throwback |  October 2023 - current</h3>
-I have wanted to create a vintage-style 3-column layout for the longest time. I still don't think the left sidebar's content justifies its prominence, but I just wanted to have fun with making a 3-column responsive layout. The mobile and small screens revert to the single column layout of previous layouts, making it quite easy to adapt my old light and dark modes to the new structure. With this change, I also introduced two new layouts: spoopy and purple plaid. I coded the purple layout listening to The Crane's Pain Hasn't Hit Me on repeat. Such a vibe. 
+I have wanted to create a vintage-style 3-column layout for the longest time. I still don't think the left sidebar's content justifies its prominence, but I just wanted to have fun. The mobile and small screens revert to the single column layout of previous layouts, making it easy to adapt my old light and dark modes to the new structure. With this change, I also introduced two new layouts: spoopy and purple plaid. I coded the purple layout listening to The Crane's Pain Hasn't Hit Me on repeat. Such a vibe. 
 <br>
 <br>
 <hr>
