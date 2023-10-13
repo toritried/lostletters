@@ -1,0 +1,14 @@
+---
+layout: post
+title: A Responsive Take on a Classic 3-Column Layout
+date: 2023-10-01 22:37:34
+tags:
+  - webmastery
+---
+I coded this new layout over two days, listening to Pain Hasn't Hit Me by The Crane almost exclusively. It reminded me of listening to Burning by The Whitest Boy Alive in high school, browsing tumblrs of girls who were definitely cooler than me. Fitting with that nostalgia, I wanted to create a desktop layout that I don't see often anymore: the classic "holy grail" 3-column layout.<!--excerpt--> I immediately went to <a target="_blank" href="https://matthewjamestaylor.com/holy-grail-layout">Matthew James Taylor's website</a> as it offers the bare bones code for literally any layout you could possibly want. As a bonus, they're all responsive for mobile, and he offers many different ways to approach the layouts using CSS grid, flex, or whatever you're comfortable with. There are so many sites on Neocities that could be mobile-friendly, and this is such an easy way to go about that. I hope more folks learn from this incredible resource.
+<br>
+<br>
+Once I had the code for my site structure, I wanted to add a theme switcher for Halloween. This is done easily just by switching out whatever you want to customize in your main CSS file by swapping in variables and having those defined in separate style sheets that some JS can point to. I followed <a target="_blank" href="https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">this very easy tutorial</a> that provided all the code snippets needed, then I got busy, committing as many CSS crimes as I wanted. The entire effort took about two days, but the majority of that was spent tweaking the CSS to figure out fun combinations that worked well together and then leaving it alone for a while so I could view it with fresh eyes. One of the really helpful resources I used to develop cohesive color schemes for each layout was <a target="_blank" href="https://colorffy.com/css-generator">colorffy's CSS / SCSS color variables generator</a>. You just specify a HEX code for a color you like, and it spits out a family of related shades, which you can then evaluate to ensure you've got the right contrast ratios for your site.
+<br>
+<br>
+Now that the coding is done, I can focus on creating Halloween adoptables for the <a target="_blank" href="https://tilde.32bit.cafe/~slug/events/halloween-2023/">32-bit cafe Halloween Event</a> (join us if you're also 18+ y/o). You can get an early preview of some of the pixels I've made for the event on my <a href="/toybox/#halloween-23">toybox page</a>. I'm particularly proud of my submission for the Fizzy Vendor club since animating fire took a couple tried before I didn't hate the result. I can't wait to see everyone's creations. I really hope folks are busy, creating loads of pixel art, playlists, web pages, and more for this event. I can't believe Halloween is just 17 days away! 🎃

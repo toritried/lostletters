@@ -2,19 +2,12 @@
 layout: 3col-no-wm
 title: Blog
 ---
-<center>
-    <h2>
-        Latest Posts
-    </h2>
-</center>
-<div class="envelope">
-    {% for post in site.posts limit:5 %}
+<h2 style="text-align: center;">
+    All Blog Posts
+</h2>
+    {% for post in site.posts %}
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     {{ post.excerpt }}
-    <center>
-        <a href="{{ post.url }}">continue reading...</a>
-    </center>
-</div>
-<div class="envelope">
+    <a href="{{ post.url }}" style="text-align: center;">continue reading...</a>
+    <hr>
     {% endfor %}
-</div>

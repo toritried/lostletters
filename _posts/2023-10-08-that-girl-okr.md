@@ -3,6 +3,10 @@ layout: post
 title: How to become "That Girl" as a depressed thirty-year-old
 date: 2023-10-01 22:37:34
 tags:
+  - self-reflection
+  - adulting
+  - goals
+  - mental-health
 ---
 This past week, I officially started my long-term sick leave from work. The healing and inner work I need to do during this leave is uncharted territory for me, so, in addition to getting professional, qualified help, I've tried to formulate a daily routine to aid my recovery and avoid stagnating in overwhelm.<!--excerpt--> Since I can't turn off my work-pilled brain, I accidentally created an OKR (<i>inexcusable, I know</i>) for what I want to achieve during my sick leave: 
 <br>
