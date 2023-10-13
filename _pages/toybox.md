@@ -108,8 +108,21 @@ menu: webcore
         </div>
     </div>
     <div class="toy-flex-item">
-        <h2>Halloween 2022</h2>
-        These treats were collected from <a target="_blank" href="https://yesterweb.org/trickortreat2022/">Yesterweb's 2022 Trick-or-Treat event</a>.
+        <h2>Halloween</h2>
+        <h3>2023</h3>
+        I helped plan and coordinate the <a target="_blank" href="https://tilde.32bit.cafe/~slug/events/halloween-2023/">32-bit cafe's Halloween event</a> that involved collaborations with loads of pixel clubs across the small web. Here are all the entries I made for the event:
+        <br>
+        <div class="noext">
+            <a target="_blank" href="https://fizzsea.neocities.org/extra/fizzyvendor">
+                <img src="/graphics/adoptables/campfire_lostletters.png" title="Bottle of campfire I made for Fizzy Vendor. Click to go to the pixel club page.">
+            </a>
+            <a target="_blank" href="https://divergentrays.com/kitty">
+                <img src="/graphics/adoptables/kuromi-lostletters.png" title="Kuromi that I made for Kitty Friends. Click to go to the pixel club page.">
+            </a>
+            <img src="/graphics/adoptables/pumpkin-lostletters.png" style="margin: 0 10px;" title="an standard orange gourd for the community pumpkin patch"><img src="/graphics/adoptables/purple-jackolantern-lostletters.png" style="margin: 0 10px;" title="a purple jack-o-lantern for the community pumpkin patch">
+            <h3>2022</h3>
+            These treats were collected from <a target="_blank" href="https://yesterweb.org/trickortreat2022/">Yesterweb's 2022 Trick-or-Treat event</a>.
+        </div>
         <br>
         <br>
         <div class="noext">
