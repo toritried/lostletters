@@ -109,7 +109,7 @@ menu: webcore
     </div>
     <div class="toy-flex-item">
         <h2>Halloween</h2>
-        <h3>2023</h3>
+        <h3 id="halloween-23">2023</h3>
         I helped plan and coordinate the <a target="_blank" href="https://tilde.32bit.cafe/~slug/events/halloween-2023/">32-bit cafe's Halloween event</a> that involved collaborations with loads of pixel clubs across the small web. Here are all the entries I made for the event:
         <br>
         <div class="noext">
