@@ -201,6 +201,9 @@ menu: webcore
         <a target="_blank" href="https://paintkiller.neocities.org/">
             <img src="/graphics/teahouse/teacup/32BitCafeHalloweenAfternoonTeaPaintkiller.gif" title="tastes lilke boiling blood, AB negative to be precise - made by PAINTKILLER">
         </a>
+        <a target="_blank" href="https://popoplant.neocities.org/">
+            <img src="/graphics/teahouse/teacup/mugwort_tea.png" title="made by Popo">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">

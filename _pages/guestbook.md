@@ -58,6 +58,22 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry tea">
         <div class="gb-container">
+            <div class="gb-meta">#105 | October 13, 2023, 08:15 | <a target="_blank" href="https://popoplant.neocities.org/">popoplant</a></div>
+            <div class="gb-message">
+                Hiya LL!
+                <br>
+                Thank you for your kind comment on my guestbook. I've been exploring your site and liked reading your musings on stationary, pride, pixel clubs, TTRPG OCs & health. Your sections on q*bee and afternoon tea are some of my favorites! I also love your Moomin artwork in the toybox (he is indeed the best boy). One thing I especially like about how you build your site, is how diligent you are about linking / explaining sources. I really appreciate that!
+                <br>
+                Sending you my very best wishes,
+                <br>
+                Popo (･ᴥ･)
+                <br>
+                P.S. I made a teacup 🍵 https://popoplant.neocities.org/art/mugwort_tea.png
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry tea">
+        <div class="gb-container">
             <div class="gb-meta">#104 | October 05, 2023, 00:51 | <a target="_blank" href="http://surlybutterfly.net/">oldwebperson</a></div>
             <div class="gb-message">
                 https://oldwebperson.neocities.org/images/teacup-removebg-preview.png
