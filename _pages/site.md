@@ -10,15 +10,13 @@ menu: site
 I wanted to start a log of the past iterations of the site, so I can look back on all the <i><strike>terrible code I've written</strike></i> good memories I've made!
 <br>
 <br>
-<h3>🎀 Version 1: Lace Letters  |  Oct 2022 - March 2023</h3>
-<a target="_new" href="/graphics/layout/v1_laceletter/screenshot.png">
-    <img src="/graphics/layout/v1_laceletter/screenshot.png" align="right" style="padding: 10px; max-width: 200px;" title="click to open full size">
-</a>
-This layout was adapted from a template by <a target="_blank" href="https://foollovers.com/">Fool Lovers</a>. They provided the lace header, lacy content container graphics and code, url hover sparkles, favicon, and bouncing sakura divider. I will always be extremely fond of this layout since it was the first one I tweaked to my liking to launch Lost Letters on Neocities. A lot of folks enjoyed the gorgeous pixel art based on the guestbook entries from that time.
+<h3>🎃 Version 3: 3-column throwback |  October 2023 - current</h3>
+I coded this new layout over two days, listening to Pain Hasn't Hit Me by The Crane almost exclusively. It reminded me of listening to Burning by The Whitest Boy Alive in high school, browsing tumblrs of girls who were definitely cooler than me. Fitting with that nostalgia, I wanted to create a desktop layout that I don't see often anymore: the classic "holy grail" 3-column layout. I immediately went to <a target="_blank" href="https://matthewjamestaylor.com/holy-grail-layout">Matthew James Taylor's website</a> as it offers the bare bones code for literally any layout you could possibly want. As a bonus, they're all responsive for mobile, and he offers many different ways to approach the layouts using CSS grid, flex, or whatever you're comfortable with. There are so many sites on Neocities that could be mobile-friendly, and this is such an easy way to go about that. I hope more folks learn from this incredible resource.
 <br>
-* Designed my beloved dropdown menu bar
-* Major content sections: q*bee shrine, confessions, stationery
-* <a target="_blank" href="https://www.dafont.com/alagard.font">Hewett Tsoi</a> - creator of my pixel header font (Alagard)
+<br>
+Once I had the code for my site structure, I wanted to add a theme switcher for Halloween. This is done easily just by switching out whatever you want to customize in your main CSS file by swapping in variables and having those defined in separate style sheets that some JS can point to. I followed <a target="_blank" href="https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">this very easy tutorial</a> that provided all the code snippets needed, then I got busy, committing as many CSS crimes as I wanted. The entire effort took about two days, but the majority of that was spent tweaking the CSS to figure out fun combinations that worked well together and then leaving it alone for a while so I could view it with fresh eyes. One of the really helpful resources I used to develop cohesive color schemes for each layout was <a target="_blank" href="https://colorffy.com/css-generator">colorffy's CSS / SCSS color variables generator</a>. You just specify a HEX code for a color you like, and it spits out a family of related shades, which you can then evaluate to ensure you've got the right contrast ratios for your site.
+<br>
+* <a target="_blank" href="https://www.dafont.com/pixel-operator.font">pixel font</a> used in the mail, purple, and spoopy themes
 <br>
 <br>
 <h3>🚀 Version 2: Lost in Space!  |  March 2023 - October 2023</h3>
@@ -30,11 +28,15 @@ With this layout, I simplified the elements of my first layout using the body st
 * <a target="_blank" href="https://www.design-research.be/by-womxn/">Directory of open source fonts by womxn</a> - how I found Asul
 <br>
 <br>
-<h3>🎃 Version 3: 3-column throwback |  October 2023 - current</h3>
-I have wanted to create a vintage-style 3-column layout for the longest time. I still don't think the left sidebar's content justifies its prominence, but I just wanted to have fun. The mobile and small screens revert to the single column layout of previous layouts, making it easy to adapt my old light and dark modes to the new structure. With this change, I also introduced two new layouts: spoopy and purple plaid. I coded the purple layout listening to The Crane's Pain Hasn't Hit Me on repeat. Such a vibe.
+<h3>🎀 Version 1: Lace Letters  |  Oct 2022 - March 2023</h3>
+<a target="_new" href="/graphics/layout/v1_laceletter/screenshot.png">
+    <img src="/graphics/layout/v1_laceletter/screenshot.png" align="right" style="padding: 10px; max-width: 200px;" title="click to open full size">
+</a>
+This layout was adapted from a template by <a target="_blank" href="https://foollovers.com/">Fool Lovers</a>. They provided the lace header, lacy content container graphics and code, url hover sparkles, favicon, and bouncing sakura divider. I will always be extremely fond of this layout since it was the first one I tweaked to my liking to launch Lost Letters on Neocities. A lot of folks enjoyed the gorgeous pixel art based on the guestbook entries from that time.
 <br>
-* 3-column responsive layout and responsive font size code snippets by <a target="_blank" href="https://matthewjamestaylor.com/holy-grail-layout">Matthew James Taylor</a>
-* Base code of the theme-switcher that my partner edited for readabililty is from <a target="_blank" href="https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">this tutorial</a>
+* Designed my beloved dropdown menu bar
+* Major content sections: q*bee shrine, confessions, stationery
+* <a target="_blank" href="https://www.dafont.com/alagard.font">Hewett Tsoi</a> - creator of my pixel header font (Alagard)
 <hr>
 <h2>Technical Notes</h2>
 My static site is generated by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a>. I am hosted by <a target="_blank" href="https://neocities.org/">Neocities</a>. I push my code from my computer to Neocities with  <a target="_blank" href="https://github.com/bcomnes/deploy-to-neocities">Bret Comnes’ deploy-to-neocities workflow</a>, and I followed <a target="_blank" href="https://jonathanchang.org/blog/deploying-your-static-site-to-neocities-using-github-actions/">this guide to set that up</a>. For the non-technical, Jekyll-curious, <a href="/2022/11/02/jekyll.html">I wrote out every single step I took to set up Jekyll for this site</a> as a complete beginner, including creating a Github account.
