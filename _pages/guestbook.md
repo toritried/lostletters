@@ -56,6 +56,32 @@ menu: site
 <br>
 <br>
 <div class="guestbook">
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#10& | October 14, 2023, 08:55 | <a target="_blank" href="https://floral-tears.neocities.org/">floral-tears</a></div>
+            <div class="gb-message">
+                Hey love the new layout! I appreciate your write up on how you did it, because while I didn't actually end up directly following the directions you linked, it did motivate me to figure out why my index was so busted on mobile!
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#106 | October 14, 2023, 04:36 | <a target="_blank" href="https://rigor-mortis.neocities.org/">Christian</a></div>
+            <div class="gb-message">
+                I think the acab button was made by https://maia.crimew.gay/badges/, again I'm not sure. I found it on her site a year ago(?). That's the only website i can trace it back to.
+                <br>
+                Your site is so pretty, it's such an inspiration to me!
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-reply-container">
+            <div class="gb-reply-meta">October 14, 2023, 09:54 | Reply by Lost Letters</div>
+            <div class="gb-message">
+                Thanks so much! I think I've seen it elsewhere before then, but I'll see if anyone can corroborate that. Much appreciated! 
+            </div>
+        </div>
+    </div>
     <div class="gb-entry tea">
         <div class="gb-container">
             <div class="gb-meta">#105 | October 13, 2023, 08:15 | <a target="_blank" href="https://popoplant.neocities.org/">popoplant</a></div>
