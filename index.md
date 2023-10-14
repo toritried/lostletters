@@ -15,6 +15,18 @@ emoji: 🏠
     </a> through this site and various like-minded communities, including the <a target="_blank" href="https://www.32bit.cafe">32bit.cafe</a>. I hope that this website can inspire fellow web dev amateurs to see themselves as creators of a delightful and fun future internet that is inclusive, brimming with personality, and divorced from corporate social media monopolies.
     Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
 </article>
+<div class="elsewhere-index" style="text-align: center;">
+    <br>
+    Find me elsewhere:
+    <br>
+    <a target="_blank" href="https://cutie.city/@lostletters" rel="me">Mastodon</a>&nbsp;&nbsp;
+    <a target="_blank" href="https://neocities.org/site/lostletters">Neocities profile</a>&nbsp;&nbsp;
+    <a target="_blank" href="https://github.com/toritried/lostletters">Github</a>&nbsp;&nbsp;
+    <a target="_blank" href="https://app.thestorygraph.com/profile/lostletters" rel="me">StoryGraph</a>&nbsp;&nbsp;
+    <a target="_blank" href="https://finaloutpost.net/visit/lostletters" rel="me">The Final Outpost</a>&nbsp;&nbsp;
+    <a target="_blank" href="https://dragcave.net/user/lostletters" rel="me">Dragon Cave</a>&nbsp;&nbsp;
+    <a target="_blank" href="https://neopets.com/userlookup.phtml?user=waterfish57" rel="me">Neopets</a>&nbsp;&nbsp;
+</div>
 <hr>
 <img class="theme-stamp" align="right" style="margin: 10px 20px;">
 <a href="{{ site.posts.first.url }}"><text style="font-size: 1.17em; font-weight: bold;">{{ site.posts.first.title }}</text></a>

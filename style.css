@@ -101,7 +101,7 @@ hr {
         max-width: 95%;
     }
     .footer-theme-selector {display:none;}
-    .index-webrings {display: none;}
+    .elsewhere-index {display: none;}
 }
 @media (max-width: 1026px) {
     .left-sidebar {display: none;}
