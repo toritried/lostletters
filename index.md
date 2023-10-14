@@ -27,33 +27,3 @@ emoji: 🏠
         <img src="/graphics/layout/v1_laceletter/feed.gif" width="16px" title="RSS feed" style="cursor: pointer;"/>
     </a>
 </p>
-<div class="index-webrings" style="text-align: center;">
-    <hr>
-    <a target="_blank" href="http://aromatic.wings.nu/">aromatic</a> // rose tea latte
-    <br>
-    <a href='https://webring.dinhe.net/prev/https://lostletters.neocities.org/'>
-        ⪻
-    </a>
-    <a target="_blank" href="https://webring.dinhe.net/">
-        Retronaut
-    </a>
-    <a href='https://webring.dinhe.net/next/https://lostletters.neocities.org/'>
-        ⪼
-    </a>
-    <br>
-    <a href="https://hotlinewebring.club/lostletters/next">
-        ⪻
-    </a>
-    <a target="_blank" href="https://hotlinewebring.club/">
-        Hotline
-    </a>
-    <a href="https://hotlinewebring.club/lostletters/previous">
-        ⪼
-    </a>
-    <div id='neossg'>
-        <script type="text/javascript" src="https://neossg.neocities.org/onionring-variables.js"></script>
-        <script type="text/javascript" src="https://neossg.neocities.org/onionring-widget.js"></script>
-    </div>
-    <script src="https://xandra.cc/safonts/webring.js"></script>
-    <ring-900 site="https://lostletters.neocities.org/"></ring-900>
-</div>
