@@ -122,6 +122,9 @@ menu: meta
     <a href="https://creaturefeature.neocities.org/" target="_blank">
         <img src="/graphics/linkout/creaturefeature.png" title="creature feature">
     </a>
+    <a href="https://san-tagoy.online/" target="_blank">
+        <img src="/graphics/linkout/san-tagoy.png" title="San Tagoy">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use the buttons on my homepage, but please download and host them yourself.</text>
