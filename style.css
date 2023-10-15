@@ -301,15 +301,6 @@ display: block;
     font-size: 0.8em;
   }
   
-  .webrings {
-    font-size: 90%;
-    line-height: 1.3em;
-  }
-  
-  .webrings a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
-    content: "";
-  }
-  
   img { 
     max-width: 100%;
     height: auto;
