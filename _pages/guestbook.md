@@ -58,7 +58,15 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry love">
         <div class="gb-container">
-            <div class="gb-meta">#10& | October 14, 2023, 08:55 | <a target="_blank" href="https://floral-tears.neocities.org/">floral-tears</a></div>
+            <div class="gb-tea">#108 | October 16, 2023, 15:06 | <a target="_blank" href="https://blog.darylsun.page/">Daryl</a></div>
+            <div class="gb-message">
+                Hello! I like your website! Also I made a teacup for Afternoon Tea: https://cdn.some.pics/darylsun/652bd9eb4b888.png. It tastes like oolong tea.
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#107 | October 14, 2023, 08:55 | <a target="_blank" href="https://floral-tears.neocities.org/">floral-tears</a></div>
             <div class="gb-message">
                 Hey love the new layout! I appreciate your write up on how you did it, because while I didn't actually end up directly following the directions you linked, it did motivate me to figure out why my index was so busted on mobile!
             </div>
@@ -100,7 +108,7 @@ menu: site
     </div>
     <div class="gb-entry tea">
         <div class="gb-container">
-            <div class="gb-meta">#104 | October 05, 2023, 00:51 | <a target="_blank" href="http://surlybutterfly.net/">oldwebperson</a></div>
+            <div class="gb-meta">#104 | October 05, 2023, 00:51 | <a target="_blank" href="https://oldwebperson.neocities.org/">oldwebperson</a></div>
             <div class="gb-message">
                 https://oldwebperson.neocities.org/images/teacup-removebg-preview.png
                 <br>

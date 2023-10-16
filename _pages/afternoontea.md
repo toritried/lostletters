@@ -204,6 +204,9 @@ menu: webcore
         <a target="_blank" href="https://popoplant.neocities.org/">
             <img src="/graphics/teahouse/teacup/mugwort_tea.png" title="made by Popo">
         </a>
+        <a target="_blank" href="https://blog.darylsun.page/">
+            <img src="/graphics/teahouse/teacup/Daryl-oolong.png" title="tastes like oolong tea - made by Daryl">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
