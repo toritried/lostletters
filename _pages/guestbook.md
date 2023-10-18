@@ -58,7 +58,15 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry love">
         <div class="gb-container">
-            <div class="gb-tea">#108 | October 16, 2023, 15:06 | <a target="_blank" href="https://blog.darylsun.page/">Daryl</a></div>
+            <div class="gb-meta">#109 | October 18, 2023, 15:38 | <a target="_blank" href="https://azoale.neocities.org/">Azoale</a></div>
+            <div class="gb-message">
+                Saw your site in the neocities activity feed and found myself loving your vibes. I too am into ttrpgs, fountain pens, Dragon Cave, and trans rights. You got yourself a new follower
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#108 | October 16, 2023, 15:06 | <a target="_blank" href="https://blog.darylsun.page/">Daryl</a></div>
             <div class="gb-message">
                 Hello! I like your website! Also I made a teacup for Afternoon Tea: https://cdn.some.pics/darylsun/652bd9eb4b888.png. It tastes like oolong tea.
             </div>
