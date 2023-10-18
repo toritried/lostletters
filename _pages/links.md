@@ -125,6 +125,9 @@ menu: meta
     <a href="https://san-tagoy.online/" target="_blank">
         <img src="/graphics/linkout/san-tagoy.png" title="San Tagoy">
     </a>
+    <a href="https://whiona.me/" target="_blank">
+        <img src="/graphics/linkout/whiona_button.png" title="whiona.me">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use the buttons on my homepage, but please download and host them yourself.</text>

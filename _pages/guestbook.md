@@ -58,6 +58,22 @@ menu: site
 <div class="guestbook">
     <div class="gb-entry love">
         <div class="gb-container">
+            <div class="gb-meta">#111 | October 18, 2023, 20:34 | <a target="_blank" href="https://jrs-storytime.neocities.org/">JR</a></div>
+            <div class="gb-message">
+                Really love the halloween layout. There's so much here too!
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
+            <div class="gb-meta">#110 | October 18, 2023, 17:40 | <a target="_blank" href="https://fri11s.neocities.org/">Frills</a></div>
+            <div class="gb-message">
+                Hey pal! I love your website and I really enjoy everything you give to the indie community. Can't wait for more updates 💞
+            </div>
+        </div>
+    </div>
+    <div class="gb-entry love">
+        <div class="gb-container">
             <div class="gb-meta">#109 | October 18, 2023, 15:38 | <a target="_blank" href="https://azoale.neocities.org/">Azoale</a></div>
             <div class="gb-message">
                 Saw your site in the neocities activity feed and found myself loving your vibes. I too am into ttrpgs, fountain pens, Dragon Cave, and trans rights. You got yourself a new follower
