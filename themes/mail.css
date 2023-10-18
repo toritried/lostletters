@@ -96,3 +96,25 @@ a, .mobile_nav {
       content: url("/graphics/toy/stamp/cinnamoroll.png"); /* credit: https://www.deviantart.com/profiledecor/art/F2U-Cinnamoroll-Stamp-720524588 */
       image-rendering: pixelated;
   }
+  
+  /* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
+  
+  ::-webkit-scrollbar {
+      height: 50px;
+      width: 10px;
+      overflow-y: scroll;
+    }
+    
+    ::-webkit-scrollbar-corner {
+        background-color: transparent;
+    }
+    
+    ::-webkit-scrollbar-track{
+      background-color: var(--color-primary-a10);
+    }
+    
+    ::-webkit-scrollbar-thumb {
+      border-radius: 2ex;
+      -webkit-box-shadow: inset 0 0 0px var(--color-primary-a0); 
+      background: linear-gradient(180deg, var(--color-primary-a10) 0%, var(--color-primary-a50) 100%);
+    } 
