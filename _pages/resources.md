@@ -9,27 +9,35 @@ menu: meta
 <h2>Web Dev Resources</h2>
 This is a collection of resources that helped me create this site, which may help you with yours too! You can click through most graphics on my site to get to the original artists, and there's also attribution sporadically commented within my source code. If you ever have a question about where I got or learned something, feel free to ask in my <a href="/guestbook/">guestbook</a>.
 <br>
-<br>
+<h3>Code Snippets</h3>
+<ul>
+    <li><b>Responsive Layout Templates</b>: <a target="_blank" href="https://matthewjamestaylor.com/web-design">Matthew James Taylor</a> offers extremely helpful and bare bones responsive website layouts that you can customize to your heart's desire. I always <b>go here first</b> to get the code for any new layout I want to design.</li>
+    <li><b>Easy Theme Switchers</b></li>
+        <ul>
+            <li><a target="_blank" href="https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">an easy, JS-based extensible theme switcher</a> that I used for this site</li>
+            <li><a target="_blank" href="https://derekkedziora.com/blog/dark-mode-revisited">Derek Kedziora</a> wrote a very easy-to-follow guide to creating a light and dark mode for your site with <i>optional</i> JS switcher button</li>
+        </ul>
+    <li><a target="_blank" href="https://sadgrl.online/">sadgrl.online</a> - <a target="_blank" href="https://sadgrl.online/learn/articles/last-update-visitors#">Neocities last update date and visitor count javascript</a></li>
+    <li><a target="_blank" href="https://maya.land">maya.land</a> - <a target="_blank" href="https://maya.land/monologues/2020/11/12/external-link-icon-with-css.html">how to add an external link icon with CSS</a>, <a target="_blank" href="https://maya.land/technicalities/svg/">creating 88x31 svg buttons</a></li>
+    <li>Finishing Touches</li>
+        <ul>
+            <li><a target="_blank" href="http://manos.malihu.gr">malihu</a> - <a target="_blank" href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin">jQuery Tooltip styling plugin</a> customized how title text looks</li>
+            <li><a target="_blank" href="https://cepheus.neocities.org/">Cepheus</a> & <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar">mdn web docs</a> - scrollbar styling</li>
+            <li><a target="_blank" href="https://css-tricks.com/">CSS tricks</a> - <a target="_blank" href="https://css-tricks.com/snippets/css/animated-grainy-texture/">animated grain css</a></li>
+            <li><a target="_blank" href="http://ianlunn.github.io/Hover/">hover:css</a> - helpful demos of tons of on:hover effects</li>
+        </ul>
+    <li>Jekyll-specific</li>
+        <ul>
+            <li><a target="_blank" href="https://maria.town/">maria.town</a> - looked at the github repo for code to dynamically generate Jeykll site navigation</li>
+            <li><a target="_blank" href="https://jameshfisher.com/2019/05/05/how-can-i-add-tags-to-a-jekyll-blog/">James Fisher's tutorial</a> for adding tags to your Jekyll blog</li>
+        </ul>
+</ul>
 <h3>Tools</h3>
 <ul>
     <li><a target="_blank" href="https://github.com/jonchang/deploy-neocities">GitHub Action for deploying to Neocities</a></li>
     <li><a target="_blank" href="https://www.goatcounter.com/">GoatCounter</a> -  open source web analytics alternative to Google Analytics</li>
     <li><a target="_blank" href="https://www.drlinkcheck.com/">Dr. Link Check</a> - checks your site for broken links</li>
 </ul>
-<br>
-<h3>Code Snippets</h3>
-<ul>
-    <li><a target="_blank" href="https://matthewjamestaylor.com/web-design">Matthew James Taylor</a> offers extremely (!!!) helpful and bare bones responsive website layouts that work for desktop and mobile!</li>
-    <li><a target="_blank" href="https://derekkedziora.com/blog/dark-mode-revisited">Derek Kedziora</a> wrote a very easy to follow guide to creating a light and dark mode for your site with optional JS switcher button</li>
-    <li><a target="_blank" href="https://sadgrl.online/">sadgrl.online</a> - <a target="_blank" href="https://sadgrl.online/learn/articles/last-update-visitors#">Neocities last update date and visitor count javascript</a></li>
-    <li><a target="_blank" href="https://maya.land">maya.land</a> - <a target="_blank" href="https://maya.land/monologues/2020/11/12/external-link-icon-with-css.html">how to add an external link icon with CSS</a>, <a target="_blank" href="https://maya.land/technicalities/svg/">creating 88x31 svg buttons</a></li>
-    <li><a target="_blank" href="http://manos.malihu.gr">malihu</a> - <a target="_blank" href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin">jQuery Tooltip styling plugin</a></li>
-    <li><a target="_blank" href="https://marzka.cafe">marzka.cafe</a> - code for dynamically generating site navigation</li>
-    <li><a target="_blank" href="https://cepheus.neocities.org/">Cepheus</a> & <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar">mdn web docs</a> - scrollbar styling</li>
-    <li><a target="_blank" href="https://css-tricks.com/">CSS tricks</a> - <a target="_blank" href="https://css-tricks.com/snippets/css/animated-grainy-texture/">animated grain css</a></li>
-    <li><a target="_blank" href="http://ianlunn.github.io/Hover/">hover:css</a> - helpful demos of tons of on:hover effects</li>
-</ul>
-<br>
 <h3>Graphics</h3>
 <ul>
     <li><a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">trovami</a> - 80x15 button creator</li>
@@ -37,7 +45,6 @@ This is a collection of resources that helped me create this site, which may hel
     <li><a target="_blank" href="http://coolors.co">coolors.co</a> - color palette generator</li>
     <li><a target="_blank" href="https://blinkies.cafe/">blinkies.cafe</a> - blinkie generator</li>
 </ul>
-<br>
 <h3>Japanese Pixel Sozai Sites</h3>
 <a target="_blank" href="https://foollovers.com/">
     <img src="/graphics/linkout/foollovers8826.gif" title="Fool Lovers" align="left" style="margin: 10px 10px 0 0;">
