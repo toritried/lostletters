@@ -37,19 +37,19 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
 <br>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
-<b>likes</b>: trans rights, intersectional feminism, degrowth and ecosocialism, labor organizing, pumpkin spice, living in cities, onsen 温泉, my penpals, words of affirmation, knitting, yakiimo 焼き芋, epic fantasy
+<b>likes</b>: trans rights, intersectional feminism, degrowth and ecosocialism, labor organizing, pumpkin spice, words of affirmation, knitting, yakiimo 焼き芋, epic fantasy, tamagotchi
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/ahhh_bear.gif" title="if you know who illustrated this, please lmk"/>
-<b>dislikes</b>: silence, being late/running for trains, never remembering names or lyrics, feeling illiterate in Japan, trauma dumping, non-inclusive clothing sizes, not crediting artists
+<b>dislikes</b>: silence, being late, feeling illiterate in Japan, trauma dumping, non-inclusive clothing sizes, not crediting artists, gender-reveal parties, not using CWs
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/learning_pig.gif" title="if you know who illustrated this, please lmk"/>
 <b>practicing</b>: buddhism / meditation, web development, pixel art, emotional regulation techniques, proper weight lifting form, low heart rate training (MAF method), imitating musical instruments with my voice
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_cat.gif" title="if you know who illustrated this, please lmk"/>
-<b>enemies of my wallet</b>: limited edition uni-ball one gel pens (0.38mm), washi tape, <a target="_blank" href="https://www.voluspa.com/">voluspa candles</a>, <a target="_blank" href="https://minimodel.jp/catalogue/nail/nuance">"nuance nail" trend in Japan</a>, LUSH bathbombs, <a target="_blank" href="https://dispeldice.com/">pretty math rocks</a>, overpriced vegan/foreigner food in Japan, <a target="_blank" href="https://www.postacollect.com/">seasonal Japanese postcards</a>
+<b>enemies of my wallet</b>: limited edition uni-ball one gel pens (0.38mm), <a target="_blank" href="https://www.voluspa.com/">voluspa candles</a>, <a target="_blank" href="https://minimodel.jp/catalogue/nail/nuance">"nuance nail" trend in Japan</a>, LUSH bath bombs, <a target="_blank" href="https://dispeldice.com/">math rocks</a>, overpriced vegan/foreigner food in Japan, <a target="_blank" href="https://www.postacollect.com/">seasonal Japanese postcards</a>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/cute_bear.gif" title="if you know who illustrated this, please lmk"/>
-<b>media</b>: moomin (tv show), <a target="_blank" href="https://www.naddpod.com/">NAADPod</a> (D&D podcast), <a target="_blank" href="https://critrole.com/">Critical Role</a> (D&D show), <a target="_blank" href="https://www.dropout.tv/dimension-20">Dimension 20</a> (TTRPG show), vlogs (Michelle Choi, Namiのくらし, CozyDay, em iffy, deemd), audiobooks
+<b>media</b>: <a target="_blank" href="https://www.dropout.tv/dimension-20">Dimension 20</a> (TTRPG show), moomin (tv show), <a target="_blank" href="https://www.naddpod.com/">NAADPod</a> (D&D podcast), <a target="_blank" href="https://critrole.com/">Critical Role</a> (D&D show), vlogs (Michelle Choi, Namiのくらし, CozyDay, em iffy, deemd), audiobooks
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/pig_eat.gif" title="if you know who illustrated this, please lmk"/>
 <b>foods I need to veganize</b>: su böreği, spanakopita, gözleme, kugel, braciola, mac n' cheese, calamari, Cuban picadillo
