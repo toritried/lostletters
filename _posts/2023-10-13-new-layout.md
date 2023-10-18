@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Responsive Take on a Classic 3-Column Layout
-date: 2023-10-01 22:37:34
+date: 2023-10-13 22:37:34
 tags:
   - webmastery
 ---

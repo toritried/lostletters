@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to become "That Girl" as a depressed thirty-year-old
-date: 2023-10-01 22:37:34
+date: 2023-10-08 22:37:34
 tags:
   - self-reflection
   - adulting
