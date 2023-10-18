@@ -8,7 +8,7 @@ menu: webcore
 
 <center>
     <h2>My Favorite Virtual Pets</h2>
-    <div class="quilt">
+    <div class="noext" style="image-rendering: pixelated;">
         <a target="other" href='https://finaloutpost.net/view/2v5f3#main'>
             <img src='https://finaloutpost.net/s/2v5f3.png'>
         </a>
@@ -51,18 +51,27 @@ menu: webcore
         <a target="other" href="https://dragcave.net/view/eTLug#middle">
             <img src="https://dragcave.net/image/eTLug.gif" style="border-width:0"/>
         </a>
-        <a target="other" href="https://dragcave.net/view/whwuI#middle">
-            <img src="https://dragcave.net/image/whwuI.gif" style="border-width:0"/>
+        <a target="other" href="https://dragcave.net/view/od07M#middle">
+            <img src="https://dragcave.net/image/od07M.gif" style="border-width:0"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/Br8ed#middle">
+            <img src="https://dragcave.net/image/Br8ed.gif" style="border-width:0" title="my first ever dino that I won from a giveaway"/>
+        </a>
+        <a target="other" href="https://dragcave.net/view/vcYdZ#middle">
+            <img src="https://dragcave.net/image/vcYdZ.gif" style="border-width:0" title="the first dino I found in the caves!"/>
+        </a>
+        <br>
+        <br>
+        <a target="_blank" href="https://dragcave.net/user/lostletters">
+            <img style="image-rendering: pixelated; width: 100%; max-width: 500px;" src="https://dcrecords.tj09.net/banner/lostletters.png" alt="a guilded banner displaying ever-updating stats about my dragon cave account" title="Dragon Cave stats banner by Dragon Cave Records">
         </a>
     </div>
-    <br>
     My full collections can be found at the links below:
     <br>
     <a target="_blank" href="https://finaloutpost.net/visit/lostletters/37592">The Final Outpost</a> | 
     <a target="_blank" href="https://dragcave.net/user/lostletters">Dragon Cave</a> | 
     <a target="_blank" href="https://magistream.com/user/lostletters/Completed">Magistream</a>
 </center>
-<br>
 <h2>A Guide to Virtual Pixel Art Pet Sites</h2>
 <i>This was originally published as a <a href="/2022/11/25/virtual-pets.html">blog post on Nov 11, 2022</a></i>.
 <br>
