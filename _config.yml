@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   A personal site home to the Afternoon Tea Pixel Club
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon_username: lostletters@indieweb.social
-github_username:  toritried
+mastodon_username: lostletters@cutie.city
+github_username: toritried
 timezone: Asia/Tokyo
 
 # Build settings
@@ -33,10 +33,9 @@ plugins:
   - jekyll-feed
 
 include:
- - _pages
+  - _pages
 
 excerpt_separator: <!--excerpt-->
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
