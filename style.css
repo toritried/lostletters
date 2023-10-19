@@ -11,7 +11,7 @@
   src: url("/fonts/DIEDIEDIE.TTF") format("truetype");
 }
 body {
-    font-size: calc(15px + 0.390625vw);
+    font-size: calc(18px + 0.390625vw);
     background-color: #000;
     margin: 0px;
 }
@@ -116,8 +116,7 @@ hr {
     text-align: center;
 }
 /** status.cafe styling **/
-#statuscafe-username {
-}
+
 #statuscafe-username, #statuscafe-content {
 display:inline;
 }
@@ -131,9 +130,9 @@ font-style:normal;
 overflow: hidden;
 cursor: pointer;
 }
+.navbar:active{outline: #000;}
 .dropbtn { 
 border: none;
-outline: none;
 font-size: 1em;
 padding: 6px;
 background-color: inherit;
@@ -260,13 +259,11 @@ display: block;
   
   a {
     color: var(--link-color);
-    text-decoration: none;
     cursor: pointer;
   }
   
   a:hover {
     -webkit-text-fill-color: var(--link-hover-fill); /** needed given styling of bolded links **/
-    text-decoration: none;
     text-shadow: 2px 2px 4px var(--link-hover-shadow);
     position: relative;
     left: 1.5px;
