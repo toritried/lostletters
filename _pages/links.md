@@ -136,7 +136,7 @@ menu: meta
     </a>
 </div>
 <center>
-    <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use the buttons on my homepage, but please download and host them yourself.</text>
+    <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use these buttons, but please download and host them yourself.</text>
     <br>
     <br>
     <img src="/graphics/site_buttons/LostLetters88x31.gif" alt="a unicorn shaped button with blinking stars and the text: lost letters" title="88x31 pixel button">&nbsp;&nbsp;<img src="/graphics/site_buttons/LostLetters32x32.gif" alt="a pink to lavender vertical ombre fade tamagotchi with yellow text scrolling across the screen that says lost letters" title="32x32 pixel button">
