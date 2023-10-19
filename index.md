@@ -27,6 +27,50 @@ emoji: 🏠
     <a target="_blank" href="https://dragcave.net/user/lostletters" rel="me">Dragon Cave</a>&nbsp;&nbsp;
     <a target="_blank" href="https://neopets.com/userlookup.phtml?user=waterfish57" rel="me">Neopets</a>&nbsp;&nbsp;
 </div>
+<div class="buttons-index noext" style="text-align: center;"> <!-- Button Wall -->
+    <br>
+    <img src="/graphics/toy/tags/transrights.png" title="trans rights!">
+    <a target="_blank" href="/pride/">
+        <img src="/graphics/toy/tags/lgbt_pan.png" title="pansexual af">
+    </a>
+    <img src="/graphics/toy/tags/union-member.png" title="Union Strong!">
+    <img src="/graphics/toy/tags/veganalways.png" title="I'm just doing the best I can in Japan where it's horrible for vegans 🙃">
+    <a target="_blank" href="/origins/">
+        <img src="/graphics/toy/tags/alignment_chaotic_good.png" title="click for my chaotic good origin story">
+    </a>
+    <br>
+    <a target="_blank" href="https://lostletters.neocities.org/feed.xml">
+        <img src="/graphics/linkout/rss.gif" title="Only my freshest blog posts delivered straight to you via RSS!">
+    </a>
+    <a target="_blank" href="https://webmentions.neocities.org/">
+        <img src="/graphics/linkout/webmentions_anim.gif" title="If you mention this site's URL on mastodon, it'll display like a comment on that specific page! So cool, right? Go enable it on your site too!">
+    </a>
+    <a target="_blank" href="https://kalechips.net/responsive/index">
+        <img src="/graphics/linkout/responsive-web-directory.png" title="Part of the Responsive Web Directory because the vast majority of the world accesses the web with phones, and it's critical to be inclusive to folks who may not be able to access the small web any other way. People who are vehemently anti-mobile despite having the ability to easily adapt their sites to become responsive really need to consider how classist and racist they sound because this issue disproportionally impacts the global South. Do better.">
+    </a>
+    <a target="_blank" href="https://jekyllrb.com/">
+        <img src="/graphics/linkout/jekyll.png" title="I use Jekyll as my Static Site Generator">
+    </a>
+    <a target="_blank" href="https://neocities.org/site/lostletters">
+        <img src="/graphics/linkout/neocitiespink.gif" title="Proudly hosted by NeoCities!">
+    </a>
+    <a target="_blank" href="https://32bit.cafe/">
+        <img src="/graphics/linkout/32bitcafe.gif" title="32bit.cafe is an awesome 18+ community of website hobbyists and pros. The cafe site has tutorials and resources to help you build your own place on the web and more.">
+    </a>
+    <a target="_blank" href="https://forum.melonland.net/">
+        <img src="/graphics/linkout/melonland-forum.gif" title="Find me on the MelonLand Forum as Lost Letters!">
+    </a>
+    <a target="_blank" href="https://plasticdino.neocities.org/graphics">
+        <img src="/graphics/linkout/queer.png" title="You're telling me a queer coded this button by kitty">
+    </a>
+    <a target="_blank" href="https://yesterweb.org/no-to-web3/">
+        <img src="/graphics/linkout/nft_sadgrl.gif" title="anti-NFT button by sadgrl.online">
+    </a>
+    <a target="_blank" href="https://yourdevilfriends.neocities.org/creative/freebies">
+        <img src="/graphics/linkout/masknow.png" title="Wear a mask now button by devils">
+    </a>
+    <img src="/graphics/linkout/acab.gif" title="ACAB button - not sure who made this, so please drop me a note if you know who did in my guestbook. Attribution is so important!">
+</div>
 <hr>
 <img class="theme-stamp" align="right" style="margin: 10px 20px;">
 <a href="{{ site.posts.first.url }}"><text style="font-size: 1.17em; font-weight: bold;">{{ site.posts.first.title }}</text></a>
