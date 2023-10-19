@@ -132,9 +132,7 @@ menu: meta
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use the buttons on my homepage, but please download and host them yourself.</text>
 </center>
-<br>
 <hr>
-<br>
 I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters">every site needs a links page</a>, and I'm hoping this list will provide you with some really interesting and helpful places to explore next.
 <br>
 <br>
