@@ -134,6 +134,9 @@ menu: meta
     <a href="https://foggybear42.neocities.org/" target="_blank">
         <img src="/graphics/linkout/foggybear.gif" title="foggybear42">
     </a>
+    <a href="https://linwood.neocities.org" target="_blank">
+        <img src="/graphics/linkout/linwoodbutton.png" title="linwood">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use these buttons, but please download and host them yourself.</text>
