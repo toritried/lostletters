@@ -1,8 +1,8 @@
 ---
-title: pride
+title: pride jam
 emoji: 🏳️‍🌈
 permalink: /pride/
-menu: about
+menu: webcore
 ---
 
 <html lang="en">
