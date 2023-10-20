@@ -108,74 +108,34 @@ menu: webcore
         </div>
     </div>
     <div class="toy-flex-item">
-        <h2>Halloween</h2>
-        <h3 id="halloween-23">2023</h3>
-        I helped plan and coordinate the <a target="_blank" href="https://tilde.32bit.cafe/~slug/events/halloween-2023/">32-bit cafe's Halloween event</a> that involved collaborations with loads of pixel clubs across the small web. Here are all the entries I made for the event:
-        <br>
-        <div class="noext">
-            <a target="_blank" href="https://fizzsea.neocities.org/extra/fizzyvendor">
-                <img src="/graphics/adoptables/campfire_lostletters.png" title="Bottle of campfire I made for Fizzy Vendor. Click to go to the pixel club page.">
-            </a>
-            <a target="_blank" href="https://divergentrays.com/kitty">
-                <img src="/graphics/adoptables/kuromi-lostletters.png" title="Kuromi that I made for Kitty Friends. Click to go to the pixel club page.">
-            </a>
-            <img src="/graphics/adoptables/pumpkin-lostletters.png" style="margin: 0 10px;" title="an standard orange gourd for the community pumpkin patch"><img src="/graphics/adoptables/purple-jackolantern-lostletters.png" style="margin: 0 10px;" title="a purple jack-o-lantern for the community pumpkin patch">
-            <h3>2022</h3>
-            These treats were collected from <a target="_blank" href="https://yesterweb.org/trickortreat2022/">Yesterweb's 2022 Trick-or-Treat event</a>.
-        </div>
+        <h2>My Pixel Art & Sozai</h2>
+        Here's a couple of pieces of pixel art that I made for you to adopt and sprinkle throughout your site: 
         <br>
         <br>
-        <div class="noext">
-            <a target="_blank" href="https://artwork.neocities.org/halloween.html">
-            <img src="/graphics/toy/halloween2022/artworkhalloween.gif" title="treat from artwork"/>
-            </a>
-            <a target="_blank" href="https://dogfish99.neocities.org/morscertissima.html">
-            <img src="/graphics/toy/halloween2022/fairy%20kitty%20from%20dogfish99neocities.png" title="treat from dogfish99"/>
-            </a>
-            <a target="_blank" href="https://blissnet.neocities.org/holiday/Hallozine2022/index.html">
-            <img src="/graphics/toy/halloween2022/IppHPFV.gif" title="treat from blissnet"/>
-            </a>
-            <a target="_blank" href="https://gloomlee.neocities.org/trickortreat.html">
-            <img src="/graphics/toy/halloween2022/pumpkindomo2022sticker-gloomlee.gif" title="treat from gloomlee"/>
-            </a>
-            <a target="_blank" href="https://gloomlee.neocities.org/trickortreat.html">
-            <img src="/graphics/toy/halloween2022/scream2022sticker-gloomlee.gif" title="treat from gloomlee"/>
-            </a>
-            <a target="_blank" href="https://redrevelry.neocities.org/">
-            <img src="https://i.imgur.com/cBEXPv1.png">
-            </a>
-            <a target="_blank" href="https://expectationemesis.net/holiday/halloween2022.html">
-            <img src="/graphics/toy/halloween2022/expectationemesis-pumpkinkitty.gif" title="treat from expectationemesis"/>
-            </a>
-            <a target="_blank" href="https://critterprincetoys.neocities.org/halloween.html">
-            <img src="/graphics/toy/halloween2022/PUMPKINBUCKET.png" title="treat from critterprincetoys"/>
-            </a>
-            <a target="_blank" href="https://paintkiller.neocities.org/new/haloween2022.html">
-            <img src="/graphics/toy/halloween2022/derpkin.png" title="treat from paintkiller"/>
-            </a>
-            <a target="_blank" href="https://creaturefeature.neocities.org/misc/halloween.html">
-            <img src="/graphics/toy/halloween2022/jacklatern.png" width="20%" height="20%" title="treat from creaturefeature"/>
-            </a>
-            <a target="_blank" href="https://frogpondblues.neocities.org/halloween/halloween.html">
-            <img src="/graphics/toy/halloween2022/kiss.png" title="treat from frogpondblues"/>
-            </a>
-            <a target="_blank" href="https://kreepykeys.neocities.org/">
-            <img src="/graphics/toy/halloween2022/tootsierolls.gif" width="30%" height="30%" title="treat from kreepykeys"/>
-            </a>
-            <a target="_blank" href="https://doctordizzy.neocities.org/halloween">
-            <img src="/graphics/toy/halloween2022/candy_spin.gif" width="20%" height="20%" title="treat from doctordizzy"/>
-            </a>
-            <a target="_blank" href="https://fr1234.neocities.org/halloween.html">
-            <img src="/graphics/toy/halloween2022/snickers_fr1234neocities.png" width="50%" height="50%" title="treat from fr1234"/>
-            </a>
-            <br>
-            <a target="_blank" href="https://yesterweb.org/trickortreat2022/">
-            <img src="/graphics/toy/halloween2022/yesterweb2022tot.gif"/>
-            </a>
-            <a target="_blank" href="https://lophius.xyz/halloween2022/halloween2022.html">
-            <img src="/graphics/toy/halloween2022/lophiusxyz-spooktober2022.gif" title="treat from lophius.xyz's game"/>
-            </a>
-        </div>
+        <img src="/graphics/adoptables/parfait.png">
+        <img src="/graphics/adoptables/dancing-moomin-lostletters.png" title="Note: I do not claim ownership of Moomin, I just drew him because he's the best boy">
+        <img src="/graphics/adoptables/flowers-pitcher.png">
+        <br>
+        <img src="/graphics/adoptables/bow-pink-lostletters.png">
+        <img src="/graphics/adoptables/bow-blush-lostletters.png">
+        <img src="/graphics/adoptables/bow-gold-lostletters.png">
+        <img src="/graphics/adoptables/bow-matcha-lostletters.png">
+        <img src="/graphics/adoptables/bow-seafoam-lostletters.png">
+        <img src="/graphics/adoptables/bow-purple-lostletters.png">
+        <br>
+        <br>
+        <b>Terms of Use</b>
+        <ul>
+            <li>These graphics are closed-source freeware for personal and non-commercial use only.
+            </li>
+            <li>Download and host these yourself. Do not hotlink.
+            </li>
+            <li>Credit me with a visible link back to <a href="https://lostletters.neocities.org/">Lost Letters</a>.
+            </li>
+            <li><b>DO NOT</b> use for commercial purposes nor NFTs.
+            </li>
+            <li><b>DO NOT</b> edit, copy, or use in your art works, products, or services.</li>
+        </ul>
     </div>
     <div class="toy-flex-item">
         <h2>Surviving Pixel Websites From That Era</h2>
@@ -195,129 +155,6 @@ menu: webcore
             <li><a target="_blank" href="http://pixels.ingerssite.de/">ingerssite</a></li>
             <li><a target="_blank" href="https://thepixelpalace.forumotion.com/">thepixelpalace</a></li>
         </ul>
-    </div>
-    <div class="toy-flex-item">
-        <h2>Pixel Clubs</h2>
-        During this time, pixel clubs were a popular way to participate and collect art from each other. The most famous pixel art club was <a href="/quilt/">the quilting bee</a>, but there were many smaller ones which were much easier to join. This still remains popular today with new pixel clubs popping up all the time. I've listed a couple here which are categorized into clubs that are revivals of bygone ones, "new" clubs that didn't originate from the early 2000s era, and a few clubs that are archived without any person who has tried to revive it (note: several neocities folks have put up yum-yum shoppe pages but link to the internet archive page).
-        <br>
-        <br>
-        [ Revival ] <a href="/afternoontea/">Afternoon Tea</a>
-        <br>
-        [ Revival ] <a target="_blank" href="https://divergentrays.com/kitty">Kitty Friends</a>
-        <br>
-        <div class="imgwall">
-            <a href="/">
-                <img src="/graphics/adoptables/kuromi-lostletters.png" title="Kuromi wishes you a Happy Halloween - made by Lost Letters">
-            </a>
-            <a target="_blank" href="https://solaria.neocities.org/">
-                <img src="/graphics/toy/kitty-sol-garf.gif" title="made by Solaria">
-            </a>
-            <a target="_blank" href="https://paintkiller.neocities.org/">
-                <img src="/graphics/toy/kitty-Paintkiller.png" title="made by Paintkiller">
-            </a>
-            <a target="_blank" href="https://thegardenofmadeline.neocities.org/">
-                <img src="/graphics/toy/kitty_spacekitty-madeline.gif" title="made by Madeline">
-            </a>
-            <a target="_blank" href="https://dollarchive.neocities.org/guilds">
-                <img src="/graphics/toy/kitty-dollarchive.png" title="made by doll archive">
-            </a>
-            <a target="_blank" href="https://qrunchysnaq.neocities.org/">
-                <img src="/graphics/toy/kitty-qrunchy.gif" title="Merle - made by qrunchy">
-            </a>
-            <a target="_blank" href="https://hillhouse.neocities.org/pixels#kitty">
-                <img src="/graphics/toy/kitty-hillhouse.gif" title="made by rosemary">
-            </a>
-            <a target="_blank" href="https://strawbebby228.neocities.org/">
-                <img src="/graphics/toy/kitty-strawbebby.gif" title="made by strawbebby">
-            </a>
-        </div>
-        <br>
-        [ Revival ] <a target="_blank" href="https://divergentrays.com/pocket">Pocket Town</a>
-        <br>
-        [ Revival ] <a target="_blank" href="https://keysklubhouse.com/teenytowers">Teeny Towers</a>
-        <br>
-        [ Revival ] <a target="_blank" href="https://blissnet.neocities.org/toybox/JJ">Jar Jams</a>
-        <br>
-        [ Revival ] <a target="_blank" href="https://blissnet.neocities.org/toybox/Nyanbo">Nyanbo Astume</a>
-        <br>
-        [ New Era ] <a target="_blank" href="https://charmbracelets.neocities.org/">Charm Bracelets</a>
-        <br>
-        [ New Era ] <a target="_blank" href="https://fizzsea.neocities.org/extra/fizzyvendor">Fizzy Vendor</a>
-        <br>
-        <div class="imgwall">
-            <a href="/">
-                <img src="/graphics/adoptables/campfire_lostletters.png" title="Enjoy the bottled warmth of a crackling campfire on a brisk fall night - by Lost Letters">
-            </a>
-            <a target="_blank" href="https://cloudcover.neocities.org/">
-                <img src="/graphics/toy/drink-lime.png" title="Tastes like fresh berries, limes, and summer - By cloudcover" alt="A plastic bottle filled with green liquid, limes, and berries. The lavender label reads 'lime' in all capitalized blue letters">
-            </a>
-            <a target="_blank" href="https://spiders.neocities.org/">
-                <img src="/graphics/toy/drink-spiders.png" title="Tastes buggy - By spiders" alt="A clear plastic bottle with a red label and cap. The label has a blue beetle with a pink head on it. The drink inside is green.">
-            </a>
-            <a target="_blank" href="https://antikrist.lol/">
-                <img src="/graphics/toy/drink-antikrist.png" title="it tastes salty. and a little sandy. is don't drink the salt water - By antikrist" alt="A glass bottle with purple liquid and a one-eyed tentacle creature inside">
-            </a>
-            <a target="_blank" href="https://fizzsea.neocities.org/">
-                <img src="/graphics/toy/drink-fizzy.png" title="Lemonade but pink! - By fizzsea" alt="a ramune bottle with a small figurine of a slice lemon sitting next to it, it has pink lemonade inside. The label is pink with yellow text on it. The bead is shaped like a citrus slice">
-            </a>
-            <a target="_blank" href="https://solaria.neocities.org/">
-                <img src="/graphics/toy/drink-solaria.png" title="Centries old. Its ... Blue. Drink it? - By solaria" alt="A blue glass bottle with golden line accents and cap. The label is a golden S.">
-            </a>
-            <a target="_blank" href="https://artwork.neocities.org/cliques">
-                <img src="/graphics/toy/drink-artwork.png" title="By artwork" alt="a milk carton of Korilakkuma with text reading strawberry o'lait in Japanese">
-            </a>
-            <a target="_blank" href="https://starbage.neocities.org/">
-                <img src="/graphics/toy/drink-starbage.gif" title="By starbage" alt="a looping gif of a purple tinted can with a dark purple label with stars. white text reads 'stellar grape' in all caps. A shine gleams across the can">
-            </a>
-            <a target="_blank" href="https://butt0n-z.neocities.org/">
-                <img src="/graphics/toy/drink-buttonz.png" title="A Nostalgic Citrus drink for youe ghostly pals! - By butt0n-z" alt="A grey soda can with a gradient label going from green to orange. It has a green ghost on it, smiling with raised arms. Text on it reads Hi-C Ectocooler">
-            </a>
-            <a target="_blank" href="https://bloopywoopy.neocities.org/cool-stuff/collections">
-                <img src="/graphics/toy/drink-bloopywoopy.png" title="lemon flavoured soda - By bloopywoopy" alt="a pink can with a lemon logo">
-            </a>
-        </div>
-        <br>
-        [ New Era ] <a target="_blank" href="https://lavalounge.neocities.org/">The Lava Lounge</a>
-        <br>
-        [ New Era ] <a target="_blank" href="https://solaria.neocities.org/pixel/bunnygarden/bunnygarden">Bunny Garden</a>
-        <br>
-        [ New Era ] <a target="_blank" href="https://stickersheetclub.neocities.org/">Sticker Sheet Club</a>
-        <br>
-        [ New Era ] <a target="_blank" href="https://solaria.neocities.org/pixel/bunnygarden/bunnygarden">Bunny Garden</a>
-        <br>
-        [ Archived ] <a target="_blank" href="https://web.archive.org/web/20030608043805/http://www.letsbefriends.org/yum-yum/">yum-yum shoppe</a>
-        <br>
-        [ Archived ] <a target="_blank" href="https://web.archive.org/web/20091028051422/http://www.geocities.com/heathershomedaycare/snowflakes.html">Snowflakes</a>
-    </div>
-    <div class="toy-flex-item">
-    <h2>My Pixel Art & Sozai</h2>
-    Here's a couple of pieces of pixel art that I made for you to adopt and sprinkle throughout your site: 
-    <br>
-    <br>
-    <img src="/graphics/adoptables/parfait.png">
-    <img src="/graphics/adoptables/dancing-moomin-lostletters.png" title="Note: I do not claim ownership of Moomin, I just drew him because he's the best boy">
-    <img src="/graphics/adoptables/flowers-pitcher.png">
-    <br>
-    <img src="/graphics/adoptables/bow-pink-lostletters.png">
-    <img src="/graphics/adoptables/bow-blush-lostletters.png">
-    <img src="/graphics/adoptables/bow-gold-lostletters.png">
-    <img src="/graphics/adoptables/bow-matcha-lostletters.png">
-    <img src="/graphics/adoptables/bow-seafoam-lostletters.png">
-    <img src="/graphics/adoptables/bow-purple-lostletters.png">
-    <br>
-    <br>
-    <b>Terms of Use</b>
-    <ul>
-        <li>These graphics are closed-source freeware for personal and non-commercial use only.
-        </li>
-        <li>Download and host these yourself. Do not hotlink.
-        </li>
-        <li>Credit me with a visible link back to <a href="https://lostletters.neocities.org/">Lost Letters</a>.
-        </li>
-        <li><b>DO NOT</b> use for commercial purposes nor NFTs.
-        </li>
-        <li><b>DO NOT</b> edit, copy, or use in your art works, products, or services.</li>
-    </ul>
     </div>
     <div class="toy-flex-item">
         <h2>About This Page</h2>
