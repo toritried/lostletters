@@ -8,8 +8,6 @@ menu: site
 
 <h2>Past Layouts</h2>
 I wanted to start a log of the past iterations of the site, so I can look back on all the <i><strike>terrible code I've written</strike></i> good memories I've made!
-<br>
-<br>
 <h3>🎃 Version 3: 3-column throwback |  October 2023 - current</h3>
 I coded this new layout over two days, listening to Pain Hasn't Hit Me by The Crane almost exclusively. It reminded me of listening to Burning by The Whitest Boy Alive in high school, browsing tumblrs of girls who were definitely cooler than me. Fitting with that nostalgia, I wanted to create a desktop layout that I don't see often anymore: the classic "holy grail" 3-column layout. I immediately went to <a target="_blank" href="https://matthewjamestaylor.com/holy-grail-layout">Matthew James Taylor's website</a> as it offers the bare bones code for literally any layout you could possibly want. As a bonus, they're all responsive for mobile, and he offers many different ways to approach the layouts using CSS grid, flex, or whatever you're comfortable with. There are so many sites on Neocities that could be mobile-friendly, and this is such an easy way to go about that. I hope more folks learn from this incredible resource.
 <br>
@@ -17,8 +15,7 @@ I coded this new layout over two days, listening to Pain Hasn't Hit Me by The Cr
 Once I had the code for my site structure, I wanted to add a theme switcher for Halloween. This is done easily just by switching out whatever you want to customize in your main CSS file by swapping in variables and having those defined in separate style sheets that some JS can point to. I followed <a target="_blank" href="https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">this very easy tutorial</a> that provided all the code snippets needed, then I got busy, committing as many CSS crimes as I wanted. The entire effort took about two days, but the majority of that was spent tweaking the CSS to figure out fun combinations that worked well together and then leaving it alone for a while so I could view it with fresh eyes. One of the really helpful resources I used to develop cohesive color schemes for each layout was <a target="_blank" href="https://colorffy.com/css-generator">colorffy's CSS / SCSS color variables generator</a>. You just specify a HEX code for a color you like, and it spits out a family of related shades, which you can then evaluate to ensure you've got the right contrast ratios for your site.
 <br>
 * <a target="_blank" href="https://www.dafont.com/pixel-operator.font">pixel font</a> used in the mail, purple, and spoopy themes
-<br>
-<br>
+* Guestbook is powered by code from <a target="_blank" href="https://virtualobserver.moe/ayano/comment-widget">virtualobserver</a> with a h/t to <a target="_blank" href="https://fri11s.neocities.org/">Frills</a> for pointing me their way
 <h3>🚀 Version 2: Lost in Space!  |  March 2023 - October 2023</h3>
 With this layout, I simplified the elements of my first layout using the body styling from <a target="_new" href="https://palemomos.neocities.org/cool-layouts/">Pale's gorgeous Glassy layout</a>. I've been totally on a space kick, playing <a  href="/starforged/">Starforged</a>, reading Leviathan Wakes by James S. A. Corey, and watching The Expanse, which is based on that book. I think that probably explains why I went with the space background. It's hard to find something dark, but not too boring.
 <br>
@@ -26,8 +23,6 @@ With this layout, I simplified the elements of my first layout using the body st
 * High-contrast text colors for better accessibility
 * <a target="_blank" href="https://linktr.ee/muk_monsalve">Mariela Monsalv</a> - creator of my body font (Asul)
 * <a target="_blank" href="https://www.design-research.be/by-womxn/">Directory of open source fonts by womxn</a> - how I found Asul
-<br>
-<br>
 <h3>🎀 Version 1: Lace Letters  |  Oct 2022 - March 2023</h3>
 <a target="_new" href="/graphics/layout/v1_laceletter/screenshot.png">
     <img src="/graphics/layout/v1_laceletter/screenshot.png" align="right" style="padding: 10px; max-width: 200px;" title="click to open full size">
