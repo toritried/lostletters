@@ -1,9 +1,9 @@
 ---
 layout: 3col
-title: net neighbors & links
+title: links
 emoji: 🔗
 permalink: /links/
-menu: meta
+menu: site
 ---
 
 <h2>Net Neighbors / Affiliates</h2>
@@ -134,8 +134,11 @@ menu: meta
     <a href="https://foggybear42.neocities.org/" target="_blank">
         <img src="/graphics/linkout/foggybear.gif" title="foggybear42">
     </a>
-    <a href="https://linwood.neocities.org" target="_blank">
+    <a href="https://linwood.neocities.org/" target="_blank">
         <img src="/graphics/linkout/linwoodbutton.png" title="linwood">
+    </a>
+    <a href="https://thatoddhaystack.neocities.org/" target="_blank">
+        <img src="/graphics/linkout/thatoddhaystack.png" title="That Odd Haystack">
     </a>
 </div>
 <center>
