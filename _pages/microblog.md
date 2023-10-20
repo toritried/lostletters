@@ -3,7 +3,7 @@ layout: 3col
 title: microblog
 emoji: ☕
 permalink: /microblog/
-menu: webcore
+menu: about
 ---
 
 <center>👀 See my entire feed at <a target="_blank" href="https://status.cafe/users/lostletters">Status.Cafe</a></center>
