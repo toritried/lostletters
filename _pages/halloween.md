@@ -47,14 +47,23 @@ menu: webcore
             <a target="other" href='https://finaloutpost.net/view/RZoNk#main'>
                 <img src='https://finaloutpost.net/s/RZoNk.png'>
             </a>
+            <a target="other" href='https://finaloutpost.net/view/3AvTx#main'>
+                <img src='https://finaloutpost.net/s/3AvTx.png'>
+            </a>
             <a target="other" href='https://finaloutpost.net/view/xjGAq#main'>
                 <img src='https://finaloutpost.net/s/xjGAq.png'>
             </a>
             <a target="other" href='https://finaloutpost.net/view/itzAN#main'>
                 <img src='https://finaloutpost.net/s/itzAN.png'>
             </a>
-            <a target="other" href='https://finaloutpost.net/view/3AvTx#main'>
-                <img src='https://finaloutpost.net/s/3AvTx.png'>
+            <a target="other" href='https://finaloutpost.net/view/xjGAq#main'>
+                <img src='https://finaloutpost.net/s/xjGAq.png'>
+            </a>
+            <a target="other" href='https://finaloutpost.net/view/QR9qU#main'>
+                <img src='https://finaloutpost.net/s/QR9qU.png'>
+            </a>
+            <a target="other" href='https://finaloutpost.net/view/zTbdv#main'>
+                <img src='https://finaloutpost.net/s/zTbdv.png'>
             </a>
             <a target="other" href='https://finaloutpost.net/view/v01QB#main'>
                 <img src='https://finaloutpost.net/s/v01QB.png'>
