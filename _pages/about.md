@@ -6,7 +6,7 @@ permalink: /about-me/
 menu: about
 ---
 
-<img src="/graphics/layout/piccrew.png" alt="a cartoonish pale-skinned woman with long brown pigtales and loose hair tied back with pink bows, wearing a black shirt and holding a pride flag" title="pic crew thanks to sushicore!" style="max-width: 200px; margin: 1em;" align="right">
+<img src="/graphics/layout/piccrew.png" alt="a cartoonish pale-skinned woman with long brown pigtales and loose hair tied back with pink bows, wearing a black shirt and holding a pride flag" title="pic crew thanks to sushicore!" style="max-width: 200px; margin: 1em; border-radius: 50%;" align="right">
 <h2>Hail & Well Met,</h2> 
 <ul>
     <li>
