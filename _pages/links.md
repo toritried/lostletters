@@ -56,9 +56,6 @@ menu: site
     <a target="_blank" href="https://darnielle.me/" title="darnielle.me">
         <img src="/graphics/linkout/darnielle.gif">
     </a>
-    <a target="_blank" href="https://bloopywoopy.neocities.org/" title="bloopywoopy">
-        <img src="/graphics/linkout/bloopywoopy-button.gif">
-    </a>
     <a target="_blank" href="https://ashtreelane.neocities.org/" title="ash tree lane">
         <img src="/graphics/linkout/ashtreelane.gif">
     </a>
