@@ -207,6 +207,9 @@ menu: webcore
         <a target="_blank" href="https://blog.darylsun.page/">
             <img src="/graphics/teahouse/teacup/Daryl-oolong.png" title="tastes like oolong tea - made by Daryl">
         </a>
+        <a target="_blank" href="https://labyrinth-limbo.neocities.org/">
+            <img src="/graphics/teahouse/teacup/underwater-basket-weaving.png" title="tastes like seaweed - made by labyrinth-limbo">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
