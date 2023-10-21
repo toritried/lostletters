@@ -13,7 +13,26 @@ emoji: 🏠
     <a target="_blank" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
         web revival movement
     </a> through this site and various like-minded communities, including the <a target="_blank" href="https://www.32bit.cafe">32bit.cafe</a>. I hope that this website can inspire fellow web dev amateurs to see themselves as creators of a delightful and fun future internet that is inclusive, brimming with personality, and divorced from corporate social media monopolies.
-    Please enjoy your stay and sign my <a href="/guestbook/">guestbook</a>.
+    <br>
+    <br>
+    <b>Website Disclaimers</b>: 
+    <ul>
+        <li>
+            There will never be auto-playing music on this site because screen readers are critical to an inclusive web.
+        </li>
+        <li>
+            This website is fully-responsive and mobile-friendly because ~92% of internet users access the internet using a mobile phone (<a target="_blank" href="https://explodingtopics.com/blog/mobile-internet-traffic#percentage-of-mobile-traffic">source</a>).
+        </li>
+        <li>
+            This site is safe for work, but not welcoming of minors.
+        </li>
+        <li>
+            Content warnings (CW) are used for discussions of mental health, swearing, etc.
+        </li>
+        <li>
+            This site uses Javascript for the theme switcher, navigation, webmentions, tool tips, and more.
+        </li>
+    </ul>
 </article>
 <div class="buttons-index noext" style="text-align: center;"> <!-- Button Wall -->
     <br>

@@ -35,9 +35,6 @@ menu: site
     <a target="_blank" href="https://www.thefrugalgamer.net/">
         <img src="/graphics/linkout/frugalgamer_button4.png" title="The Frugal Gamer contains a dollmaker, original music, game logs, web material, photoshop brushes, and more.">
     </a>
-    <a target="_blank" href="https://www.lovetiny.art/">
-        <img src="/graphics/linkout/lovetiny.png" title="lovetiny pixels">
-    </a>
     <a target="_blank" href="https://sugarblush.neocities.org/">
         <img src="/graphics/linkout/sugarblush.png" title="SugarBlush">
     </a>
@@ -46,9 +43,6 @@ menu: site
     </a>
     <a target="_blank" href="https://bisuko.neocities.org/">
         <img src="/graphics/linkout/tigercarnival.png" title="Tiger Carnival">
-    </a>
-    <a target="_blank" href="https://foreverliketh.is/" title="foreverliketh.is">
-        <img src="/graphics/linkout/foreverliketh.is.png">
     </a>
     <a target="_blank" href="https://cobyzaby.neocities.org/" title="cobyzaby">
         <img src="/graphics/linkout/cobyzabybutton.gif">
@@ -131,18 +125,18 @@ menu: site
     <a href="https://leviathren.neocities.org/" target="_blank">
         <img src="/graphics/linkout/leviathrenbutton.gif" title="leviathren">
     </a>
-    <a href="https://foggybear42.neocities.org/" target="_blank">
-        <img src="/graphics/linkout/foggybear.gif" title="foggybear42">
-    </a>
     <a href="https://linwood.neocities.org/" target="_blank">
         <img src="/graphics/linkout/linwoodbutton.png" title="linwood">
     </a>
     <a href="https://thatoddhaystack.neocities.org/" target="_blank">
         <img src="/graphics/linkout/thatoddhaystack.png" title="That Odd Haystack">
     </a>
+    <a href="https://nefritvel.neocities.org/" target="_blank">
+        <img src="/graphics/linkout/nefritvel-animated.gif" title="nefritvel">
+    </a>
 </div>
 <center>
-    <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Feel free to use these buttons, but please download and host them yourself.</text>
+    <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Who I link is still at my discretion though, so I will not reciprocate if you don't pass the vibes check or are a minor. Feel free to use these buttons, but please download and host them yourself.</text>
     <br>
     <br>
     <img src="/graphics/site_buttons/LostLetters88x31.gif" alt="a unicorn shaped button with blinking stars and the text: lost letters" title="88x31 pixel button">&nbsp;&nbsp;<img src="/graphics/site_buttons/LostLetters32x32.gif" alt="a pink to lavender vertical ombre fade tamagotchi with yellow text scrolling across the screen that says lost letters" title="32x32 pixel button">
