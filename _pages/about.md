@@ -6,7 +6,22 @@ permalink: /about-me/
 menu: about
 ---
 
+<img src="/graphics/layout/piccrew.png" alt="a cartoonish pale-skinned woman with long brown pigtales and loose hair tied back with pink bows, wearing a black shirt and holding a pride flag" title="pic crew thanks to sushicore!" style="max-width: 200px; margin: 1em;" align="right">
 <h2>Hail & Well Met,</h2> 
+<ul>
+    <li>
+        call me: lost
+    </li>
+    <li>
+        pronouns: she/they
+    </li>
+    <li>
+        location: japan (utc+9)
+    </li>
+    <li>
+        japanese-american millenial
+    </li>
+</ul>
 I started informally teaching myself to code thanks to Neopets in ~2003, which inspired me <img src="/graphics/toy/avatar-collector-neopets.gif" style="margin: 0 10px 0 0;" align="left" />to pour my heart into subpar pixel art and website layouts drawn in MS Paint and Photoshop. I'm so glad I never let my frustrating mediocrity stop me from participating in the pixel communities of that time, because I made so many good memories (q*bee, Teahouse MB) and learned some basics of HTML, CSS, and PHP.
 <br>
 <div class="noext">
