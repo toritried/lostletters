@@ -210,6 +210,12 @@ menu: webcore
         <a target="_blank" href="https://labyrinth-limbo.neocities.org/">
             <img src="/graphics/teahouse/teacup/underwater-basket-weaving.png" title="tastes like seaweed - made by labyrinth-limbo">
         </a>
+        <a target="_blank" href="https://leviathren.neocities.org/">
+            <img src="/graphics/teahouse/teacup/witchesbrew.gif" title="tastes like absinthe and smoke - made by leviathren">
+        </a>
+        <a target="_blank" href="https://leviathren.neocities.org/">
+            <img src="/graphics/teahouse/teacup/cupofstars.gif" title="tastes like the summer night sky - made by leviathren">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
