@@ -15,24 +15,19 @@ emoji: 🏠
     </a> through this site and various like-minded communities, including the <a target="_blank" href="https://www.32bit.cafe">32bit.cafe</a>. I hope that this website can inspire fellow web dev amateurs to see themselves as creators of a delightful and fun future internet that is inclusive, brimming with personality, and divorced from corporate social media monopolies.
     <br>
     <br>
-    <b>Website Disclaimers</b>: 
-    <ul>
-        <li>
-            There will never be auto-playing music on this site because screen readers are critical to an inclusive web.
-        </li>
-        <li>
-            This website is fully-responsive and mobile-friendly because ~92% of internet users access the internet using a mobile phone (<a target="_blank" href="https://explodingtopics.com/blog/mobile-internet-traffic#percentage-of-mobile-traffic">source</a>).
-        </li>
-        <li>
-            This site is safe for work, but not welcoming of minors.
-        </li>
-        <li>
-            Content warnings (CW) are used for discussions of mental health, swearing, etc.
-        </li>
-        <li>
-            This site uses Javascript for the theme switcher, navigation, webmentions, tool tips, and more.
-        </li>
-    </ul>
+    <b>Website Disclaimers</b> (last updated: 2023-10-22): 
+    <blockquote>
+        <img src="/graphics/toy/emoticons/warning-watercolor.gif" alt=""> This site is <b>safe for work</b>, but only intended for adults. <b>DNI and leave if you're under 18</b>.
+        <br>
+        <img src="/graphics/toy/emoticons/cellphone-watercolor.gif" alt=""> This website is <b>responsive and mobile-friendly</b> because >90% of internet users access the internet using a mobile phone (<a target="_blank" href="https://explodingtopics.com/blog/mobile-internet-traffic#percentage-of-mobile-traffic">learn more</a>), and <b>being vehemently mobile-hostile is ableist and classist</b> by willfully excluding folks who many not be able to easily access the web via other means.
+        <br>
+        <img src="/graphics/toy/emoticons/alert-deer.gif" alt=""> Content warnings (CW) are used for discussions of mental health, swearing, etc.
+        <br>
+        <img src="/graphics/toy/emoticons/distracted-moomin.gif" alt=""> This site uses Javascript for the theme switcher, navigation, webmentions, tool tips, cursor effects, guestbook, and goatcounter.
+        <br>
+        <img src="/graphics/toy/emoticons/hearts-2-watercolor.gif" alt=""> <b>There will never be auto-playing music</b> on this site because screen readers are critical to an inclusive web (<a target="_blank" href="https://accessibility.its.uconn.edu/auto-playing-media-and-multimedia/">learn more</a>).
+        <br>
+    </blockquote>
 </article>
 <div class="buttons-index noext" style="text-align: center;"> <!-- Button Wall -->
     <br>
