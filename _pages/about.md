@@ -19,7 +19,7 @@ menu: about
         identities: japanese-american, vegan, intersectional feminist
     </li>
     <li>
-        disabilities: ADHD, bipolar
+        neurospicy: ADHD, bipolar
     </li>
     <li>
         location: japan (utc+9)
