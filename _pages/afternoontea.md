@@ -216,6 +216,9 @@ menu: webcore
         <a target="_blank" href="https://leviathren.neocities.org/">
             <img src="/graphics/teahouse/teacup/cupofstars.gif" title="tastes like the summer night sky - made by leviathren">
         </a>
+        <a target="_blank" href="https://cvnnbl.neocities.org/">
+            <img src="/graphics/teahouse/teacup/early-grey-void.png" title="tastes like earl grey with a splash of strawberry, but the eyes blinking back at you has you mistified... who are we again? - made by void">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
