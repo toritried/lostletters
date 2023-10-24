@@ -22,6 +22,7 @@ const s_formId = '1FAIpQLSdBkHzag4aINe8qjsrQPnVhCcHENze29YW3F3VVANvB2WDJ2w'; // 
 const s_nameId = '902606489'; // The Name field ID
 const s_websiteId = '949792007'; // The Website field ID
 const s_textId = '1143825901'; // The Text field ID
+const s_moderatedId = '1042795978'; // The Moderated field ID
 const s_pageId = '1416061810'; // The Page field ID
 const s_replyId = '2130890016'; // The Reply field ID
 const s_sheetId = '15-CemPnYFKZC8AfoC2GeWD_I0K55hqH68eAnOqCyZKY'; // The Google Sheet
@@ -102,6 +103,7 @@ const v_formHtml = `
         <div id="c_textWrapper" class="c-inputWrapper">
             <label class="c-label c-textLabel" for="entry.${s_textId}">${s_textFieldLabel}</label>
             <textarea class="c-input c-textInput" name="entry.${s_textId}" id="entry.${s_textId}" rows="4" cols="50"  maxlength="${s_maxLength}" required></textarea>
+            <input name="entry.${s_moderatedId}" id="entry.${s_moderatedId}" type="hidden" readonly value="false">
         </div>
     </div>
 
@@ -364,6 +366,9 @@ function createComment(data) {
     if (s_wordFilterOn) {filteredName = filteredName.replace(v_filteredWords, s_filterReplacement)}
     name.innerText = filteredName;
     name.className = 'c-name';
+    if(data.Moderated == false) {
+        name.innerText = 'Guest'; // Change 'Guest' to whatever you want
+    }
     comment.appendChild(name);
 
     // Timestamp
@@ -378,6 +383,9 @@ function createComment(data) {
         site.innerText = data.Website;
         site.href = data.Website;
         site.className = 'c-site';
+        if(data.Moderated == false) {
+            site.innerText = '';
+        }
         name.appendChild(site);
     }
 
@@ -387,6 +395,9 @@ function createComment(data) {
     if (s_wordFilterOn) {filteredText = filteredText.replace(v_filteredWords, s_filterReplacement)}
     text.innerText = filteredText;
     text.className = 'c-text';
+    if(data.Moderated == false) {
+        text.innerText = 'This comment is awaiting moderation'; // Change this value to whatever you want
+    }
     comment.appendChild(text);
     
     return comment;
