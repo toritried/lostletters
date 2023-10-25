@@ -26,33 +26,32 @@ hr {
   margin: 1.5em;
 }
 .holy-grail-grid {
-    display:grid;
-    grid-template-areas:
-        'header'
-        'main-content'
-        'left-sidebar'
-        'right-sidebar'
-        'footer';
-    margin: 0 auto;
-    transition: 0.5s all ease;
-    line-height: 1.2em;  
+  display:grid;
+  grid-template-areas:
+    'header'
+    'main-content'
+    'left-sidebar'
+    'right-sidebar'
+    'footer';
+  margin: 0 auto;
+  transition: 0.5s all ease;
+  line-height: 1.2em;  
 }
 /* general column padding */
 .holy-grail-grid > * {
-    margin: 0.7em;
+  margin: 0.7em;
 }
 /* assign columns to grid areas */
 .holy-grail-grid > .header {
-    grid-area: header;
-    padding: 0.5em;
-    text-align: center;
+  grid-area: header;
+  padding: 0.5em;
+  text-align: center;
 }
 .title {
-    font-family: 'alagard', Arial, sans-serif;
-    font-weight: normal;
-    font-size: 2em;
-    margin-top:.1em;
-    line-height: 1em;
+  font-family: 'alagard', Arial, sans-serif;
+  font-weight: normal;
+  font-size: 2em;
+  line-height: 1em;
 }
 .title a:hover {
     background-image: none;
