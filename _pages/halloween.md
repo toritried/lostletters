@@ -6,13 +6,13 @@ permalink: /halloween/
 menu: webcore
 ---
 
-<h1 style="text-align: center;">👻 Trick or Treat 🧟</h1>
+<h1 style="text-align: center;">Trick or Treat!</h1>
 <article>
     <p>
         Halloween is one of my favorite holidays. My best costume from when I was a kid was a blue gameboy color that my dad constructed and painted out of a cardboard box, and I'll never forget how much people cheered when they saw it in the school costume parade that year. The most fun I've ever had on Halloween was running around Hollywood Boulevard at night with my friends, trying to take photos to complete a drunken scavenger hunt in two teams while in costume. Each team had to snap photos of themselves doing stuff like getting bit by a vampire or doing a cheerleading pyramid with at least 6 people. It was such a good night! Nowadays, my participation is all virtual, allowing me to celebrate with folks all over the world!
     </p>
 </article>
-<h2  style="text-align: center;" id="halloween-23">🧛‍♀️ 2023 🍬</h2>
+<h2  style="text-align: center;" id="halloween-23">👻 2023 🍬</h2>
 <article>
     <p>
         This year, I helped plan and coordinate the <a target="_blank" href="https://tilde.32bit.cafe/~slug/events/halloween-2023/">32-bit cafe's Halloween event</a>, including reaching out to and collaborating with 14 pixel clubs across the small web. It was such an exciting and rewarding way to help support my favorite corners of the smol web.
@@ -41,9 +41,12 @@ menu: webcore
             </a>
         </div>
         <br>
-        These are all the treats I've collected! Click each one to go to the amazing creator's site.
+        These are all the treats I've collected. Click each one to go to the amazing creator's site.
         <br>
         <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(65px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 60px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
+            <a target="_blank" href="https://charmbracelets.neocities.org/">
+                <img src="/graphics/toy/charm/halloween23.png" alt="a black caludron filled with green goo bubbling out and the numbers 2023 in purple font" title="Halloween 2023 charm by xandra">
+            </a>
             <a target="_blank" href="https://crow-queen.neocities.org/">
                 <img src="/graphics/toy/charm/crow-queen_crow-queen-neocities-org_2.gif" alt="Haunted Book Charm" title="Haunted Book Charm by Crow Queen">
             </a>
@@ -180,32 +183,62 @@ menu: webcore
             </a>
         </div>
         <br>
-        Several <a href="/virtual-pets/">virtual pet sites</a> also release October / Halloween pets and/or allow past Halloween releases to become available once more, making this time of year feel extra special. Here are a few of the Halloween-exclusives that I managed to collect and grow:
+        Several <a href="/virtual-pets/">virtual pet sites</a> also release October / Halloween pets and/or allow past Halloween releases to become available once more, making this time of year feel extra special. Here are a few of the Halloween-exclusives that I managed to collect and grow. Clicking the eggs and hatchlings will help them grow into healthy adults!
         <br>
-        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(175px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 60px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
-            <a target="other" href='https://finaloutpost.net/view/qrVMG#main'>
-                <img src='https://finaloutpost.net/s/qrVMG.png'>
+        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(80px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 60px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
+            <a target="_blank" href="https://dragcave.net/view/EPmXG">
+                <img src="https://dragcave.net/image/EPmXG/" title="Crypt Dragon (2022)">
             </a>
-            <a target="other" href='https://finaloutpost.net/view/3AvTx#main'>
-                <img src='https://finaloutpost.net/s/3AvTx.png'>
+            <a target="_blank" href="https://dragcave.net/view/aHm4z">
+                <img src="https://dragcave.net/image/aHm4z/" title="Iridichi Dragon (2021)">
             </a>
-            <a target="other" href='https://finaloutpost.net/view/itzAN#main'>
-                <img src='https://finaloutpost.net/s/itzAN.png'>
+            <a target="_blank" href="https://dragcave.net/view/eGewP">
+                <img src="https://dragcave.net/image/eGewP/" title="Pitfire Dragon (2020)">
             </a>
-            <a target="other" href='https://finaloutpost.net/view/QR9qU#main'>
-                <img src='https://finaloutpost.net/s/QR9qU.png'>
+            <a target="_blank" href="https://dragcave.net/view/7dCpd">
+                <img src="https://dragcave.net/image/7dCpd/" title="Kohraki Dragon (2019)">
             </a>
-            <a target="other" href='https://finaloutpost.net/view/zTbdv#main'>
-                <img src='https://finaloutpost.net/s/zTbdv.png'>
+            <a target="_blank" href="https://dragcave.net/view/0v8Tr">
+                <img src="https://dragcave.net/image/0v8Tr/" title="Arcana Dragon (2018)">
             </a>
-            <a target="other" href='https://finaloutpost.net/view/v01QB#main'>
-                <img src='https://finaloutpost.net/s/v01QB.png'>
+            <a target="_blank" href="https://dragcave.net/view/TXHts">
+                <img src="https://dragcave.net/image/TXHts/" title="Omen Wyrm (2017)">
             </a>
-            <a target="other" href='https://finaloutpost.net/view/VeG4Y#main'>
-                <img src='https://finaloutpost.net/s/VeG4Y.png'>
+            <a target="_blank" href="https://dragcave.net/view/Rgys3">
+                <img src="https://dragcave.net/image/Rgys3/" title="Witchlight Dragon (2016)">
             </a>
-            <a target="other" href='https://finaloutpost.net/view/goXZb#main'>
-                <img src='https://finaloutpost.net/s/goXZb.png'>
+            <a target="_blank" href="https://dragcave.net/view/urUrP">
+                <img src="https://dragcave.net/image/urUrP/" title="Desipis Dragon (2014)">
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/fqSi0#main'>
+                <img src='https://finaloutpost.net/s/fqSi0.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/Hg2Bg#main'>
+                <img src='https://finaloutpost.net/s/Hg2Bg.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/q4N6K#main'>
+                <img src='https://finaloutpost.net/s/q4N6K.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/SnTfS#main'>
+                <img src='https://finaloutpost.net/s/SnTfS.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/1N6dW#main'>
+                <img src='https://finaloutpost.net/s/1N6dW.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/LJHEx#main'>
+                <img src='https://finaloutpost.net/s/LJHEx.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/vRsJr#main'>
+                <img src='https://finaloutpost.net/s/vRsJr.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/vPT36#main'>
+                <img src='https://finaloutpost.net/s/vPT36.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/2DegP#main'>
+                <img src='https://finaloutpost.net/s/2DegP.png'>
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/nDkoV#main'>
+                <img src='https://finaloutpost.net/s/nDkoV.png'>
             </a>
         </div>
         <br>

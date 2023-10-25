@@ -102,6 +102,9 @@ Since the early 2000s, cute pixel clubs have been a popular way to create and co
     <a target="_blank" href="https://solaria.neocities.org/pixel/">
         <img src="/graphics/toy/charm/solaria_solaria-neocities-orgpixel_2.gif" alt="Clover Charm by Solaria">
     </a>
+    <a target="_blank" href="https://charmbracelets.neocities.org/">
+        <img src="/graphics/toy/charm/halloween23.png" alt="a black caludron filled with green goo bubbling out and the numbers 2023 in purple font" title="Halloween 2023 charm by xandra">
+    </a>
 </div>
 [ New Era ] <a target="_blank" href="https://fizzsea.neocities.org/extra/fizzyvendor">Fizzy Vendor</a>
 <br>
