@@ -39,6 +39,21 @@ Since the early 2000s, cute pixel clubs have been a popular way to create and co
     <a target="_blank" href="https://strawbebby228.neocities.org/">
         <img src="/graphics/toy/kitty-strawbebby.gif" title="made by strawbebby">
     </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/toy/kitty-artwork_artwork-neocities-org_2.gif" alt="rainbow skeleton kitty" title="Muertos Kitty by artwork">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/toy/artwork_kitty-vampire.gif" alt="Vampire Kitty with bat wings and fangs" title="Vampire Kitty by artwork">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/toy/artwork_witch-kitty.gif" alt="purple witch kitty on a broomstick" title="Witch Kitty by artwork">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img loading="lazy" src="/graphics/toy/artwork_jack-o-lantern-kitty.gif" alt="Pumpkin Kitty" title="Pumpkin Kitty by artwork">
+    </a>
+    <a target="_blank" href="https://paintkiller.neocities.org/new/halloween2023/">
+        <img src="/graphics/toy/paintkiller_flaming-skull-kitty.png" alt="Flaming Skull Kitty" title="Flaming Skull Kitty by PAINTKILLER">
+    </a>
 </div>
 [ Revival ] <a target="_blank" href="https://divergentrays.com/pocket">Pocket Town</a>
 <br>
@@ -50,6 +65,44 @@ Since the early 2000s, cute pixel clubs have been a popular way to create and co
 <br>
 [ New Era ] <a target="_blank" href="https://charmbracelets.neocities.org/">Charm Bracelets</a>
 <br>
+<div class="imgwall" style="display: flex; align-items: center; justify-content: center;">
+    <a href="/">
+        <img src="/graphics/adoptables/rose-charm-lostletters.png" alt="a red rose encased in a gold outline to look like a charm for a charm bracelet" title="Rose charm by Lost Letters">
+    </a>
+    <a target="_blank" href="https://xandra.cc/charms">
+        <img src="/graphics/toy/charm/xandra.png" alt="A charm of baubles with garnet inside and XANDRA hanging underneath">
+    </a>
+    <a target="_blank" href="https://layercake.neocities.org/">
+        <img src="/graphics/toy/charm/june.gif" alt="a gold charm with the word JUNE in red font blinking in pink over a set of five circles and two hearts">
+    </a>
+    <a target="_blank" href="https://dogfish99.neocities.org/">
+        <img src="/graphics/toy/charm/dogfish99.png" alt="a single large pearl">
+    </a>
+    <a target="_blank" href="https://solaria.neocities.org/pixel/">
+        <img src="/graphics/toy/charm/solaria.png" alt="A round charm with rainbow gems encircling the center">
+    </a>
+    <a target="_blank" href="https://piranhebula.neocities.org/">
+        <img src="/graphics/toy/charm/piranebula-charm-g.gif" alt="a shiny rainbow that reads Pira">
+    </a>
+    <a target="_blank" href="https://sanguineroyal.com/index/cliques">
+        <img src="/graphics/toy/charm/krish.gif" alt="A shiny pink bow with a crown on top">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/cliques">
+        <img src="/graphics/toy/charm/artwork.gif" alt="A blinking adorable teddybear with the name 'artwork' underneath">
+    </a>
+    <a target="_blank" href="https://fizzsea.neocities.org/extra/collection">
+        <img src="/graphics/toy/charm/fizzsea2.png" alt="A purple fizzy soda can on its side">
+    </a>
+    <a target="_blank" href="https://awhe.neocities.org/charms">
+        <img src="/graphics/toy/charm/awhe2.gif" alt="A smiley face charm that's winking, giving a double peace sign, and has their tongue out, underneath it is the word HAPPY">
+    </a>
+    <a target="_blank" href="https://crow-queen.neocities.org/">
+        <img src="/graphics/toy/charm/crow-queen_crow-queen-neocities-org_2.gif" alt="Haunted Book Charm by Crow Queen">
+    </a>
+    <a target="_blank" href="https://solaria.neocities.org/pixel/">
+        <img src="/graphics/toy/charm/solaria_solaria-neocities-orgpixel_2.gif" alt="Clover Charm by Solaria">
+    </a>
+</div>
 [ New Era ] <a target="_blank" href="https://fizzsea.neocities.org/extra/fizzyvendor">Fizzy Vendor</a>
 <br>
 <div class="imgwall" style="display: grid; grid-template-columns: repeat( auto-fit, minmax(55px, 1fr) ); row-gap: 5px; column-gap: 5px;">
@@ -83,12 +136,18 @@ Since the early 2000s, cute pixel clubs have been a popular way to create and co
     <a target="_blank" href="https://bloopywoopy.neocities.org/cool-stuff/collections">
         <img src="/graphics/toy/drink-bloopywoopy.png" title="lemon flavoured soda - By bloopywoopy" alt="a pink can with a lemon logo">
     </a>
+    <a target="_blank" href="https://paintkiller.neocities.org/new/halloween2023/">
+        <img src="/graphics/toy/paintkiller_paintkiller-neocities-orgnewhalloween2023_pumpkin-guts.gif" alt="orange canned soda with the label punk-n-guts ale in black font" title="Punk -N- Guts Ale by PAINTKILLER">
+    </a>
 </div>
 [ New Era ] <a target="_blank" href="https://lavalounge.neocities.org/">The Lava Lounge</a>
 <br>
 <div class="imgwall" style="display: grid; grid-template-columns: repeat( auto-fit, minmax(30px, 1fr) ); row-gap: 5px; column-gap: 5px;">
     <a href="/">
         <img src="/graphics/adoptables/ghost-lamp-lostletters.png" title="Lost Letters" alt="a little ghost bobs within a purple lava lamp">
+    </a>
+    <a target="_blank" href="https://solaria.neocities.org/pixel/">
+        <img src="/graphics/toy/solaria_lamp.png" alt="Red-Black Lava Lamp" title="Red-Black Lava Lamp by Solaria">
     </a>
     <a target="_blank" href="https://paintkiller.neocities.org/">
         <img src="/graphics/toy/paintkillerlavalamp2.gif" title="PAINTKILLER" alt="a blue lava lamp with swirling blue liquid inside">
@@ -113,8 +172,158 @@ Since the early 2000s, cute pixel clubs have been a popular way to create and co
 <br>
 [ New Era ] <a target="_blank" href="https://stickersheetclub.neocities.org/">Sticker Sheet Club</a>
 <br>
-[ New Era ] <a target="_blank" href="https://solaria.neocities.org/pixel/bunnygarden/bunnygarden">Bunny Garden</a>
-<br>
+<div class="imgwall" style="display: grid; grid-template-columns: repeat( auto-fit, minmax(90px, 1fr) ); row-gap: 5px; column-gap: 5px;">
+    <a href="/">
+        <img src="/graphics/adoptables/dino-lostletters.png" alt="a green, egg-shaped dinosaur costume with a tail" title="green dino costume sticker by Lost Letters">
+    </a>
+    <a target="_blank" href="https://www.cinni.net/">
+        <img src="/graphics/toy/stickersheet/wing_l_cinni.png" alt="a left puffy wing">
+    </a>
+    <a target="_blank" href="https://www.cinni.net/">
+        <img src="/graphics/toy/stickersheet/miao_cinni.png" alt="an anime-style face sticking out their tongue, wearing a heart and star hair clip in their blue hair">
+    </a>
+    <a target="_blank" href="https://www.cinni.net/">
+        <img src="/graphics/toy/stickersheet/wing_r_cinni.png" alt="a right puffy wing">
+    </a>
+    <a target="_blank" href="https://humanfinny.neocities.org/">
+        <img src="/graphics/toy/stickersheet/artwork-betty.gif" alt="betty boop's head in monochrome">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/toy/stickersheet/artwork-greg.gif" alt="the head of Greg from Over the Garden Wall" title="Greg Sticker by artwork">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/toy/stickersheet/artwork-wirt.gif" alt="the head of Wirt from Over the Garden Wall" title="Wirt Sticker by artwork">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/toy/stickersheet/artwork-keroppi.png" alt="Keroppi">
+    </a>
+    <a target="_blank" href="https://artwork.neocities.org/">
+        <img src="/graphics/toy/stickersheet/artwork-sanrio.png" alt="a cream-colored bear dressed as a deer holding a deer toy">
+    </a>
+    <a target="_blank" href="https://ales-playground.neocities.org/">
+        <img src="/graphics/toy/stickersheet/ales-playground-Diamond.gif" alt="a blue, bobbing diamond">
+    </a>
+    <a target="_blank" href="https://web.archive.org/web/20230604035955/https://skykristal.art/CoolStuff/Stickersheet/">
+        <img src="/graphics/toy/stickersheet/skykristal-flyingislandsticker.png" alt="a floating island with a tree and a stone">
+    </a>
+    <a target="_blank" href="https://gloomlee.neocities.org/trickortreat.html">
+        <img src="/graphics/toy/halloween2022/pumpkindomo2022sticker-gloomlee.gif" alt="pumpkin-colored domokun"/>
+    </a>
+    <a target="_blank" href="https://gloomlee.neocities.org/trickortreat.html">
+        <img src="/graphics/toy/halloween2022/scream2022sticker-gloomlee.gif" alt="the scream holding a bloody knife"/>
+    </a>
+    <a target="_blank" href="https://mikaorangeart.neocities.org/">
+        <img src="/graphics/toy/stickersheet/mikaorangeart-sun.png" alt="a sun with XIX labeled on it"/>
+    </a>
+    <a target="_blank" href="https://pastelhello.com/">
+        <img src="/graphics/toy/stickersheet/pastelhello-dratini.gif" alt="dratini"/>
+    </a>
+    <a target="_blank" href="https://pastelhello.com/">
+        <img src="/graphics/toy/stickersheet/pastelhello-gengar.gif" alt="gengar"/>
+    </a>
+    <a target="_blank" href="https://pastelhello.com/">
+        <img src="/graphics/toy/stickersheet/pastelhello-pblue.gif" alt="Pokemon Blue Gameboy cartridge"/>
+    </a>
+    <a target="_blank" href="https://pastelhello.com/">
+        <img src="/graphics/toy/stickersheet/pastelhello-tama.gif" alt="angelgotchi"/>
+    </a>
+    <a target="_blank" href="https://cyberneticdryad.neocities.org/">
+        <img src="/graphics/toy/stickersheet/ssc-spindle.png" alt="a wooden drop spindle"/>
+    </a>
+    <a target="_blank" href="https://spacedandelion.neocities.org/">
+        <img src="/graphics/toy/stickersheet/spacedandelion-shoesticker.png" alt="a vintage heeled shoe with lots of buttons up the side"/>
+    </a>
+    <a target="_blank" href="https://vampirevalentine.neocities.org/">
+        <img src="/graphics/toy/stickersheet/lamb.png" alt="two lambs fused at the ribs, pointing away from each other"/>
+    </a>
+    <a target="_blank" href="https://antikrist.lol/">
+        <img src="/graphics/toy/stickersheet/orca.gif" alt="orca whale"/>
+    </a>
+    <a target="_blank" href="https://pklucky.neocities.org/">
+        <img src="/graphics/toy/stickersheet/conch-shell.png" alt="conch shell"/>
+    </a>
+    <a target="_blank" href="https://nostalgic.neocities.org/">
+        <img src="/graphics/toy/stickersheet/onigiri_umeboshi.png" alt="a rice ball with pickled plum in the center"/>
+    </a>
+    <a target="_blank" href="https://nostalgic.neocities.org/">
+        <img src="/graphics/toy/stickersheet/onigiri-nori.png" alt="a rice ball with seaweed"/>
+    </a>
+    <a target="_blank" href="https://wasongo.art/">
+        <img src="/graphics/toy/stickersheet/wasongo_fat_toucan.png" alt="a fat toucan bird"/>
+    </a>
+    <a target="_blank" href="https://wasongo.art/">
+        <img src="/graphics/toy/stickersheet/wasongo_goose.png" alt="a speaking goose"/>
+    </a>
+    <a target="_blank" href="https://wasongo.art/">
+        <img src="/graphics/toy/stickersheet/wasongo_jellybird.gif" alt="a red jelly bird head"/>
+    </a>
+    <a target="_blank" href="https://wasongo.art/">
+        <img src="/graphics/toy/stickersheet/wasongo_mushroom.png" alt="two orange capped mushrooms"/>
+    </a>
+    <a target="_blank" href="https://l-chan.neocities.org/">
+        <img src="/graphics/toy/stickersheet/l-chan-bulbasaur-sticker.png" alt="bulbasaur"/>
+    </a>
+    <a target="_blank" href="https://l-chan.neocities.org/">
+        <img src="/graphics/toy/stickersheet/l-chan-charmander-sticker.png" alt="charmander"/>
+    </a>
+    <a target="_blank" href="https://l-chan.neocities.org/">
+        <img src="/graphics/toy/stickersheet/l-chan-chikorita-sticker.png" alt="chikorita"/>
+    </a>
+    <a target="_blank" href="https://l-chan.neocities.org/">
+        <img src="/graphics/toy/stickersheet/l-chan-cyndaquil-sticker.png" alt="cyndaquil"/>
+    </a>
+    <a target="_blank" href="https://l-chan.neocities.org/">
+        <img src="/graphics/toy/stickersheet/l-chan-pikachu-sticker.png" alt="pikachu"/>
+    </a>
+    <a target="_blank" href="https://l-chan.neocities.org/">
+        <img src="/graphics/toy/stickersheet/l-chan-squirtle-sticker.png" alt="squirtle"/>
+    </a>
+    <a target="_blank" href="https://l-chan.neocities.org/">
+        <img src="/graphics/toy/stickersheet/l-chan-totodile-sticker.png" alt="totodile"/>
+    </a>
+    <a target="_blank" href="https://cobyzaby.neocities.org/">
+        <img src="/graphics/toy/stickersheet/cobyzaby-still-life.png" alt="a vase, box, funnel, and cylinder all in blue"/>
+    </a>
+    <a target="_blank" href="https://hillhouse.neocities.org/">
+        <img src="/graphics/toy/stickersheet/hillhouse-cameo.gif" alt="a navy purple bordered cameo"/>
+    </a>
+    <a target="_blank" href="https://hillhouse.neocities.org/">
+        <img src="/graphics/toy/stickersheet/hillhouse-cameo1.gif" alt="a pink bordered cameo"/>
+    </a>
+    <a target="_blank" href="https://hillhouse.neocities.org/">
+        <img src="/graphics/toy/stickersheet/hillhouse-lesheart.png" alt="a lesbian pride flag with sparkles"/>
+    </a>
+    <a target="_blank" href="https://piranhebula.neocities.org/">
+        <img src="/graphics/toy/stickersheet/piranhebula-flower.png" alt="a blushing tulip flower holding its cheek with a petal"/>
+    </a>
+    <a target="_blank" href="https://piranhebula.neocities.org/">
+        <img src="/graphics/toy/stickersheet/piranhebula-kito.png" alt="a blue fairy"/>
+    </a>
+    <a target="_blank" href="https://piranhebula.neocities.org/">
+        <img src="/graphics/toy/stickersheet/piranhebula-star.png" alt="a big yellow star surrounded by wings and tiny yellow stars"/>
+    </a>
+    <a target="_blank" href="https://thegardenofmadeline.neocities.org/">
+        <img src="/graphics/toy/stickersheet/thegardenofmadeline-squirttlesquad.png" alt="squirttle wearing sunglasses"/>
+    </a>
+    <a target="_blank" href="https://thegardenofmadeline.neocities.org/">
+        <img src="/graphics/toy/stickersheet/thegardenofmadeline_halloweencat.png" alt="a spooky grinning black cat"/>
+    </a>
+    <a target="_blank" href="https://thegardenofmadeline.neocities.org/">
+        <img src="/graphics/toy/stickersheet/thegardenofmadeline_tama_cat.png" alt="a black cat wearing a pumpkin on their head"/>
+    </a>
+    <a target="_blank" href="https://bloopywoopy.neocities.org/">
+        <img src="/graphics/toy/stickersheet/bloopywoopy-rainbow.png" alt="a sparkling rainbow that terminates in clouds"/>
+    </a>
+    <a target="_blank" href="https://jadefyre.neocities.org/">
+        <img src="/graphics/toy/stickersheet/jadefyre_monstera_leaf.png" alt="monstera leaf"/>
+    </a>
+    <a target="_blank" href="https://www.thefrugalgamer.net/">
+        <img src="/graphics/toy/stickersheet/thefrugalgamer_rainyDay.gif" alt="an animated rainy window"/>
+    </a>
+    <a target="_blank" href="">
+        <img src="/graphics/toy/stickersheet" alt=""/>
+    </a>
+</div>
 [ Archived ] <a target="_blank" href="https://web.archive.org/web/20030608043805/http://www.letsbefriends.org/yum-yum/">yum-yum shoppe</a>
 <br>
 [ Archived ] <a target="_blank" href="https://web.archive.org/web/20091028051422/http://www.geocities.com/heathershomedaycare/snowflakes.html">Snowflakes</a>
