@@ -199,7 +199,7 @@ menu: webcore
             <img src="/graphics/teahouse/teacup/oldwebperson.png" title="tastes like Elmer's Glue - made by oldwebperson">
         </a>
         <a target="_blank" href="https://paintkiller.neocities.org/">
-            <img src="/graphics/teahouse/teacup/32BitCafeHalloweenAfternoonTeaPaintkiller.gif" title="tastes lilke boiling blood, AB negative to be precise - made by PAINTKILLER">
+            <img src="/graphics/teahouse/teacup/32BitCafeHalloweenAfternoonTeaPaintkiller.gif" alt="a white teacup with a red cross and blood bubbling up out of it and spilling over the lip" title="tastes like boiling blood, AB negative to be precise - made by PAINTKILLER">
         </a>
         <a target="_blank" href="https://popoplant.neocities.org/">
             <img src="/graphics/teahouse/teacup/mugwort_tea.png" title="made by Popo">
