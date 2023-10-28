@@ -225,6 +225,9 @@ menu: webcore
         <a target="_blank" href="https://dogfish99.neocities.org">
             <img src="/graphics/teahouse/teacup/dogfish-castlecup.png" title="tastes like sulfur and granite - made by kira">
         </a>
+        <a target="_blank" href="https://hillhouse.neocities.org/">
+            <img src="/graphics/teahouse/teacup/hillhouse-a-negative-bloodtea.png" title="tastes like A negative! - made by hill house">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
