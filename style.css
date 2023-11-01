@@ -90,6 +90,12 @@ hr {
     grid-auto-columns: 100%;
   }
 }
+/* tablets or smaller */
+@media (max-width:768px) {
+  .holy-grail-grid {
+    grid-auto-columns: 100%;
+  }
+}
 /* desktop breakpoint */
 @media (min-width:1024px) {
     .holy-grail-grid {
