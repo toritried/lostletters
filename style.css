@@ -11,17 +11,17 @@
   src: url("/fonts/DIEDIEDIE.TTF") format("truetype");
 }
 body {
-    font-size: calc(18px + 0.390625vw);
-    background-color: #000;
-    margin: 0px;
+  font-size: calc(18px + 0.390625vw);
+  background-color: #000;
+  margin: 0px;
+  overflow-wrap: break-all;
 }
+
 a {
-    text-decoration: none;
-    transition: all 1s ease;
+  text-decoration: none;
+  transition: all 1s ease;
 }
-a:hover{
-    letter-spacing: 0.1em;
-}
+
 hr {
   margin: 1.5em;
 }
@@ -80,14 +80,15 @@ hr {
 }
 /* tablet breakpoint */
 @media (min-width:768px) {
-    .holy-grail-grid {
-        grid-template-columns: 1fr;
-        grid-template-areas:
-            'header header'
-            'main-content main-content'
-            'left-sidebar right-sidebar'
-            'footer footer';
-    }
+  .holy-grail-grid {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      'header header'
+      'main-content main-content'
+      'left-sidebar right-sidebar'
+      'footer footer';
+    grid-auto-columns: 100%;
+  }
 }
 /* desktop breakpoint */
 @media (min-width:1024px) {
@@ -108,7 +109,7 @@ hr {
     .theme-picker {display:none;}
 }
 .nav-title {
-    font-size: 1.1em;
+    font-size: .8em;
     margin: 0 0 0.4em 0;
     padding: 0 0 0 0.2em;
     text-transform: uppercase;
@@ -180,7 +181,6 @@ display: block;
 } 
 }
 .theme-switches{
-  line-height: 1.5em;
   text-align: center;
   display: inline-flex;
   align-items: center;
@@ -193,6 +193,9 @@ display: block;
   width: 30px;
   margin: 10px;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .switch:hover {
     transform: scale(1.2);

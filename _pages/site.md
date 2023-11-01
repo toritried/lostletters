@@ -16,7 +16,6 @@ Once I had the code for my site structure, I wanted to add a theme switcher for 
 <br>
 * <a target="_blank" href="https://www.dafont.com/pixel-operator.font">pixel font</a> used in the mail, purple, and spoopy themes
 * Guestbook is powered by code from <a target="_blank" href="https://virtualobserver.moe/ayano/comment-widget">virtualobserver</a> with a h/t to <a target="_blank" href="https://fri11s.neocities.org/">Frills</a> for pointing me their way and <a target="_blank" href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">creating moderation capabilities</a>
-* Desktop-only Halloween Lace border by <a target="_blank" href="https://hillhouse.neocities.org/shrines/halloween/treats">Hillhouse</a>
 <h3>🚀 Version 2: Lost in Space!  |  March 2023 - October 2023</h3>
 With this layout, I simplified the elements of my first layout using the body styling from <a target="_new" href="https://palemomos.neocities.org/cool-layouts/">Pale's gorgeous Glassy layout</a>. I've been totally on a space kick, playing <a  href="/starforged/">Starforged</a>, reading Leviathan Wakes by James S. A. Corey, and watching The Expanse, which is based on that book. I think that probably explains why I went with the space background. It's hard to find something dark, but not too boring.
 <br>

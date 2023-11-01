@@ -20,7 +20,7 @@ menu: webcore
         <br>
         Here are all the treats I made for the event. To avoid any tricks, please download and host any you want to adopt yourself and link back to my site, thanks!
         <br>
-        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(80px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 60px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */ border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; /* don't change this! */ border-image-repeat: round; /* this makes the border smoothly fit any size container */">
+        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(80px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 40px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */ border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; /* don't change this! */ border-image-repeat: round; /* this makes the border smoothly fit any size container */">
             <a target="_blank" href="https://fizzsea.neocities.org/extra/fizzyvendor">
                 <img src="/graphics/adoptables/campfire_lostletters.png" alt="a gold bottle with a flickering fire inside" title="Enjoy the bottled warmth of a crackling campfire on a brisk fall night - by Lost Letters (I made this for the Fizzy Vendor pixel club. Click to open the pixel club page.)">
             </a>
@@ -43,7 +43,7 @@ menu: webcore
         <br>
         These are all the treats I've collected. Click each one to go to the amazing creator's site.
         <br>
-        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(65px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 60px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
+        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(65px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 40px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
             <a target="_blank" href="https://charmbracelets.neocities.org/">
                 <img src="/graphics/toy/charm/halloween23.png" alt="a black caludron filled with green goo bubbling out and the numbers 2023 in purple font" title="Halloween 2023 charm by xandra">
             </a>
@@ -144,7 +144,7 @@ menu: webcore
                 <img src="/graphics/toy/linwood-candypink.png" alt="a pink candy with a pink potion on it">
             </a>
         </div>
-        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(111px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 60px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
+        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(111px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 40px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
             <a target="_blank" href="https://artwork.neocities.org/">
                 <img src="/graphics/toy/artwork_artwork-neocities-org_wirt.gif" alt="Wirt from Over the Garden Wall" title="Wirt by artwork">
             </a>
@@ -185,9 +185,12 @@ menu: webcore
         <br>
         Several <a href="/virtual-pets/">virtual pet sites</a> also release October / Halloween pets and/or allow past Halloween releases to become available once more, making this time of year feel extra special. Here are a few of the Halloween-exclusives that I managed to collect and grow. Clicking the eggs and hatchlings will help them grow into healthy adults!
         <br>
-        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(80px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 60px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
-            <a target="_blank" href="https://dragcave.net/view/EPmXG">
-                <img src="https://dragcave.net/image/EPmXG/" title="Crypt Dragon (2022)">
+        <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 40px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
+            <a target="_blank" href="https://dragcave.net/view/prpVi">
+                <img src="https://dragcave.net/image/prpVi/" title="Halloween Dragon (2023)">
+            </a>
+            <a target="_blank" href="https://dragcave.net/view/bZWFN">
+                <img src="https://dragcave.net/image/bZWFN/" title="Crypt Dragon (2022)">
             </a>
             <a target="_blank" href="https://dragcave.net/view/aHm4z">
                 <img src="https://dragcave.net/image/aHm4z/" title="Iridichi Dragon (2021)">
@@ -207,38 +210,41 @@ menu: webcore
             <a target="_blank" href="https://dragcave.net/view/Rgys3">
                 <img src="https://dragcave.net/image/Rgys3/" title="Witchlight Dragon (2016)">
             </a>
+            <a target="_blank" href="https://dragcave.net/view/znGyA">
+                <img src="https://dragcave.net/image/znGyA/" title="Caligene Dragon (2015)">
+            </a>
             <a target="_blank" href="https://dragcave.net/view/urUrP">
                 <img src="https://dragcave.net/image/urUrP/" title="Desipis Dragon (2014)">
             </a>
-            <a target="_blank" href='https://finaloutpost.net/view/fqSi0#main'>
-                <img src='https://finaloutpost.net/s/fqSi0.png'>
+            <a target="_blank" href="https://dragcave.net/view/H8KX1">
+                <img src="https://dragcave.net/image/H8KX1/" title="Grave Dragon (2013)">
             </a>
-            <a target="_blank" href='https://finaloutpost.net/view/Hg2Bg#main'>
-                <img src='https://finaloutpost.net/s/Hg2Bg.png'>
+            <a target="_blank" href="https://dragcave.net/view/KFJAp">
+                <img src="https://dragcave.net/image/KFJAp/" title="Cavern Lurker (2012)">
             </a>
-            <a target="_blank" href='https://finaloutpost.net/view/q4N6K#main'>
-                <img src='https://finaloutpost.net/s/q4N6K.png'>
+            <a target="_blank" href="https://dragcave.net/view/vexCw">
+                <img src="https://dragcave.net/image/vexCw/" title="Shadow Walker (2011)">
+            </a>
+            <a target="_blank" href="https://dragcave.net/view/mcJLJ">
+                <img src="https://dragcave.net/image/mcJLJ/" title="Black Marrow (2010)">
+            </a>
+            <a target="_blank" href="https://dragcave.net/view/YZLxT">
+                <img src="https://dragcave.net/image/YZLxT/" title="Pumpkin Dragon (2009)">
+            </a>
+            <a target="_blank" href='https://finaloutpost.net/view/xcjsT#main'>
+                <img src='https://finaloutpost.net/s/xcjsT.png'>
             </a>
             <a target="_blank" href='https://finaloutpost.net/view/SnTfS#main'>
                 <img src='https://finaloutpost.net/s/SnTfS.png'>
             </a>
-            <a target="_blank" href='https://finaloutpost.net/view/1N6dW#main'>
-                <img src='https://finaloutpost.net/s/1N6dW.png'>
+            <a target="_blank" href='https://finaloutpost.net/view/v01QB#main'>
+                <img src='https://finaloutpost.net/s/v01QB.png'>
             </a>
             <a target="_blank" href='https://finaloutpost.net/view/LJHEx#main'>
                 <img src='https://finaloutpost.net/s/LJHEx.png'>
             </a>
             <a target="_blank" href='https://finaloutpost.net/view/vRsJr#main'>
                 <img src='https://finaloutpost.net/s/vRsJr.png'>
-            </a>
-            <a target="_blank" href='https://finaloutpost.net/view/vPT36#main'>
-                <img src='https://finaloutpost.net/s/vPT36.png'>
-            </a>
-            <a target="_blank" href='https://finaloutpost.net/view/2DegP#main'>
-                <img src='https://finaloutpost.net/s/2DegP.png'>
-            </a>
-            <a target="_blank" href='https://finaloutpost.net/view/nDkoV#main'>
-                <img src='https://finaloutpost.net/s/nDkoV.png'>
             </a>
         </div>
         <br>

@@ -1,6 +1,6 @@
 const storedStyle = localStorage.getItem('style');
 if (!storedStyle) {
-  setTheme('spooky');
+  setTheme('purple');
 } else {
   setTheme(storedStyle);
 }

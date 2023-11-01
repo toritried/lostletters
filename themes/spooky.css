@@ -14,10 +14,15 @@
   --background-image: url('/graphics/layout/bat-halloween.gif'); /*https://www.asterism-m.com/item/background/wall-simple01.php */
 }
 
+@font-face {
+  font-family: "Old Newspaper"; /* credit: https://www.dafont.com/oldnewspapertypes.font */
+  src: url("/fonts/OldNewspaperTypes.ttf") format('truetype');
+}
+
 body {
   background-image: var(--background-image);
   color: var(--color-primary-a80);
-  font-family: 'pixel';
+  font-family: 'Old Newspaper', serif;
 }
 
 a, .mobile_nav {
@@ -35,36 +40,18 @@ a:hover{
 
 /* tablet breakpoint */
 @media (min-width:1024px) {
-  .holy-grail-grid {
-    row-gap: 2em;
-    column-gap: 2em;
-  }
   .holy-grail-grid > .header {
     background-color: var(--colors-primary-a0-translucent);
-    border: 40px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */ 
-    border-image-source: url(/graphics/layout/hillhouse-lace.png); 
-    border-image-slice: 84; /* don't change this! */ 
-    border-image-repeat: round; /* this makes the border smoothly fit any size container */
-    border-image-outset: 1;
-    padding: 0;
+    border-radius: .5em;
   }
   
-  .floating {
-    border: 40px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */ 
-    border-image-source: url(/graphics/layout/hillhouse-lace.png); 
-    border-image-slice: 84; /* don't change this! */ 
-    border-image-repeat: round; /* this makes the border smoothly fit any size container */
-    border-image-outset: 1;
-    padding: 0;
-    margin-bottom: 3.5em;
-    border-radius: 0;
-  }
   .footer > .floating {
     margin-bottom: 1em;
     padding: 0;
   }
-  .header{
-    margin-top: 2em;
+
+  .floating {
+    padding: 1.4em
   }
 }
 

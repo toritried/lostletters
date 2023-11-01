@@ -3,59 +3,66 @@
     cursor: url("/graphics/cursor/letter_wings.png"), auto;
 }
 
+
+@font-face {
+  font-family: "Asul"; /* credit: https://fonts.google.com/specimen/Asul */
+  src: url("/fonts/Asul-Regular.ttf") format('truetype');
+}
+
 :root {
-    /** generated using https://colorffy.com/css-generator */
-    --colors-primary-a0-translucent: #000000b3;
-    --color-primary-a90: #ffffff;
-    --color-primary-a80: #ffe0f7;
-    --color-primary-a70: #ffc0ee;
-    --color-primary-a60: #ff9ee6;
-    --color-primary-a50: #ff7add;
-    --color-primary-a30: #b95ba1;
-    --color-primary-a20: #783e68;
-    --color-primary-a10: #3c2335;
-    --color-primary-a0: #000000;
-    
-    
-    --background-image: url('/graphics/layout/v2_space/slow-star.gif'); /*https://www.asterism-m.com/item/background/wall-simple01.php */
-  }
-  body {
-      background-image: var(--background-image);
-      color: var(--color-primary-a80);
-      font-family: 'Asul', sans-serif;
-  }
-  a, .mobile-nav {
-      color: var(--color-primary-a60);
-  }
-  a:hover{
-      background-image: linear-gradient(to right, var(--color-primary-a0) , var(--color-primary-a10));
-  }
-  .holy-grail-grid {
-    box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
-    border: var(--wrapper-border);
-    border-radius: 35px;
-    backdrop-filter: blur(2px);
-    line-height: 1.6em;
-  }
-  /* assign columns to grid areas */
-  .holy-grail-grid > .header {
-    background-color: transparent;
-    border: none;
-  }
-  article .floating {
-    background-color: transparent;
-    border: none;
-  }
-  /* breakpoints */
-  @media (max-width: 1026px) {
-  }
-  .nav-title {
-      color: var(--color-primary-a90);
-      background-color: var(--color-primary-a10);
-      text-transform: none;
-      border-radius: .5em;
-  }
-  /* tablet breakpoint */
+  /** generated using https://colorffy.com/css-generator */
+  --colors-primary-a0-translucent: #000000b3;
+  --color-primary-a90: #ffffff;
+  --color-primary-a80: #ffe0f7;
+  --color-primary-a70: #ffc0ee;
+  --color-primary-a60: #ff9ee6;
+  --color-primary-a50: #ff7add;
+  --color-primary-a30: #b95ba1;
+  --color-primary-a20: #783e68;
+  --color-primary-a10: #3c2335;
+  --color-primary-a0: #000000;
+  
+  
+  --background-image: url('/graphics/layout/v2_space/slow-star.gif'); /*https://www.asterism-m.com/item/background/wall-simple01.php */
+}
+body {
+background-image: var(--background-image);
+color: var(--color-primary-a80);
+font-family: 'Asul', sans-serif;
+letter-spacing: -.15pt;
+}
+a, .mobile-nav {
+    color: var(--color-primary-a60);
+}
+a:hover{
+    background-image: linear-gradient(to right, var(--color-primary-a0) , var(--color-primary-a10));
+}
+.holy-grail-grid {
+  box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
+  border: var(--wrapper-border);
+  border-radius: 35px;
+  backdrop-filter: blur(2px);
+  line-height: 1.6em;
+}
+/* assign columns to grid areas */
+.holy-grail-grid > .header {
+  background-color: transparent;
+  border: none;
+}
+article .floating {
+  background-color: transparent;
+  border: none;
+}
+/* breakpoints */
+@media (max-width: 1026px) {
+}
+.nav-title {
+    color: var(--color-primary-a90);
+    background-color: var(--color-primary-a10);
+    text-transform: none;
+    border-radius: .5em;
+}
+/* tablet breakpoint */
 @media (min-width:1024px) {
     .holy-grail-grid {
         margin-top: 1em;
