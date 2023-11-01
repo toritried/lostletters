@@ -137,9 +137,12 @@ menu: site
     <a href="https://nonkiru.art/" target="_blank">
         <img src="/graphics/linkout/nonkiru_button_light.gif" title="nonkiru.art">
     </a>
+    <a href="https://clockwooork.github.io/" target="_blank">
+        <img src="/graphics/linkout/archive-of-tomorrow.png" title="Archive of Tomorrow">
+    </a>
 </div>
 <center>
-    <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Who I link is still at my discretion though, so I will not reciprocate if you don't pass the vibes check or are a minor. Feel free to use these buttons, but please download and host them yourself.</text>
+    <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Who I link is still at my discretion though, so I will not reciprocate if you don't pass the vibe check or are a minor. Feel free to use these buttons, but please download and host them yourself.</text>
     <br>
     <br>
     <img src="/graphics/site_buttons/LostLetters88x31.gif" alt="a unicorn shaped button with blinking stars and the text: lost letters" title="88x31 pixel button">&nbsp;&nbsp;<img src="/graphics/site_buttons/LostLetters32x32.gif" alt="a pink to lavender vertical ombre fade tamagotchi with yellow text scrolling across the screen that says lost letters" title="32x32 pixel button">
@@ -149,31 +152,9 @@ I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/
 <br>
 <br>
 <h2>Personal Sites</h2>  
-<a target="_blank" href="https://melonking.net">
-    <img src="https://melonking.net/images/badges/MELON-BADGE-2.GIF" title="Melonking.Net" align="left" style="margin: 10px 10px 0 0;">Melonking.Net</a> is so expansive that it literally has its own tourist guide. I'm constantly inspired by the web-related community provocations from Melon as well as all the creative animation and code on his site, pushing the bounds of possibility.  
-<br>
-<a target="_blank" href="https://lazybones.neocities.org/">
-    <img src="https://lazybones.neocities.org/IMAGES/lazybonesicon3.png" title="lazy bones" align="left" style="margin: 10px 10px 0 0;"/>
-Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love the home movies, old journals, love letters, and stamp collection - all her efforts to digitize real world things creates this entirely distinct portal into another's life.  
-<br>
-<a target="_blank" href="http://cepheus.xyz">
-    <img src="/graphics/linkout/cepheus.gif" title="cepheus" align="left" style="margin: 10px 10px 0 0;">
-    Cepheus</a> reminds me of all the eye-catching and expressive graphic layouts of the early web. This site has a ton to explore: web material, full free books, and such a creative layout design. Be sure to check out his delightfully atmospheric <a target="_blank" href="https://cepheus.neocities.org/p/">web profile</a> too!  
-<br>
 <a target="_blank" href="https://cinni.net/">
     <img src="/graphics/linkout/cinni_angelbutton3.gif" title="cinni net" align="left" style="margin: 10px 10px 0 0;"/>
-Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and multitudes more, so check it out and play with the theme switcher! A true source of inspiration for us all.  
-<br>
-<a target="_blank" href="https://lu.tiny-universes.net/index2.html">
-    <img src="/graphics/linkout/lu.tinyuniverse.gif" title="Lulu in Cyberspace" align="left" style="margin: 10px 10px 0 0;">
-    Lulu in Cyberspace</a> - Lulu's ardent support of making web development as accessible as possible resonated with me. Lu is infinitely expressive through her site and has a lot to say that's worth listening to. There's plenty of fun and playful stuff to explore too.  
-<br>
-<a target="_blank" href="https://marzka.cafe/">
-    <img src="/graphics/linkout/marzka_cafe_88x31.png"  title="Marzka.Cafe" align="left" style="margin: 10px 10px 0 0;">Marzka.Cafe</a> is a stunningly designed website that's also built using jekyll. I learned a ton from her website's public github repository when trying to figure out how to make my SSG work.  
-<br>
-<a target="_blank" href="https://palemomos.neocities.org/">
-    <img src="/graphics/linkout/palemomos.gif" title="Palemomos" align="left" style="margin: 10px 10px 0 0;">
-    Palemomos</a> is a true visual delight for pixel and anime lovers. My favorite part that literally made me gasp in amazement the first time I saw it was Pale's Yu-Gi-Oh! shrine. The cursor hover effects were out of this world good.
+    Cinni</a> is a fellow vpet lover, and it's been so nice to bond over our mutual obsession. I love all that she does to document different vpets as well as her artistic furcadia creations! 
 <br>
 <a target="_blank" href="https://maya.land/">
     <img src="/graphics/linkout/mayaland.png" title="maya.land" align="left" style="margin: 10px 10px 0 0;">
@@ -185,6 +166,28 @@ Cinni's Dream Home</a> contains an oekaki board, art theory, pixel art, and mult
             <text class="buttontext" x="42px" y="16px">Winnie Lim</text>
         </svg>
     winnielim.org</a> - This relatable personal online library is a continuous exploration of self that inspires me to think more deeply about my own life.  
+<br>
+<a target="_blank" href="https://melonking.net">
+    <img src="https://melonking.net/images/badges/MELON-BADGE-2.GIF" title="Melonking.Net" align="left" style="margin: 10px 10px 0 0;">Melonking.Net</a> is so expansive that it literally has its own tourist guide. I'm constantly inspired by the web-related community provocations from Melon as well as all the creative animation and code on his site, pushing the bounds of possibility.  
+<br>
+<a target="_blank" href="https://lazybones.neocities.org/">
+    <img src="https://lazybones.neocities.org/IMAGES/lazybonesicon3.png" title="lazy bones" align="left" style="margin: 10px 10px 0 0;"/>
+Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love the home movies, old journals, love letters, and stamp collection - all her efforts to digitize real world things creates this entirely distinct portal into another's life.  
+<br>
+<a target="_blank" href="http://cepheus.xyz">
+    <img src="/graphics/linkout/cepheus.gif" title="cepheus" align="left" style="margin: 10px 10px 0 0;">
+    Cepheus</a> reminds me of all the eye-catching and expressive graphic layouts of the early web. This site has a ton to explore: web material, full free books, and such a creative layout design. Be sure to check out his delightfully atmospheric <a target="_blank" href="https://cepheus.neocities.org/p/">web profile</a> too!  
+<br>
+<a target="_blank" href="https://lu.tiny-universes.net/index2.html">
+    <img src="/graphics/linkout/lu.tinyuniverse.gif" title="Lulu in Cyberspace" align="left" style="margin: 10px 10px 0 0;">
+    Lulu in Cyberspace</a> - Lulu's ardent support of making web development as accessible as possible resonated with me. Lu is infinitely expressive through her site and has a lot to say that's worth listening to. There's plenty of fun and playful stuff to explore too.  
+<br>
+<a target="_blank" href="https://marzka.cafe/">
+    <img src="/graphics/linkout/marzka_cafe_88x31.png"  title="Marzka.Cafe" align="left" style="margin: 10px 10px 0 0;">Marzka.Cafe</a> is a stunningly designed website that's also built using jekyll. I learned a ton from her website's public github repository when trying to figure out how to make my SSG work.  
+<br>
+<a target="_blank" href="https://palemomos.neocities.org/">
+    <img src="/graphics/linkout/palemomos.gif" title="Palemomos" align="left" style="margin: 10px 10px 0 0;">
+    Palemomos</a> is a true visual delight for pixel and anime lovers. My favorite part that literally made me gasp in amazement the first time I saw it was Pale's Yu-Gi-Oh! shrine. The cursor hover effects were out of this world good.
 <br>
 <h2>Unique Resources</h2>
 <a target="_blank" href="https://yesterweb.org/">
