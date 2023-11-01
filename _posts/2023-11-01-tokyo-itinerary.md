@@ -7,6 +7,9 @@ tags:
   - travel
 ---
 
+<b>CW: food mention (vegan)</b>
+<br>
+<br>
 After more than four years of living in Japan, I finally got my first visitors! My dad and step-mom came out to see me and Japan for the first time. There was so much I wanted to show them to give a holistic sense of Tokyo, but also a slice of my life that's so different from their own, living in the US. I wanted to share the itinerary in case some stranger on the internet needs to accommodate a vegan diet while visiting Tokyo for the first time.<!--excerpt-->
 <br>
 <br>
