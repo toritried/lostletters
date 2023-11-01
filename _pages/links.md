@@ -131,6 +131,12 @@ menu: site
     <a href="https://nefritvel.neocities.org/" target="_blank">
         <img src="/graphics/linkout/nefritvel-animated.gif" title="nefritvel">
     </a>
+    <a href="https://velvet-boutique.neocities.org/" target="_blank">
+        <img src="/graphics/linkout/velvet-boutique.png" title="Velvet Boutique">
+    </a>
+    <a href="https://nonkiru.art/" target="_blank">
+        <img src="/graphics/linkout/nonkiru_button_light.gif" title="nonkiru.art">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Who I link is still at my discretion though, so I will not reciprocate if you don't pass the vibes check or are a minor. Feel free to use these buttons, but please download and host them yourself.</text>
