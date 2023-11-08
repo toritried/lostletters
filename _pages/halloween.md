@@ -187,7 +187,7 @@ menu: webcore
         <br>
         <div class="noext" style="margin-top: 1em; display: grid; grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) ); row-gap: 5px; column-gap: 5px; align-items: center; justify-items: center; filter: drop-shadow(0 0 15px #954db9); image-rendering: pixelated; border-radius: .5em; border: 40px solid transparent; border-image-source: url(/graphics/layout/hillhouse-lace.png); border-image-slice: 84; border-image-repeat: round;">
             <a target="_blank" href="https://dragcave.net/view/prpVi">
-                <img src="https://dragcave.net/image/prpVi/" title="Halloween Dragon (2023)">
+                <img src="https://dragcave.net/image/prpVi/" title="Abyss Watcher Dragon (2023)">
             </a>
             <a target="_blank" href="https://dragcave.net/view/bZWFN">
                 <img src="https://dragcave.net/image/bZWFN/" title="Crypt Dragon (2022)">
