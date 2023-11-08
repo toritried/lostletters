@@ -14,6 +14,7 @@
     <link rel="pingback" href="https://webmention.io/lostletters.neocities.org/xmlrpc"/>
 </head>
 <body>
+    <div class="stars-bg"></div>
     <div class="holy-grail-grid"><header class="header">
         <div class="title">
             <a href="/">
@@ -25,26 +26,30 @@
                 <img src="/graphics/layout/v1_laceletter/feed.gif" width="16px" title="RSS feed" style="cursor: pointer;"/>
             </a>
             <a class="blog-link" href="/blog.html">blog</a>
-                <button class="dropbtn" aria-controls="dropdown-webcore" aria-expanded="false">
-                    💾 webcore
-                    <span class="fa fa-caret-down"></span>
-                </button>
-                <button class="dropbtn" aria-controls="dropdown-stationery" aria-expanded="false">
-                    ✒️ stationery
+            <button class="dropbtn" aria-controls="dropdown-webcore" aria-expanded="false">
+                💾 webcore
                 <span class="fa fa-caret-down"></span>
-                </button>
-                <button class="dropbtn" aria-controls="dropdown-ttrpg" aria-expanded="false">
-                    🦄 ttrpgs
+            </button>
+            <button class="dropbtn" aria-controls="dropdown-stationery" aria-expanded="false">
+                ✒️ stationery
+            <span class="fa fa-caret-down"></span>
+            </button>
+            <button class="dropbtn" aria-controls="dropdown-ttrpg" aria-expanded="false">
+                🦄 ttrpgs
+            <span class="fa fa-caret-down"></span>
+            </button>
+            <button class="dropbtn" aria-controls="dropdown-health" aria-expanded="false">
+                🧠 health
+            <span class="fa fa-caret-down"></span>
+            </button>
+            <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
+                🔎 about
                 <span class="fa fa-caret-down"></span>
-                </button>
-                <button class="dropbtn" aria-controls="dropdown-health" aria-expanded="false">
-                    🧠 health
+            </button>
+            <button class="dropbtn" aria-controls="dropdown-themes" aria-expanded="false">
+                ✨ themes
                 <span class="fa fa-caret-down"></span>
-                </button>
-                <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
-                    🔎 about
-                    <span class="fa fa-caret-down"></span>
-                </button>
+            </button>
             <div class="dropdown-content" id="dropdown-webcore">
                 {% for page in site.pages %}
                     {% if page.menu == "webcore" %}
@@ -120,6 +125,15 @@
                 </a>
                 {% endif %}
                 {% endfor %}
+            </div>
+            <div class="dropdown-content" id="dropdown-themes">
+                <div class="theme-switches">
+                    <div data-theme="lace" class="switch" id="switch-1">🎀</div>
+                    <div data-theme="stars" class="switch" id="switch-2">🌠</div>
+                    <div data-theme="purple" class="switch" id="switch-3">💜</div>
+                    <div data-theme="mail" class="switch" id="switch-4">💌</div>
+                    <div data-theme="spooky" class="switch" id="switch-5">🎃</div>
+                </div>
             </div>
         </div>
     </header>
@@ -233,10 +247,11 @@
             <div class="desktop-sidebar-content">
                 <center>
                     <div class="theme-switches">
-                        <div data-theme="stars" class="switch" id="switch-1">🌠</div>
-                        <div data-theme="purple" class="switch" id="switch-2">💜</div>
-                        <div data-theme="mail" class="switch" id="switch-3">💌</div>
-                        <div data-theme="spooky" class="switch" id="switch-4">🎃</div>
+                        <div data-theme="lace" class="switch" id="switch-1">🎀</div>
+                        <div data-theme="stars" class="switch" id="switch-2">🌠</div>
+                        <div data-theme="purple" class="switch" id="switch-3">💜</div>
+                        <div data-theme="mail" class="switch" id="switch-4">💌</div>
+                        <div data-theme="spooky" class="switch" id="switch-5">🎃</div>
                     </div>
                 </center>
             </div>

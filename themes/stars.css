@@ -1,6 +1,5 @@
 * {
-    margin: 0;
-    cursor: url("/graphics/cursor/letter_wings.png"), auto;
+  cursor: url("/graphics/cursor/letter_wings.png"), auto;
 }
 
 
@@ -31,8 +30,38 @@ color: var(--color-primary-a80);
 font-family: 'Asul', sans-serif;
 letter-spacing: -.15pt;
 }
+
+.stars-bg { /* spinning bg image is thanks to https://melonking.net/ */
+  background-image: url(/graphics/layout/v2_space/slow-star.gif);
+  opacity: .45;
+  position: fixed;
+  width: 500%;
+  height: 500%;
+  top: -250%;
+  left: -250%;
+  z-index: -5;
+  animation-name: spin;
+  animation-duration: 1400s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation-fill-mode: forwards;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+.mobile-nav, .dropbtn, .blog-link, .dropdown-content {
+  font-family: "alagard";
+}
 a, .mobile-nav {
-    color: var(--color-primary-a60);
+  color: var(--color-primary-a60);
 }
 a:hover{
     background-image: linear-gradient(to right, var(--color-primary-a0) , var(--color-primary-a10));
@@ -64,9 +93,22 @@ article .floating {
 }
 /* tablet breakpoint */
 @media (min-width:1024px) {
-    .holy-grail-grid {
-        margin-top: 1em;
-    }
+  .holy-grail-grid {
+      margin-top: 0.5em;
+      margin-bottom: 0.5em;
+      margin-left: 20%;
+      margin-right: 20%;
+      grid-template-areas: 
+          'header header header header'
+          'main-content main-content main-content main-content'
+          'footer footer footer footer';
+  }   
+  .left-sidebar {display: none;}
+  .right-sidebar {display: none;}
+  .theme-picker {display:none;}
+  .footer-theme-selector {display: block;}
+  .elsewhere-index, .buttons-index {display: block;}
+  .mobile_nav {display: block;}
 }
   /** status.cafe styling **/
   #statuscafe-username {

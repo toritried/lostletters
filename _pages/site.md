@@ -14,8 +14,10 @@ I coded this new layout over two days, listening to Pain Hasn't Hit Me by The Cr
 <br>
 Once I had the code for my site structure, I wanted to add a theme switcher for Halloween. This is done easily just by switching out whatever you want to customize in your main CSS file by swapping in variables and having those defined in separate style sheets that some JS can point to. I followed <a target="_blank" href="https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">this very easy tutorial</a> that provided all the code snippets needed, then I got busy, committing as many CSS crimes as I wanted. The entire effort took about two days, but the majority of that was spent tweaking the CSS to figure out fun combinations that worked well together and then leaving it alone for a while so I could view it with fresh eyes. One of the really helpful resources I used to develop cohesive color schemes for each layout was <a target="_blank" href="https://colorffy.com/css-generator">colorffy's CSS / SCSS color variables generator</a>. You just specify a HEX code for a color you like, and it spits out a family of related shades, which you can then evaluate to ensure you've got the right contrast ratios for your site.
 <br>
-* <a target="_blank" href="https://www.dafont.com/pixel-operator.font">pixel font</a> used in the mail, purple, and spoopy themes
-* Guestbook is powered by code from <a target="_blank" href="https://virtualobserver.moe/ayano/comment-widget">virtualobserver</a> with a h/t to <a target="_blank" href="https://fri11s.neocities.org/">Frills</a> for pointing me their way and <a target="_blank" href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">creating moderation capabilities</a>
+* <a target="_blank" href="https://www.dafont.com/pixel-operator.font">pixel font</a> used in the purple theme
+* <a target="_blank" href="https://www.dafont.com/oldnewspapertypes.font">typewriter font</a> used in the halloween theme
+* my new guestbook is powered by code from <a target="_blank" href="https://virtualobserver.moe/ayano/comment-widget">virtualobserver</a> with a h/t to <a target="_blank" href="https://fri11s.neocities.org/">Frills</a> for pointing me their way and <a target="_blank" href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">creating moderation capabilities</a>
+* recreated my original layout from <a target="_blank" href="https://foollovers.com/">Fool Lovers</a> using just a couple lines of code thanks to border-image css - November 08, 2023
 <h3>🚀 Version 2: Lost in Space!  |  March 2023 - October 2023</h3>
 With this layout, I simplified the elements of my first layout using the body styling from <a target="_new" href="https://palemomos.neocities.org/cool-layouts/">Pale's gorgeous Glassy layout</a>. I've been totally on a space kick, playing <a  href="/starforged/">Starforged</a>, reading Leviathan Wakes by James S. A. Corey, and watching The Expanse, which is based on that book. I think that probably explains why I went with the space background. It's hard to find something dark, but not too boring.
 <br>
@@ -53,3 +55,12 @@ I felt like it was most useful to attribute those in context, so please refer to
 * Tamagotchi, neopets badges from <a target="_blank" href="https://web.badges.world/">web.badges.world</a>
 * Chaotic good and pansexual badges by <a target="_blank" href="https://pixels.elfwink.net/">Lou (Elfwink)</a>
 * Created the trans rights, vegan always, and union member badges with <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">this button maker tool</a>
+<hr>
+<h2>Milestones</h2>
+<ul>
+    <li>300,000 views - 2023/11/06</li>
+    <li>200 followers - 2023/10/22</li>
+    <li>200,000 views - 2023/08/27</li>
+    <li>100,000 views - 2023/06/05</li>
+    <li>100 followers - 2023/04/20</li>
+</ul>
