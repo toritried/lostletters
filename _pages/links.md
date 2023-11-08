@@ -95,50 +95,59 @@ menu: site
     <a target="_blank" href="https://divergentrays.com/">
         <img src="/graphics/linkout/divergentrays.png" height="31" width="88" title="Divergent Rays">
     </a>
-    <a href="https://abyssbloom.neocities.org/" target="_blank">
+    <a target="_blank" href="https://abyssbloom.neocities.org/">
         <img src="/graphics/linkout/abyssbloom.png" title="Abyss Bloom">
     </a>
-    <a href="https://screamingegg.neocities.org/" target="_blank">
+    <a target="_blank" href="https://screamingegg.neocities.org/">
         <img src="/graphics/linkout/screamingegg.png" title="Screaming Egg!">
     </a>
-    <a href="https://forgettablename.neocities.org/" target="_blank">
+    <a target="_blank" href="https://forgettablename.neocities.org/">
         <img src="/graphics/linkout/forgettablename.gif" title="Hello World">
     </a>
-    <a href="http://legacy.necrophantasia.com/" target="_blank">
+    <a target="_blank" href="http://legacy.necrophantasia.com/">
         <img src="/graphics/linkout/necro.gif" title="Necrophantasia">
     </a>
-    <a href="https://spiritcellar.neocities.org/" target="_blank">
+    <a target="_blank" href="https://spiritcellar.neocities.org/">
         <img src="/graphics/linkout/spiritcellar_badge.gif" title="Spirit Cellar">
     </a>
-    <a href="https://creaturefeature.neocities.org/" target="_blank">
+    <a target="_blank" href="https://creaturefeature.neocities.org/">
         <img src="/graphics/linkout/creaturefeature.png" title="creature feature">
     </a>
-    <a href="https://san-tagoy.online/" target="_blank">
+    <a target="_blank" href="https://san-tagoy.online/">
         <img src="/graphics/linkout/san-tagoy.png" title="San Tagoy">
     </a>
-    <a href="https://whiona.me/" target="_blank">
+    <a target="_blank" href="https://whiona.me/">
         <img src="/graphics/linkout/whiona_button.png" title="whiona.me">
     </a>
-    <a href="https://leviathren.neocities.org/" target="_blank">
+    <a target="_blank" href="https://leviathren.neocities.org/">
         <img src="/graphics/linkout/leviathrenbutton.gif" title="leviathren">
     </a>
-    <a href="https://linwood.neocities.org/" target="_blank">
+    <a target="_blank" href="https://linwood.neocities.org/">
         <img src="/graphics/linkout/linwoodbutton.png" title="linwood">
     </a>
-    <a href="https://thatoddhaystack.neocities.org/" target="_blank">
+    <a target="_blank" href="https://thatoddhaystack.neocities.org/">
         <img src="/graphics/linkout/thatoddhaystack.png" title="That Odd Haystack">
     </a>
-    <a href="https://nefritvel.neocities.org/" target="_blank">
+    <a target="_blank" href="https://nefritvel.neocities.org/">
         <img src="/graphics/linkout/nefritvel-animated.gif" title="nefritvel">
     </a>
-    <a href="https://velvet-boutique.neocities.org/" target="_blank">
+    <a target="_blank" href="https://velvet-boutique.neocities.org/">
         <img src="/graphics/linkout/velvet-boutique.png" title="Velvet Boutique">
     </a>
-    <a href="https://nonkiru.art/" target="_blank">
+    <a target="_blank" href="https://nonkiru.art/">
         <img src="/graphics/linkout/nonkiru_button_light.gif" title="nonkiru.art">
     </a>
-    <a href="https://clockwooork.github.io/" target="_blank">
+    <a target="_blank" href="https://clockwooork.github.io/">
         <img src="/graphics/linkout/archive-of-tomorrow.png" title="Archive of Tomorrow">
+    </a>
+    <a target="_blank" href="https://angelribs.neocities.org/">
+        <img src="/graphics/linkout/angelribs.png" title="A N G E L . . . R I B S">
+    </a>
+    <a target="_blank" href="https://gusbus.space/">
+        <img src="/graphics/linkout/gusbus-88x31.png" title="GusBus Space">
+    </a>
+    <a target="blank" href="http://snifflebear.moe/hello">
+        <img src="/graphics/linkout/snifflebearmoe.png" title="snifflebear">
     </a>
 </div>
 <center>
