@@ -5,23 +5,23 @@ on:
     branches:
       - main
     paths-ignore:
-      - '.gitignore'
-      - 'LICENSE'
-      - 'README.md'
+      - ".gitignore"
+      - "LICENSE"
+      - "README.md"
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - uses: actions/checkout@v2
-    
-    - name: Build static site
-      uses: jerryjvl/jekyll-build-action@v1
-    
-    - name: Deploy to Neocities using Ruby CLI
-      uses: jonchang/deploy-neocities@v1
-      with:
-        key: ${{ secrets.NEOCITIES_API_KEY }}
-        dir: _site
-        clean: true
+      - uses: actions/checkout@v3
+
+      - name: Build static site
+        uses: jerryjvl/jekyll-build-action@v1
+
+      - name: Deploy to Neocities using Ruby CLI
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: false
+          dist_dir: public
