@@ -189,6 +189,7 @@ display: block;
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
 .switch {
   border: 2px dotted white;
@@ -218,6 +219,12 @@ display: block;
 }
 #switch-5 { /* spooky theme */
     background-color: #000;
+}
+#switch-6 { /* sakura theme */
+    background-color: #ffa4d3;
+}
+#switch-7 { /* sakura theme */
+    background-color: #1c3b18;
 }
 
 /** Jekyll post nav styling from https://guypursey.com/blog/202104171135-next-previous-nav-links-jekyll-blog **/

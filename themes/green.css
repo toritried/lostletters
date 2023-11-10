@@ -1,27 +1,46 @@
 :root {
     /** generated using https://colorffy.com/css-generator */
     --colors-primary-a0-translucent: #ffffffb3;
-    --color-primary-a0: #ffffff;
-    --color-primary-a10: #fee7f0;
-    --color-primary-a20: #fdcfe1;
-    --color-primary-a30: #fab7d2;
-    --color-primary-a50: #c87499;
-    --color-primary-a60: #8E395E;
-    --color-primary-a70: #612841;
-    --color-primary-a80: #3a2930;
-    --color-primary-a90: #000000;
-    --background-image: url('/graphics/layout/v1_laceletter/bg.gif'); 
+    --color-primary-a90: #ffffff;
+    --color-primary-a80: #c9e0c6;
+    --color-primary-a70: #94c28f;
+    --color-primary-a60: #5ca45a;
+    --color-primary-a50: #0c8524;
+    --color-primary-a30: #16621f;
+    --color-primary-a20: #174218;
+    --color-primary-a10: #122410;
+    --color-primary-a0: #000000;
+    --background-image: url('/graphics/layout/pexels-jeswin-thomas-ferns.jpg'); /* credit: https://www.pexels.com/photo/close-up-photo-of-green-leaf-2874752/ */
 }
 
 @font-face {
     font-family: "spectral"; /* credit: https://fonts.google.com/specimen/Spectral */
     src: url("/fonts/Spectral-Regular.ttf") format('truetype');
 }
+.overlay {
+    content: "";
+    display: block;
+    position: fixed;
+    opacity: .5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: 
+        linear-gradient(rgba(22, 37, 5, 0.35) 50%, rgba(0, 0, 0, 0.1) 50%), 
+        linear-gradient(90deg, rgba(255, 0, 0, 0.01), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.01));
+    background-size: 100% 3px, 3px 100%;
+    pointer-events: none;
+    z-index: -1;
+}
 
 body {
     color: var(--color-primary-a80);
     font-family: 'spectral', sans-serif;
     background-image: var(--background-image);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 a, .mobile_nav {
@@ -33,14 +52,11 @@ a:hover{
 }
 
 .holy-grail-grid {
-    border: 67px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */
-    border-image-source: url(/graphics/layout/pink-lace-borderbox.png);
-    border-image-slice: 67; /* size of corners */
-    border-image-repeat: round; /* this makes the border smoothly fit any size container */
     background: var(--color-primary-a0);
-    background-clip: padding-box;
     line-height: 1.5em;
     overflow-wrap: break-word;
+    z-index: 1;
+    opacity: 0.75;
 }
 /* assign columns to grid areas */
 .holy-grail-grid > .header {
@@ -57,13 +73,8 @@ a:hover{
 /* mobile */
 @media (max-width: 1023px) {
     .holy-grail-grid {
-    border: 45px solid transparent;
-    border-image-source: url(/graphics/layout/pink-lace-borderbox.png);
-    border-image-slice: 67; /* size of corners */
-    border-image-repeat: round; /* this makes the border smoothly fit any size container */
-    background: var(--color-primary-a0);
-    background-clip: padding-box;
-}
+        background: var(--color-primary-a0);
+    }
 }
 .nav-title {
     color: var(--color-primary-a90);
@@ -73,21 +84,26 @@ a:hover{
 /* desktop */
 @media (min-width:1024px) {
 .holy-grail-grid {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-top: 7vh;
+    margin-bottom: 7vh;
+    height: 80vh;
+    margin-left: 15%;
+    margin-right: 15%;
     grid-template-areas: 
         'header header header header'
         'main-content main-content main-content main-content'
         'footer footer footer footer';
+    overflow: auto;
+    padding: 1em;
+    border-radius: 1ex;
+    filter: drop-shadow(0 0 10px var(--color-primary-a20));
     }   
     .left-sidebar {display: none;}
     .right-sidebar {display: none;}
     .theme-picker {display:none;}
-    .footer-theme-selector {display: block;}
     .elsewhere-index, .buttons-index {display: block;}
     .mobile_nav {display: block;}
+    .return-top {display: none;}
 }
 
 /** status.cafe styling **/
@@ -109,19 +125,19 @@ a:hover{
     background-color: var(--color-primary-a0);
 }
 .theme-image{
-    content: url("/graphics/toy/ms-paint-king-lulu-deer.gif"); /* credit: https://deviantart.com/king-lulu-deer/art/MS-Paint-670922940 */
+    content: url("/graphics/toy/white_orchid_by_kaffpixels.png"); /* credit: https://www.deviantart.com/kaffpixels/art/F2U-White-Orchid-953751781 */
     image-rendering: pixelated;
 }
 .theme-stamp{
-    content: url("/graphics/toy/stamp/royal_air_mail_stamp_by_kezzi_rose.png"); /* credit: https://www.deviantart.com/kezzi-rose/art/Royal-Air-Mail-Stamp-292213837 */
+    content: url("/graphics/toy/stamp/amanita_muscaria_stamp_by_oceanstamps.png"); /* credit: https://www.deviantart.com/oceanstamps/art/Amanita-muscaria-stamp-512931703 */
     image-rendering: pixelated;
 }
 /* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
 
 ::-webkit-scrollbar {
-height: 50px;
-width: 10px;
-overflow-y: scroll;
+    height: 50px;
+    width: 10px;
+    overflow-y: scroll;
 }
 
 ::-webkit-scrollbar-corner {
@@ -129,11 +145,12 @@ overflow-y: scroll;
 }
 
 ::-webkit-scrollbar-track{
-background-color: var(--color-primary-a10);
+    background-color: var(--color-primary-a0);
+    border-radius: 0 2ex 2ex 0;
 }
 
 ::-webkit-scrollbar-thumb {
-border-radius: 2ex;
--webkit-box-shadow: inset 0 0 0px var(--color-primary-a0); 
-background: linear-gradient(180deg, var(--color-primary-a10) 0%, var(--color-primary-a50) 100%);
+    border-radius: 2ex;
+    -webkit-box-shadow: inset 0 0 0px var(--color-primary-a0); 
+    background: linear-gradient(180deg, var(--color-primary-a10) 0%, var(--color-primary-a50) 100%);
 } 

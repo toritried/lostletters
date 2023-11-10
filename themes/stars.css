@@ -20,8 +20,6 @@
   --color-primary-a20: #783e68;
   --color-primary-a10: #3c2335;
   --color-primary-a0: #000000;
-  
-  
   --background-image: url('/graphics/layout/v2_space/slow-star.gif'); /*https://www.asterism-m.com/item/background/wall-simple01.php */
 }
 body {
@@ -31,7 +29,7 @@ font-family: 'Asul', sans-serif;
 letter-spacing: -.15pt;
 }
 
-.stars-bg { /* spinning bg image is thanks to https://melonking.net/ */
+.overlay { /* spinning bg image css code is thanks to https://melonking.net/ */
   background-image: url(/graphics/layout/v2_space/slow-star.gif);
   opacity: .45;
   position: fixed;

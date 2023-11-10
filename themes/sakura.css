@@ -2,26 +2,45 @@
     /** generated using https://colorffy.com/css-generator */
     --colors-primary-a0-translucent: #ffffffb3;
     --color-primary-a0: #ffffff;
-    --color-primary-a10: #fee7f0;
-    --color-primary-a20: #fdcfe1;
-    --color-primary-a30: #fab7d2;
-    --color-primary-a50: #c87499;
-    --color-primary-a60: #8E395E;
-    --color-primary-a70: #612841;
-    --color-primary-a80: #3a2930;
+    --color-primary-a10: #ffd8e4;
+    --color-primary-a20: #ffafca;
+    --color-primary-a30: #ff83b1;
+    --color-primary-a50: #ff4f98;
+    --color-primary-a60: #b93e70;
+    --color-primary-a70: #782d4a;
+    --color-primary-a80: #3d1c27;
     --color-primary-a90: #000000;
-    --background-image: url('/graphics/layout/v1_laceletter/bg.gif'); 
+    --background-image: url('/graphics/layout/sakura-2560x1600.jpg'); /* credit: https://wallpaperswide.com/light_pink_blossom_spring-wallpapers.html*/
 }
 
+.overlay {
+    content: "";
+    display: block;
+    position: fixed;
+    opacity: .5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: 
+        linear-gradient(rgb(242 17 129 / 35%) 50%, rgba(0, 0, 0, 0.1) 50%), 
+        linear-gradient(90deg, rgba(255, 0, 0, 0.01), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.01));
+    background-size: 100% 3px, 3px 100%;
+    pointer-events: none;
+    z-index: -1;
+}
 @font-face {
-    font-family: "spectral"; /* credit: https://fonts.google.com/specimen/Spectral */
-    src: url("/fonts/Spectral-Regular.ttf") format('truetype');
+    font-family: "Solway"; /* credit: https://fonts.google.com/specimen/Solway */
+    src: url("/fonts/Solway-Regular.ttf") format('truetype');
 }
 
 body {
     color: var(--color-primary-a80);
-    font-family: 'spectral', sans-serif;
+    font-family: 'Solway', sans-serif;
     background-image: var(--background-image);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 a, .mobile_nav {
@@ -41,6 +60,8 @@ a:hover{
     background-clip: padding-box;
     line-height: 1.5em;
     overflow-wrap: break-word;
+    z-index: 1;
+    opacity: 0.80;
 }
 /* assign columns to grid areas */
 .holy-grail-grid > .header {
@@ -57,13 +78,18 @@ a:hover{
 /* mobile */
 @media (max-width: 1023px) {
     .holy-grail-grid {
-    border: 45px solid transparent;
-    border-image-source: url(/graphics/layout/pink-lace-borderbox.png);
-    border-image-slice: 67; /* size of corners */
-    border-image-repeat: round; /* this makes the border smoothly fit any size container */
-    background: var(--color-primary-a0);
-    background-clip: padding-box;
-}
+        border: 45px solid transparent;
+        border-image-source: url(/graphics/layout/pink-lace-borderbox.png);
+        border-image-slice: 67; /* size of corners */
+        border-image-repeat: round; /* this makes the border smoothly fit any size container */
+        background: var(--color-primary-a0);
+        background-clip: padding-box;
+    }
+
+    ::-webkit-scrollbar-track{
+        background-color: var(--color-primary-a0);
+        border-radius: 0 2ex 2ex 0;
+    }
 }
 .nav-title {
     color: var(--color-primary-a90);
@@ -73,23 +99,24 @@ a:hover{
 /* desktop */
 @media (min-width:1024px) {
 .holy-grail-grid {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-top: 7vh;
+    height: 70vh;
+    margin-left: 15%;
+    margin-right: 15%;
     grid-template-areas: 
         'header header header header'
         'main-content main-content main-content main-content'
         'footer footer footer footer';
+    overflow: auto;
+    padding: 1em;
     }   
     .left-sidebar {display: none;}
     .right-sidebar {display: none;}
     .theme-picker {display:none;}
-    .footer-theme-selector {display: block;}
     .elsewhere-index, .buttons-index {display: block;}
     .mobile_nav {display: block;}
+    .return-top {display: none;}
 }
-
 /** status.cafe styling **/
 #statuscafe-username {
     background: var(--color-primary-a10);
@@ -109,7 +136,7 @@ a:hover{
     background-color: var(--color-primary-a0);
 }
 .theme-image{
-    content: url("/graphics/toy/ms-paint-king-lulu-deer.gif"); /* credit: https://deviantart.com/king-lulu-deer/art/MS-Paint-670922940 */
+    content: url("/graphics/toy//ms-paint-king-lulu-deer.gif"); /* credit: https://deviantart.com/king-lulu-deer/art/MS-Paint-670922940 */
     image-rendering: pixelated;
 }
 .theme-stamp{
@@ -129,7 +156,7 @@ overflow-y: scroll;
 }
 
 ::-webkit-scrollbar-track{
-background-color: var(--color-primary-a10);
+background-color: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
