@@ -53,7 +53,7 @@ a:hover{
 
 .holy-grail-grid {
     border: 67px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */
-    border-image-source: url(/graphics/layout/pink-lace-borderbox.png);
+    border-image-source: url(/graphics/layout/pink-lace-borderbox.png); /* credit: https://foollovers.com/mat/plate34.html */
     border-image-slice: 67; /* size of corners */
     border-image-repeat: round; /* this makes the border smoothly fit any size container */
     background: var(--color-primary-a0);
@@ -78,8 +78,8 @@ a:hover{
 /* mobile */
 @media (max-width: 1023px) {
     .holy-grail-grid {
-        border: 45px solid transparent;
-        border-image-source: url(/graphics/layout/pink-lace-borderbox.png);
+        border: 60px solid transparent;
+        border-image-source: url(/graphics/layout/pink-lace-borderbox.png); /* credit: https://foollovers.com/mat/plate34.html */
         border-image-slice: 67; /* size of corners */
         border-image-repeat: round; /* this makes the border smoothly fit any size container */
         background: var(--color-primary-a0);
