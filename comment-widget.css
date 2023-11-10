@@ -127,7 +127,7 @@
 
 .c-textInput, .c_textWrapper {
     width: calc(100% - 10px);
-    max-width: 900px;
+    max-width: 100%;
     resize: none;
 }
 #c_submitButton {
