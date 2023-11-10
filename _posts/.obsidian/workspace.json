@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "7055eeecc529219f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea1d6a1a856a746a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "012e80098f3744df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-06-three-yrs-dnd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d273a54188ed3461",
+    "type": "split",
+    "children": [
+      {
+        "id": "57285fe9e3af1d7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36dc5f9b97b1652c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f8187a54d89c71c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13b46693e2a10751",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "09d3edb15539b2da",
+    "type": "split",
+    "children": [
+      {
+        "id": "f780cdb3a2b38317",
+        "type": "tabs",
+        "dimension": 25.071839080459768,
+        "children": [
+          {
+            "id": "3991ec45518c76cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "323022b54a1c0dce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "66628111dfbc4bdb",
+        "type": "tabs",
+        "dimension": 74.92816091954023,
+        "children": [
+          {
+            "id": "e2cf2cf4d3255b16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-11-06-three-yrs-dnd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dedad1ca2640839d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-11-06-three-yrs-dnd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bbe92e78b0437a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "939c4bed8ca99603",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-11-06-three-yrs-dnd.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "012e80098f3744df",
+  "lastOpenFiles": [
+    "2023-11-01-tokyo-itinerary.md",
+    "2023-11-06-three-yrs-dnd.md",
+    "2023-10-18-one-year-neocities.md",
+    "2023-10-01-oct-habits.md",
+    "2023-03-03-resolutions.md",
+    "2023-04-18-progress.md",
+    "2023-04-18-weekly-recap.md",
+    "2023-04-24-self-respect.md",
+    "2023-05-23-weekly-recap.md",
+    "2023-05-29-covid-knitting.md",
+    "2023-06-05-summer-crochet.md",
+    "2023-06-24-summer-knitting.md",
+    "2023-08-30-slice-of-life-1.md",
+    "2023-10-26.md",
+    "thirties.md",
+    "2023-10-17.md",
+    "2023-10-16.md",
+    "hunger.md",
+    "2023-10-13-new-layout.md",
+    "2023-10-08-that-girl-okr.md",
+    "Template/2023-MM-DD.md",
+    "2023-09-18-weekly-recap.md",
+    "2023-09-14-static-blogging-small-web.md",
+    "2023-09-25-weekly-recap.md",
+    "Template/2023-MM-DD - Daily Note.md",
+    "Goals for leave.md",
+    "Daily Notes",
+    "Blog Posts",
+    "Journal/Daily",
+    "Journal",
+    "Habits"
+  ]
+}
