@@ -9,7 +9,7 @@ concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
   cancel-in-progress: true
 
-  jobs:
+jobs:
   deploy:
     runs-on: ubuntu-latest
 
