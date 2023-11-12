@@ -228,6 +228,9 @@ menu: webcore
         <a target="_blank" href="https://hillhouse.neocities.org/">
             <img src="/graphics/teahouse/teacup/hillhouse-a-negative-bloodtea.png" title="tastes like A negative! - made by hill house">
         </a>
+        <a target="_blank" href="https://velvet-boutique.neocities.org/">
+            <img src="/graphics/teahouse/teacup/velvet-boutique-angeldust.png" title="tastes like angeldust - made by Velvet">
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
