@@ -7,7 +7,7 @@ menu: webcore
 ---
 
 <center>
-    <h2>You're invited to Afternoon Tea</h2>
+    <h1>You're invited to Afternoon Tea</h1>
     <div class="noext" style="image-rendering: pixelated;">
         <a href="/">
             <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
@@ -234,6 +234,9 @@ menu: webcore
         <a target="_blank" href="https://floral-tears.neocities.org/">
             <img src="/graphics/teahouse/teacup/floral-tears-aquariustea.gif" alt="teacup with a marble statue and flowing water" title="tastes like oddly airy water - made by floral tears"/>
         </a>
+        <a target="_blank" href="https://heart143.neocities.org/">
+            <img src="/graphics/teahouse/teacup/warm_milk_heartspace.gif" alt="a white saucer under a red teacup with white stripes and heart details, heart-shaped foam appears above the cup" title="tastes like warm milk - made by heart143"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
@@ -243,7 +246,7 @@ menu: webcore
     Do not direct link from my site.
 </center>
 <br>
-<h2>How to Join This Pixel Club</h2>
+<h1>How to Join This Pixel Club</h1>
 <ol>
     <li>
         Download the <a target="_new" href="/graphics/teahouse/teacup/template-lostletters.png">✨template✨</a>.
@@ -261,7 +264,7 @@ menu: webcore
     </li>
 </ol>
 <br>
-<h2>Frequently Asked Questions</h2>
+<h1>Frequently Asked Questions</h1>
 <ul>
     <li>
         <b>Can I use the template without joining the club?</b> Yes, you are welcome to use it for any purpose! 
@@ -272,11 +275,9 @@ menu: webcore
     </li>
 </ul>
 <br>
-<h2>Inspiration</h2>
+<h1>Inspiration</h1>
 <img src="/graphics/linkout/teahouse.gif" style="margin: 10px 10px 0 0;" align="left" title="Teahouse MB 88x31 button"/>
-This is a pixel club tribute to <b>Teahouse MB</b>, a kawaii pixel art forum that no longer exists. Teahouse MB provided a teacup template for folks to create their own unique teacup designs. Artists would then allow a limited number of people to collect the design on a first-come-first-serve basis, usually limiting it to the first 10-20 people who posted on the thread.
-<br>
-<br>
+This is a pixel club tribute to <b>Teahouse MB</b>, a kawaii pixel art forum that no longer exists. Teahouse MB provided a teacup template for folks to create their own unique teacup designs. Artists would then allow a limited number of people to collect the design on a first-come-first-serve basis, usually limiting it to the first 10-20 people who posted on the thread. 
 <img src="/graphics/toy/emoticons/shocked-moomin.gif" align="right" style="margin: 0 0 0 7px;" > 
 <i>Note:</i> I created the template for the Afternoon Pixel Club from scratch since I didn't have a copy of the original from Teahouse MB.
 <br>
