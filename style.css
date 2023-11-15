@@ -119,7 +119,8 @@ hr {
 /** status.cafe styling **/
 
 #statuscafe-username, #statuscafe-content {
-display:inline;
+  display:inline;
+  overflow-wrap: anywhere;
 }
 .badgewall {
     line-height: 0em;
