@@ -19,7 +19,7 @@ menu: webcore
         <img src="/graphics/teahouse/teacup/shortcake-lostletters.png" title="tastes like strawberry shortcake - made by Lost Letters"/>
         </a>
         <a target="_blank" href="https://floral-tears.neocities.org/">
-            <img src="/graphics/teahouse/teacup/MintChocoTea-floral-tears.png" title="tastes like mint tea with a hint of chocolate, definitely not icecream at all - made by floral tears"/>
+            <img src="/graphics/teahouse/teacup/MintChocoTea-floral-tears.png" alt="Mint Chocolate Chip Icecream Teacup" title="tastes like mint tea with a hint of chocolate, definitely not icecream at all - made by floral tears"/>
         </a>
         <a target="_blank" href="http://pastelhello.com">
             <img src="/graphics/teahouse/teacup/teacup-pastellhell.gif" title="tastes like lemon rose - made by pastelhell">
@@ -230,6 +230,9 @@ menu: webcore
         </a>
         <a target="_blank" href="https://velvet-boutique.neocities.org/">
             <img src="/graphics/teahouse/teacup/velvet-boutique-angeldust.png" title="tastes like angeldust - made by Velvet">
+        </a>
+        <a target="_blank" href="https://floral-tears.neocities.org/">
+            <img src="/graphics/teahouse/teacup/floral-tears-aquariustea.gif" alt="teacup with a marble statue and flowing water" title="tastes like oddly airy water - made by floral tears"/>
         </a>
     </div>
     <br>
