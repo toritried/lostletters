@@ -58,6 +58,9 @@ This is a collection of resources that helped me create this site, which may hel
             <li>
                 Neocitites: <a target="_blank" href="https://sadgrl.online/learn/articles/last-update-visitors#">how to add last update date and visitor count javascript</a>
             </li>
+            <li>
+                <a target="_blank" href="https://www.design-research.be/by-womxn/">Directory of open source fonts by womxn</a> - how I found the Asul font
+            </li>
         </ul>
     <li>
         Jekyll-specific

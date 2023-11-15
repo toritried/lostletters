@@ -135,16 +135,16 @@ a:hover{
 .dropdown-content a:hover {
     background-color: var(--color-primary-a0);
 }
-.theme-image{
+.theme-image {
     content: url("/graphics/toy//ms-paint-king-lulu-deer.gif"); /* credit: https://deviantart.com/king-lulu-deer/art/MS-Paint-670922940 */
     image-rendering: pixelated;
 }
-.theme-stamp{
-    content: url("/graphics/toy/stamp/royal_air_mail_stamp_by_kezzi_rose.png"); /* credit: https://www.deviantart.com/kezzi-rose/art/Royal-Air-Mail-Stamp-292213837 */
+.theme-stamp {
+    content: url("/graphics/toy/stamp/sakura-postage.gif"); /* credit: https://www.deviantart.com/thecandycoating/art/Vintage-Sakura-Stamp-659690758 */
     image-rendering: pixelated;
 }
-/* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
 
+/* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
 ::-webkit-scrollbar {
 height: 50px;
 width: 10px;

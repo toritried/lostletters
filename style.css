@@ -3,10 +3,6 @@
     src: url("/fonts/alagard.woff") format("woff");
 }
 @font-face {
-    font-family: "pixel"; /* credit: https://www.dafont.com/pixel-operator.font */
-    src: url("/fonts/PixelOperator.ttf") format('truetype');
-}
-@font-face {
   font-family: "DIEDIEDIE";
   src: url("/fonts/DIEDIEDIE.TTF") format("truetype");
 }
@@ -215,7 +211,7 @@ display: block;
     background-color: #e8c9ff;
 }
 #switch-4 { /* mail theme */
-    background-color: #fee7f0;
+    background-color: #5BCEFA;
 }
 #switch-5 { /* spooky theme */
     background-color: #000;

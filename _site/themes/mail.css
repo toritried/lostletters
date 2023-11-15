@@ -11,20 +11,20 @@
   --color-primary-a80: #3a2930;
   --color-primary-a90: #000000;
   --background-image: url('/graphics/layout/hip-square.png'); 
-  --wrapper-bg-color:  /* https://sharkcoder.com/visual/borders */
+  --wrapper-bg-color:  /* credit: https://sharkcoder.com/visual/borders */
   linear-gradient(#fff, #fff) padding-box,
   repeating-linear-gradient(-45deg,
-  #f69ec4 0, #f69ec4 12.5%,
+  #F5A9B8 0, #F5A9B8 12.5%,
   #ffffff 0, #ffffff 25%,
-  #7eb4e2 0, #7eb4e2 37.5%,
+  #5BCEFA 0, #5BCEFA 37.5%,
   #ffffff 0, #ffffff 50%)
   0 / 5em 5em;
   --wrapper-bg:linear-gradient(#fff, #fff)
   padding-box,
   repeating-linear-gradient(-45deg,
-  #f69ec4 0, #f69ec4 12.5%,
+  #F5A9B8 0, #F5A9B8 12.5%,
   #ffffff 0, #ffffff 25%,
-  #7eb4e2 0, #7eb4e2 37.5%,
+  #5BCEFA 0, #5BCEFA 37.5%,
   #ffffff 0, #ffffff 50%)
   0 / 5em 5em;
   --wrapper-border: 1em solid transparent;
@@ -97,31 +97,33 @@ background-color: var(--color-primary-a10);
 background-color: var(--color-primary-a0);
 }
 .theme-image{
-    content: url("/graphics/toy/stationery-kingluludeer.png");
+    content: url("/graphics/toy/stationery-kingluludeer.png");  /* credit: https://www.deviantart.com/king-lulu-deer/gallery */
     image-rendering: pixelated;
 }
 .theme-stamp{
     content: url("/graphics/toy/stamp/cinnamoroll.png"); /* credit: https://www.deviantart.com/profiledecor/art/F2U-Cinnamoroll-Stamp-720524588 */
     image-rendering: pixelated;
 }
+
 /* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
 
 ::-webkit-scrollbar {
-  height: 50px;
-  width: 10px;
+  height: 119px;
+  width: 20px;
   overflow-y: scroll;
 }
 
 ::-webkit-scrollbar-corner {
-    background-color: transparent;
+  background-color: transparent;
 }
 
 ::-webkit-scrollbar-track{
-  background-color: var(--color-primary-a10);
+  background-color: #f3ebe4;
 }
 
 ::-webkit-scrollbar-thumb {
-  border-radius: 2ex;
-  -webkit-box-shadow: inset 0 0 0px var(--color-primary-a0); 
-  background: linear-gradient(180deg, var(--color-primary-a10) 0%, var(--color-primary-a50) 100%);
+  background-image: url('/graphics/layout/trans-pire-shooting-star-king-lulu-deer-deviantart.gif'); /* credit: https://www.deviantart.com/king-lulu-deer/art/Transgender-Pride-Flag-Shooting-Star-685223070 */
+  background-position: bottom;
+  background-repeat: no-repeat;
+  min-height: 119px;
 } 

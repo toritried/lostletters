@@ -11,7 +11,13 @@
    --color-primary-a80:  #321e3c;
    --color-primary-a90:  #000000;
    --background-image: url('/graphics/layout/asterism-purple-check.gif'); /*https://www.asterism-m.com/item/background/wall-simple01.php */
+} 
+
+@font-face {
+    font-family: 'pixel'; /* credit: https://www.dafont.com/pixel-operator.font */
+    src: url("/fonts/PixelOperator.ttf") format('truetype');
 }
+
 body {
     background-image: var(--background-image);
     color: var(--color-primary-a80);
@@ -61,11 +67,11 @@ a:hover{
 .dropdown-content a:hover {
     background-color: var(--color-primary-a0);
 }
-.theme-image{
-    content: url("/graphics/toy/purplehouse-kingluludeer.png");
+.theme-image {
+    content: url("/graphics/toy/purplehouse-kingluludeer.png");  /* credit: https://www.deviantart.com/king-lulu-deer/gallery */
     image-rendering: pixelated;
 }
-.theme-stamp{
+.theme-stamp {
     image-rendering: pixelated;
     content: url("/graphics/toy/stamp/JustYoungHeroes-png.gif"); /* credit: https://deviantart.com/justyoungheroes/art/you-decide-678316882 */
 }

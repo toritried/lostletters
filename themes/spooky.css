@@ -97,7 +97,7 @@ a:hover{
 }
 
 .theme-image{
-  content: url("/graphics/toy/Teru-Teru-Bozus-kingluludeer.gif");
+  content: url("/graphics/toy/Teru-Teru-Bozus-kingluludeer.gif"); /* credit: https://www.deviantart.com/king-lulu-deer/gallery */
   image-rendering: pixelated;
 }
 

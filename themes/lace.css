@@ -73,10 +73,14 @@ a:hover{
 /* desktop */
 @media (min-width:1024px) {
 .holy-grail-grid {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-top: 12vh;
+    height: 70vh;
+    margin-left: 15%;
+    margin-right: 15%;
+    overflow: auto;
+    overflow: auto;
+    padding: 1em;
+    border-radius: 1ex;
     grid-template-areas: 
         'header header header header'
         'main-content main-content main-content main-content'
@@ -88,12 +92,21 @@ a:hover{
     .footer-theme-selector {display: block;}
     .elsewhere-index, .buttons-index {display: block;}
     .mobile_nav {display: block;}
+    .overlay {
+        height: 110px; 
+        opacity:1.0;
+        background: url('/graphics/layout/v1_laceletter/topfrill.gif') repeat-x left top; 
+        width:100%;
+        position:fixed;
+        z-index:-99
+    }
 }
 
 /** status.cafe styling **/
 #statuscafe-username {
     background: var(--color-primary-a10);
 }
+
 /* navigation*/
 .dropbtn { 
     color: var(--color-primary-a60);
@@ -108,16 +121,16 @@ a:hover{
 .dropdown-content a:hover {
     background-color: var(--color-primary-a0);
 }
-.theme-image{
-    content: url("/graphics/toy/ms-paint-king-lulu-deer.gif"); /* credit: https://deviantart.com/king-lulu-deer/art/MS-Paint-670922940 */
+.theme-image {
+    content: url(/graphics/adoptables/dancing-moomin-lostletters.png); /* credit: me! I made this :3 */
     image-rendering: pixelated;
 }
-.theme-stamp{
+.theme-stamp {
     content: url("/graphics/toy/stamp/royal_air_mail_stamp_by_kezzi_rose.png"); /* credit: https://www.deviantart.com/kezzi-rose/art/Royal-Air-Mail-Stamp-292213837 */
     image-rendering: pixelated;
 }
-/* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
 
+/* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
 ::-webkit-scrollbar {
 height: 50px;
 width: 10px;
