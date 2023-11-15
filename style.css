@@ -463,3 +463,13 @@ html, body {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+/* postage stamp border */
+.stamp {
+  border: 8px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */
+  border-image-source: url(/graphics/toy/stamp/amanita_muscaria_stamp_by_oceanstamps.png);
+  border-image-slice: 3; /* don't change this! */
+  border-image-repeat: round; /* this makes the border smoothly fit any size container */
+  image-rendering: pixelated;
+}
+  

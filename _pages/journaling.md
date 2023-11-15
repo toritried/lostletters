@@ -7,7 +7,7 @@ menu: stationery
 ---
 
 <h2>Journaling Tools</h2>
-<img src="/graphics/techo/journal.jpg" style="max-width: 40%;margin: 0 0 0 10px;" align="right" title="an old journal spread in my Hobonichi A6">
+<img class="stamp" src="/graphics/techo/journal.jpg" style="max-width: 30%;" align="right" title="an old journal spread in my Hobonichi A6">
 These are a collection of powerful introspection and journaling practices I use constantly, and I hope they help you if you want to start or enhance your journaling practice. As with anything, feel free to take what resonates, and leave the rest.  
 <br>
 

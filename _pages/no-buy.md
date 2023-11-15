@@ -59,6 +59,7 @@ Mildliners - ¥1100 (~$8 USD) total
 - ¥660 - <a target="_blank" href="https://www.zebraservice.jp/shop/g/g4901681401772/">Mildliner individual colors</a>: marigold, gold, magenta, smoke blue, cyan, citrus
 
 Miscellaneous - ¥8956 (~$67 USD) total
+<img class="stamp" style="max-width: 30%; margin-left: .5em;" align="right" src="/graphics/blog/lovesoup-stamps.png">
 
 - ¥440 - <a target="_blank" href="https://www.yodobashi.com/product/100000001006882117/">San-X Sumikko Gurashi Mt. Fuji Letter Set</a>
 - ¥2,000 - <a target="_blank" href="https://sakuralala.jp/collections/love-soup/products/love-soup-x-sakuralala-peppers-home-life">Love Soup x Sakuralala - Pepper's Home Life stamp set</a>
@@ -66,13 +67,7 @@ Miscellaneous - ¥8956 (~$67 USD) total
 - ¥88 - <a target="_blank" href="https://bungu.plus.co.jp/product/correct/eraser/air-in/fujisan.html">PLUS Mt. Fuji Eraser: Pink</a> (Tokyu Hands: 50% off)
 - ¥4,190 - Shiroiouchi: <a target="_blank" href="https://shiroiouchi2.thebase.in/items/50788877">seal organizer</a> x2, <a target="_blank" href="https://shiroiouchi2.thebase.in/items/63484005">flake organizer</a>
 - ¥1,600 - <a target="_blank" href="https://www.1101.com/store/techo/ja/oem/article.html#370361">Hobonichi Weeks Moomin Pencil Board</a> (2022 ver.)
-
-<center>
-    <a target="_blank" href="https://sakuralala.jp/collections/love-soup/products/love-soup-x-sakuralala-peppers-home-life">
-        <img src="https://cdn.shopify.com/s/files/1/0079/5725/0146/products/LoveSoupxSakuralala_PeppersHomeLife_4_540x.jpg?v=1670421669" style="max-width: 100%;margin: 20px 0;" title="No one can resist these Lovesoup x Sakuralala collab stamps">
-    </a>
-</center>
-<br>
+  <br>
 
 ## Final Thoughts
 

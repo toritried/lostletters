@@ -17,7 +17,7 @@ I've hoarded stickers, pens, and blank journals for as long as I can remember, b
 - attend planner & stationery cons in Asia and North America
 - complete and learn from a <a href="/no-buy">year-long stationery "no-buy" in 2022</a>
 <center>
-    <img src="/graphics/techo/hobonichi.jpg" style="max-width: 100%;margin: 20px 0 0 0;">
+    <img class="stamp" src="/graphics/techo/hobonichi.jpg" style="max-width: 100%;margin: 20px 0 0 0;">
     <br>
     You can find more of my stationery life under <b>@techobytori</b>:
     <br>
@@ -32,7 +32,7 @@ I've hoarded stickers, pens, and blank journals for as long as I can remember, b
 - **2008-2011**: generic academic planner - coil-bound, horizontal weeklies
 - **2015-2016**: <a target="_blank" href="https://www.kikki-k.com/">Kikki.K</a> - ring-bound with gorgeous inserts from <a target="_blank" href="https://inkwellpress.com/">inkWELL press</a>
 - **2016-2017**: <a target="_blank" href="https://www.leuchtturm1917.us/notebook-classic.html">Leuchtturm1917</a> - an earnest, short-lived attempt at <a target="_blank" href="https://bulletjournal.com/">bullet journaling</a> on dot-grid paper
-  <img src="/graphics/techo/planners.jpg" style="max-width: 40%;margin: 10px 0 0 10px;" align="right">
+  <img class="stamp" src="/graphics/techo/planners.jpg" style="max-width: 40%;margin: 10px 0 0 10px;" align="right">
 - **2017**: <a target="_blank" href="https://www.erincondren.com/lifeplanner">Erin Condren Life Planner</a> - coil-bound, vertical weeklies
 - **2018-2022**: The <a target="_blank" href="https://www.1101.com/store/techo/">Hobonichi</a> Era - A6, A5, Weeks? I've tried them all!
 - **2022**: <a target="_blank" href="https://www.kokuyo.com/en/products/jibun_techo/lineup/days.html">Jibun Techo DAYS A5 Slim</a> - Despite being narrower than A5, I still found it to be too large
