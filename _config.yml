@@ -57,3 +57,8 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+feed:
+  tags:
+    only:
+      - 32bit-blog-club
