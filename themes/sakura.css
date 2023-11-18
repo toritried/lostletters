@@ -116,6 +116,22 @@ a:hover{
     .elsewhere-index, .buttons-index {display: block;}
     .mobile_nav {display: block;}
     .return-top {display: none;}
+    .overlay2 {
+        content: url(/graphics/layout/butterfly-charm.gif); /* credit: https://www.lucianabartolini.net/cartella_gif/gif_farfalle_bruchi.htm */
+        position: absolute;
+        left: 2%;
+        top: 0px;
+        image-rendering: pixelated;
+        z-index: 100;
+    }
+    .overlay3 {
+        content: url(/graphics/layout/flowers-glitter.gif); /* credit: https://tenor.com/view/flowers-glitter-flower-gif-14148221 */
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+        image-rendering: pixelated;
+        z-index: 100;
+    }
 }
 /** status.cafe styling **/
 #statuscafe-username {

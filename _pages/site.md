@@ -18,8 +18,9 @@ This is my log of the past iterations of the site, so I can look back on all the
 <div style="float: left; margin-right: .5em;" class="theme-switches">
     <div data-theme="sakura" class="switch" id="switch-6">🌸</div>
     <div data-theme="green" class="switch" id="switch-7">🌱</div>
+    <div data-theme="purin" class="switch" id="switch-8">🍮</div>
 </div>
-After a day full of fighting with git to deploy my site, I created two new themes to blow off steam. I've wanted a green theme for a while now since they're so easy on the eyes. I also felt like a cute pink theme was past due for a site that is partially dedicated to cute pixel art. Since I had recently recoded my original theme to leverage CSS border image slicing, I added a sakura background with CRT-inpsired scan-lines to soften the contrast and give a retro vibe. The green theme is very similar except it a dark mode without a border image, making it a very pleasant mobile experience for nighttime. 
+After a day full of fighting with git to deploy my site, I created two new themes to blow off steam. I've wanted a green theme for a while now since they're so easy on the eyes. I also felt like a cute pink theme was past due for a site that is partially dedicated to cute pixel art. Since I had recently recoded my original theme to leverage CSS border image slicing, I added a sakura background with CRT-inspired scan-lines to soften the contrast and give a retro vibe. The green theme is very similar except it a dark mode without a border image, making it a very pleasant mobile experience for nighttime. I'm also going to throw my pretty purin theme in here even though I made it later because I wanted that cute pixel web 1.0 look.
 <h2>Version 3: 3-Column Throwback |  Oct '23</h2>
 <div style="float: left; margin-right: .5em;" class="theme-switches">
     <div data-theme="purple" class="switch" id="switch-3" title="click to apply the preppy purple theme">💜</div>

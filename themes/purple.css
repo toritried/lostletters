@@ -14,15 +14,16 @@
 } 
 
 @font-face {
-    font-family: 'pixel'; /* credit: https://www.dafont.com/pixel-operator.font */
-    src: url("/fonts/PixelOperator.ttf") format('truetype');
+    font-family: 'basiic'; /* credit: https://cinni.net/?z=/font */
+    src: url("/fonts/basiic.ttf") format('truetype');
 }
 
 body {
     background-image: var(--background-image);
     color: var(--color-primary-a80);
-    font-family: 'pixel', Arial, sans-serif;
+    font-family: 'basiic', Arial, sans-serif;
 }
+
 a, .mobile_nav {
     color: var(--color-primary-a60);
 }

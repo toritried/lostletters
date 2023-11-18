@@ -7,7 +7,7 @@
   src: url("/fonts/DIEDIEDIE.TTF") format("truetype");
 }
 body {
-  font-size: calc(18px + 0.390625vw);
+  font-size: calc(16px + 0.390625vw);
   background-color: #000;
   margin: 0px;
 }
@@ -222,6 +222,9 @@ display: block;
 }
 #switch-7 { /* sakura theme */
     background-color: #1c3b18;
+}
+#switch-8 { /* sakura theme */
+    background-color: #ffd2e2;
 }
 
 /** Jekyll post nav styling from https://guypursey.com/blog/202104171135-next-previous-nav-links-jekyll-blog **/

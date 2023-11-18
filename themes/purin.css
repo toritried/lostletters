@@ -1,0 +1,231 @@
+:root {
+    /** CSS PRIMARY COLORS generated using https://colorffy.com/css-generator */
+    --colors-primary-a0-translucent: #ffffffb3;
+    --color-primary-a0: #ffffff;
+    --color-primary-a10: #ffd2e2;
+    --color-primary-a20: #fca4c5;
+    --color-primary-a30: #f572a9;
+    --color-primary-a50: #ea308e;
+    --color-primary-a60: #ab2b69;
+    --color-primary-a70: #6f2345;
+    --color-primary-a80: #391725;
+    --color-primary-a90: #000000;
+    --main-background-image: url('/graphics/layout/pink-lines.gif'); /* https://fc.ashrose.net/sun/05.html */
+    --grid-background-image: url('/graphics/layout/vert-pink-lines.png'); /* credit: https://fc.ashrose.net/sun/03.html */
+    --button-highlight: #ffffff;
+    --button-face: #dfdfdf;
+    --button-shadow: #808080;
+    --window-frame: #0a0a0a;
+    --border-raised-outer: inset -1px -1px var(--window-frame), inset 1px 1px var(--button-highlight);
+    --border-raised-inner: inset -2px -2px var(--button-shadow), inset 2px 2px var(--button-face);
+} 
+
+@font-face {
+    font-family: 'pixel'; /* credit: https://www.dafont.com/pixel-operator.font */
+    src: url("/fonts/PixelOperator.ttf") format('truetype');
+}
+
+body {
+    background-image: var(--main-background-image);
+    color: var(--color-primary-a80);
+    font-family: 'pixel', Arial, sans-serif;
+}
+
+::selection {
+    color: var(--color-primary-a50);
+    background-color: var(--color-primary-a10);
+}
+
+a, .mobile_nav {
+    color: var(--color-primary-a60);
+    background-color: var(--color-primary-a0);
+}
+a {
+    text-decoration: underline;
+}
+a:hover{
+    color: var(--color-primary-a50);
+}
+
+/* assign columns to grid areas */
+.holy-grail-grid {
+}
+
+.main-content {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    overflow: auto;
+}
+
+.holy-grail-grid {
+    background-image: url(/graphics/layout/pink-plaid.gif); /* credit: https://fc.ashrose.net/sun/01.html */
+    border-radius: 0;
+}
+.title {
+    color: #a9eefe;
+    text-shadow: -3px 4px 0 #48bcd5, 1px -1px 0 #48bcd5, -1px 1px 0 #48bcd5, 1px 1px 0 #48bcd5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    background-color: var(--color-primary-a0);
+    padding: .2em;
+}
+.title > a {
+    text-decoration: none;
+    color: #a9eefe;
+}
+
+.floating {
+    border-radius: 0;
+    background-color: var(--color-primary-a0);
+    margin-bottom: 0;
+}
+
+.left-sidebar > .floating, .right-sidebar > .floating {
+    padding: 0;
+}
+.left-sidebar, .right-sidebar {
+    overflow: auto;
+}
+
+/* desktop */
+@media (min-width:1024px) {
+    .holy-grail-grid {
+        margin-top: 2vh;
+        height: 91vh;
+        margin-left: 10%;
+        margin-right: 10%;
+        overflow: auto;
+        padding-right: .1em;
+        padding-left: .1em;
+        padding-top: 0;
+        padding-bottom: 0;
+        border: 30px solid transparent;
+        border-image-source: url(/graphics/layout/ribbon-plate.gif); /* credit: https://foollovers.com/mat/plate13.html */
+        border-image-slice: 25; /* size of corners */
+        border-image-repeat: round; /* this makes the border smoothly fit any size container */
+        background: var(--color-primary-a0);
+        background-clip: padding-box;
+        background-image: url(/graphics/layout/pink-plaid.gif); /* credit: https://fc.ashrose.net/sun/01.html */
+    }
+    .holy-grail-grid > .header {
+        border: 1px solid black;
+        padding: 0;
+    }
+
+    .floating, header {
+        border: 1px solid black;
+      }
+
+    .return-top {
+        display: none;
+    }
+    .overlay {
+        content: url(/graphics/toy/purin-sundae.gif); /* credit: https://www.deviantart.com/julz90210/art/Puri-Chan-Sundae-286238204 */
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        width: 194px;
+        image-rendering: pixelated;
+        z-index: 100;
+    }
+    .overlay2 {
+        content: url(/graphics/layout/key-charm.gif); /* credit: https://colecciondegifs.blogspot.com/2014_06_10_archive.html */
+        position: absolute;
+        right: 3%;
+        top: 0px;
+        image-rendering: pixelated;
+        z-index: 100;
+    }
+    .overlay3 {
+        content: url(/graphics/layout/ribbon-charm.gif); /* credit: http://www.animated-gifs.fr/category_love/hearts-many/index.php?page=3 */
+        position: absolute;
+        left: 3%;
+        top: 0px;
+        image-rendering: pixelated;
+        z-index: 100;
+    }
+}
+
+/* mobile */
+@media (max-width: 1023px) {
+    .mobile_nav > a {
+        text-decoration: none;
+    }
+    .holy-grail-grid > .header {
+        padding: 0%;
+    }
+}
+.nav-title {
+    color: var(--color-primary-a90);
+    background: linear-gradient(180deg, var(--color-primary-a0) 0%, var(--color-primary-a10) 100%);
+    border: 3px outset;
+}
+
+/* navigation*/
+.dropbtn { 
+    color: var(--color-primary-a60);
+}
+.navbar a:hover, .dropbtn:hover {
+    background-color: var(--color-primary-a10);
+}
+.dropdown-content {
+    background-color: var(--color-primary-a0);
+}
+.dropdown-content a:hover {
+    background-color: var(--color-primary-a10);
+}
+.theme-image {
+    content: url("/graphics/layout/purin.gif");  /* credit: https://www.picgifs.com/graphics/kawaii/graphics-kawaii-132376-808018/ */
+    image-rendering: pixelated;
+}
+.theme-stamp {
+    image-rendering: pixelated;
+    content: url("/graphics/toy/stamp/you_look_beautiful_today_by_ittichy.png"); /* credit: https://deviantart.com/justyoungheroes/art/you-decide-678316882 */
+}
+
+/* themed scrollbar: https://jdan.github.io/98.css/ */
+::-webkit-scrollbar {
+    width: 16px;
+}
+::-webkit-scrollbar:horizontal {
+    height: 17px;
+}
+
+::-webkit-scrollbar-corner {
+    background: var(--button-face);
+}
+
+::-webkit-scrollbar-track {
+    background-color: #dfdfdfae;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--button-face);
+    box-shadow: var(--border-raised-outer), var(--border-raised-inner);
+}
+
+::-webkit-scrollbar-button:horizontal:start:decrement,
+::-webkit-scrollbar-button:horizontal:end:increment,
+::-webkit-scrollbar-button:vertical:start:decrement,
+::-webkit-scrollbar-button:vertical:end:increment {
+    display: block;
+}
+
+::-webkit-scrollbar-button:vertical:start {
+    height: 17px;
+    background-image: url("/graphics/icon/button-up.svg");
+}
+::-webkit-scrollbar-button:vertical:end {
+    height: 17px;
+    background-image: url("/graphics/icon/button-down.svg");
+}
+::-webkit-scrollbar-button:horizontal:start {
+    width: 16px;
+    background-image: url("/graphics/icon/button-left.svg");
+}
+::-webkit-scrollbar-button:horizontal:end {
+    width: 16px;
+    background-image: url("/graphics/icon/button-right.svg");
+}
