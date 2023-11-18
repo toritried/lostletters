@@ -237,6 +237,9 @@ menu: webcore
         <a target="_blank" href="https://heart143.neocities.org/">
             <img src="/graphics/teahouse/teacup/warm_milk_heartspace.gif" alt="a white saucer under a red teacup with white stripes and heart details, heart-shaped foam appears above the cup" title="tastes like warm milk - made by heart143"/>
         </a>
+        <a target="_blank" href="https://mitzyrie.neocities.org/">
+            <img src="/graphics/teahouse/teacup/mitzyrie_bliss_afternoontea.png" alt="a blue cup filled with green treetop and a rainbow" title="tastes like lemonade - made by mitzyrie"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
