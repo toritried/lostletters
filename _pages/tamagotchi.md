@@ -18,6 +18,7 @@ menu: webcore
 Tamagotchi became a fixation for me at the end of August 2023. My friend purchased the Uni, and I had to get in on the fun. Had I not been so driven by nostalgia thanks to making this whole site, I probably could have resisted the pull of <a href="/virtual-pets/">yet another virtual pixel pet</a>, but here we are, taking care of another pet better than we take care of ourselves. 
 <br>
 <br>
+<img src="/graphics/tama/tamogatchi-aesthetic.gif" width="30%" align="left" title="this only looks good with my light background themes"> <!-- credit: https://tenor.com/view/tamogatchi-aesthetic-tamagotchi-90s-gif-12426690%20 -->
 I think there's something just so compelling about these cute characters, especially since the latest generation has distinct personalities. Even though the art style has changed a lot over the years, tamagotchi characters, regardless of generation, are instantly recognized as such. Furthermore, the astronomical prices of tamagotchi collabs with Sanrio and Disney show just how much power iconic characters can have. I am but a weak-willed fiend for Sanrio, so you can probably tell which tama I just couldn't resist adding to my collection below because I so badly wanted to play with the sanrio characters.
 <br>
 <br>
