@@ -41,7 +41,8 @@ const s_maxLengthName = 16; // The max character length of a name
 const s_commentsOpen = true; // Change to false if you'd like to close your comment section site-wide (Turn it off on Google Forms too!)
 const s_collapsedReplies = true; // True for collapsed replies with a button, false for replies to display automatically
 const s_longTimestamp = false; // True for a date + time, false for just the date
-const s_includeUrlParameters = false; // Makes new comment sections on pages with URL parameters when set to true (If you don't know what this does, leave it disabled)
+let s_includeUrlParameters = false; // Makes new comment sections on pages with URL parameters when set to true (If you don't know what this does, leave it disabled)
+const s_fixRarebitIndexPage = false; // If using Rarebit, change to true to make the index page and page 1 of your webcomic have the same comment section
 
 // Word filter - Censor profanity, etc
 const s_wordFilterOn = true; // True for on, false for off
@@ -56,9 +57,9 @@ const s_nameFieldLabel = 'Name';
 const s_websiteFieldLabel = 'Website URL';
 const s_textFieldLabel = '';
 const s_submitButtonLabel = 'Submit';
-const s_loadingText = 'Loading comments...';
-const s_noCommentsText = 'No comments yet!';
-const s_closedCommentsText = 'Comments are closed!';
+const s_loadingText = 'Loading letters...';
+const s_noCommentsText = 'No letters yet!';
+const s_closedCommentsText = 'Letters are closed temporarily!';
 const s_websiteText = 'Website'; // The links to websites left by users on their comments
 const s_replyButtonText = 'Reply'; // The button for replying to someone
 const s_replyingText = 'Replying to'; // The text that displays while the user is typing a reply
@@ -72,6 +73,9 @@ const s_rightButtonText = '>>';
     However, feel free to edit this code as much as you like! Just please don't remove my credit if possible <3
 */
 
+// Fix the URL parameters setting for Rarebit just in case
+if (s_fixRarebitIndexPage) {s_includeUrlParameters = true}
+
 // Apply CSS
 const c_cssLink = document.createElement('link');
 c_cssLink.type = 'text/css';
@@ -82,12 +86,13 @@ document.getElementsByTagName('head')[0].appendChild(c_cssLink);
 // HTML Form
 const v_mainHtml = `
     <div id="c_inputDiv">
-        <form id="c_form" onsubmit="v_submitted = true" method="post" target="c_hiddenIframe" action="https://docs.google.com/forms/d/e/${s_formId}/formResponse"></form>
+        <form id="c_form" onsubmit="c_submitButton.disabled = true; v_submitted = true;" method="post" target="c_hiddenIframe" action="https://docs.google.com/forms/d/e/${s_formId}/formResponse"></form>
     </div>
     <div id="c_container">${s_loadingText}</div>
 `;
 const v_formHtml = `
     <h2 id="c_widgetTitle">${s_widgetTitle}</h2>
+    
     <div class="guestbook__form">
         <div class="guestbook__fields">
             <div id="c_nameWrapper" class="c-inputWrapper">
@@ -100,13 +105,12 @@ const v_formHtml = `
                 <input class="c-input c-websiteInput" name="entry.${s_websiteId}" id="entry.${s_websiteId}" type="url" pattern="https://.*">
             </div>
         </div>
-        <div id="c_textWrapper" class="c-inputWrapper">
-            <label class="c-label c-textLabel" for="entry.${s_textId}">${s_textFieldLabel}</label>
-            <textarea class="c-input c-textInput" name="entry.${s_textId}" id="entry.${s_textId}" rows="4" cols="50"  maxlength="${s_maxLength}" required></textarea>
-            <input name="entry.${s_moderatedId}" id="entry.${s_moderatedId}" type="hidden" readonly value="false">
-        </div>
+            <div id="c_textWrapper" class="c-inputWrapper">
+                <label class="c-label c-textLabel" for="entry.${s_textId}">${s_textFieldLabel}</label>
+                <textarea class="c-input c-textInput" name="entry.${s_textId}" id="entry.${s_textId}" rows="4" cols="50"  maxlength="${s_maxLength}" required></textarea>
+                <input name="entry.${s_moderatedId}" id="entry.${s_moderatedId}" type="hidden" readonly value="false">
+            </div>
     </div>
-
     <input id="c_submitButton" name="c_submitButton" type="submit" value="${s_submitButtonLabel}" disabled>
 `;
 
@@ -138,6 +142,7 @@ else {c_submitButton = document.createElement('button')}
 // Add invisible page input to document
 let v_pagePath = window.location.pathname;
 if (s_includeUrlParameters) {v_pagePath += window.location.search}
+if (s_fixRarebitIndexPage && v_pagePath == '/') {v_pagePath = '/?pg=1'}
 const c_pageInput = document.createElement('input');
 c_pageInput.value = v_pagePath; c_pageInput.type = 'text'; c_pageInput.style.display = 'none';
 c_pageInput.id = 'entry.' + s_pageId; c_pageInput.name = c_pageInput.id; 
@@ -178,6 +183,11 @@ function getComments() {
     // Reset reply stuff to default
     c_replyingText.style.display = 'none';
     c_replyInput.value = '';
+
+    // Clear input fields too
+    document.getElementById(`entry.${s_nameId}`).value = '';
+    document.getElementById(`entry.${s_websiteId}`).value = '';
+    document.getElementById(`entry.${s_textId}`).value = '';
 
     // Get the data
     const url = `https://docs.google.com/spreadsheets/d/${s_sheetId}/gviz/tq?`;
@@ -224,7 +234,7 @@ function getComments() {
         if (comments.length == 0 || Object.keys(comments[0]).length < 2) { // Once again, Google Sheets can be weird
             c_container.innerHTML = s_noCommentsText;
         } else {displayComments(comments)}
-
+        
         c_submitButton.disabled = false // Now that everything is done, re-enable the submit button
     })
 }
@@ -380,7 +390,7 @@ function createComment(data) {
     // Website URL, if one was provided
     if (data.Website) {
         let site = document.createElement('a');
-        site.innerText = data.Website;
+        site.innerText = s_websiteText;
         site.href = data.Website;
         site.className = 'c-site';
         if(data.Moderated == false) {
