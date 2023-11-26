@@ -240,6 +240,9 @@ menu: webcore
         <a target="_blank" href="https://mitzyrie.neocities.org/">
             <img src="/graphics/teahouse/teacup/mitzyrie_bliss_afternoontea.png" alt="a blue cup filled with green treetop and a rainbow" title="tastes like lemonade - made by mitzyrie"/>
         </a>
+        <a target="_blank" href="https://mostlypixels.com/">
+            <img src="/graphics/teahouse/teacup/mostlypixels-tea.gif" alt="two bees hover over a striped teacup with leaves behind it" title="tastes like honey - made by Mostly Pixels"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
