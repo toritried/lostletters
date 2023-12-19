@@ -8,7 +8,7 @@ menu: webcore
 
 <center>
     <h1>You're invited to Afternoon Tea</h1>
-    <div class="noext" style="image-rendering: pixelated;">
+    <div class="noext">
         <a href="/">
             <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
         </a>
