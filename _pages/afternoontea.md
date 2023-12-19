@@ -243,6 +243,9 @@ menu: webcore
         <a target="_blank" href="https://mostlypixels.com/">
             <img src="/graphics/teahouse/teacup/mostlypixels-tea.gif" alt="two bees hover over a striped teacup with leaves behind it" title="tastes like honey - made by Mostly Pixels"/>
         </a>
+        <a target="_blank" href="https://dreambubble.neocities.org/">
+            <img src="/graphics/teahouse/teacup/mostlypixels-tea.gif" alt="a character with pink and blue pigtails holds a wrapped candy over the edge of a purple teacup with a pudding, donut, and more candies inside it" title="tastes like corroded batteries - made by dreambubble"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
