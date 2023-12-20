@@ -314,6 +314,24 @@ a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
   font-size: 0.8em;
 }
 
+.noext-cups a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
+  content: "";
+  font-size: 0.8em;
+  display: inline-block;  
+}
+
+.noext-cups img {
+  transition: 1s ease-in-out;
+  opacity: 1;
+  margin-left: .6em;
+  margin-right:.6em;
+  margin-top: .5em;
+}
+
+.noext-cups img:hover {
+  transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 img { 
   max-width: 100%;
   height: auto;

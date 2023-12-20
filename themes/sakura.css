@@ -61,7 +61,6 @@ a:hover{
     line-height: 1.5em;
     overflow-wrap: break-word;
     z-index: 1;
-    opacity: 0.80;
 }
 /* assign columns to grid areas */
 .holy-grail-grid > .header {
