@@ -87,8 +87,7 @@ emoji: 🏠
 </div>
 <hr>
 <img class="theme-stamp" align="right" style="margin: 10px 20px;" alt="">
-<a href="{{ site.posts.first.url }}"><text style="font-size: 1.17em; font-weight: bold;">{{ site.posts.first.title }}</text></a>
-<br>
+<h1><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
 &#x270E; <text style="border-bottom: 1px dotted;">{{ site.posts.first.date | date: "%-d %B %Y"}}</text>
 {{ site.posts.first.content }}
 <p style="text-align: center;">

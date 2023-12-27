@@ -291,6 +291,10 @@ a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
     font-size: 0.6em;
 }
 
+h1 {
+  line-height: 1em;
+}
+
 .blog-link{
   display: inline-block;
   white-space: nowrap;
