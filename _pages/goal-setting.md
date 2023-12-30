@@ -14,7 +14,7 @@ These are the steps I follow to break my goals into next steps and habits that I
 <b>Step 1. Define Goals</b>: Come up with <a target="_blank" href="https://www.atlassian.com/blog/productivity/how-to-write-smart-goals#:~:text=What%20are%20SMART%20goals%3F,within%20a%20certain%20time%20frame.">SMART goals</a> for different domains of your life. Here are a few example domains to spark some ideas.
 
 <div class='some-page-wrapper' style="margin: 1em;">
-  <div class='row' style="display: flex; flex-direction: row; flex-wrap: wrap; width: 100%;">
+  <div class='row' style="display: flex; flex-direction: row; flex-wrap: wrap; width: 100%; column-gap: 1em;">
     <div class='column' style="display: flex; flex-direction: column; flex-basis: 100%; flex: 1;">
         <b>From <a target="_blank" href="https://miraclemorning.com/start-here/">Miracle Morning by Hal Elrod</a></b>
             <ul>
