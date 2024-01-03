@@ -246,6 +246,9 @@ menu: webcore
         <a target="_blank" href="https://dreambubble.neocities.org/">
             <img src="/graphics/teahouse/teacup/dreambubble-batteries.png" alt="a character with pink and blue pigtails holds a wrapped candy over the edge of a purple teacup with a pudding, donut, and more candies inside it" title="tastes like corroded batteries - made by dreambubble"/>
         </a>
+        <a target="_blank" href="https://pomelo.lol/">
+            <img src="/graphics/teahouse/teacup/pomelo-llteacactus.png" alt="a blushing green cactus with a flower on its head sits within a blue teacup with a yellow and brown pattern around the cup" title="tastes like prickly pear - made by pomelo"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
