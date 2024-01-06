@@ -249,6 +249,9 @@ menu: webcore
         <a target="_blank" href="https://pomelo.lol/">
             <img src="/graphics/teahouse/teacup/pomelo-llteacactus.png" alt="a blushing green cactus with a flower on its head sits within a blue teacup with a yellow and brown pattern around the cup" title="tastes like prickly pear - made by pomelo"/>
         </a>
+        <a target="_blank" href="https://labyrinth.monster">
+            <img src="/graphics/teahouse/teacup/labyrinth-limbo-CandyCane.png" alt="the hook of a candy cane protrudes from brown swirling liquid inside a red teacup with a white pattern on it. The teacup sits on a brown saucer." title="tastes like a candy cane dipped in hot chocolate - made by labyrinth-limbo"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
