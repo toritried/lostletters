@@ -29,7 +29,7 @@ emoji: 🏠
         <br>
     </blockquote>
 </article>
-<div class="buttons-index noext" style="text-align: center;"> <!-- Button Wall -->
+<div class="buttons-index noext" style="text-align: center; image-rendering: pixelated;"> <!-- Button Wall -->
     <br>
     <img src="/graphics/toy/tags/transrights.png" title="trans rights!">
     <a target="_blank" href="/pride/">
@@ -62,6 +62,9 @@ emoji: 🏠
     <a target="_blank" href="https://forum.melonland.net/">
         <img src="/graphics/linkout/melonland-forum.gif" title="Find me on the MelonLand Forum as Lost Letters!">
     </a>
+    <a target="_blank" href="https://rainy.gay/">
+        <img src="/graphics/linkout/nonbinary.png" title="nonbinary pride button by Dime">
+    </a>
     <a target="_blank" href="https://plasticdino.neocities.org/graphics">
         <img src="/graphics/linkout/queer.png" title="You're telling me a queer coded this button by kitty">
     </a>
@@ -72,6 +75,9 @@ emoji: 🏠
         <img src="/graphics/linkout/masknow.png" title="Wear a mask now button by devils">
     </a>
     <img src="/graphics/linkout/acab.gif" title="ACAB button - not sure who made this, so please drop me a note if you know who did in my guestbook. Attribution is so important!">
+    <a target="_blank" href="https://hillhouse.neocities.org/journal/notes/palestine">
+        <img src="/graphics/linkout/palestine-hillhouse.gif" alt="the Palestinian flag with overlaying text that says From the river to the sea Palestine will be free" title="Click for ways to support freeing Palestine; button by hillhouse">
+    </a>
 </div>
 <div class="elsewhere-index" style="text-align: center;">
     <br>

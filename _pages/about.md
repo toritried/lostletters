@@ -16,7 +16,7 @@ menu: about
         age: millenial
     </li>
     <li>
-        identities: japanese-american, vegan, intersectional feminist
+        identities: nonbinary, trans, japanese-american, vegan, intersectional feminist
     </li>
     <li>
         neurospicy: ADHD, bipolar
@@ -51,7 +51,7 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
 <br>
 🦋 been in love since 2020-06-28
 <br>
-👯 lived with my girlfriend since 2021-08-01
+👯 lived with my fiancee since 2021-08-01
 <br>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
