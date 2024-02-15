@@ -252,6 +252,9 @@ menu: webcore
         <a target="_blank" href="https://labyrinth.monster">
             <img src="/graphics/teahouse/teacup/labyrinth-limbo-CandyCane.png" alt="the hook of a candy cane protrudes from brown swirling liquid inside a red teacup with a white pattern on it. The teacup sits on a brown saucer." title="tastes like a candy cane dipped in hot chocolate - made by labyrinth-limbo"/>
         </a>
+        <a target="_blank" href="https://pixalina.neocities.org/">
+            <img src="/graphics/teahouse/teacup/pixalina.gif" alt="a pink teacup with a gold trimmed frilled edge sits upon a pink and gold saucer. The teacup has a pet face on it and a tea bag string and tag hanging out of the right side." title="tastes cheesy - made by pixalina"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
