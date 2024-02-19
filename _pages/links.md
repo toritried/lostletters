@@ -161,6 +161,9 @@ menu: site
     <a target="blank" href="https://bassdrop.club/">
         <img src="/graphics/linkout/bassdrop.gif" title="bass drop's club">
     </a>
+    <a target="blank" href="https://mossforestdollz.neocities.org/">
+        <img src="/graphics/linkout/88X31nemosdark.gif" title="Nemo's Rainforest">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Who I link is still at my discretion though, so I will not reciprocate if you don't pass the vibe check or are a minor. Feel free to use these buttons, but please download and host them yourself.</text>
