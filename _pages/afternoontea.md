@@ -255,6 +255,9 @@ menu: webcore
         <a target="_blank" href="https://pixalina.neocities.org/">
             <img src="/graphics/teahouse/teacup/pixalina.gif" alt="a pink teacup with a gold trimmed frilled edge sits upon a pink and gold saucer. The teacup has a pet face on it and a tea bag string and tag hanging out of the right side." title="tastes cheesy - made by pixalina"/>
         </a>
+        <a target="_blank" href="https://jeith.neocities.org/">
+            <img src="/graphics/teahouse/teacup/jeith-cup.gif" alt="a red teacup with a blue paw print and blue hearts on either side with a yellow rim. The cup is filled with a golden puppy that is animated between sleeping and wagging its tongue." title="tastes like crayons - made by jeith"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
