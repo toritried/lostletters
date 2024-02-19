@@ -6,6 +6,7 @@ tags:
   - health
   - mental-health
   - reflection
+  - muse
 ---
 This is a response to the third prompt from the <a target="_blank" href="https://museariadne.neocities.org/">muse ariadne</a> writing club: *write about a worldly place that is a threshold for you. this can mean anything-- maybe it's some place between end and beginning, forward and backward, past and present, here and there, friends and lovers, or something else entirely!*<!--excerpt-->
 
