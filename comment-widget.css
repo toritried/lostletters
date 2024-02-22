@@ -64,6 +64,7 @@
 }
 #c_form {
     padding: 2px;
+    padding-bottom: 10px;
 }
 #c_widget {
     box-sizing: border-box;
@@ -137,6 +138,7 @@
     height: 23px;
     width: 75px;
     margin-left: 10px;
+    margin-top: 5px;
     padding: 0 12px;
     font-family: 'w95fa';
     font-size: 14px;
