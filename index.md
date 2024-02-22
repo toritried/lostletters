@@ -23,7 +23,7 @@ emoji: 🏠
         <br>
         <img src="/graphics/toy/emoticons/alert-deer.gif" alt=""> Content warnings (CW) are used for discussions of mental health, swearing, etc.
         <br>
-        <img src="/graphics/toy/emoticons/distracted-moomin.gif" alt=""> This site uses Javascript for the theme switcher, navigation, webmentions, tool tips, cursor effects, guestbook, and goatcounter.
+        <img src="/graphics/toy/emoticons/distracted-moomin.gif" alt=""> This site uses Javascript for the theme switcher, navigation, webmentions, tool tips, cursor effects, guestbook, blog post reactions, and goatcounter.
         <br>
         <img src="/graphics/toy/emoticons/hearts-2-watercolor.gif" alt=""> <b>There will never be auto-playing music</b> on this site because screen readers are critical to an inclusive web (<a target="_blank" href="https://accessibility.its.uconn.edu/auto-playing-media-and-multimedia/">learn more</a>).
         <br>

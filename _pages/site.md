@@ -32,7 +32,7 @@ I coded three new layouts over two days: Preppy Purple, Trans Love Letter (dedic
 <br>
 Once I had the code for my site structure, I wanted to add a theme switcher for Halloween. This is done easily just by switching out whatever you want to customize in your main CSS file by swapping in variables and having those defined in separate style sheets that some JS can point to. I followed <a target="_blank" href="https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">this very easy tutorial</a> that provided all the code snippets needed, then I got busy, committing as many CSS crimes as I wanted. The entire effort took about two days, but the majority of that was spent tweaking the CSS to figure out fun combinations that worked well together and then leaving it alone for a while so I could view it with fresh eyes. One of the really helpful resources I used to develop cohesive color schemes for each layout was <a target="_blank" href="https://colorffy.com/css-generator">colorffy's CSS / SCSS color variables generator</a>. You just specify a HEX code for a color you like, and it spits out a family of related shades, which you can then evaluate to ensure you've got the right contrast ratios for your site.
 <br>
-* my guestbook is now powered by code from <a target="_blank" href="https://virtualobserver.moe/ayano/comment-widget">virtualobserver</a> with a h/t to <a target="_blank" href="https://fri11s.neocities.org/">Frills</a> for pointing me their way and <a target="_blank" href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">creating moderation capabilities</a>
+* my guestbook is now powered by code from <a target="_blank" href="https://virtualobserver.moe/ayano/comment-widget">virtualobserver</a> with a h/t to <a target="_blank" href="https://frills.dev/">Frills</a> for pointing me their way and <a target="_blank" href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">creating moderation capabilities</a>
 * recreated my original layout from <a target="_blank" href="https://foollovers.com/">Fool Lovers</a> using just a couple lines of code thanks to border-image css (Nov '23)
 <h2>Version 2: Lost in Space!  |  Mar '23 - Oct '23</h2>
 <div style="float: left; margin-right: .5em;" class="theme-switches" title="click to apply this theme">
@@ -54,7 +54,7 @@ This layout was adapted from a template by <a target="_blank" href="https://fool
 * Designed my beloved dropdown menu for site navigation
 * Major new content sections: q*bee shrine, confessions, stationery
 <hr>
-<h1>Assets</h1>
+<h1>Assets & Snippets</h1>
 * Credit for fonts, index pixels, and stamps can all be found in-line within each CSS theme file
 * <a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 button base
 * <a target="_blank" href="https://pixel-soup.tumblr.com/">pixel-soup</a> & <a target="_blank" href="https://lostsozai.tumblr.com/">lost-sozai</a> - in-line emoticons
@@ -62,6 +62,7 @@ This layout was adapted from a template by <a target="_blank" href="https://fool
 * <a target="_blank" href="https://web.badges.world/">web.badges.world</a> - tamagotchi and neopets badges
 * <a target="_blank" href="https://pixels.elfwink.net/">Lou (Elfwink)</a> - chaotic good and pansexual badges
 * I used this <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">button maker tool</a> to create the trans rights, vegan always, and union member badges
+* Implemented <a target="_blank" href="https://tinylytics.app/">tinylytics kudos on my blog posts</a> thanks to <a target="_blank" href="https://frills.dev/">Frills</a> for pointing me their way
 <hr>
 <h1>Milestones</h1>
 <ul>
