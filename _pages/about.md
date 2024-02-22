@@ -49,9 +49,7 @@ Now that I've truly accepted that I'm just a goblin that likes weird stuff inste
 <br>
 🌱 been plant-based since 2016-01-28
 <br>
-🦋 been in love since 2020-06-28
-<br>
-👯 lived with my fiancee since 2021-08-01
+🦋 been in love with my wife since 2020-06-28
 <br>
 <br>
 <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_bear.gif" title="if you know who illustrated this, please lmk"/>
