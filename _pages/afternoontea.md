@@ -258,6 +258,9 @@ menu: webcore
         <a target="_blank" href="https://jeith.neocities.org/">
             <img src="/graphics/teahouse/teacup/jeith-cup.gif" alt="a red teacup with a blue paw print and blue hearts on either side with a yellow rim. The cup is filled with a golden puppy that is animated between sleeping and wagging its tongue." title="tastes like crayons - made by jeith"/>
         </a>
+        <a target="_blank" href="https://embarrasseddragon234.neocities.org/">
+            <img src="/graphics/teahouse/teacup/energontea-transparent.gif" alt="A mostly pink teacup with cubes at the base. Part of the cup fades in and out." title="tastes like strawberry pennies - made by embarrasseddragon234"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
