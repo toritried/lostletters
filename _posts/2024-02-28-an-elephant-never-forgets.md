@@ -8,13 +8,20 @@ tags:
 This is a poem called *An Elephant Never Forgets*, which I wrote for the third prompt from the [muse ariadne](https://museariadne.neocities.org/) writing club: *fuck salvador dali for being evil. that said, write a piece inspired by two famous dali paintings-- [persistence of memory](https://i.postimg.cc/Rq5xwH5d/persistenceofmemory.jpg) and [the elephants](https://i.postimg.cc/cL3rqRLx/theelephants.jpg).*
 
 on stilted legs, we waver
-balancing monumental baggage
+<br>balancing monumental baggage
+<br>
 a few precarious steps from
+<br>
 a pool of time that melts and bends 
+<br>
 of indeterminable depths that telescopically extend
+<br>
 peering at its mirrored surface just to see
+<br>
 all this too has been added to our backs
+<br>
 the punishing weight is all too sudden
+<br>
 we are frozen in a test of suffering
 
 <hr>
