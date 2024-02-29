@@ -9,20 +9,13 @@ This is a poem called *An Elephant Never Forgets*, which I wrote for the third p
 
 on stilted legs, we waver
 <br>balancing monumental baggage
-<br>
-a few precarious steps from
-<br>
-a pool of time that melts and bends 
-<br>
-of indeterminable depths that telescopically extend
-<br>
-peering at its mirrored surface just to see
-<br>
-all this too has been added to our backs
-<br>
-the punishing weight is all too sudden
-<br>
-we are frozen in a test of suffering
+<br>a few precarious steps from
+<br>a pool of time that melts and bends 
+<br>of indeterminable depths that telescopically extend
+<br>peering at its mirrored surface just to see
+<br>all this too has been added to our backs
+<br>the punishing weight is all too sudden
+<br>we are frozen in a test of suffering
 
 <hr>
 
