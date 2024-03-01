@@ -5,7 +5,7 @@ date: 2024-02-28 21:39
 tags:
   - muse
 ---
-This is a poem called *An Elephant Never Forgets*, which I wrote for the third prompt from the [muse ariadne](https://museariadne.neocities.org/) writing club: *fuck salvador dali for being evil. that said, write a piece inspired by two famous dali paintings-- [persistence of memory](https://i.postimg.cc/Rq5xwH5d/persistenceofmemory.jpg) and [the elephants](https://i.postimg.cc/cL3rqRLx/theelephants.jpg).*
+This is a poem called *An Elephant Never Forgets*, which I wrote for the third prompt from the [muse ariadne](https://museariadne.neocities.org/) writing club: *fuck salvador dali for being evil. that said, write a piece inspired by two famous dali paintings-- [persistence of memory](https://i.postimg.cc/Rq5xwH5d/persistenceofmemory.jpg) and [the elephants](https://i.postimg.cc/cL3rqRLx/theelephants.jpg).*<!--excerpt-->
 
 on stilted legs, we waver
 <br>balancing monumental baggage
