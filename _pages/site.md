@@ -66,6 +66,8 @@ This layout was adapted from a template by <a target="_blank" href="https://fool
 <hr>
 <h1>Milestones</h1>
 <ul>
+    <li>300 followers - 2024/03/01</li>
+    <li>500,000 views - January 2024</li>
     <li>400,000 views - 2023/12/23</li>
     <li>300,000 views - 2023/11/06</li>
     <li>200 followers - 2023/10/22</li>
