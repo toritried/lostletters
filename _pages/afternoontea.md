@@ -261,6 +261,9 @@ menu: webcore
         <a target="_blank" href="https://embarrasseddragon234.neocities.org/">
             <img src="/graphics/teahouse/teacup/energontea-transparent.gif" alt="A mostly pink teacup with cubes at the base. Part of the cup fades in and out." title="tastes like strawberry pennies - made by embarrasseddragon234"/>
         </a>
+        <a target="_blank" href="https://layercake.neocities.org/">
+            <img src="/graphics/teahouse/teacup/layercake-jackfrost.gif" alt="a little character with blue antlers bobs up and down inside a light blue teacup decorated with white snowflakes" title="tastes like ice and magic - made by layercake"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
