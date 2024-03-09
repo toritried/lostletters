@@ -47,8 +47,8 @@ menu: site
     <a target="_blank" href="https://cobyzaby.neocities.org/" title="cobyzaby">
         <img src="/graphics/linkout/cobyzabybutton.gif">
     </a>
-    <a target="_blank" href="https://daintyeco.neocities.org/" title="daintyeco">
-        <img src="/graphics/linkout/daintyeco.gif">
+    <a target="_blank" href="https://avas.space" title="daintyeco">
+        <img src="/graphics/linkout/avas-space.gif">
     </a>
     <a target="_blank" href="https://onio.cafe/" title="Onio Café - a truly delightful personal site with a focus on community chat. Don't miss Onio's interesting and well-written thought posts!">
         <img src="/graphics/linkout/oniocafe.gif">
@@ -166,6 +166,9 @@ menu: site
     </a>
     <a target="blank" href="https://ribo.zone/">
         <img src="/graphics/linkout/ribozone.gif" title="ribo.zone">
+    </a>
+    <a target="blank" href="https://radiant-sky.neocities.org/">
+        <img src="/graphics/linkout/radiantsky-buttonv2.4.gif" title="Radiant Sky">
     </a>
 </div>
 <center>
