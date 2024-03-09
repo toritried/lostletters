@@ -264,6 +264,9 @@ menu: webcore
         <a target="_blank" href="https://layercake.neocities.org/">
             <img src="/graphics/teahouse/teacup/layercake-jackfrost.gif" alt="a little character with blue antlers bobs up and down inside a light blue teacup decorated with white snowflakes" title="tastes like ice and magic - made by layercake"/>
         </a>
+        <a target="_blank" href="https://literallyfictional.neocities.org/">
+            <img src="/graphics/teahouse/teacup/literallyfictional-by-skatuya.gif" alt="a golden 20-sided die bobs within brown liquid inside a blue, floral teacup with a golden saucer and fancy handle" title="tastes like a crit fail - made by literallyfictional"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
