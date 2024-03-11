@@ -17,6 +17,9 @@ menu: webcore
             <a target="_blank" href="https://creaturesinsi.de/">
                 <img src="/graphics/toy/004_vespia_alastin.png" title="This is Serelia, a one-of-a-kind Vespia creature I've adopted from Creatures Inside">
             </a>
+            <a target="_blank" href="https://xandra.cc/">
+                <img src="/graphics/toy/happy-new-year-xandra-gift.gif" title="A new years 2024 pixel from Xandra">
+            </a>
             <a target="_blank" href="https://pixelins.tumblr.com/">
                 <img src="/graphics/toy/pixelins.gif">
             </a>
