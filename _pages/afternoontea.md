@@ -267,6 +267,9 @@ menu: webcore
         <a target="_blank" href="https://literallyfictional.neocities.org/">
             <img src="/graphics/teahouse/teacup/literallyfictional-by-skatuya.gif" alt="a golden 20-sided die bobs within brown liquid inside a blue, floral teacup with a golden saucer and fancy handle" title="tastes like a crit fail - made by literallyfictional"/>
         </a>
+        <a target="_blank" href="https://fasciationhall.neocities.org/">
+            <img src="/graphics/teahouse/teacup/fasciationhall.png" alt="a maroon teacup with a white, green and red border motif and yellow green clouds protruding from the inside along with a street lamp with a red light" title="tastes like city air and spice - made by fasciationhall"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
