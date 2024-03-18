@@ -6,7 +6,7 @@ permalink: /top-surgery/
 menu: health
 ---
 
-When I was preparing for top surgery in Japan, I couldn't find any personal accounts of similar experiences in English, so I wanted to share my experience in case others want to pursue a similar path. I'm happy to share further details and answer questions from anyone who is considering top surgery in Japan, so, if that's you, just reach out with a way to get in touch privately in my guestbook. In terms of what you can expect here, I won't be sharing any photos and additional content warnings will apply to specific sections.
+When I was preparing for double incision top surgery in Japan, I couldn't find any personal accounts of similar experiences in English, so I wanted to share my experience in case others want to pursue a similar path. I'm happy to share further details and answer questions from anyone who is considering top surgery in Japan, so, if that's you, just reach out with a way to get in touch privately in my guestbook. In terms of what you can expect here, I won't be sharing any photos and additional content warnings will apply to specific sections.
 
 Before we get started, I want to put a few disclaimers and dedications. I never ever would have been able to do this alone. If it weren't for my dearest friend and dauntless trans ally who translated Japanese at my consultations, learned more about top surgery than I ever did, double checked drug interactions, and more, I never would have had the courage nor ability to live so comfortably in my body. I am wholly indebted to you. I also owe my smooth recovery to my wife who was my ever-attentive and loving caregiver. We will always be there for each other, and I am so grateful.
 
