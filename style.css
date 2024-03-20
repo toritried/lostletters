@@ -6,6 +6,10 @@
   font-family: "DIEDIEDIE";
   src: url("/fonts/DIEDIEDIE.TTF") format("truetype");
 }
+@font-face {
+  font-family: "fruits-veg"; /* credit: https://aoirii.babyblue.jp/font/fandv/index.html */
+  src: url("/fonts/RiiFandV.otf") format("opentype");
+}
 body {
   font-size: calc(16px + 0.390625vw);
   background-color: #000;

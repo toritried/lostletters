@@ -29,18 +29,15 @@
     pointer-events: none;
     z-index: -1;
 }
+
 @font-face {
-    font-family: "Riimonaka"; /* credit: https://aoirii.babyblue.jp/font/riimnk/index.html */
-    src: url("/fonts/RiiMonakaB-regular.otf") format('opentype');
-}
-@font-face {
-    font-family: "Riimonaka-outline"; /* credit: https://aoirii.babyblue.jp/font/riimnk/index.html */
-    src: url("/fonts/RiiMonakaOutline-bold.otf") format('opentype');
-}
+    font-family: "Solway"; /* credit: https://fonts.google.com/specimen/Solway */
+    src: url("/fonts/Solway-Regular.ttf") format('truetype');
+  }
 
 body {
     color: var(--color-primary-a80);
-    font-family: 'Riimonaka', sans-serif;
+    font-family: 'Solway', sans-serif;
     background-image: var(--background-image);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -143,7 +140,7 @@ a:hover{
 /* navigation*/
 .dropbtn, .blog-link { 
     color: var(--color-primary-a60);
-    font-family: 'Riimonaka-outline', sans-serif;
+    font-family: 'Solway', sans-serif;
 }
 .navbar a:hover, .dropbtn:hover {
     background-color: var(--color-primary-a10);
