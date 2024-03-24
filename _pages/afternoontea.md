@@ -270,6 +270,9 @@ menu: webcore
         <a target="_blank" href="https://fasciationhall.neocities.org/">
             <img src="/graphics/teahouse/teacup/fasciationhall.png" alt="a maroon teacup with a white, green and red border motif and yellow green clouds protruding from the inside along with a street lamp with a red light" title="tastes like city air and spice - made by fasciationhall"/>
         </a>
+        <a target="_blank" href="https://tthumbelina.neocities.org/">
+            <img src="/graphics/teahouse/teacup/tthumbelina.gif" alt="a pupleish navy teacup and sucer set with sparkling gold stars and a golden teabag tag hanging out of the front" title="tastes like the feeling you get when you look up at the stars! - made by ames"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
