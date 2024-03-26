@@ -860,7 +860,7 @@ menu: webcore
         <img src="/graphics/quilt/layout/qbee-divider.gif">
         <br>
         <br>
-        <h2>Pixel Club Overview & History</h2>
+        <h2 id="history">Pixel Club Overview & History</h2>
     </center>
     <b>The * Quilting * Bee</b> (aka q*bee) was an interactive pixel art community that was founded on February 18th, 2000 and closed in 2014. <a target="_blank" href="https://web.archive.org/web/20121114142715/http://theqbee.net/about.php">“It was the first and original trading club dedicated to trading pixel web graphics between members. Members could collect and trade pixel patches to 'sew' onto their 'quilts'”</a> (seen above), which were akin to visual directories of creative webmasters, in addition to participating in many other activities to motivate and advance their pixeling skills, including monthly pixel art challenges. There were also non-pixeling activities like "blog-a-thons", story writing, holiday card exchanges, and many other immersive ways to have fun and get to know fellow bees. The q*bee awarded members <a target="_blank" href="https://web.archive.org/web/20081225062038/http://theqbee.net/patchinfo.php">many patches</a> and mini pixel mushrooms in recognition of contributions to the site and community.
     <br>

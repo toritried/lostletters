@@ -311,7 +311,7 @@ menu: webcore
     </li>
 </ul>
 <br>
-<h1>Inspiration</h1>
+<h1 id="inspiration">Inspiration</h1>
 <img src="/graphics/linkout/teahouse.gif" style="margin: 10px 10px 0 0;" align="left" title="Teahouse MB 88x31 button"/>
 This is a pixel club tribute to <b>Teahouse MB</b>, a kawaii pixel art forum that no longer exists. Teahouse MB provided a teacup template for folks to create their own unique teacup designs. Artists would then allow a limited number of people to collect the design on a first-come-first-serve basis, usually limiting it to the first 10-20 people who posted on the thread. 
 <img src="/graphics/toy/emoticons/shocked-moomin.gif" align="right" style="margin: 0 0 0 7px;" > 
