@@ -172,10 +172,12 @@ content: "▾";
 display: block;
 padding: 5px;
 }
+
 .blog-link:hover {
-    background-image: none;
-    letter-spacing: normal;
+  background-image: none;
+  letter-spacing: normal;
 }
+
 iframe {
 border: 0;
 display: block;
