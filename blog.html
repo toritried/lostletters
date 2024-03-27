@@ -2,12 +2,16 @@
 layout: 3col-no-wm
 title: blog
 ---
-<h2 style="text-align: center;">
-    All Blog Posts
-</h2>
-    {% for post in site.posts %}
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    {{ post.excerpt }}
-    <a href="{{ post.url }}" style="text-align: center;">continue reading...</a>
-    <hr>
-    {% endfor %}
+{%- assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" -%}
+<div class="nav" style="display: flex; flex-wrap: wrap; justify-content: center; column-gap: 1em;">
+    {%- for year in postsByYear -%}
+    <a href="#{{ year.name | slugify }}" class="nav-link" style="background: var(--color-primary-a10); padding: 10px; border-radius: 5px;" title="jump to posts from this year">{{ year.name }}</a>
+    {%- endfor -%}
+</div>
+<br>
+{%- for year in postsByYear  -%}
+<div id="{{ year.name | slugify }}" class="">
+    <h2 style="margin-block-end: .2em;">{{ year.name }}</h2>
+    {% include archive_post.html show_tags=true collection=year.items %}
+</div>
+{%- endfor -%}

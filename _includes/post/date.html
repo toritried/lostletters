@@ -1,0 +1,11 @@
+{%- capture date -%}{{ page.date }}{{ post.date }}{%- endcapture -%}
+{%- capture lastModifiedDate -%}{{ page.last_modified_at }}{{ post.last_modified_at }}{%- endcapture -%}
+{%- capture has_date -%}{{ date | size }}{%- endcapture -%}
+{%- capture has_last_modified_date -%}{{ lastModifiedDate | size }}{%- endcapture -%}
+
+{%- if has_date != '0' -%}
+  {%- capture time -%}<time datetime="{{ date | datetime | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="datePublished">{{ date | date: "%F"  }}</time>{%- endcapture -%}
+{%- endif -%}
+{%- if has_last_modified_date != '0' -%}
+  {%- capture time -%}<time datetime="{{ date | datetime | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="datePublished">{{ date | date: "%F"  }}</time> (updated: <i class="far fa-calendar-alt"></i> <time datetime="{{ lastModifiedDate | datetime | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="dateUpdated">{{ lastModifiedDate | date: "%F"  }}</time>){%- endcapture -%}
+{%- endif -%}

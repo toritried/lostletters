@@ -1,0 +1,42 @@
+<style>
+    .list-group {
+        display: flex;
+        flex-direction: column;
+        padding-left: 0;
+        margin-bottom: 0;
+    }
+
+    .list-group-item:last-child {
+        border-bottom: none;
+    }
+
+    .list-group-item {
+        padding-bottom: 1em;
+        margin-bottom: 1em;
+        border-bottom: 1px solid var(--color-primary-a80);
+    }
+</style>
+{%- assign posts = include.collection -%}
+{%- if include.show_tags -%}
+{%- assign show_tags = true -%}
+{%- else -%}
+{%- assign show_tags = false -%}
+{%- endif -%}
+<div class="list-group">
+    {%- for post in posts -%}
+    <div class="list-group-item">
+        <article>
+            <h3 style="margin-block-end: .2em;"><a href="{{ post.url }}">{{post.title}}</a></h3>
+            {% include post/date.html %}{{ time }} | {% include post/reading_time.html text=post.content %}
+            <div>
+                {%- if show_tags == true -%}
+                {%- include post/tags.html -%}
+                {%- endif -%}
+            </div>
+            <blockquote>
+                {{ post.excerpt }}<i><a href="{{ post.url }}">continue reading...</a></i>
+            </blockquote>
+        </article>
+    </div>
+    {%- endfor -%}
+</div>
