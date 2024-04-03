@@ -49,7 +49,7 @@ a, .mobile_nav {
 }
 
 a:hover{
-    background-image: linear-gradient(to right, var(--color-primary-a0) , var(--color-primary-a10));
+    background-color: var(--color-primary-a0);
 }
 
 .holy-grail-grid {
@@ -78,17 +78,18 @@ a:hover{
 /* mobile */
 @media (max-width: 1023px) {
     .holy-grail-grid {
-        border: 60px solid transparent;
-        border-image-source: url(/graphics/layout/pink-lace-borderbox.png); /* credit: https://foollovers.com/mat/plate34.html */
-        border-image-slice: 67; /* size of corners */
-        border-image-repeat: round; /* this makes the border smoothly fit any size container */
-        background: var(--color-primary-a0);
-        background-clip: padding-box;
+        border: none;
+        background: #ffffff9e;
+    }
+    .overlay {
+        background-image: var(--background-image);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
     }
 
-    ::-webkit-scrollbar-track{
-        background-color: var(--color-primary-a0);
-        border-radius: 0 2ex 2ex 0;
+    body {
+        overflow: hidden;
     }
 }
 .nav-title {
@@ -100,7 +101,6 @@ a:hover{
 @media (min-width:1024px) {
 .holy-grail-grid {
     margin-top: 7vh;
-    height: 70vh;
     margin-left: 15%;
     margin-right: 15%;
     grid-template-areas: 
@@ -121,14 +121,6 @@ a:hover{
         position: absolute;
         left: 2%;
         top: 0px;
-        image-rendering: pixelated;
-        z-index: 100;
-    }
-    .overlay3 {
-        content: url(/graphics/layout/flowers-glitter.gif); /* credit: https://tenor.com/view/flowers-glitter-flower-gif-14148221 */
-        position: absolute;
-        right: 10px;
-        bottom: 10px;
         image-rendering: pixelated;
         z-index: 100;
     }

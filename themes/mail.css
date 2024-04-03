@@ -46,7 +46,7 @@ a, .mobile_nav {
 }
 
 a:hover{
-  background-image: linear-gradient(to right, var(--color-primary-a0) , var(--color-primary-a10));
+  background-color: var(--color-primary-a10);
 }
 
 .holy-grail-grid {
