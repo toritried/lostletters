@@ -173,6 +173,9 @@ menu: site
     <a target="blank" href="https://www.autisticasfxxk.com/">
         <img src="/graphics/linkout/autisticasfuck.gif" title="autistic as fxxk">
     </a>
+    <a target="blank" href="https://cherie.nekoweb.org">
+        <img src="/graphics/linkout/cherie-nekoweb.png" title="cherie">
+    </a>
 </div>
 <center>
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Who I link is still at my discretion though, so I will not reciprocate if you don't pass the vibe check or are a minor. Feel free to use these buttons, but please download and host them yourself.</text>
