@@ -2,5 +2,5 @@
 {{ content | number_of_words }}
 {% endcapture %}
 {% unless words contains '-' %}
-{{ words | divided_by: 135 | append: ' minutes to read' }}
+{{ words | divided_by: 135 | append: ' min to read' }}
 {% endunless %}

@@ -1,24 +1,21 @@
 <style>
     .tag-item {
         display: inline-block;
-        font-size: calc(13px + 0.390625vw);
-        outline: 2px solid var(--color-primary-a10);
-        padding: 1px 4px;
-        border-radius: 5px;
-        margin-top: .2em;
+        margin: 0 .25rem;
     }
     .tag-url:hover{
         background-image: none;
     }
-    .tag-item:not(:last-child) {
-        margin-right: .5rem;
-    }
 </style>
 {%- if page.tags.size > 0 or post.tags.size > 0 -%}
 {%- for tag in page.tags -%}
-<div class="tag-item"><a class="tag-url" href="/tag/{{tag}}">#{{ tag }}</a></div>
+<div class="tag-item">
+    <a class="tag-url" href="/tag/{{tag}}">#{{ tag }}</a>
+</div>
 {%- endfor -%}
 {%- for tag in post.tags -%}
-<div class="tag-item"><a class="tag-url" href="/tag/{{tag}}">#{{ tag }}</a></div>
+<div class="tag-item">
+    <a class="tag-url" href="/tag/{{tag}}">#{{ tag }}</a>
+</div>
 {%- endfor -%}
 {%- endif -%}
