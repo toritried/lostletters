@@ -496,11 +496,25 @@ html, body {
 }
 
 /* postage stamp border */
-.stamp {
-  border: 8px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */
-  border-image-source: url(/graphics/toy/stamp/amanita_muscaria_stamp_by_oceanstamps.png);
-  border-image-slice: 3; /* don't change this! */
-  border-image-repeat: round; /* this makes the border smoothly fit any size container */
-  image-rendering: pixelated;
+.stamp { /* credit: https://codepen.io/joshwcomeau/pen/VwRqQGP */
+  --radius: .2em;
+  background-image: 
+    radial-gradient(
+      var(--radius),
+      transparent 98%,
+      white
+    ),
+    linear-gradient(white 0 0);
+  background-repeat: 
+    round, 
+    no-repeat;
+  background-position:
+    calc(var(--radius) * -1.5) calc(var(--radius) * -1.5),
+    50%;
+  background-size:
+    calc(var(--radius) * 3) calc(var(--radius) * 3),
+    calc(100% - var(--radius) * 3) calc(100% - var(--radius) * 3);
+  padding: .4em;
+  margin: .4em;
+  -webkit-filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.5));
 }
-  
