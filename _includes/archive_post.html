@@ -13,7 +13,121 @@
     .list-group-item {
         padding-bottom: 1em;
         margin-bottom: 1em;
-        border-bottom: 1px solid var(--color-primary-a80);
+    }
+    .post-container {
+        display: inline-grid;
+        grid-template-areas: 
+            "flag post-title post-title"
+            "tags postcontent postcontent"
+            "post-meta postcontent postcontent";
+        grid-template-columns: min-content auto auto;
+        justify-items: start;
+        width: 100%;
+        border-radius: .5em;
+    }
+    .postcontent {
+        grid-area: postcontent;
+        padding: 0em 1em;
+    }
+    .postcontent > p {
+        margin-block-start: 0;
+    }
+    .post-header {
+        width: 100%;
+        display: flex;
+        align-items: stretch;
+    }
+    
+    .flag {
+        grid-area: flag;
+        clip-path: polygon(0% 0%, 100% 0%, 85% 50%, 100% 100%, 0% 100%);
+        background-color: var(--color-primary-a10);
+        padding: .3em 1em .3em 0.5em;
+        float: right;
+        position: relative;
+        top: .5em;
+        margin-bottom: .5em;
+    }
+    /* tablets or smaller */
+    @media (max-width:768px) {
+        .flag {
+            display: none;
+        }
+        .post-container {
+            display: inline-grid;
+            grid-template-areas: 
+                "post-title post-title post-title"
+                "postcontent postcontent postcontent"
+                "post-meta tags tags";
+            grid-template-columns: repeat(3, 1fr);
+            padding-top: .5em;
+            row-gap: .5em;
+        }
+        .tags {
+            padding: 0;
+            line-height: 2ch;
+            display: flex;
+            flex-flow: wrap;
+            align-items: end;
+            justify-content: end;
+            flex-direction: row end;
+            justify-self: end;
+        }
+        .post-meta {
+            border-top: var(--color-primary-a50) 1px solid;
+            border-right: var(--color-primary-a50) 1px solid;
+            border-top-right-radius: .5em;
+            display: flex;
+            justify-content: center;
+        }
+        .post-meta > * {
+            align-self: center;
+            width: 100%;
+            padding: 0%;
+            margin: auto;
+        }
+        .mobile-date {
+            border-right: var(--color-primary-a50) 1px solid;
+        }
+    }
+    /* tablets or bigger */
+    @media (min-width:769px) {
+        .mobile-date, .mobile-tags {
+            display: none;
+        }
+        .tag-item {
+            width: 100%;
+        }
+    }
+    .post-title {
+        grid-area: post-title;
+        padding: 0 1em;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .post-meta {
+        grid-area: post-meta;
+        width: 100%;
+        display: flex;
+        align-items: end;
+        font-size: calc(12px + 0.390625vw);
+    }
+    .post-meta > * {
+        text-align: center;
+        padding: .2em .5em;
+        line-height: 1.2em;
+    }
+    .tags {
+        grid-area: tags;
+        padding: .5em;
+        text-align: left;
+        font-size: calc(10px + 0.390625vw);
+    }
+    article {
+        border: var(--color-primary-a50) 1px solid;
+    }
+    .postcontent {
+        margin-bottom: .5em;
     }
 </style>
 {%- assign posts = include.collection -%}
@@ -25,17 +139,31 @@
 <div class="list-group">
     {%- for post in posts -%}
     <div class="list-group-item">
-        <article>
-            <h3 style="margin-block-end: .2em;"><a href="{{ post.url }}">{{post.title}}</a></h3>
-            {% include post/date.html %}{{ time }} | {% include post/reading_time.html text=post.content %}
-            <div>
+        <article class="post-container">
+            <div class="flag">
+                <div style="white-space: nowrap;">
+                    {{ post.date | date: '%b %d' }}
+                </div>
+            </div>
+            <div class="post-title">
+                <h3 style="margin-block: 0;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            </div>
+            <div class="postcontent">
+                {{ post.excerpt }} <i><a href="{{ post.url }}">continue reading...</a></i>
+            </div>
+            <div class="tags">
                 {%- if show_tags == true -%}
                 {%- include post/tags.html -%}
                 {%- endif -%}
             </div>
-            <blockquote>
-                {{ post.excerpt }}<i><a href="{{ post.url }}">continue reading...</a></i>
-            </blockquote>
+            <div class="post-meta">
+                <div class="mobile-date">
+                    {{ post.date | date: '%b %d, %Y' }}
+                </div>
+                <div class="reading-time">
+                    {% include post/reading_time.html text=post.content %}
+                </div>
+            </div>
         </article>
     </div>
     {%- endfor -%}
