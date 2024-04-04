@@ -20,9 +20,6 @@ menu: webcore
             <a target="_blank" href="https://xandra.cc/">
                 <img src="/graphics/toy/happy-new-year-xandra-gift.gif" title="A new years 2024 pixel from Xandra">
             </a>
-            <a target="_blank" href="https://pixelins.tumblr.com/">
-                <img src="/graphics/toy/pixelins.gif">
-            </a>
             <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
                 <img src="/graphics/toy/psl_kingluludeer.gif"/>
             </a>
