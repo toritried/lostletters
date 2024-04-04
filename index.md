@@ -93,14 +93,16 @@ emoji: 🏠
 </div>
 <hr>
 <img class="theme-stamp" align="right" style="margin: 10px 20px;">
-<h1><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
-&#x270E; <text style="border-bottom: 1px dotted;">{{ site.posts.first.date | date: "%-d %B %Y"}}</text> | {% include post/reading_time.html text=site.posts.first.content %}
-{{ site.posts.first.content }}
-<button class="tinylytics_kudos" data-path="{{ site.posts.first.url }}" style="float:right;"></button>
-<br>
-<p style="text-align: center;">
-    <a href="/blog.html">read more blog posts</a> | 
-    <a target="_blank" href="https://lostletters.neocities.org/feed.xml">rss feed 
-        <img src="/graphics/layout/v1_laceletter/feed.gif" width="16px" style="cursor: pointer;"/>
-    </a>
-</p>
+<article>
+    <h1><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
+    &#x270E; <text style="border-bottom: 1px dotted;">{{ site.posts.first.date | date: "%-d %B %Y"}}</text> | {% include post/reading_time.html text=site.posts.first.content %}
+    {{ site.posts.first.content }}
+    <button class="tinylytics_kudos" data-path="{{ site.posts.first.url }}" style="float:right;"></button>
+    <br>
+    <p style="text-align: center;">
+        <a href="/blog.html">read more blog posts</a> | 
+        <a target="_blank" href="https://lostletters.neocities.org/feed.xml">rss feed 
+            <img src="/graphics/layout/v1_laceletter/feed.gif" width="16px" style="cursor: pointer;"/>
+        </a>
+    </p>
+</article>
