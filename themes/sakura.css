@@ -1,5 +1,5 @@
 :root {
-    /** generated using https://colorffy.com/css-generator */
+    /** generated using https://colorffy.com/css-generator filters: https://codepen.io/sosuke/pen/Pjoqqp */
     --colors-primary-a0-translucent: #ffffffb3;
     --color-primary-a0: #ffffff;
     --color-primary-a10: #ffd8e4;
@@ -7,13 +7,30 @@
     --color-primary-a30: #ff83b1;
     --color-primary-a50: #ff4f98;
     --color-primary-a60: #b93e70;
+    --color-primary-a60-filter: invert(30%) sepia(52%) saturate(1930%) hue-rotate(303deg) brightness(90%) contrast(81%);
     --color-primary-a70: #782d4a;
     --color-primary-a80: #3d1c27;
+    --color-primary-a80-filter: invert(11%) sepia(51%) saturate(607%) hue-rotate(289deg) brightness(96%) contrast(95%);
     --color-primary-a90: #000000;
     --background-image: url('/graphics/layout/sakura-2560x1600.jpg'); /* credit: https://wallpaperswide.com/light_pink_blossom_spring-wallpapers.html*/
+    --theme-image: url("/graphics/toy//ms-paint-king-lulu-deer.gif"); /* credit: https://deviantart.com/king-lulu-deer/art/MS-Paint-670922940 */
+    --theme-stamp: url("/graphics/toy/stamp/sakura-postage.gif"); /* credit: https://www.deviantart.com/thecandycoating/art/Vintage-Sakura-Stamp-659690758 */
+    --font: 'Solway';
 }
 
-.overlay {
+@font-face {
+    font-family: "Solway"; /* credit: https://fonts.google.com/specimen/Solway */
+    src: url("/fonts/Solway-Regular.ttf") format('truetype');
+  }
+
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Scan Lines */
+body::after {
     content: "";
     display: block;
     position: fixed;
@@ -30,29 +47,7 @@
     z-index: -1;
 }
 
-@font-face {
-    font-family: "Solway"; /* credit: https://fonts.google.com/specimen/Solway */
-    src: url("/fonts/Solway-Regular.ttf") format('truetype');
-  }
-
-body {
-    color: var(--color-primary-a80);
-    font-family: 'Solway', sans-serif;
-    background-image: var(--background-image);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
-a, .mobile_nav {
-    color: var(--color-primary-a60);
-}
-
-a:hover{
-    background-color: var(--color-primary-a0);
-}
-
-.holy-grail-grid {
+.main {
     border: 67px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */
     border-image-source: url(/graphics/layout/pink-lace-borderbox.png); /* credit: https://foollovers.com/mat/plate34.html */
     border-image-slice: 67; /* size of corners */
@@ -60,116 +55,28 @@ a:hover{
     background: var(--color-primary-a0);
     background-clip: padding-box;
     line-height: 1.5em;
-    overflow-wrap: break-word;
     z-index: 1;
-}
-/* assign columns to grid areas */
-.holy-grail-grid > .header {
-    background-color: transparent;
-    border: none;
-    padding: 0;
-}
-.floating {
-    background-color: transparent;
-    border: none;
-    margin-bottom: 0;
-    padding: 0;
 }
 /* mobile */
 @media (max-width: 1023px) {
-    .holy-grail-grid {
+    .main {
         border: none;
         background: #ffffff9e;
     }
-    .overlay {
-        background-image: var(--background-image);
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-    }
-
-    body {
-        overflow: hidden;
-    }
-}
-.nav-title {
-    color: var(--color-primary-a90);
-    background-color: var(--color-primary-a10);
-    border-bottom: none;
 }
 /* desktop */
 @media (min-width:1024px) {
-.holy-grail-grid {
-    margin-top: 7vh;
-    margin-left: 15%;
-    margin-right: 15%;
-    grid-template-areas: 
-        'header header header header'
-        'main-content main-content main-content main-content'
-        'footer footer footer footer';
-    overflow: auto;
-    padding: 1em;
-    }   
-    .left-sidebar {display: none;}
-    .right-sidebar {display: none;}
-    .theme-picker {display:none;}
-    .elsewhere-index, .buttons-index {display: block;}
-    .mobile_nav {display: block;}
-    .return-top {display: none;}
-    .overlay2 {
+    .main {
+        margin: 2em auto;
+        overflow: auto;
+        padding: 1em;
+    }
+    .overlay {
         content: url(/graphics/layout/butterfly-charm.gif); /* credit: https://www.lucianabartolini.net/cartella_gif/gif_farfalle_bruchi.htm */
         position: absolute;
         left: 2%;
         top: 0px;
         image-rendering: pixelated;
-        z-index: 100;
+        z-index: 2;
     }
 }
-/** status.cafe styling **/
-#statuscafe-username {
-    background: var(--color-primary-a10);
-}
-/* navigation*/
-.dropbtn, .blog-link { 
-    color: var(--color-primary-a60);
-    font-family: 'Solway', sans-serif;
-}
-.navbar a:hover, .dropbtn:hover {
-    background-color: var(--color-primary-a10);
-}
-.dropdown-content {
-    background-color: var(--color-primary-a10);
-    overflow-wrap: break-word;
-}
-.dropdown-content a:hover {
-    background-color: var(--color-primary-a0);
-}
-.theme-image {
-    content: url("/graphics/toy//ms-paint-king-lulu-deer.gif"); /* credit: https://deviantart.com/king-lulu-deer/art/MS-Paint-670922940 */
-    image-rendering: pixelated;
-}
-.theme-stamp {
-    content: url("/graphics/toy/stamp/sakura-postage.gif"); /* credit: https://www.deviantart.com/thecandycoating/art/Vintage-Sakura-Stamp-659690758 */
-    image-rendering: pixelated;
-}
-
-/* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
-::-webkit-scrollbar {
-height: 50px;
-width: 10px;
-overflow-y: scroll;
-}
-
-::-webkit-scrollbar-corner {
-    background-color: transparent;
-}
-
-::-webkit-scrollbar-track{
-background-color: transparent;
-}
-
-::-webkit-scrollbar-thumb {
-border-radius: 2ex;
--webkit-box-shadow: inset 0 0 0px var(--color-primary-a0); 
-background: linear-gradient(180deg, var(--color-primary-a10) 0%, var(--color-primary-a50) 100%);
-} 

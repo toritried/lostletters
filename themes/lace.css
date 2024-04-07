@@ -1,5 +1,5 @@
 :root {
-    /** generated using https://colorffy.com/css-generator */
+    /** generated using https://colorffy.com/css-generator filters: https://codepen.io/sosuke/pen/Pjoqqp */
     --colors-primary-a0-translucent: #ffffffb3;
     --color-primary-a0: #ffffff;
     --color-primary-a10: #fee7f0;
@@ -7,10 +7,15 @@
     --color-primary-a30: #fab7d2;
     --color-primary-a50: #c87499;
     --color-primary-a60: #8E395E;
+    --color-primary-a60-filter: invert(29%) sepia(14%) saturate(2321%) hue-rotate(282deg) brightness(97%) contrast(92%);
     --color-primary-a70: #612841;
     --color-primary-a80: #3a2930;
+    --color-primary-a80-filter: invert(17%) sepia(8%) saturate(1547%) hue-rotate(284deg) brightness(89%) contrast(93%);
     --color-primary-a90: #000000;
-    --background-image: url('/graphics/layout/v1_laceletter/bg.gif'); 
+    --background-image: url('/graphics/layout/v1_laceletter/bg.gif'); /* credit: not sure where this is from, if you know, let me know */
+    --theme-image: url("/graphics/adoptables/dancing-moomin-lostletters.png"); /* credit: me! I made this :3 */
+    --theme-stamp: url("/graphics/toy/stamp/royal_air_mail_stamp_by_kezzi_rose.png"); /* credit: https://www.deviantart.com/kezzi-rose/art/Royal-Air-Mail-Stamp-292213837 */ 
+    --font: 'spectral';
 }
 
 @font-face {
@@ -18,21 +23,7 @@
     src: url("/fonts/Spectral-Regular.ttf") format('truetype');
 }
 
-body {
-    color: var(--color-primary-a80);
-    font-family: 'spectral', sans-serif;
-    background-image: var(--background-image);
-}
-
-a, .mobile_nav {
-    color: var(--color-primary-a60);
-}
-
-a:hover{
-    background-image: linear-gradient(to right, var(--color-primary-a0) , var(--color-primary-a10));
-}
-
-.holy-grail-grid {
+.main {
     border: 67px solid transparent; /* change the number here to make the border bigger or smaller! for best results keep it between 40-84px. */
     border-image-source: url(/graphics/layout/pink-lace-borderbox.png); /* credit: https://foollovers.com/mat/plate34.html */
     border-image-slice: 67; /* size of corners */
@@ -40,58 +31,17 @@ a:hover{
     background: var(--color-primary-a0);
     background-clip: padding-box;
     line-height: 1.5em;
-    overflow-wrap: break-word;
 }
-/* assign columns to grid areas */
-.holy-grail-grid > .header {
-    background-color: transparent;
-    border: none;
-    padding: 0;
-}
-.floating {
-    background-color: transparent;
-    border: none;
-    margin-bottom: 0;
-    padding: 0;
-}
-/* mobile */
-@media (max-width: 1023px) {
-    .holy-grail-grid {
-    border: 45px solid transparent;
-    border-image-source: url(/graphics/layout/pink-lace-borderbox.png); /* credit: https://foollovers.com/mat/plate34.html */
-    border-image-slice: 67; /* size of corners */
-    border-image-repeat: round; /* this makes the border smoothly fit any size container */
-    background: var(--color-primary-a0);
-    background-clip: padding-box;
-}
-}
-.nav-title {
-    color: var(--color-primary-a90);
-    background-color: var(--color-primary-a10);
-    border-bottom: none;
-}
+
 /* desktop */
 @media (min-width:1024px) {
-.holy-grail-grid {
-    margin-top: 12vh;
-    height: 70vh;
-    margin-left: 15%;
-    margin-right: 15%;
-    overflow: auto;
-    overflow: auto;
-    padding: 1em;
-    border-radius: 1ex;
-    grid-template-areas: 
-        'header header header header'
-        'main-content main-content main-content main-content'
-        'footer footer footer footer';
-    }   
-    .left-sidebar {display: none;}
-    .right-sidebar {display: none;}
-    .theme-picker {display:none;}
-    .footer-theme-selector {display: block;}
-    .elsewhere-index, .buttons-index {display: block;}
-    .mobile_nav {display: block;}
+    .main {
+        margin-top: 12vh;
+        height: 70vh;
+        overflow: auto;
+        padding: 1em;
+        border-radius: 1ex;
+    }
     .overlay {
         height: 110px; 
         opacity:1.0;
@@ -101,52 +51,3 @@ a:hover{
         z-index:-99
     }
 }
-
-/** status.cafe styling **/
-#statuscafe-username {
-    background: var(--color-primary-a10);
-}
-
-/* navigation*/
-.dropbtn { 
-    color: var(--color-primary-a60);
-}
-.navbar a:hover, .dropbtn:hover {
-    background-color: var(--color-primary-a10);
-}
-.dropdown-content {
-    background-color: var(--color-primary-a10);
-    overflow-wrap: break-word;
-}
-.dropdown-content a:hover {
-    background-color: var(--color-primary-a0);
-}
-.theme-image {
-    content: url(/graphics/adoptables/dancing-moomin-lostletters.png); /* credit: me! I made this :3 */
-    image-rendering: pixelated;
-}
-.theme-stamp {
-    content: url("/graphics/toy/stamp/royal_air_mail_stamp_by_kezzi_rose.png"); /* credit: https://www.deviantart.com/kezzi-rose/art/Royal-Air-Mail-Stamp-292213837 */
-    image-rendering: pixelated;
-}
-
-/* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
-::-webkit-scrollbar {
-height: 50px;
-width: 10px;
-overflow-y: scroll;
-}
-
-::-webkit-scrollbar-corner {
-    background-color: transparent;
-}
-
-::-webkit-scrollbar-track{
-background-color: var(--color-primary-a10);
-}
-
-::-webkit-scrollbar-thumb {
-border-radius: 2ex;
--webkit-box-shadow: inset 0 0 0px var(--color-primary-a0); 
-background: linear-gradient(180deg, var(--color-primary-a10) 0%, var(--color-primary-a50) 100%);
-} 

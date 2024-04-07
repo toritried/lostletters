@@ -27,6 +27,6 @@ function setTheme(theme) {
     document.getElementById('switcher-id').href = '/themes/sakura.css';
   } else if (theme === 'green') {
     document.getElementById('switcher-id').href = '/themes/green.css';
-  }  // when adding new themes, be sure to also add it to the _layouts (both) and style.css "switch" //
+  }  // when adding new themes, be sure to also add it to  _includes/layout/themes.html and style.css under "switch" //
   localStorage.setItem('style', theme);
 }

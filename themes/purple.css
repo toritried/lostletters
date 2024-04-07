@@ -1,5 +1,5 @@
 :root {
-  /** CSS PRIMARY COLORS generated using https://colorffy.com/css-generator */
+  /** CSS PRIMARY COLORS generated using https://colorffy.com/css-generator filters: https://codepen.io/sosuke/pen/Pjoqqp */
   --color-primary-a0: #ffffff;
   --colors-primary-a0-translucent: #ffffffb3;
   --color-primary-a10:  #f5daff;
@@ -7,94 +7,34 @@
   --color-primary-a30:  #dc8fff;
    --color-primary-a50:  #cc66ff;
    --color-primary-a60:  #954db9;
+   --color-primary-a60-filter: invert(43%) sepia(19%) saturate(4021%) hue-rotate(248deg) brightness(77%) contrast(83%);
    --color-primary-a70:  #623577;
    --color-primary-a80:  #321e3c;
+   --color-primary-a80-filter: invert(10%) sepia(9%) saturate(5874%) hue-rotate(242deg) brightness(99%) contrast(89%);
    --color-primary-a90:  #000000;
    --background-image: url('/graphics/layout/asterism-purple-check.gif'); /*https://www.asterism-m.com/item/background/wall-simple01.php */
+   --theme-image: url("/graphics/toy/purplehouse-kingluludeer.png");  /* credit: https://www.deviantart.com/king-lulu-deer/gallery */
+   --theme-stamp: url("/graphics/toy/stamp/JustYoungHeroes-png.gif"); /* credit: https://deviantart.com/justyoungheroes/art/you-decide-678316882 */
+   --font: 'pixel';
 } 
 
 @font-face {
-    font-family: 'basiic'; /* credit: https://cinni.net/?z=/font */
-    src: url("/fonts/basiic.ttf") format('truetype');
+    font-family: 'pixel'; /* credit: https://www.dafont.com/pixel-operator.font */
+    src: url("/fonts/PixelOperator.ttf") format('truetype');
 }
 
 body {
     background-image: var(--background-image);
     color: var(--color-primary-a80);
-    font-family: 'basiic', Arial, sans-serif;
 }
 
-a, .mobile_nav {
-    color: var(--color-primary-a60);
-}
-a:hover{
-    background-image: linear-gradient(to right, var(--color-primary-a0) , var(--color-primary-a10));
-}
-/* assign columns to grid areas */
-.holy-grail-grid > .header {
-    background-color: var(--colors-primary-a0-translucent);
-    border: 0.35em ridge var(--color-primary-a10);
-    border-radius: 0.5em 0.5em 0 0;
-}
-.title {
-    color: var(--color-primary-a60);
-}
-
-.floating {
+.main {
     background-color: var(--colors-primary-a0-translucent);
     border: 0.35em ridge var(--color-primary-a10);
 }
 
-.nav-title {
-    color: var(--color-primary-a90);
-    background-color: var(--color-primary-a10);
-    border: outset;
+@media (min-width:1024px) {
+    .main {
+        margin: 2em auto;
+    }
 }
-/** status.cafe styling **/
-#statuscafe-username {
-    background: var(--color-primary-a10);
-}
-
-/* navigation*/
-.dropbtn { 
-    color: var(--color-primary-a60);
-}
-.navbar a:hover, .dropbtn:hover {
-    background-color: var(--color-primary-a10);
-}
-.dropdown-content {
-    background-color: var(--color-primary-a10);
-}
-.dropdown-content a:hover {
-    background-color: var(--color-primary-a0);
-}
-.theme-image {
-    content: url("/graphics/toy/purplehouse-kingluludeer.png");  /* credit: https://www.deviantart.com/king-lulu-deer/gallery */
-    image-rendering: pixelated;
-}
-.theme-stamp {
-    image-rendering: pixelated;
-    content: url("/graphics/toy/stamp/JustYoungHeroes-png.gif"); /* credit: https://deviantart.com/justyoungheroes/art/you-decide-678316882 */
-}
-
-/* themed scrollbar: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
-
-::-webkit-scrollbar {
-    height: 50px;
-    width: 10px;
-    overflow-y: scroll;
-  }
-  
-  ::-webkit-scrollbar-corner {
-      background-color: transparent;
-  }
-  
-  ::-webkit-scrollbar-track{
-    background-color: var(--color-primary-a10);
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    border-radius: 2ex;
-    -webkit-box-shadow: inset 0 0 0px var(--color-primary-a0); 
-    background: linear-gradient(180deg, var(--color-primary-a10) 0%, var(--color-primary-a50) 100%);
-  } 
