@@ -2,31 +2,15 @@
 layout: 3col-no-wm
 title: blog
 ---
-<style>
-    .nav {
-        display: flex; 
-        flex-wrap: wrap; 
-        justify-content: center; 
-        align-items: center;
-        gap: 1em;
-    }
 
-    .nav-link {
-        border-radius: .5em;
-        background-color: var(--color-primary-a10);
-        border: var(--color-primary-a50) 1px solid;
-        margin: .4em;
-        padding: .2em 1em;
-    }
-</style>
 {%- assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" -%}
-<div class="nav">
-    <div id="top">
+<div class="blog-nav">
+    <div>
         Jump to posts from
     </div>
     <div class="blog-year">
         {%- for year in postsByYear -%}
-        <a href="#{{ year.name | slugify }}" class="nav-link">{{ year.name }}</a>
+        <a href="#{{ year.name | slugify }}" class="blog-nav-link">{{ year.name }}</a>
         {%- endfor -%}
     </div>
 </div>
