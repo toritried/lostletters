@@ -254,8 +254,6 @@ Gloomlee</a> is the genius behind the Neocities-friendly (all HTML and JS, no PH
     </a>
 </b> a quick, worthwhile read on what we should do to help make the internet better
 <br>
-    <a target="_blank" href="https://blinkies.cafe/">blinkies.cafe</a> - blinkie generator
-<br>
 <br>
 <b>
     <a target="_blank" href="https://trainstream.github.io/streams/">
