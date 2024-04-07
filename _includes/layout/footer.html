@@ -1,11 +1,23 @@
-｡･:*˚:✧｡ 
-<a href="/" title="return to home"><img src="/graphics/site_buttons/LostLetters88x31.gif" width="88px" alt="88x31 site button in the shape of a unicorn with blinking stars"></a>
-｡✧:˚*:･｡
-<br>
-<div id="neocities-stats">
-    last updated: <span id="lastupdate"></span> &nbsp; &#10041; &nbsp;total vistors: <span id="hitcount"></span>
-</div>
-<div class="return-top"><a href="#top">return to top</a></div>
+<!-- inspired by https://www.benji.dog/ -->
+<footer class="noext" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
+    <div>
+        {% include layout/elsewhere.html %}
+    </div>
+    <div>
+        <a href="#top" aria-label="return to top" title="return to top">
+            <img class="inline-svg" src="/graphics/phosphoricons/arrow-up.svg">
+        </a>
+        <a href="/" aria-label="return home" title="return home">
+            <img class="inline-svg" src="/graphics/phosphoricons/house.svg">
+        </a>
+        <a href="/guestbook/" aria-label="sign my guestbook" title="sign my guestbook">
+            <img class="inline-svg" src="/graphics/phosphoricons/pencil-line.svg">   
+        </a>
+        <a href="https://github.com/toritried/lostletters" aria-label="view source code on github" title="view source code on github">
+            <img class="inline-svg" src="/graphics/phosphoricons/code.svg">
+        </a>
+    </div>
+</footer>
 <script src="//gc.zgo.at/count.js" data-goatcounter="https://lostletters.goatcounter.com/count" async></script>
 <script src="/tinkerbelleffect.js"></script>
 <script src="/webmention.min.js" async></script>
@@ -14,6 +26,7 @@
 <script src="/jquery.style-my-tooltips.js"></script>
 <script src="/theme-switch.js"></script>
 <script src="https://tinylytics.app/embed/4jSy1M3LmxHVUq2Wvsnj.js?hits&kudos=❤️" defer></script>
+<script src="/mastodon.js" defer></script>
 <script>
     (function($){
         $(document).ready(function(){
