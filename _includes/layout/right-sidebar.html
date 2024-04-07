@@ -1,0 +1,31 @@
+
+<div class="theme-picker floating">
+    <div class="nav-title">pick a theme</div>
+    <div class="desktop-sidebar-content">
+        <center>
+            {% include layout/themes.html %}
+        </center>
+    </div>
+</div>
+<div class="floating" id="site-buttons" style="text-align: center;">
+    <div class="nav-title">link to my site</div>
+    <img src="/graphics/site_buttons/LostLetters88x31.gif">&nbsp;&nbsp;<img src="/graphics/site_buttons/LostLetters32x32.gif">
+    <br>
+    If you've linked my site, let me know so we can become <a href="/links/">net neighbors</a>!
+</div>
+<div class="floating" id="status-cafe">
+    <div class="nav-title">microblog</div>
+        <div id="statuscafe-username"></div>&nbsp;&nbsp;<div id="statuscafe-content"></div>
+        <script src="https://status.cafe/current-status.js?name=lostletters" defer></script>
+        <br>
+        <div style="text-align: center;">
+            <a href="/microblog">read all entries</a>
+        </div>
+</div>
+<div class="floating" id="elsewhere-sidebar">
+    <div class="nav-title">find me elsewhere</div>
+    <div class="noext">
+        {% include layout/elsewhere.html %}
+    </div>
+</div>
+{% include layout/button-wall.html %}

@@ -1,0 +1,99 @@
+<div class="floating">
+    <div class="nav-title"><img src="/graphics/toy/emoticons/flower-2-watercolor.gif" style="vertical-align: middle;" alt=""> about <img src="/graphics/toy/emoticons/flower-2-watercolor.gif" style="vertical-align: middle;" alt=""></div>
+    <div class="desktop-sidebar-content">
+        Author:
+        <br>
+        {% for page in site.pages %}
+            {% if page.menu == "about" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a><br>
+            {% endif %}
+        {% endfor %}
+        ✏️ <a href="/blog.html">blog</a>
+        <br>
+        Site:
+        <br>
+        {% for page in site.pages %}
+        {% if page.menu == "site" %}
+        <a href="{{ page.url }}">
+            {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+            {{ page.title }}
+        </a><br>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
+<div class="floating">
+    <div class="nav-title"><img src="/graphics/toy/emoticons/happy-sony-cat.gif" style="vertical-align: middle;" alt=""> webcore <img src="/graphics/toy/emoticons/happy-sony-cat.gif" style="vertical-align: middle;" alt=""></div>
+    <div class="desktop-sidebar-content">
+        {% for page in site.pages %}
+            {% if page.menu == "webcore" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a><br>
+            {% endif %}
+        {% endfor %}
+        {% for page in site.pages %}
+            {% if page.menu == "meta" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a><br>
+            {% endif %}
+        {% endfor %}
+        </div>
+    </div>
+    <div class="floating">
+        <div class="nav-title"><img src="/graphics/toy/emoticons/mail-watercolor.gif" style="vertical-align: middle;" alt=""> stationery <img src="/graphics/toy/emoticons/mail-watercolor.gif" style="vertical-align: middle;" alt=""></div>
+    <div class="desktop-sidebar-content">
+        {% for page in site.pages %}
+            {% if page.menu == "stationery" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a><br>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+<div class="floating">
+    <div class="nav-title"><img src="/graphics/toy/emoticons/love_cat.gif" style="vertical-align: middle;" alt=""> ttrpgs <img src="/graphics/toy/emoticons/love_cat.gif" style="vertical-align: middle;" alt=""></div>
+    <div class="desktop-sidebar-content">
+        {% for page in site.pages %}
+            {% if page.menu == "ttrpg" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a><br>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+<div class="floating">
+    <div class="nav-title"><img src="/graphics/toy/emoticons/hearts-watercolor.gif" style="vertical-align: middle;" alt=""> health <img src="/graphics/toy/emoticons/hearts-watercolor.gif" style="vertical-align: middle;" alt=""></div>
+    <div class="desktop-sidebar-content">
+        Running:
+        <br>
+        {% for page in site.pages %}
+            {% if page.menu == "running" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a><br>
+            {% endif %}
+        {% endfor %}
+        Other: 
+        <br>
+        {% for page in site.pages %}
+            {% if page.menu == "health" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a><br>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
