@@ -22,12 +22,14 @@ menu: site
     <div style="float: left; margin-right: .5em;" class="theme-switches">
         <div data-theme="sakura" class="switch" id="switch-6">🌸</div>
         <div data-theme="green" class="switch" id="switch-7">🌱</div>
-        <div data-theme="purin" class="switch" id="switch-8">🍮</div>
     </div>
     <p>
-        After a day full of fighting with git to deploy my site, I created two new themes to blow off steam. I've wanted a green theme for a while now since they're so easy on the eyes. I also felt like a cute pink theme was past due for a site that is partially dedicated to cute pixel art. Since I had recently recoded my original theme to leverage CSS border image slicing, I added a sakura background with CRT-inspired scan-lines to soften the contrast and give a retro vibe. The green theme is very similar except it a dark mode without a border image, making it a very pleasant mobile experience for nighttime. I'm also going to throw my pretty purin theme in here even though I made it later because I wanted that cute pixel web 1.0 look.
+        After a day full of fighting with git to deploy my site, I created two new themes to blow off steam. I've wanted a green theme for a while now since they're so easy on the eyes. I also felt like a cute pink theme was past due for a site that is partially dedicated to cute pixel art. Since I had recently recoded my original theme to leverage CSS border image slicing, I added a sakura background with CRT-inspired scan-lines to soften the contrast and give a retro vibe. The green theme is very similar except it a dark mode without a border image, making it a very pleasant mobile experience for nighttime.
     </p>
     <h2>Version 3: 3-Column Throwback |  Oct '23</h2>
+    <a target="_new" href="/graphics/layout/purple-layout.png">
+        <img src="/graphics/layout/purple-layout.png" align="right" style="padding: 10px; max-width: 200px;" title="click to open full size">
+    </a>
     <div style="float: left; margin-right: .5em;" class="theme-switches">
         <div data-theme="purple" class="switch" id="switch-3" title="click to apply the preppy purple theme">💜</div>
         <div data-theme="mail" class="switch" id="switch-4" title="click to apply the trans love letter theme">💌</div>
@@ -106,6 +108,9 @@ menu: site
         </li>
         <li>
             Implemented <a target="_blank" href="https://tinylytics.app/">tinylytics kudos on my blog posts</a> thanks to <a target="_blank" href="https://frills.dev/">Frills</a> for pointing me their way
+        </li>
+        <li>
+            <a target="_blank" href="https://phosphoricons.com/">Phosphor icons</a>
         </li>
     </ul>
     <hr>
