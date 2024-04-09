@@ -12,7 +12,7 @@
     --color-primary-a80: #3d1c27;
     --color-primary-a80-filter: invert(11%) sepia(51%) saturate(607%) hue-rotate(289deg) brightness(96%) contrast(95%);
     --color-primary-a90: #000000;
-    --background-image: url('/graphics/layout/sakura-2560x1600.jpg'); /* credit: https://wallpaperswide.com/light_pink_blossom_spring-wallpapers.html*/
+    --background-image: url('/graphics/layout/dithered-sakura.png'); /* credit: https://wallpaperswide.com/light_pink_blossom_spring-wallpapers.html*/
     --theme-image: url("/graphics/toy//ms-paint-king-lulu-deer.gif"); /* credit: https://deviantart.com/king-lulu-deer/art/MS-Paint-670922940 */
     --theme-stamp: url("/graphics/toy/stamp/sakura-postage.gif"); /* credit: https://www.deviantart.com/thecandycoating/art/Vintage-Sakura-Stamp-659690758 */
     --font: 'Solway';

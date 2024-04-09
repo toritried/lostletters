@@ -49,7 +49,7 @@ hr {
 }
 
 .title a:hover {
-    background-image: none;
+  background-image: none;
 }
 /* status.cafe styling */
 
@@ -285,6 +285,11 @@ a:hover {
 a[href^="http"]:where(:not([href*="lostletters.neocities.org/"]))::after {
   content: " \2924";
   font-size: 0.6em;
+}
+
+::selection {
+  background: var(--color-primary-a10);
+  color: var(--color-primary-a90);
 }
 
 h1 {
@@ -680,28 +685,28 @@ img.masto-img {
     margin-bottom: 1em;
 }
 .post-container {
-    display: inline-grid;
-    grid-template-areas: 
-        "flag post-title post-title"
-        "tags postcontent postcontent"
-        "post-meta postcontent postcontent";
-    grid-template-columns: min-content auto auto;
-    justify-items: start;
-    width: 100%;
-    border-radius: .5em;
+  display: inline-grid;
+  grid-template-areas: 
+      "flag post-title post-title"
+      "tags postcontent postcontent"
+      "post-meta postcontent postcontent";
+  grid-template-columns: min-content auto auto;
+  justify-items: start;
+  width: 100%;
+  border-radius: .5em;
 }
 .postcontent {
-    grid-area: postcontent;
-    padding: 0em 1em;
-    margin-bottom: .5em;
+  grid-area: postcontent;
+  padding: 0em 1em;
+  margin-bottom: .5em;
 }
 .postcontent > p {
-    margin-block-start: 0;
+  margin-block-start: 0;
 }
 .post-header {
-    width: 100%;
-    display: flex;
-    align-items: stretch;
+  width: 100%;
+  display: flex;
+  align-items: stretch;
 }
 
 .flag {
@@ -717,83 +722,83 @@ img.masto-img {
 }
 /* tablets or smaller */
 @media (max-width:768px) {
-    .flag {
-        display: none;
-    }
-    .post-container {
-        display: inline-grid;
-        grid-template-areas: 
-            "post-title post-title post-title"
-            "postcontent postcontent postcontent"
-            "post-meta tags tags";
-        grid-template-columns: repeat(3, 1fr);
-        padding-top: .5em;
-        row-gap: .5em;
-    }
-    .tags {
-        padding: 0;
-        line-height: 2ch;
-        display: flex;
-        flex-flow: wrap;
-        align-items: end;
-        justify-content: end;
-        flex-direction: row end;
-        justify-self: end;
-    }
-    .post-meta {
-        border-top: var(--color-primary-a50) 1px solid;
-        border-right: var(--color-primary-a50) 1px solid;
-        border-top-right-radius: .5em;
-        display: flex;
-        justify-content: center;
-    }
-    .post-meta > * {
-        align-self: center;
-        width: 100%;
-        padding: 0%;
-        margin: auto;
-    }
-    .mobile-date {
-        border-right: var(--color-primary-a50) 1px solid;
-    }
+  .flag {
+      display: none;
+  }
+  .post-container {
+      display: inline-grid;
+      grid-template-areas: 
+          "post-title post-title post-title"
+          "postcontent postcontent postcontent"
+          "post-meta tags tags";
+      grid-template-columns: repeat(3, 1fr);
+      padding-top: .5em;
+      row-gap: .5em;
+  }
+  .tags {
+      padding: 0;
+      line-height: 2ch;
+      display: flex;
+      flex-flow: wrap;
+      align-items: end;
+      justify-content: end;
+      flex-direction: row end;
+      justify-self: end;
+  }
+  .post-meta {
+      border-top: var(--color-primary-a50) 1px solid;
+      border-right: var(--color-primary-a50) 1px solid;
+      border-top-right-radius: .5em;
+      display: flex;
+      justify-content: center;
+  }
+  .post-meta > * {
+      align-self: center;
+      width: 100%;
+      padding: 0%;
+      margin: auto;
+  }
+  .mobile-date {
+      border-right: var(--color-primary-a50) 1px solid;
+  }
 }
 
 /* tablets or bigger */
 @media (min-width:769px) {
-    .mobile-date, .mobile-tags {
-        display: none;
-    }
-    .tag-item {
-        width: 100%;
-    }
+  .mobile-date, .mobile-tags {
+      display: none;
+  }
+  .tag-item {
+      width: 100%;
+  }
 }
 
 .post-title {
-    grid-area: post-title;
-    padding: .2em 1em;
-    margin-top: auto;
-    margin-bottom: auto;
+  grid-area: post-title;
+  padding: .2em 1em;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .post-meta {
-    grid-area: post-meta;
-    width: 100%;
-    display: flex;
-    align-items: end;
-    font-size: calc(12px + 0.390625vw);
+  grid-area: post-meta;
+  width: 100%;
+  display: flex;
+  align-items: end;
+  font-size: calc(12px + 0.390625vw);
 }
 
 .post-meta > * {
-    text-align: center;
-    padding: .2em .5em;
-    line-height: 1.2em;
+  text-align: center;
+  padding: .2em .5em;
+  line-height: 1.2em;
 }
 
 .tags {
-    grid-area: tags;
-    padding: .5em;
-    text-align: left;
-    font-size: calc(10px + 0.390625vw);
+  grid-area: tags;
+  padding: .5em;
+  text-align: left;
+  font-size: calc(10px + 0.390625vw);
 }
 
 .post-container {
