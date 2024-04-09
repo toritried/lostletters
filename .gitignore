@@ -4,5 +4,6 @@ _site/
 .jekyll-metadata
 vendor
 _posts/.obsidian
+_posts/Template
 *.json
 _posts/Template/2023-MM-DD.md
