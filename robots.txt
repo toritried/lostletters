@@ -39,7 +39,5 @@ Allow: /
 
 User-agent: *
 Allow: /feed.xml
-Allow: /feed/responses.xml
-Allow: /feed/monologues.xml
 Allow: /feed/updates.xml
 Disallow: /
