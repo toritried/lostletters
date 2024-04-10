@@ -19,7 +19,7 @@ jobs:
         uses: jerryjvl/jekyll-build-action@v1
       # When the dist_dir is ready, deploy it to neocities
       - name: Deploy to Neocities
-        uses: bcomnes/deploy-to-neocities@v1
+        uses: bcomnes/deploy-to-neocities@v2
         with:
           api_token: ${{ secrets.NEOCITIES_API_KEY }}
           cleanup: true
