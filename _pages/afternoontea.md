@@ -273,6 +273,9 @@ menu: webcore
         <a target="_blank" href="https://tthumbelina.neocities.org/">
             <img src="/graphics/teahouse/teacup/tthumbelina.gif" alt="a pupleish navy teacup and sucer set with sparkling gold stars and a golden teabag tag hanging out of the front" title="tastes like the feeling you get when you look up at the stars! - made by ames"/>
         </a>
+        <a target="_blank" href="https://sakuradreams.neocities.org">
+            <img src="/graphics/teahouse/teacup/SakuraDreams-Teacup-Jiji.gif" alt="a black cat blinks as it hangs out of the top of a white teacup with a red ribbon and bow around it" title="tastes like freshly baked bread - made by SakuraDreams"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
