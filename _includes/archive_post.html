@@ -9,8 +9,8 @@
     <div class="list-group-item">
         <article class="post-container">
             <div class="flag">
-                <div style="white-space: nowrap;">
-                    {{ post.date | date: '%b %d' }}
+                <div class="flag-date">
+                    <img class="blog-flag-cal-svg" src="/graphics/phosphoricons/calendar-dots.svg">{{ post.date | date: '%b %d' }}
                 </div>
             </div>
             <div class="post-title">
@@ -29,7 +29,7 @@
                     {{ post.date | date: '%b %d, %Y' }}
                 </div>
                 <div class="reading-time">
-                    {% include post/reading_time.html text=post.content %}
+                    <img class="clock-svg" src="/graphics/phosphoricons/clock.svg">{% include post/reading_time.html text=post.content %}
                 </div>
             </div>
         </article>
