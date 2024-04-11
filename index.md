@@ -35,8 +35,7 @@ emoji: 🏠
             <img class="theme-stamp" align="right" style="margin: 0 20px;">
             <article>
                 <h2>Latest Blog Post</h2>
-                <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
-                <br>
+                <h3 style="margin-bottom: 0;"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h3>
                 <img class="index-svg" src="/graphics/phosphoricons/calendar-dots.svg"><text style="border-bottom: 1px dotted;">{{ site.posts.first.date | date: "%-d %B %Y"}}</text> | <img class="index-svg" src="/graphics/phosphoricons/clock.svg">{% include post/reading_time.html text=site.posts.first.content %}
                 {{ site.posts.first.excerpt }} <i><a href="{{ site.posts.first.url }}">continue reading...</a></i>
                 <button class="tinylytics_kudos" data-path="{{ site.posts.first.url }}" style="float:right;"></button>
