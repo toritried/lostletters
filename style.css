@@ -840,4 +840,5 @@ img.masto-img {
   vertical-align: -2px;
   padding-right: 5px;
   width: auto;
+  filter: var(--color-primary-a80-filter);
 }
