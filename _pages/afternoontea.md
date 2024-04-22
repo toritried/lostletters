@@ -276,6 +276,9 @@ menu: webcore
         <a target="_blank" href="https://sakuradreams.neocities.org">
             <img src="/graphics/teahouse/teacup/SakuraDreams-Teacup-Jiji.gif" alt="a black cat blinks as it hangs out of the top of a white teacup with a red ribbon and bow around it" title="tastes like freshly baked bread - made by SakuraDreams"/>
         </a>
+        <a target="_blank" href="https://sealzie.neocities.org">
+            <img src="/graphics/teahouse/teacup/sealzie-teacup.png" alt="a small creature peers out over the brim of a pink teacup with a yellow saucer" title="made by sealzie"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
