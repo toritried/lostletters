@@ -279,6 +279,9 @@ menu: webcore
         <a target="_blank" href="https://sealzie.neocities.org">
             <img src="/graphics/teahouse/teacup/sealzie-teacup.png" alt="a small creature peers out over the brim of a pink teacup with a yellow saucer" title="made by sealzie"/>
         </a>
+        <a target="_blank" href="https://anarchysin.neocities.org/">
+            <img src="/graphics/teahouse/teacup/anarchysin.png" alt="black teacup overflows with red liquid on top of a grey saucer. red splatters the cup." title="made by anarchysin"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
