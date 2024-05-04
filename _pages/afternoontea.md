@@ -276,11 +276,11 @@ menu: webcore
         <a target="_blank" href="https://sakuradreams.neocities.org">
             <img src="/graphics/teahouse/teacup/SakuraDreams-Teacup-Jiji.gif" alt="a black cat blinks as it hangs out of the top of a white teacup with a red ribbon and bow around it" title="tastes like freshly baked bread - made by SakuraDreams"/>
         </a>
-        <a target="_blank" href="https://sealzie.neocities.org">
-            <img src="/graphics/teahouse/teacup/sealzie-teacup.png" alt="a small creature peers out over the brim of a pink teacup with a yellow saucer" title="made by sealzie"/>
-        </a>
         <a target="_blank" href="https://anarchysin.neocities.org/">
             <img src="/graphics/teahouse/teacup/anarchysin.png" alt="black teacup overflows with red liquid on top of a grey saucer. red splatters the cup." title="made by anarchysin"/>
+        </a>
+        <a target="_blank" href="https://halcybutton.neocities.org">
+            <img src="/graphics/teahouse/teacup/halcy-sharktea.gif" alt="a shark fin bobs up and down in a clear teacup filled with water, seaweed, and sand. a half rainbow half trans pride rainbow is in the background." title="tastes like the everchanging sea (and perhaps... fruity?) - made by halcyon"/>
         </a>
     </div>
     <br>
@@ -293,6 +293,9 @@ menu: webcore
 <br>
 <h1>How to Join This Pixel Club</h1>
 <ol>
+    <li>
+        <b>You must be at least 18 years old to join.</b> If your website states that you are a minor, you will not be admitted because no part of my site is intended for minors.
+    </li>
     <li>
         Download the <a target="_new" href="/graphics/teahouse/teacup/template-lostletters.png">✨template✨</a>.
     </li>
