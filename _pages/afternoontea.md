@@ -282,6 +282,9 @@ menu: webcore
         <a target="_blank" href="https://halcybutton.neocities.org">
             <img src="/graphics/teahouse/teacup/halcy-sharktea.gif" alt="a shark fin bobs up and down in a clear teacup filled with water, seaweed, and sand. a half rainbow half trans pride rainbow is in the background." title="tastes like the everchanging sea (and perhaps... fruity?) - made by halcyon"/>
         </a>
+        <a target="_blank" href="https://maplebear.neocities.org/">
+            <img src="/graphics/teahouse/teacup/mapleteacup.gif" alt="a brown bear sits inside a brown gingham teacup filled with matcha" title="tastes like like maple syrup matcha latte - made by maplebear"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
@@ -300,7 +303,7 @@ menu: webcore
         Download the <a target="_new" href="/graphics/teahouse/teacup/template-lostletters.png">✨template✨</a>.
     </li>
     <li>
-        Create a pixel teacup with a transparent background to show off your style. Animations are welcome! 
+        Create a pixel teacup with a transparent background to show off your style, and keep the cropping tight, so it aligns vertically with other cups. Animations are welcome! 
     </li>
     <li>
         Post a message on my <a target="_blank" href="https://neocities.org/site/lostletters">Neocities Profile</a> or in my <a href="/guestbook/">guestbook</a> with a link to your pixel teacup + your URL, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text. 
