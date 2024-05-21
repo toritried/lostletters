@@ -283,7 +283,10 @@ menu: webcore
             <img src="/graphics/teahouse/teacup/halcy-sharktea.gif" alt="a shark fin bobs up and down in a clear teacup filled with water, seaweed, and sand. a half rainbow half trans pride rainbow is in the background." title="tastes like the everchanging sea (and perhaps... fruity?) - made by halcyon"/>
         </a>
         <a target="_blank" href="https://maplebear.neocities.org/">
-            <img src="/graphics/teahouse/teacup/mapleteacup.gif" alt="a brown bear sits inside a brown gingham teacup filled with matcha" title="tastes like like maple syrup matcha latte - made by maplebear"/>
+            <img src="/graphics/teahouse/teacup/mapleteacup.gif" alt="a brown bear sits inside a brown gingham teacup filled with matcha" title="tastes like maple syrup matcha latte - made by maplebear"/>
+        </a>
+        <a target="_blank" href="https://deepintheforest.neocities.org/">
+            <img src="/graphics/teahouse/teacup/deepintheforest.gif" alt="a swirling black sphere with orange rotating, curved tendrils swirl around in a clear teacup" title="tastes like a pleasant emptiness and warmth - made by deepintheforest"/>
         </a>
     </div>
     <br>
