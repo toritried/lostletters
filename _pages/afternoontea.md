@@ -288,6 +288,9 @@ menu: webcore
         <a target="_blank" href="https://deepintheforest.neocities.org/">
             <img src="/graphics/teahouse/teacup/deepintheforest.gif" alt="a swirling black sphere with orange rotating, curved tendrils swirl around in a clear teacup" title="tastes like a pleasant emptiness and warmth - made by deepintheforest"/>
         </a>
+        <a target="_blank" href="https://hemwick-lane.neocities.org/">
+            <img src="/graphics/teahouse/teacup/hemwick-lane-cupoflove.gif" alt="a bloody beating heart purlses in a pink teacup with a white frill edge detail, surrounded by spilled blood" title="tastes like love 🖤 - made by hemwick-lane"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
