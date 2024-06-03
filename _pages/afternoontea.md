@@ -291,6 +291,9 @@ menu: webcore
         <a target="_blank" href="https://hemwick-lane.neocities.org/">
             <img src="/graphics/teahouse/teacup/hemwick-lane-cupoflove.gif" alt="a bloody beating heart purlses in a pink teacup with a white frill edge detail, surrounded by spilled blood" title="tastes like love 🖤 - made by hemwick-lane"/>
         </a>
+        <a target="_blank" href="https://cyberstheb.neocities.org/">
+            <img src="/graphics/teahouse/teacup/cyberstheb-angeltea.gif" alt="a red haired angel with purple wings sits inside a clear teacup in a fetal position" title="tastes like angel tears - made by cyberstheb"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
