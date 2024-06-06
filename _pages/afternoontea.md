@@ -294,6 +294,9 @@ menu: webcore
         <a target="_blank" href="https://cyberstheb.neocities.org/">
             <img src="/graphics/teahouse/teacup/cyberstheb-angeltea.gif" alt="a red haired angel with purple wings sits inside a clear teacup in a fetal position" title="tastes like angel tears - made by cyberstheb"/>
         </a>
+        <a target="_blank" href="https://dog-house.neocities.org/">
+            <img src="/graphics/teahouse/teacup/dhtea.gif" alt="a puppy relaxes in a red liquid inside a dog faced teacup that sits upon a saucer with legs that are moving to the right" title="tastes like cinnamon! and... dog food? - made by dog-house"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
