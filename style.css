@@ -842,3 +842,26 @@ img.masto-img {
   width: auto;
   filter: var(--color-primary-a80-filter);
 }
+
+/* CSS snippets I'll eventually use */
+.dot-grid-paper { /* credit: https://stackoverflow.com/questions/55364127/making-a-dotted-grid-with-css */
+  background: #e1f9fb;
+  background-image: radial-gradient(#afe4e8 1px, transparent 0);
+  background-size: calc(16px + 0.390625vw) calc(16px + 0.390625vw);
+}
+
+.grid-paper { /* credit: https://stackoverflow.com/questions/3540194/how-to-make-a-grid-like-graph-paper-grid-with-just-css */
+  background-size: calc(16px + 0.390625vw) calc(16px + 0.390625vw);
+  background-image:
+      linear-gradient(to right, #ffe5f7 2px, transparent 2px),
+      linear-gradient(to bottom, #ffe5f7 2px, transparent 2px);
+  background-position: 0.5em 0.5em;
+  background-color: #fff;
+}
+
+.lined-paper {
+  background-color: #e5e5f7;
+  background-size:  calc(16px + 0.390625vw) calc(16px + 0.390625vw);
+  background-image: repeating-linear-gradient(0deg, #b9bcff, #dadcff 1px, #e5e5f7 1px, #e5e5f7);
+  /*credit: https://www.magicpattern.design/tools/css-backgrounds*/
+}
