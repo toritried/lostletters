@@ -110,7 +110,7 @@ menu: health
       </div>
       <br>
       <div id="mantraButton"> 
-        <button class="orb.button" type="button" onclick="displayMantra()">inspect the orb</button>
+        <button class="orb.button" type="button" onclick="displayMantra()">ponder the orb</button>
       </div>
     </div>
   </div>
