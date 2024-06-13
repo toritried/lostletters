@@ -131,7 +131,7 @@ menu: health
 </ul>
 Do you have a suggestion for this list that might help fellow travelers? Drop me a webmention or leave a message in my guestbook! I'm sure visitors will appreciate it.
 <br>
-<h2>Enchanted Tombs</h2>
+<h2>Enchanted Tomes</h2>
 <div class="bookshelf-container">
   <div class="bookshelf">
     <div class="books noext">
