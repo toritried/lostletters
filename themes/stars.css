@@ -69,7 +69,6 @@ body {
 @media (min-width:1024px) {
   .main {
       margin: 2em auto;
-      overflow: auto;
       padding: 1em;
       border-radius: 1ex;
   }

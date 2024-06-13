@@ -38,7 +38,6 @@ a, .mobile_nav {
 @media (min-width:1024px) {
   .main {
     margin: 2em auto;
-    overflow: auto;
   }
 }
 
