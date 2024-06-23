@@ -71,7 +71,7 @@ menu: health
 </script>
 <h1 style="text-align: center;">Let's take a short rest.</h1>
 <p style="text-align: center;">
-  This page was created as an entry for the <a target="_blank" href="https://tilde.32bit.cafe/~ribose/events/destination/index.html">32bit.cafe Community Code Jam #4: Destination Vacation</a> event.
+  This page was created as an entry for the <a target="_blank" href="https://tilde.32bit.cafe/~ribose/events/destination/index.html">32bit.cafe Community Code Jam #4: Destination Vacation</a> event. If you'd like to enjoy even more destinations and vacations, please check out the <a target="_blank" href="https://tilde.32bit.cafe/~ribose/events/destination/map.html">other submissions for the code jam here</a>, but <a target="_blank" href="/graphics/layout/short-rest/rest-stamp.png" title="Many thanks to xandra.cc for creating the event passport stamps <3">don't forget to your passport stamp before you go</a>! 
 </p>
 <div style="display: inline-block;">
   <p>
