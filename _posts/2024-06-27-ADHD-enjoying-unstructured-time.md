@@ -24,7 +24,7 @@ My first step was to come up with some ideas for worthwhile activities that I co
 		Heal Inner Wounds: Meditate with Headspace for at least 10 minutes, then practice <a target="_blank" href="https://www.youtube.com/playlist?list=PLCJ2fBBavCJEoQPzbMIOuQ2luJDHrWPSL">Internal Family Systems therapy</a> with yourself to see which of your inner parts needs attention right now or reflect on the last time you were triggered and figure out which part(s) needed attention then.
 	</li>
 </ol>
-## 2. Tune-up
+## 2. Tune up
 <ol>
 	<li>
 		Organize a closet or area, purging what you no longer need.
