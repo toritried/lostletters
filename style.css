@@ -522,6 +522,9 @@ html, body {
 }
 
 /* Mastodon Styling */
+#mastofeed {
+  padding-top: .1em;
+}
 .masto-article {
   margin-bottom: 1em;
 }
@@ -531,12 +534,23 @@ html, body {
 .avatar-img {
   width: 100%;
 }
-.masto-header, .masto-content {
+
+#masto-images {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  align-content: flex-start;
   gap: 1em;
+  overflow-x: scroll;
 }
+#masto-images::-webkit-scrollbar {
+  height: 7px;
+  width: 7px;
+}
+#masto-images::-webkit-scrollbar-thumb {
+  border-radius: 2ex;
+  -webkit-box-shadow: inset 0 0 0px var(--color-primary-a0); 
+  background: linear-gradient(180deg, var(--color-primary-a10) 0%, var(--color-primary-a50) 100%);
+}
+
 img.masto-img {
   border-radius: 1em;
   aspect-ratio: 1 / 1;

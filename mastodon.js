@@ -42,11 +42,13 @@ const MastodonBar = {
           <div class="masto-layout">
             <div class="masto-content">
               <div>
-              <h2>Latest Toot</h2>
+                <h2>Latest Toot</h2>
                 ${MastodonBar.decodeHTML(item.querySelector("description").innerHTML)}
                 <i><a href="${item.querySelector("link").innerHTML}" target="_blank" rel="noopener">${dateStr}</a></i>
               </div>
-              ${mediaHtml}
+              <div id="masto-images">
+                ${mediaHtml}
+              </div>
             </div>
           </div>
         </article>
