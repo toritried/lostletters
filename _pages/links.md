@@ -184,7 +184,11 @@ menu: site
     <text style="font-size: 80%;">If you've linked to my site, let me know so I can add your link here to become net neighbors. Who I link is still at my discretion though, so I will not reciprocate if you don't pass the vibe check or are a minor. Feel free to use these buttons, but please download and host them yourself.</text>
     <br>
     <br>
-    <img src="/graphics/site_buttons/LostLetters88x31.gif" alt="a unicorn shaped button with blinking stars and the text: lost letters" title="88x31 pixel button">&nbsp;&nbsp;<img src="/graphics/site_buttons/LostLetters32x32.gif" alt="a pink to lavender vertical ombre fade tamagotchi with yellow text scrolling across the screen that says lost letters" title="32x32 pixel button">
+    <img src="/graphics/site_buttons/LostLetters88x31.gif" alt="a unicorn shaped button with blinking stars and the text: lost letters" title="88x31 pixel button">
+    &nbsp;&nbsp;
+    <img src="/graphics/site_buttons/LostLetters32x32.gif" alt="a pink to lavender vertical ombre fade tamagotchi with yellow text scrolling across the screen that says lost letters" title="32x32 pixel button">
+    &nbsp;&nbsp;
+    <img src="/graphics/site_buttons/lostsanx.png" alt="san-x I-want-to-eat-at-home cat character with Lost written in cursive on top" title="32x32 pixel button gift made by Robyn of Pastel Hell">
 </center>
 <hr>
 I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters">every site needs a links page</a>, and I'm hoping this list will provide you with some really interesting and helpful places to explore next.
