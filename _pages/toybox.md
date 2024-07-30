@@ -118,6 +118,8 @@ menu: webcore
         <img src="/graphics/adoptables/parfait.png">
         <img src="/graphics/adoptables/dancing-moomin-lostletters.png" title="Note: I do not claim ownership of Moomin, I just drew him because he's the best boy">
         <img src="/graphics/adoptables/flowers-pitcher.png">
+        <img src="/graphics/adoptables/tama_rocket_lost_letters.png" alt="a yellow dome with two blue windows emerges from a red space ship with fire emerging from the left side">
+        <img src="/graphics/adoptables/tama_planet_lost_letters.png" alt="a green sleeping tamagotchi planet with a drop of drool emerging from the mouth with a cloud in the upper right">
         <br>
         <img src="/graphics/adoptables/bow-pink-lostletters.png">
         <img src="/graphics/adoptables/bow-blush-lostletters.png">
