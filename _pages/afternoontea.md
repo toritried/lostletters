@@ -297,6 +297,12 @@ menu: webcore
         <a target="_blank" href="https://dog-house.neocities.org/">
             <img src="/graphics/teahouse/teacup/dhtea.gif" alt="a puppy relaxes in a red liquid inside a dog faced teacup that sits upon a saucer with legs that are moving to the right" title="tastes like cinnamon! and... dog food? - made by dog-house"/>
         </a>
+        <a target="_blank" href="https://mutterbutter.neocities.org/">
+            <img src="/graphics/teahouse/teacup/mutterbutter-teacup.gif" alt="a purple cat rests atop an adorned pink teacup" title="tastes like rose earl grey and hairballs - made by mutterbutter"/>
+        </a>
+        <a target="_blank" href="https://strawberryysnow.neocities.org/">
+            <img src="/graphics/teahouse/teacup/strawberryysnow-teacup.gif" alt="a mix of blue, yelloe, and red swirls within a clear teacup with a brush dripping yellow paint on top of a teacup" title="tastes like fruit punch and paint water - made by strawberryysnow"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
