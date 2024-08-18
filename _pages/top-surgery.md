@@ -3,7 +3,7 @@ layout: 3col
 title: top surgery
 emoji: 🏳️‍⚧️
 permalink: /top-surgery/
-menu: health
+menu: self-care
 ---
 
 When I was preparing for double incision top surgery in Japan, I couldn't find any personal accounts of similar experiences in English, so I wanted to share my experience in case others want to pursue a similar path. I'm happy to share further details and answer questions from anyone who is considering top surgery in Japan, so, if that's you, just reach out with a way to get in touch privately in my guestbook. In terms of what you can expect here, I won't be sharing any photos and additional content warnings will apply to specific sections.

@@ -15,8 +15,8 @@
         🦄 ttrpgs
     <span class="fa fa-caret-down"></span>
     </button>
-    <button class="dropbtn" aria-controls="dropdown-health" aria-expanded="false">
-        🧠 health
+    <button class="dropbtn" aria-controls="dropdown-self-care" aria-expanded="false">
+        🧠 self-care
     <span class="fa fa-caret-down"></span>
     </button>
     <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
@@ -65,7 +65,7 @@
             {% endif %}
         {% endfor %}
     </div>
-    <div class="dropdown-content" id="dropdown-health">
+    <div class="dropdown-content" id="dropdown-self-care">
         Running: {% for page in site.pages %}
             {% if page.menu == "running" %}
             <a href="{{ page.url }}">
@@ -76,7 +76,7 @@
         {% endfor %}
         <br>
         Other: {% for page in site.pages %}
-            {% if page.menu == "health" %}
+            {% if page.menu == "self-care" %}
             <a href="{{ page.url }}">
                 {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                 {{ page.title }}
