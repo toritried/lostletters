@@ -301,7 +301,10 @@ menu: webcore
             <img src="/graphics/teahouse/teacup/mutterbutter-teacup.gif" alt="a purple cat rests atop an adorned pink teacup" title="tastes like rose earl grey and hairballs - made by mutterbutter"/>
         </a>
         <a target="_blank" href="https://strawberryysnow.neocities.org/">
-            <img src="/graphics/teahouse/teacup/strawberryysnow-teacup.gif" alt="a mix of blue, yelloe, and red swirls within a clear teacup with a brush dripping yellow paint on top of a teacup" title="tastes like fruit punch and paint water - made by strawberryysnow"/>
+            <img src="/graphics/teahouse/teacup/strawberryysnow-teacup.gif" alt="a mix of blue, yellow, and red swirls within a clear teacup with a brush dripping yellow paint on top of a teacup" title="tastes like fruit punch and paint water - made by strawberryysnow"/>
+        </a>
+        <a target="_blank" href="https://sleepymoss.neocities.org/">
+            <img src="/graphics/teahouse/teacup/sleepymoss-clover-cup.gif" alt="a pink teacup with polkadots contains green clover plants within" title=" tastes like sweet strawberries and matcha - made by sleepymoss"/>
         </a>
     </div>
     <br>
