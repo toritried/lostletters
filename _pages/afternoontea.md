@@ -306,6 +306,12 @@ menu: webcore
         <a target="_blank" href="https://sleepymoss.neocities.org/">
             <img src="/graphics/teahouse/teacup/sleepymoss-clover-cup.gif" alt="a pink teacup with polkadots contains green clover plants within" title=" tastes like sweet strawberries and matcha - made by sleepymoss"/>
         </a>
+        <a target="_blank" href="https://glamourbombing.nekoweb.org/">
+            <img src="/graphics/teahouse/teacup/glamourbombing-light.gif" alt="A leafy teacup with a shadow Faerie looking inside, for dark themes." title=" tastes like dreamy sweetgrass - made by The Court"/>
+        </a>
+        <a target="_blank" href="https://glamourbombing.nekoweb.org/">
+            <img src="/graphics/teahouse/teacup/glamourbombing-dark.gif" alt="A leafy teacup with a shadow Faerie looking inside." title=" tastes like dreamy sweetgrass - made by The Court"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
