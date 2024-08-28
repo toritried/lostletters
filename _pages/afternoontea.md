@@ -304,13 +304,16 @@ menu: webcore
             <img src="/graphics/teahouse/teacup/strawberryysnow-teacup.gif" alt="a mix of blue, yellow, and red swirls within a clear teacup with a brush dripping yellow paint on top of a teacup" title="tastes like fruit punch and paint water - made by strawberryysnow"/>
         </a>
         <a target="_blank" href="https://sleepymoss.neocities.org/">
-            <img src="/graphics/teahouse/teacup/sleepymoss-clover-cup.gif" alt="a pink teacup with polkadots contains green clover plants within" title=" tastes like sweet strawberries and matcha - made by sleepymoss"/>
+            <img src="/graphics/teahouse/teacup/sleepymoss-clover-cup.gif" alt="a pink teacup with polkadots contains green clover plants within" title="tastes like sweet strawberries and matcha - made by sleepymoss"/>
         </a>
         <a target="_blank" href="https://glamourbombing.nekoweb.org/">
-            <img src="/graphics/teahouse/teacup/glamourbombing-light.gif" alt="A leafy teacup with a shadow Faerie looking inside, for dark themes." title=" tastes like dreamy sweetgrass - made by The Court"/>
+            <img src="/graphics/teahouse/teacup/glamourbombing-light.gif" alt="A leafy teacup with a shadow Faerie looking inside, for dark themes." title="tastes like dreamy sweetgrass - made by The Court"/>
         </a>
         <a target="_blank" href="https://glamourbombing.nekoweb.org/">
-            <img src="/graphics/teahouse/teacup/glamourbombing-dark.gif" alt="A leafy teacup with a shadow Faerie looking inside." title=" tastes like dreamy sweetgrass - made by The Court"/>
+            <img src="/graphics/teahouse/teacup/glamourbombing-dark.gif" alt="A leafy teacup with a shadow Faerie looking inside." title="tastes like dreamy sweetgrass - made by The Court"/>
+        </a>
+        <a target="_blank" href="https://shadow-of-valtus.neocities.org/">
+            <img src="/graphics/teahouse/teacup/shadow-of-valtus-teacup.gif" alt="a steaming animated cup with leaves wrapping and moving around it" title="tastes comfy and fresh, like warm tomato leaves - made by Shadow of Valtus"/>
         </a>
     </div>
     <br>
