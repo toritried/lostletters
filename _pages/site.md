@@ -116,6 +116,8 @@ menu: site
     <hr>
     <h1>Milestones</h1>
     <ul>
+        <li>400 followers - 2024/09/05</li>
+        <li>900,000 views - 2024/09/01</li>
         <li>600,000 views - 2024/03/13</li>
         <li>300 followers - 2024/03/01</li>
         <li>500,000 views - January 2024</li>
