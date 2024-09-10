@@ -315,6 +315,12 @@ menu: webcore
         <a target="_blank" href="https://shadow-of-valtus.neocities.org/">
             <img src="/graphics/teahouse/teacup/shadow-of-valtus-teacup.gif" alt="a steaming animated cup with leaves wrapping and moving around it" title="tastes comfy and fresh, like warm tomato leaves - made by Shadow of Valtus"/>
         </a>
+        <a target="_blank" href="https://samanitamuscaria.neocities.org//">
+            <img src="/graphics/teahouse/teacup/witchsbuttertea.png"  style="width: 52px;" alt="a wooden teacup on grass has something golden bubbling out of it" title="tastes like a walk in an old growth forest - made by samanitamuscaria"/>
+        </a>
+        <a target="_blank" href="https://shadow-of-valtus.neocities.org/">
+            <img src="/graphics/teahouse/teacup/sweetcharmcup.gif" alt="a lavender creature with one eye perches on the edge of a blue teacup while its four lavender legs crawl in an animated fashion" title="tastes so sweet that it numbs your mind and suddenly hours have passed - made by sweetcharm"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
