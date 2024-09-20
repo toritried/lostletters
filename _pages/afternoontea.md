@@ -321,6 +321,9 @@ menu: webcore
         <a target="_blank" href="https://sweetcharm.net/">
             <img src="/graphics/teahouse/teacup/sweetcharmcup.gif" alt="a lavender creature with one eye perches on the edge of a blue teacup while its four lavender legs crawl in an animated fashion" title="tastes so sweet that it numbs your mind and suddenly hours have passed - made by sweetcharm"/>
         </a>
+        <a target="_blank" href="https://sugarbunniiee.nekoweb.org/">
+            <img src="/graphics/teahouse/teacup/sugarbunniiee-teacup.gif" alt="a pink and rose gold scalloped tea cup and saucer hold a blinking white bunny inside who holds a rose gold spoon" title="it has a fruity and citrusy taste with a hint of sweetness meticulously crafted by the tea bunny"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
