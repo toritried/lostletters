@@ -324,6 +324,9 @@ menu: webcore
         <a target="_blank" href="https://sugarbunniiee.nekoweb.org/">
             <img src="/graphics/teahouse/teacup/sugarbunniiee-teacup.gif" alt="a pink and rose gold scalloped tea cup and saucer hold a blinking white bunny inside who holds a rose gold spoon" title="it has a fruity and citrusy taste with a hint of sweetness meticulously crafted by the tea bunny"/>
         </a>
+        <a target="_blank" href="https://outofatuan.neocities.org/">
+            <img src="/graphics/teahouse/teacup/possum-teacup.png" alt="a dark purple teacup and saucer with an orange-pink possum peaking its head and paws out of it. the teacup says cup o' possum" title="tastes like wildflowers and garden dirt - made by outofatuan"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
