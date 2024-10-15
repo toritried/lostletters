@@ -12,6 +12,150 @@ menu: webcore
         Halloween is one of my favorite holidays. My best costume from when I was a kid was a blue gameboy color that my dad constructed and painted out of a cardboard box, and I'll never forget how much people cheered when they saw it in the school costume parade that year. The most fun I've ever had on Halloween was running around Hollywood Boulevard at night with my friends, trying to take photos to complete a drunken scavenger hunt in two teams while in costume. Each team had to snap photos of themselves doing stuff like getting bit by a vampire or doing a cheerleading pyramid with at least 6 people. It was such a good night! Nowadays, my participation is all virtual, allowing me to celebrate with folks all over the world!
     </p>
 </article>
+<h2  style="text-align: center;" id="halloween-24">🏚️ 2024 🍫</h2>
+<article>
+    <style>
+        .halloween-door {
+            display: flex;
+            align-items: center;
+            flex-flow: row wrap;
+            justify-content: space-around;
+            overflow: hidden;
+            gap: 10px;
+        }
+        .door {
+            position: relative;
+            width: 170px;
+            height:250px;
+            cursor: pointer;
+            transform-style: preserve-3d;
+            transform: perspective(2500px);
+        }
+        .door-front {
+            width: 170px;
+            height:250px;
+            overflow: hidden;
+            transform-origin: left;
+            box-shadow: 30px 0 50px rgba(0,0,0,0.2);
+            position: absolute;
+            background-color: #4a1942;
+            z-index:1;
+            transition: .5s;
+        }
+        .door-front:before, .door-front:after {
+            content:"";
+            position: absolute;
+            background-image: url(/graphics/layout/halloween-24/pumpkin15.gif);
+            width: 105px;
+            height: 70px;
+            border: 9px ridge #893168;
+            left:22.5px;
+        }
+        .door-front:before {
+            top:20px;
+        }
+        .door-front:after {
+            top:135px;
+        }
+        .knob {
+            position: absolute;
+            width: 15px;
+            height:30px;
+            background-color: #f18805;
+            top:115px;
+            left:149px;
+            border-radius:2px;
+        }
+        .knob:before {
+            content:"";
+            position: absolute;
+            border-radius:50%;
+            background-color: #f0a202;
+            background-image: url(/graphics/layout/halloween-24/pumpkin1.gif);
+            background-position: center;
+            width:20px;
+            height:20px;
+            left:-3px;
+            top: -5px;
+            box-shadow: 2px 2px rgba(0,0,0,0.2);
+        }
+        .knob:after {
+            content:"";
+            position: absolute;
+            width:4px;
+            height:7px;
+            background-color: #000;
+            top:20px;
+            left:6px;
+        }
+        .door:hover .door-front {
+            transform: rotateY(-160deg); 
+        }
+        .door-back {
+            position: relative;
+            background-color: #220901;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        .fog {
+            position: absolute;
+            bottom:0%;
+            left:0%;
+            opacity: 1;
+            animation-name: fog;
+            animation-duration: 10s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+        }
+        @keyframes fog
+        {
+            0% {left:0px; bottom:-40px; opacity:.1}
+            30% {left:-20px; bottom:-20px; opacity:.5}
+            50% {left:-10px; bottom:-10px; opacity:1}
+            100% {left:-0px; bottom:-40px; opacity:.1}
+        }
+        .witch {
+            position: absolute;
+            top:5%;
+            left:10%;
+            filter: drop-shadow(0 0 15px #ea9335);
+        }
+        .garland {
+            position: absolute;
+            top:5%;
+            left:0%;
+        }
+        .event-summary {
+            text-align: center;
+            display: flex;
+        }
+    </style>
+    <div class="halloween-door">
+        <div class="door">
+            <div class="door-front">
+                <div class="knob"></div>
+            </div>
+            <div class="door-back">
+                <div class="fog">
+                    <img src="/graphics/layout/halloween-24/bgs10.png">
+                </div>
+                <div class="garland">
+                    <img src="/graphics/layout/halloween-24/bgs3.png">
+                </div>
+                <div class="witch">
+                    <img src="/graphics/layout/halloween-24/text4.gif">
+                    <img src="/graphics/layout/halloween-24/dolls10.gif">
+                </div>
+            </div>
+        </div>
+        <div class="event-summary">
+            <p>
+                Trick or treat! I was really busy this halloween season, so I wanted to just play around with something easy and approachable. I settled on decorating a simple door, following <a target="_blank" href="https://lenadesign.org/2021/04/26/css-door-animation-open-close-on-hover/">this tutorial</a> with graphics from <a target="_blank" href="https://xixxii.neocities.org/gooftown/foryou/halloweenvault/1">Xo's Halloween vault</a> as part of the <a target="_blank" href="https://32bit.cafe/halloween24/">32-bit cafe's 2024 Halloween event</a>.
+            </p>
+        </div>
+    </div>
+</article>
 <h2  style="text-align: center;" id="halloween-23">👻 2023 🍬</h2>
 <article>
     <p>
