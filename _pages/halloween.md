@@ -88,7 +88,7 @@ menu: webcore
             top:20px;
             left:6px;
         }
-        .door:hover .door-front {
+        .door:active .door-front {
             transform: rotateY(-160deg); 
         }
         .door-back {
