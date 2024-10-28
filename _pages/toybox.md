@@ -41,7 +41,9 @@ menu: webcore
             <a target="_blank" href="http://pokyaron.fc2web.com/sozai.htm">
                 <img src="/graphics/toy/bird1.gif">
             </a>
-            <img src="/graphics/toy/parfait2.png" title="If you know where this came from, please send me the link!"/>
+            <a target="_blank" href="https://web.archive.org/web/20160413180923/http://mooncat.official.jp/material/sweets.php">
+                <img src="/graphics/toy/parfait2.png">
+            </a>
             <a target="_blank" href="http://mes.fc2web.com/">
                 <img src="/graphics/toy/smalldog1.gif">
             </a>
@@ -55,7 +57,7 @@ menu: webcore
                 <img src="/graphics/toy/meltycornpixel.gif">
             </a>
             <a target="_blank" href="http://whimsical.heartette.net/">
-                <img src="/graphics/toy/mail.gif"/>
+                <img src="/graphics/toy/mail.gif">
             </a>
             <a target="_blank" href="https://www.lejlart.com/apple.html">
                 <img src="/graphics/toy/toki_dolce.gif">
