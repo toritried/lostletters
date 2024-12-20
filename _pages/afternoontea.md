@@ -330,6 +330,12 @@ menu: webcore
         <a target="_blank" href="https://raan-miir-tah.neocities.org/">
             <img src="/graphics/teahouse/teacup/raan-miir-tah.gif" alt="a navy teacup and saucer with red and yellow decoration and a purple witches hat on the left brim" title="tastes like a bird, or a plane - made by kyne"/>
         </a>
+        <a target="_blank" href="https://antiquespider.neocities.org/">
+            <img src="/graphics/teahouse/teacup/antiquespider-teacup.png" alt="a navy teacup and saucer with red and yellow decoration and a purple witches hat on the left brim" title="tastes like a bird, or a plane - made by kyne"/>
+        </a>
+        <a target="_blank" href="https://re-nata.neocities.org/">
+            <img src="/graphics/teahouse/teacup/re-nata.gif" alt="a brown teacup with an eyeball on it, looking from side to side" title="made by re-nata"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
