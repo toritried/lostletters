@@ -336,6 +336,9 @@ menu: webcore
         <a target="_blank" href="https://re-nata.neocities.org/">
             <img src="/graphics/teahouse/teacup/re-nata.gif" alt="a brown teacup with an eyeball on it, looking from side to side" title="made by re-nata"/>
         </a>
+        <a target="_blank" href="https://bohemiansultriness.nekoweb.org">
+            <img src="/graphics/teahouse/teacup/bohemiansultriness.gif" alt="a teacup with brown liquid inside and rainbow sparkles animated throughout" title="This coffee tastes groovy. - made by Fritzi"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
