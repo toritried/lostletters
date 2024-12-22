@@ -328,9 +328,9 @@ menu: webcore
             <img src="/graphics/teahouse/teacup/possum-teacup.png" alt="a dark purple teacup and saucer with an orange-pink possum peaking its head and paws out of it. the teacup says cup o' possum" title="tastes like wildflowers and garden dirt - made by small possum"/>
         </a>
         <a target="_blank" href="https://raan-miir-tah.neocities.org/">
-            <img src="/graphics/teahouse/teacup/raan-miir-tah.gif" alt="a navy teacup and saucer with red and yellow decoration and a purple witches hat on the left brim" title="tastes like a bird, or a plane - made by kyne"/>
+            <img src="/graphics/teahouse/teacup/raan-miir-tah.gif" alt="a navy teacup and saucer with red and yellow decoration and a purple witches hat on the left brim" title="tastes like green leafes and hot chocolate - made by ellie"/>
         </a>
-        <a target="_blank" href="https://antiquespider.neocities.org/">
+        <a target="_blank" href="https://blopswebsite.neocities.org/">
             <img src="/graphics/teahouse/teacup/antiquespider-teacup.png" alt="a navy teacup and saucer with red and yellow decoration and a purple witches hat on the left brim" title="tastes like a bird, or a plane - made by kyne"/>
         </a>
         <a target="_blank" href="https://re-nata.neocities.org/">
