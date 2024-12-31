@@ -112,6 +112,9 @@ menu: site
         <li>
             <a target="_blank" href="https://phosphoricons.com/">Phosphor icons</a>
         </li>
+        <li>
+            <a target="_blank" href="https://codepen.io/sarahwfox/pen/pNrYGb">cursor sparkles from this code pen</a>
+        </li>
     </ul>
     <hr>
     <h1>Milestones</h1>
