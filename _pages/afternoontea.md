@@ -7,7 +7,7 @@ menu: webcore
 ---
 
 <center>
-    <h1>You're invited to Afternoon Tea</h1>
+    <h1>Afternoon Tea is not currently accepting new submissions.</h1>
     <div class="noext-cups">
         <a href="/">
             <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
@@ -342,6 +342,9 @@ menu: webcore
         <a target="_blank" href="https://ellieswebsite.neocities.org/">
             <img src="/graphics/teahouse/teacup/ellieswebsite-teacup.png" alt="a blue teacup with a moon and star pattern" title="Tastes like the vastness of space with a hint of magic. - made by Eieanauts"/>
         </a>
+        <a target="_blank" href="https://lucky-goose.neocities.org/">
+            <img src="/graphics/teahouse/teacup/teacup-luckygoose.png" alt="a mauve teacup with leaves around it and a blue interior" title="Tastes like warm berries and cream. - made by Luckygoose"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
@@ -351,7 +354,9 @@ menu: webcore
     Do not direct link from my site.
 </center>
 <br>
-<h1>How to Join This Pixel Club</h1>
+<h1><s>How to Join This Pixel Club</s> 
+<BR>
+Afternoon Tea is on Hiatus, so do not try to submit a teacup. Please wait until we come back from hiatus.</h1>
 <ol>
     <li>
         <b>You must be at least 18 years old to join.</b> If your website states that you are a minor, you will not be admitted because no part of my site is intended for minors.
@@ -363,8 +368,8 @@ menu: webcore
         Create a pixel teacup with a transparent background to show off your style, and keep the cropping tight, so it aligns vertically with other cups. Animations are welcome! 
     </li>
     <li>
-        Post a message on my <a target="_blank" href="https://neocities.org/site/lostletters">Neocities Profile</a> or in my <a href="/guestbook/">guestbook</a> with a link to your pixel teacup + your URL, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text. 
-        <img src="/graphics/toy/emoticons/letter-bear.gif"> 
+        Afternoon Tea is currently on hiatus, so we aren't accepting new submissions.<!--Post a message on my <a target="_blank" href="https://neocities.org/site/lostletters">Neocities Profile</a> or in my <a href="/guestbook/">guestbook</a> with a link to your pixel teacup + your URL, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text. 
+        <img src="/graphics/toy/emoticons/letter-bear.gif"> -->
     </li>
     <li>
         <b>Optional:</b> Create a space on your website for your teacup collection and collect cups from the gallery above.
