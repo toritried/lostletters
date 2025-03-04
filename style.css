@@ -879,3 +879,29 @@ img.masto-img {
   background-image: repeating-linear-gradient(0deg, #b9bcff, #dadcff 1px, #e5e5f7 1px, #e5e5f7);
   /*credit: https://www.magicpattern.design/tools/css-backgrounds*/
 }
+
+#continueReading-react {
+  display: flex;
+  justify-content: space-between;
+}
+open-heart {
+  border: 1px solid var(--color-primary-a90);
+  border-radius: .4em;
+  padding: .1em;
+  cursor: pointer;
+  background-color: var(--color-primary-a10);
+  color: var(--color-primary-a60);
+}
+open-heart:not([disabled]):hover,
+open-heart:not([disabled]):focus {
+  border-color: var(--color-primary-a90);
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+open-heart[disabled] {
+  cursor: not-allowed;
+}
+open-heart[count]:not([count="0"])::after {
+  content: attr(count);
+}

@@ -37,7 +37,31 @@ emoji: 🏠
                 <h2>Latest Blog Post</h2>
                 <h3 style="margin-bottom: 0;"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h3>
                 <img class="index-svg" src="/graphics/phosphoricons/calendar-dots.svg"><text style="border-bottom: 1px dotted;">{{ site.posts.first.date | date: "%-d %B %Y"}}</text> | <img class="index-svg" src="/graphics/phosphoricons/clock.svg">{% include post/reading_time.html text=site.posts.first.content %}
-                {{ site.posts.first.excerpt }} <i><a href="{{ site.posts.first.url }}">continue reading...</a></i>
+                {{ site.posts.first.excerpt }}
+                <div id="continueReading-react">
+                    <div id="continueReading">
+                        <i><a href="{{ site.posts.first.url }}">continue reading...</a></i>
+                    </div>
+                    <div id="react">
+                        <!-- reactions by https://www.benji.dog/articles/interactions-or-reactions/ -->
+                        <open-heart href="https://corazon.sploot.com?id={{ site.posts.first.url }}" emoji="❤️">❤️</open-heart>
+                        <!-- if you want more than one emoji, add another one of ^^^ and change the emoji value -->
+                        <!-- load webcomponent -->
+                        <script src="https://unpkg.com/open-heart-element" type="module"></script>
+                        <!-- when the webcomponent loads, fetch the current counts for that page -->
+                        <script>
+                            window.customElements.whenDefined('open-heart').then(() => {
+                            for (const oh of document.querySelectorAll('open-heart')) {
+                                oh.getCount()
+                            }
+                            })
+                            // refresh component after click
+                            window.addEventListener('open-heart', e => {
+                            e && e.target && e.target.getCount && e.target.getCount()
+                            })
+                        </script>
+                    </div>
+                </div>
             </article>
         </div>
         <div id="mastofeed">
