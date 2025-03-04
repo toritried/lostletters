@@ -44,7 +44,7 @@ emoji: 🏠
                     </div>
                     <div id="react">
                         <!-- reactions by https://www.benji.dog/articles/interactions-or-reactions/ -->
-                        <open-heart href="https://corazon.sploot.com?id={{ site.posts.first.url }}" emoji="❤️">❤️</open-heart>
+                        <open-heart href="https://corazon.sploot.com?id=https://lostletters.neocities.org{{ site.posts.first.url }}" emoji="❤️">❤️</open-heart>
                         <!-- if you want more than one emoji, add another one of ^^^ and change the emoji value -->
                         <!-- load webcomponent -->
                         <script src="https://unpkg.com/open-heart-element" type="module"></script>
