@@ -887,7 +887,7 @@ img.masto-img {
 open-heart {
   border: 1px solid var(--color-primary-a90);
   border-radius: .4em;
-  padding: .1em;
+  padding: .1em .2em;
   cursor: pointer;
   background-color: var(--color-primary-a10);
   color: var(--color-primary-a60);
@@ -895,7 +895,6 @@ open-heart {
 open-heart:not([disabled]):hover,
 open-heart:not([disabled]):focus {
   border-color: var(--color-primary-a90);
-  display: flex;
   align-items: center;
   cursor: pointer;
 }
