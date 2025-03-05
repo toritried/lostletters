@@ -107,7 +107,7 @@ menu: site
             I used this <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">button maker tool</a> to create the trans rights, vegan always, and union member badges
         </li>
         <li>
-            Implemented <a target="_blank" href="https://tinylytics.app/">tinylytics kudos on my blog posts</a> thanks to <a target="_blank" href="https://frills.dev/">Frills</a> for pointing me their way
+            Implemented <a target="_blank" href="https://openheart.fyi/">Open Heart Protocol emoji reactions on my blog posts</a> thanks to <a target="_blank" href="https://www.benji.dog/articles/interactions-or-reactions/">benji</a>
         </li>
         <li>
             <a target="_blank" href="https://phosphoricons.com/">Phosphor icons</a>
