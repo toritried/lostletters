@@ -17,7 +17,7 @@ menu: about
         <br>
         <img src="/graphics/toy/emoticons/skull-watercolor.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>neurospicy:</b> ADHD, bipolar
         <br>
-        <img src="/graphics/toy/emoticons/onsen-bear.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>location:</b> japan (utc+9)
+        <img src="/graphics/toy/emoticons/onsen-bear.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>location:</b> united states
         <br>
         <img src="/graphics/toy/emoticons/star-watercolor.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>identities:</b> <text class="nb">nonbinary</text>, <text class="trans">trans</text>, <text style="text-decoration: underline wavy 2px; text-decoration-color:var(--color-primary-a20);" title="since 2016-01-28">vegan</text>, japanese-american, <span style="text-decoration: underline wavy 2px; text-decoration-color:var(--color-primary-a20);" title="since 2024-02-12">married</span>, intersectional feminist
     </div>
