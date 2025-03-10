@@ -1,6 +1,6 @@
 const storedStyle = localStorage.getItem('style');
 if (!storedStyle) {
-  setTheme('mail');
+  setTheme('sakura');
 } else {
   setTheme(storedStyle);
 }
