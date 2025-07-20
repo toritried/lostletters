@@ -66,6 +66,15 @@
         {% endfor %}
     </div>
     <div class="dropdown-content" id="dropdown-self-care">
+        Crafting: {% for page in site.pages %}
+            {% if page.menu == "crafting" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a>
+            {% endif %}
+        {% endfor %}
+        <br>
         Running: {% for page in site.pages %}
             {% if page.menu == "running" %}
             <a href="{{ page.url }}">

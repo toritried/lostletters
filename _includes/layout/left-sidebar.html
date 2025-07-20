@@ -75,6 +75,16 @@
 <div class="floating">
     <div class="nav-title"><img src="/graphics/toy/emoticons/hearts-watercolor.gif" style="vertical-align: middle;" alt=""> health <img src="/graphics/toy/emoticons/hearts-watercolor.gif" style="vertical-align: middle;" alt=""></div>
     <div class="desktop-sidebar-content">
+        Crafting:
+        <br>
+        {% for page in site.pages %}
+            {% if page.menu == "crafting" %}
+            <a href="{{ page.url }}">
+                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
+                {{ page.title }}
+            </a><br>
+            {% endif %}
+        {% endfor %}
         Running:
         <br>
         {% for page in site.pages %}
