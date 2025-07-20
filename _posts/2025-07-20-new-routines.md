@@ -11,7 +11,7 @@ I'm currently in a very rare but exciting season of my life where I feel like I 
 To figure out how to make remote work work for me, I took to the internet, skipping over all those early 2020 videos that gave advice on how to adapt to a new pandemic reality. I looked for folks who had been working remotely for a decade or more, and primarily their advice boiled down to having a strict morning and evening routine to bookend the workday and taking breaks. I'm still figuring out the exact aspects of my morning routine, but so far I like to start out by making a fun-flavored coffee or tea to take on my 40-60+ minute morning walk before work. This walk helps me in a variety of ways:
 - It psychologically replicates a commute to get me emotionally prepared for the work day ahead
 - The long walk duration gets me close to my daily step goal of 10,000 steps since I'm not really doing any other form of exercise at the moment
-- The sunlight helps wake me up fully (<a target="_blank" href-"https://youtu.be/h2aWYjSA1Jc?si=QwL2h3mgfOE2vr6c">more about the neuroscience here</a>)
+- The sunlight helps wake me up fully (<a target="_blank" href="https://youtu.be/h2aWYjSA1Jc?si=QwL2h3mgfOE2vr6c">more about the neuroscience here</a>)
 - Seeing other people on their morning walks/runs and commutes takes me out of my head, reminding me that I'm not alone in my challenges nor in my persistence past them
 - It gives me an opportunity to visualize my ideal self/life, practice affirmations, meditate, and read an audiobook, all of which come from the *Miracle Morning routine*
 - It makes me feel like I'm taking care of myself first thing, which helps me trust myself to do so in the future
