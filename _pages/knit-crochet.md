@@ -8,7 +8,7 @@ menu: crafting
 <h1 style="display: flex; justify-content: center;">Hardly Harness by Lydia Morrow</h1>
 <div class="two-col">
     <div>
-        <img src="/graphics/crafting/under-the-quilt-socks.png" alt="a knitted tank top that is cropped just under the armpit with one by one ribbing on all edges." title="Hardly Harness by Lydia Morrow" style="display: block; margin: auto;">
+        <img src="/graphics/crafting/hardly-harness.png" alt="a knitted tank top that is cropped just under the armpit with one by one ribbing on all edges." title="Hardly Harness by Lydia Morrow" style="display: block; margin: auto;">
     </div>
     <div>
         In July 2025, my friend joined me for a local yarn crawl around the city and convinced me to knit this cute harness. Unfortunately, what looked like a nice raspberry color in the store turned out to look like ground beef yarn in the daylight, so I'm not sure how much I'll be wearing this to be honest. The fit is good, but the pattern was written so opaquely, I struggled to guess what they meant a lot of the time. I won't be buying another pattern from this designer in the future even though there are some really cute designs. What a shame. 
