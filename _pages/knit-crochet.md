@@ -8,6 +8,30 @@ menu: crafting
 <h1 style="display: flex; justify-content: center;">Hardly Harness by Lydia Morrow</h1>
 <div class="two-col">
     <div>
+        <img src="/graphics/crafting/Rybka-Pouch.png" alt="a blue grey fish with a white button eye and two icord strings that cinch the mouth of the pouch shut" title="the Rybka Pouch by Rat and Sea Witch" style="display: block; margin: auto;">
+    </div>
+    <div>
+        I was inspired by my friend <a target="_blank" href="https://www.youtube.com/@minigru.studios">Kait</a> to whip up this small fish pouch from Noro yarn and Spincycle scraps. It ended up being really too large for my keys as I originally intended because I didn't read the pattern and thus thought only the body would be a pouch when the tail fin was actually part of the pouch too.
+        <br>
+        <br>
+        I really like how the eye ball turned out with the dead little cross eye. I think it's extra silly and oversized, which makes the pouch look even funnier in real life.
+    </div>
+</div>
+<h1 style="display: flex; justify-content: center;">Hardly Harness by Lydia Morrow</h1>
+<div class="two-col">
+    <div>
+        <img src="/graphics/crafting/slippy-v-triangle-shawl.png" alt="a triangle shawl with gradient stripes that alternate colors against a maroon background" title="Slippy V Triangle Shawl by Stephen West" style="display: block; margin: auto;">
+    </div>
+    <div>
+        I finally knit a Stephen West shawl even if it's admittedly a lot more tame than his usual designs. This used up one skein of Spincycle Ghost Ranch that I fell in love with at the yarn shop and two balls of the maroon-colored yarn. I originally used a ground beef colored background color, but it completely erased the pink in the spincycle gradient yarn, which was a huge mistep on my part that forced me to rip out a ton of progress. The only upside from ripping out half the shawl is that I eventually became familiar with the 14+ row repeat in the pattern, so I could knit it without tracking where I was in the pattern.
+        <br>
+        <br>
+        I originally intended for this to be a shawl I could wear over my workout clothes, so that no one over GVC could tell I hadn't changed out of my morning workout clothes; however, in my last apartment, I was mostly too warm to use it. Now that I'm in my new house, it's positively frosty in my office, so I've gotten a ton of use out of it due to sheer necessity.
+    </div>
+</div>
+<h1 style="display: flex; justify-content: center;">Hardly Harness by Lydia Morrow</h1>
+<div class="two-col">
+    <div>
         <img src="/graphics/crafting/hardly-harness.png" alt="a knitted tank top that is cropped just under the armpit with one by one ribbing on all edges." title="Hardly Harness by Lydia Morrow" style="display: block; margin: auto;">
     </div>
     <div>
