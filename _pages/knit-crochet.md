@@ -5,7 +5,7 @@ emoji: 🧶
 permalink: /knit-crochet/
 menu: crafting
 ---
-<h1 style="display: flex; justify-content: center;">Hardly Harness by Lydia Morrow</h1>
+<h1 style="display: flex; justify-content: center;">the Rybka Pouch by Rat and Sea Witch</h1>
 <div class="two-col">
     <div>
         <img src="/graphics/crafting/Rybka-Pouch.png" alt="a blue grey fish with a white button eye and two icord strings that cinch the mouth of the pouch shut" title="the Rybka Pouch by Rat and Sea Witch" style="display: block; margin: auto;">
@@ -17,7 +17,7 @@ menu: crafting
         I really like how the eye ball turned out with the dead little cross eye. I think it's extra silly and oversized, which makes the pouch look even funnier in real life.
     </div>
 </div>
-<h1 style="display: flex; justify-content: center;">Hardly Harness by Lydia Morrow</h1>
+<h1 style="display: flex; justify-content: center;">Slippy V Triangle Shawl by Stephen West</h1>
 <div class="two-col">
     <div>
         <img src="/graphics/crafting/slippy-v-triangle-shawl.png" alt="a triangle shawl with gradient stripes that alternate colors against a maroon background" title="Slippy V Triangle Shawl by Stephen West" style="display: block; margin: auto;">
