@@ -190,9 +190,6 @@ iframe {
 #switch-7 { /* green theme */
   background-color: #1c3b18;
 }
-#switch-8 { /* minimal theme */
-  background-color: #040024;
-}
 
 .theme-image{
   content: var(--theme-image);
