@@ -1,6 +1,6 @@
 const storedStyle = localStorage.getItem('style');
 if (!storedStyle) {
-  setTheme('stars');
+  setTheme('sakura');
 } else {
   setTheme(storedStyle);
 }
