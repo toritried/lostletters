@@ -6,7 +6,25 @@ permalink: /tarot/
 menu: about
 ---
 <h1>Tarot Readings</h1>
-I'm not a tarot expert, and I only have one deck: <a target="_blank" href="https://kimkrans.com/the-wild-unknown">The Wild Unknown by Kim Krans</a>. I think of tarot as an interesting, alternative way to consider and explore my inner world, thoughts, and feelings. I generally pull cards when I'm unsure of what to do next or how I'm feeling about a situation or upcoming period of life. This page was inspried by <a target="_blank" href="https://altalenae.neocities.org/">altalenae</a> with some spreads from <a target="_Blank" href="https://drive.google.com/file/d/1UEsOKPCjpQtcxsvzEsNzseIIo1VEUwvh/view">this resource collected by ieva dapkevicius</a> as well as <a target="_blank" href="https://app.moonlight.world/">Moonlight</a>.
+I'm not a tarot expert, and I only have one deck: <a target="_blank" href="https://kimkrans.com/the-wild-unknown">The Wild Unknown by Kim Krans</a>. I think of tarot as an interesting, alternative way to consider and explore my inner world, thoughts, and feelings. I generally pull cards when I'm unsure of what to do next or how I'm feeling about a situation or upcoming period of life. This page was inspried by <a target="_blank" href="https://altalenae.neocities.org/">altalenae</a> with some spreads from <a target="_Blank" href="https://drive.google.com/file/d/1UEsOKPCjpQtcxsvzEsNzseIIo1VEUwvh/view">this resource collected by ieva dapkevicius</a> as well as 
+<a target="_blank" href="https://app.moonlight.world/">Moonlight</a>.
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>March 17, 2026</h2>
+        <img src="/graphics/tarot/daily-march-17-2026.png" alt="a five card tarot spread featuring cards from The Wild Unknown tarot deck">
+    </div>
+    <div class="toy-flex-item">
+        <h2>III. DAILY DRAW</h2>
+        <ol>
+            <li><b>situation: what challenges/occurrences the day has in store</b> daughter of cups: creative inspiration and action, avoidant of conflict</li>
+            <li><b>advice: how to best handle them/what to focus on</b>  the tower: unexpected upheaval; try something new and have a personal breakthrough</li>
+            <li><b>outcome: potential outcomes and lessons to take home</b> eight of pentacles: hone your skills for mastery, start a project</li>
+            <li><b>where to look for help</b> the hermit: solitude and meditation will behelpful</li>
+            <li><b>hindrances to avoid</b> the moon: vivd dreams, fears, anxieties, and self-doubt</li>
+        </ol>
+        Given that I drew this at 2:00 PM, I already had a sense of what the day held for me, but it was interesting nonetheless. I created this tarot page after being inspired by <a target="_blank" href="https://altalenae.neocities.org/tarot">altalenae's page</a>, so I definitely agree that today consisted of creative action and inspiration. It's been ages since I created a new page on my website, and it feels like a personal breakthrough to add something here, so I definitely think that the tower, although usually scary, was helpful here. In terms of outcome, I worked on the CSS for this page, getting a bit more familiar with flexbox, so striving for mastery. I spent a lot of time today in solitude in my office coding this and getting all the photos and screenshots processed for this page, so I'd say solitude was helpful for this endeavor. As far as what to avoid, self-doubt is always the mind-killer for me, so that tracks too. 
+    </div>
+</div>
 <div class="container">
     <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
         <h2>March 17, 2026</h2>
