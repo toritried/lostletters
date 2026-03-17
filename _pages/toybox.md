@@ -102,13 +102,6 @@ menu: webcore
                 <img src="/graphics/toy/snowman.gif" title="pixel friends | Snowman"/>
             </a>
             <br>
-            <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
-                <img src="/graphics/toy/star_tarot_kingluludeer.gif"/> 
-                <img src="/graphics/toy/wheeloffortune_tarot_kingluludeer.gif"/> 
-                <img src="/graphics/toy/sun_tarot_kingluludeer.gif"/> 
-                <img src="/graphics/toy/devil_tarot_kingluludeer.gif"/>
-            </a>
-            <br>
             <b>credit disclaimer</b>: whenever possible, original creators are given credit for their work, but there are a few pixels that I couldn't trace to original sources. I really want to ensure correct attribution, so I would sincerely appreciate it if you could please reach out via the guestbook if you know one of the original artists that I'm missing. &#9825;
         </div>
     </div>
