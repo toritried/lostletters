@@ -8,9 +8,6 @@ menu: site
 
 <h2>Net Neighbors / Affiliates</h2>
 <div class="imgwall" style="padding: 10px 0 0 0; text-align: center;">
-    <a target="_blank" href="https://pastelhello.com/">
-        <img src="/graphics/linkout/pastelhell.gif" title="Pastel Hell and I are full of the same early web pixel site nostalgia. Robyn's lovingly curated Neopets resources, pixel clique memberships, and original pixel art are a true delight.">
-    </a>
     <a target="_blank" href="https://tinydiorama.neocities.org/">
         <img src="https://tinydiorama.com/images/tinydiorama-button.gif" title="tiny diorama's original games, pretty phone backgrounds, and hilarious let's build a zoo shrine are super neat!">
     </a>
@@ -44,17 +41,8 @@ menu: site
     <a target="_blank" href="https://bisuko.neocities.org/">
         <img src="/graphics/linkout/tigercarnival.png" title="Tiger Carnival">
     </a>
-    <a target="_blank" href="https://cobyzaby.neocities.org/" title="cobyzaby">
-        <img src="/graphics/linkout/cobyzabybutton.gif">
-    </a>
-    <a target="_blank" href="https://avas.space" title="daintyeco">
-        <img src="/graphics/linkout/avas-space.gif">
-    </a>
-    <a target="_blank" href="https://onio.cafe/" title="Onio Café - a truly delightful personal site with a focus on community chat. Don't miss Onio's interesting and well-written thought posts!">
+    <a target="_blank" href="https://onio.club/" title="Onio Café - a truly delightful personal site with a focus on community chat. Don't miss Onio's interesting and well-written thought posts!">
         <img src="/graphics/linkout/oniocafe.gif">
-    </a>
-    <a target="_blank" href="https://darnielle.me/" title="darnielle.me">
-        <img src="/graphics/linkout/darnielle.gif">
     </a>
     <a target="_blank" href="https://ashtreelane.neocities.org/" title="ash tree lane">
         <img src="/graphics/linkout/ashtreelane.gif">
@@ -67,18 +55,6 @@ menu: site
     </a>
     <a target="_blank" href="https://sakana.neocities.org/" title="sakana">
         <img src="/graphics/linkout/sakana.png">
-    </a>
-    <a target="_blank" href="https://cherrywaves.neocities.org">
-        <img src="/graphics/linkout/cherrywaves.gif" title="cherry waves">
-    </a>
-    <a target="_blank" href="https://theabsoluterealm.com/">
-        <img src="/graphics/linkout/theabsolutelrealm.gif" title="the absolute realm">
-    </a>
-    <a target="_blank" href="https://pinkvampyr.leprd.space/">
-        <img src="/graphics/linkout/pinkvampyr.gif" title="pinkvampyr">
-    </a>
-    <a target="_blank" href="https://paintkiller.neocities.org/">
-        <img src="/graphics/linkout/paintkiller.gif" title="paintkiller">
     </a>
     <a target="_blank" href="https://justfluffingaround.neocities.org/">
         <img src="/graphics/linkout/justfluffingaroundbutton.png" title="Just Fluffing Around">
@@ -113,9 +89,6 @@ menu: site
     <a target="_blank" href="https://creaturefeature.neocities.org/">
         <img src="/graphics/linkout/creaturefeature.png" title="creature feature">
     </a>
-    <a target="_blank" href="https://san-tagoy.online/">
-        <img src="/graphics/linkout/san-tagoy.png" title="San Tagoy">
-    </a>
     <a target="_blank" href="https://whiona.me/">
         <img src="/graphics/linkout/whiona_button.png" title="whiona.me">
     </a>
@@ -131,17 +104,8 @@ menu: site
     <a target="_blank" href="https://nefritvel.neocities.org/">
         <img src="/graphics/linkout/nefritvel-animated.gif" title="nefritvel">
     </a>
-    <a target="_blank" href="https://velvet-boutique.neocities.org/">
-        <img src="/graphics/linkout/velvet-boutique.png" title="Velvet Boutique">
-    </a>
-    <a target="_blank" href="https://nonkiru.art/">
-        <img src="/graphics/linkout/nonkiru_button_light.gif" title="nonkiru.art">
-    </a>
     <a target="_blank" href="https://clockwooork.github.io/">
         <img src="/graphics/linkout/archive-of-tomorrow.png" title="Archive of Tomorrow">
-    </a>
-    <a target="_blank" href="https://angelribs.neocities.org/">
-        <img src="/graphics/linkout/angelribs.png" title="A N G E L . . . R I B S">
     </a>
     <a target="_blank" href="https://gusbus.space/">
         <img src="/graphics/linkout/gusbus-88x31.png" title="GusBus Space">
@@ -167,14 +131,8 @@ menu: site
     <a target="blank" href="https://ribo.zone/">
         <img src="/graphics/linkout/ribozone.gif" title="ribo.zone">
     </a>
-    <a target="blank" href="https://radiant-sky.neocities.org/">
-        <img src="/graphics/linkout/radiantsky-buttonv2.4.gif" title="Radiant Sky">
-    </a>
     <a target="blank" href="https://www.autisticasfxxk.com/">
         <img src="/graphics/linkout/autisticasfuck.gif" title="autistic as fxxk">
-    </a>
-    <a target="blank" href="https://cherie.nekoweb.org">
-        <img src="/graphics/linkout/cherie-nekoweb.png" title="cherie">
     </a>
     <a target="blank" href="https://petrapixel.neocities.org/">
         <img src="/graphics/linkout/petrapixel.gif" title="petrapixel">
@@ -217,7 +175,7 @@ I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/
     <img src="https://lazybones.neocities.org/IMAGES/lazybonesicon3.png" title="lazy bones" align="left" style="margin: 10px 10px 0 0;"/>
 Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love the home movies, old journals, love letters, and stamp collection - all her efforts to digitize real world things creates this entirely distinct portal into another's life.  
 <br>
-<a target="_blank" href="http://cepheus.xyz">
+<a target="_blank" href="https://cepheus.neocities.org/">
     <img src="/graphics/linkout/cepheus.gif" title="cepheus" align="left" style="margin: 10px 10px 0 0;">
     Cepheus</a> reminds me of all the eye-catching and expressive graphic layouts of the early web. This site has a ton to explore: web material, full free books, and such a creative layout design. Be sure to check out his delightfully atmospheric <a target="_blank" href="https://cepheus.neocities.org/p/">web profile</a> too!  
 <br>
@@ -225,7 +183,7 @@ Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love
     <img src="/graphics/linkout/lu.tinyuniverse.gif" title="Lulu in Cyberspace" align="left" style="margin: 10px 10px 0 0;">
     Lulu in Cyberspace</a> - Lulu's ardent support of making web development as accessible as possible resonated with me. Lu is infinitely expressive through her site and has a lot to say that's worth listening to. There's plenty of fun and playful stuff to explore too.  
 <br>
-<a target="_blank" href="https://marzka.cafe/">
+<a target="_blank" href="https://web.archive.org/web/20250430192341/https://maria.town/">
     <img src="/graphics/linkout/marzka_cafe_88x31.png"  title="Marzka.Cafe" align="left" style="margin: 10px 10px 0 0;">Marzka.Cafe</a> is a stunningly designed website that's also built using jekyll. I learned a ton from her website's public github repository when trying to figure out how to make my SSG work.  
 <br>
 <a target="_blank" href="https://palemomos.neocities.org/">
@@ -233,20 +191,6 @@ Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love
     Palemomos</a> is a true visual delight for pixel and anime lovers. My favorite part that literally made me gasp in amazement the first time I saw it was Pale's Yu-Gi-Oh! shrine. The cursor hover effects were out of this world good.
 <br>
 <h2>Unique Resources</h2>
-<a target="_blank" href="https://yesterweb.org/">
-    <img src="/graphics/linkout/yesterweb.png" title="Yesterweb" align="left" style="margin: 10px 10px 0 0;">Yesterweb</a> opened my eyes to how the web has <a target="_blank" href="https://yesterweb.org/manifesto/">changed</a>, inspiring me to create this site.  
-<br>
-<a target="_blank" href="https://gloomlee.neocities.org/">
-    <img src="/graphics/linkout/gloomlee-button.png" title="Gloomlee" align="left" style="margin: 10px 10px 0 0;">
-Gloomlee</a> is the genius behind the Neocities-friendly (all HTML and JS, no PHP) TCG manager: <a target="_blank" href="https://gloomlee.neocities.org/neotcg/neotcg.html">neoTCG</a>! I used to play so many TCGs a decade ago and relied heavily on the PHP-based eTCG, but now we can play TCGs without hosting elsewhere!  
-<br>
-<a target="_blank" href="https://dimden.dev/">
-    <img src="https://dimden.dev/services/images/88x31.gif" title="Dimden" align="left" style="margin: 10px 10px 0 0;">Dimden</a>'s extremely cool CRT/hotel-vibes site layout blows me away every time. I like his <a target="_blank" href="https://dimden.dev/navlinkads/">NavLink Ads</a> project, which is a non-commercial way to advertise personal websites.  
-<br>
-<a target="_blank" href="https://cinni.net/directory/">
-    <img src="https://cinni.net/directory/img/88x31.png" title="Ichigo Directory" align="left" style="margin: 10px 10px 0 0;"> Ichigo Directory
-</a> is <a target="_blank" href="https://cinni.net/">Cinni</a>'s guide to current and archived cute websites with a focus on pixel art & web materials.  
-<br>
 <b>
     <a target="_blank" href="https://neustadt.fr/essays/against-a-user-hostile-web/">
         [ Against an Increasingly User-Hostile Web ]
