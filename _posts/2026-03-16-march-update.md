@@ -3,6 +3,9 @@ layout: post
 title: Mid-March Update
 date: 2026-03-16 18:27
 tags:
+  - fun
+  - cycling
+  - learning
 ---
 For this mid-March update, I wanted to share my enjoyment of gardening, video games, learning to code, peloton rides, and my current favorite Hobonichi Weeks layout. It's kind of a random roundup of updates, but I like documenting these things, so I can look back on them later on.<!--excerpt-->
 <br>
