@@ -6,7 +6,7 @@ permalink: /tarot/
 menu: about
 ---
 <h1>Tarot Readings</h1>
-I'm not a tarot expert, and I only have one deck: <a target="_blank" href="https://kimkrans.com/the-wild-unknown">The Wild Unknown by Kim Krans</a>. I think of tarot as an interesting, alternative way to consider and explore my inner world, thoughts, and feelings. I generally pull cards when I'm unsure of what to do next or how I'm feeling about a situation or upcoming period of life. This page was inspried by <a target="_blank" href="https://altalenae.neocities.org/">altalenae</a> with some spreads from <a target="_Blank" href="https://drive.google.com/file/d/1UEsOKPCjpQtcxsvzEsNzseIIo1VEUwvh/view">this resource collected by ieva dapkevicius</a> as well as 
+I'm not a tarot expert, and I only have one deck: <a target="_blank" href="https://kimkrans.com/the-wild-unknown">The Wild Unknown by Kim Krans</a>. I don't have strong feelings about this deck or letting others read from it. I think of tarot as an interesting, alternative way to consider and explore my inner world, thoughts, and feelings. I generally pull cards when I'm unsure of what to do next or how I'm feeling about a situation or upcoming period of life. But sometimes, I just pull for fun! This page was inspried by <a target="_blank" href="https://altalenae.neocities.org/">altalenae</a> with some spreads from <a target="_Blank" href="https://drive.google.com/file/d/1UEsOKPCjpQtcxsvzEsNzseIIo1VEUwvh/view">this resource collected by ieva dapkevicius</a> as well as 
 <a target="_blank" href="https://app.moonlight.world/">Moonlight</a>.
 <div class="container">
     <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
