@@ -1,0 +1,57 @@
+---
+layout: 3col
+title: tarot readings
+emoji: 🔮
+permalink: /tarot/
+menu: about
+---
+<h1>Tarot Readings</h1>
+I'm not a tarot expert, and I only have one deck: <a target="_blank" href="https://kimkrans.com/the-wild-unknown">The Wild Unknown by Kim Krans</a>. I think of tarot as an interesting, alternative way to consider and explore my inner world, thoughts, and feelings. I generally pull cards when I'm unsure of what to do next or how I'm feeling about a situation or upcoming period of life. This page was inspried by <a target="_blank" href="https://altalenae.neocities.org/">altalenae</a> with some spreads from <a target="_Blank" href="https://drive.google.com/file/d/1UEsOKPCjpQtcxsvzEsNzseIIo1VEUwvh/view">this resource collected by ieva dapkevicius</a> as well as <a target="_blank" href="https://app.moonlight.world/">Moonlight</a>.
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>March 17, 2026</h2>
+        <img src="/graphics/tarot/spring-2026.png" alt="a six card tarot spread featuring cards from The Wild Unknown tarot deck">
+    </div>
+    <div class="toy-flex-item">
+        <h2>XXXII. PETAL SHOWERS - Spring</h2>
+        <ol>
+            <li><b>What aspect of yourself yearns to blossom?</b> eight of cups: yearning to get out of stagnation</li>
+            <li><b>How can you bring it to life?</b> the chariot: confidence and strong will most certainly will lead to triumph</li>
+            <li><b>What must you accept as transient?</b> four of wands: completion and celebration will be short-lived</li>
+            <li><b>Where can you find joy?</b> the hermit: solitude and meditation will bring self-awareness and joy</li>
+            <li><b>How can you bring joy to others?</b> ace of wands: explosive creativity, inspiration</li>
+            <li><b>What fears must you leave behind?</b> the tower: unexpected upheaval</li>
+        </ol>
+        Overall, I thought this was a pretty accurate reading. I have written extensively on my blog about my personal stagnation, and I wish to get out of that. I do need more confidence and strong will to ensure I complete my Foundations course with the Odin Project, so I can move onto the Javascript one in addition to finding the will to train harder for my summer softball season. I think I have to anchor on the progress and journey, not the end result because celebrations will be short-lived. I think that grounding myself in the present through meditation and awareness will also help me enjoy the journey. I am really looking forward to a period of creativity that I can share with friends to hopefully delight them because that sounds wonderful. Lastly, I think I have been worried about sudden upheaval and disruptions in my life for about half a year now, and although I have lots of reassurance that something like that won't happen, I haven't trusted it. I need to now. I can thrive right now. I don't need to be in survival mode.
+    </div>
+</div>
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>March 2, 2026</h2>
+        <img src="/graphics/tarot/creative-flow-march-2026.png" alt="a three card tarot spread featuring cards from rider waite tarot deck">
+    </div>
+    <div class="toy-flex-item">
+        <h2>What's blocking my creative flow?</h2>
+        <ol>
+            <li><b>Persona</b> King of Swords: You're operating from pure logic right now, all sharp intellect and clear reasoning, but creativity needs some messiness to flourish.</li>
+            <li><b>Obstacle</b> Queen of Cups Reversed: You've built emotional walls so high that your intuitive, feeling-based creative impulses can't reach your conscious mind.</li>
+            <li><b>Solution</b> Page of Swords Reversed: Start smaller and gentler - take calculated creative risks instead of waiting for the perfect grand vision to strike.</li>
+        </ol>
+        <a target="_blank" href="https://app.moonlight.world/">Moonlight Reading</a>: Your razor-sharp King of Swords mind has created a fortress that keeps out the messy, intuitive Queen of Cups energy your creativity desperately needs. The solution isn't to abandon logic entirely, but to take smaller, more playful creative steps that don't trigger your need for perfection. Ask yourself what would happen if you gave yourself permission to create something deliberately imperfect today?
+    </div>
+</div>
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>March 2, 2026</h2>
+        <img src="/graphics/tarot/holding-back-2026.png" alt="a three card tarot spread featuring cards from rider waite tarot deck">
+    </div>
+    <div class="toy-flex-item">
+        <h2>What's holding me back?</h2>
+        <ol>
+            <li><b>Persona</b> Temperance: You're naturally gifted at finding balance, but this very strength might be keeping you stuck in the middle ground.</li>
+            <li><b>Obstacle</b> Six of Swords: Your tendency to constantly guide others to safety is exhausting you and preventing your own forward movement.</li>
+            <li><b>Solution</b> The Hanged Man: Stop trying to fix everything and everyone - sometimes the most productive thing you can do is absolutely nothing.</li>
+        </ol>
+        <a target="_blank" href="https://app.moonlight.world/">Moonlight Reading</a>: Your balanced nature and helper instincts are actually creating stagnation rather than progress. The path forward requires embracing stillness and releasing your need to constantly facilitate others' journeys. Ask yourself what would happen if you stopped being everyone's life raft for a while?
+    </div>
+</div>
