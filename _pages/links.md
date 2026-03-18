@@ -168,9 +168,6 @@ I believe that <a target="_blank" href="https://thoughts.melonking.net/thoughts/
         </svg>
     winnielim.org</a> - This relatable personal online library is a continuous exploration of self that inspires me to think more deeply about my own life.  
 <br>
-<a target="_blank" href="https://melonking.net">
-    <img src="https://melonking.net/images/badges/MELON-BADGE-2.GIF" title="Melonking.Net" align="left" style="margin: 10px 10px 0 0;">Melonking.Net</a> is so expansive that it literally has its own tourist guide. I'm constantly inspired by the web-related community provocations from Melon as well as all the creative animation and code on his site, pushing the bounds of possibility.  
-<br>
 <a target="_blank" href="https://lazybones.neocities.org/">
     <img src="https://lazybones.neocities.org/IMAGES/lazybonesicon3.png" title="lazy bones" align="left" style="margin: 10px 10px 0 0;"/>
 Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love the home movies, old journals, love letters, and stamp collection - all her efforts to digitize real world things creates this entirely distinct portal into another's life.  
