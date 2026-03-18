@@ -7,10 +7,10 @@ menu: about
 ---
 <h2 style="text-align: center;">Tarot Readings</h2>
 <div style="display: flex;">
-    <div style="min-width: 48px; margin-right: 1em;">
+    <div class="noext" style="min-width: 48px; margin-right: 1em;">
         <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
-            <img src="/graphics/toy/star_tarot_kingluludeer.gif"/> 
-            <img src="/graphics/toy/wheeloffortune_tarot_kingluludeer.gif"/> 
+            <img src="/graphics/toy/star_tarot_kingluludeer.gif" alt="The star tarot card, pixel art" title="click for artist"/> 
+            <img src="/graphics/toy/wheeloffortune_tarot_kingluludeer.gif" alt="The wheel of fortune tarot card, pixel art" title="click for artist"/> 
         </a>
     </div>
     <div>
@@ -19,10 +19,10 @@ menu: about
         <br>
         Once I'm a little further along in my JS journey, I'd like to code <a target="_blank" href="https://github.com/g00dv1n/mo-tarot-widget/tree/master">a daily card widget like this one for my site</a>, but with all the cards, so I wanted to park some resources I came across that might be helpful for building that in the future here: <a target="_blank" href="https://luciellaes.itch.io/rider-waite-smith-tarot-cards-cc0">scans of the Rider-Waite Smith deck</a> & <a target="_blank" href="https://github.com/MarketingPipeline/Tarot.js">Tarot.js</a>.
     </div>
-    <div style="min-width: 48px; margin-left: 1em;">
+    <div class="noext" style="min-width: 48px; margin-left: 1em;">
         <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
-            <img src="/graphics/toy/sun_tarot_kingluludeer.gif"/> 
-            <img src="/graphics/toy/devil_tarot_kingluludeer.gif"/>
+            <img src="/graphics/toy/sun_tarot_kingluludeer.gif" alt="The sun tarot card, pixel art" title="click for artist"/> 
+            <img src="/graphics/toy/devil_tarot_kingluludeer.gif" alt="The devil tarot card, pixel art" title="click for artist"/>
         </a>
     </div>
 </div>
