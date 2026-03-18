@@ -59,6 +59,9 @@ menu: stationery
         <li>
           <b>2023</b>: A5 <a target="_blank" href="https://take-a-note.store/">Take A Note</a> for daily planning + A5 <a target="_blank" href="https://booth.ours.tw/">OURS Research Project Journal</a> for memory keeping
         </li>
+        <li>
+          <b>2024-2026</b>: Hobonichi Weeks era of planner peace for memory keeping, recording weather, and some light planning
+        </li>
       </ul>
     </div>
   </div>
