@@ -31,85 +31,67 @@ menu: about
     <a target="_blank" href="https://www.deviantart.com/caicyo/art/Pixel-snufkin-794162961">
         <img id="snufkin" src="/graphics/toy/snufkin_by_Caicyo.png" title="click for artist"/>
     </a>
-    The boredom of the pandemic finally gave me the inspiration and judgement-free opportunity to explore basic web dev and early internet haunts again, leading me back to the threadbare remnants of the early internet I so enjoyed as a child. What started out as setting a goal to earn 10 million neopoints after all these years to achieve "ultimate riches" on Neopets quickly snowballed into discovering the yesterweb and web revival. All of a sudden, I was up until 2am, filled with a sense of urgency to memorialize as much as I could of the early internet of my childhood, which felt so close to being lost forever. That urgency inspired this website, so, if it feels like an incoherent fever dream, that's because it is.
+    The boredom of the pandemic finally gave me the inspiration and judgement-free opportunity to explore basic web dev and early internet haunts again, leading me back to the remnants of the early internet I so enjoyed as a child. What started out as setting a goal to earn 10 million neopoints after all these years to achieve "ultimate riches" on Neopets quickly snowballed into discovering the yesterweb and web revival. All of a sudden, I was up until 2am, filled with a sense of urgency to memorialize as much as I could of the early internet of my childhood, which felt so close to being lost forever. That urgency inspired this website, so, if it feels like an incoherent fever dream, that's because it is.
 </div>
 <br>
 <div class="col-wrapper">
     <div class="three-col">
-        <div id="likes">
+        <div id="bag">
             <div class="color-stroke">
                 <div class="dashed-outline">
-                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love-bear.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;likes
+                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love-bear.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;what's in my bag (heavy edition)
                 </div>
             </div>
             <p>
-                🏳️‍⚧️ trans rights
+                📔 <a target="_blank" href="https://www.1101.com/store/techo/en/2026/pc/detail_cover/wb26_kitagishi/">Yumi Kitagishi 2026 Hobonichi Weeks</a>
                 <br>
-                ♿ accessibility
+                ✒️ <a target="_blank" href="https://bungubox.shop/pages/originalfountainpenhistory#:~:text=The%20Tale%20of%20the%20Bamboo%20Cutter%20%2D%20Princess%20Kaguya.%E3%80%90October%202023%E3%80%91JPY42%2C000%EF%BD%9E">Princess Kaguya Sailor Pro Gear Slim fountain pen</a>
                 <br>
-                🥰 words of affirmation
-            </p>
-        </div>
-        <div id="dislikes">
-            <div class="color-stroke">
-                <div class="dashed-outline">
-                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/shocked-sony-cat.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;dislikes
-                </div>
-            </div>
-            <p>
-                🚫 trauma dumping
+                🐣 <a href="/tamagotchi/">Sanrio Tamagotchi Meets</a>
                 <br>
-                🚫 not crediting artists
+                🛍️ <a target="_blank" href="https://www.moomin.co.jp/news/products/93782">Moomin Shupatto Drop reusable bag</a>
                 <br>
-                🚫 not using CWs
+                🕶️ <a target="_blank" href="https://www.krewe.com/collections/sunglasses/products/st-louis-tuscan-tortoise-18k-polarized-sunglasses">Krewe St. Louis Tortoise sungalsses</a>
+                <br>
+                💧 Darling Daisy Owala bottle
+                <br>
+                🎲 <a href="/tt-accessories/">Polyhedral set of math rocks</a>
+                <br>
+                🏷️ my embrioidered reusable name tag
             </p>
         </div>
         <div id="practicing">
             <div class="color-stroke">
                 <div class="dashed-outline">
-                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/learning_pig.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;practicing
+                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/learning_pig.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;currently (march 2026)
                 </div>
             </div>
             <p>
-                ☸️ buddhism
+                ☸️ staying present, a life-long struggle
                 <br>
-                ❤️ <a target="_blank" href="https://philmaffetone.com/180-formula/">low HR training</a>
+                💻 learning to code with <a target="_blank" href="https://www.theodinproject.com/">TOP</a>
+                <br>
+                🚲 riding my peloton
+                <br>
+                🎮 dreaming about owning a switch 2 to play pokopia
+                <br>
+                🌱 checking on my plants obsessively
             </p>
         </div>
         <div id="hobbygoals">
             <div class="color-stroke">
                 <div class="dashed-outline">
-                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_cat.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;hobby goals
+                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/love_cat.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;hobby goals (long-term)
                 </div>
             </div>
             <p>
-                🇪🇸 spanish fluency
-                <br>
-                🧶 become a <a target="_blank" href="https://tkga.org/certification/master-hand-knitting/">Master Knitter</a>
-                <br>
-                👄 train to sing opera
+                🤡 take an improv class
                 <br>
                 💻 learn JavaScript
                 <br>
-                🛼 join a roller derby team
-            </p>
-        </div>
-        <div id="healthgoals">
-            <div class="color-stroke">
-                <div class="dashed-outline">
-                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/apple-watercolor.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;health goals
-                </div>
-            </div>
-            <p>
-                🏃🏻‍♀️ run a marathon,
-                <br>
-                🍏 become a <a target="_blank" href="https://www.eatright.org/become-an-rdn">nutritionist</a>,
-                <br>
-                🍄 learn to forage food locally,
+                🍄 learn to forage food locally
                 <br>
                 🧘🏻‍♀️ attend vipassana
-                <br>
-                👩🏻‍🍳 attend vegan culinary school
             </p>
         </div>
     </div>
