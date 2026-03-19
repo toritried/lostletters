@@ -28,6 +28,38 @@ menu: about
 </div>
 <div class="container">
     <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>March 19, 2026</h2>
+        <img src="/graphics/tarot/starlit-path-3-19-2026.png" alt="a six card tarot spread featuring cards from The Wild Unknown tarot deck">
+    </div>
+    <div class="toy-flex-item">
+        <h2>I. THE STARLIT PATH</h2>
+        <ol>
+            <li><b>emerging themes</b> Ace of Wands: brings you pure potential, follow your heart and live your passion</li>
+            <li><b>external/environmental influences</b> The Devil: represents your shadow (or darker) side and the negative forces that constrain you and hold you back from being the best version of yourself.</li>
+            <li><b>challenge</b> Two of Pentacles: you are juggling your priorities, roles and responsibilities.</li>
+            <li><b>help</b> Mother of Swords: sharp, perceptive</li>
+            <li><b>hindrance</b> Nine of Cups: emotional fulfilment, happiness and contentment in all aspects of your life – relationships, work, lifestyle, well-being and more</li>
+            <li><b>advice/outcome</b> The Emperor (Reversed): assess your relationship with power, control, authority, responsibility and discipline. Are you expressing too much or too little of these elements in your life right now? Are they working for you or against you?</li>
+        </ol>
+        This was a complex and difficult interpretation for me, but here's what I think it means: It seems like a time of passion and potential is coming up, but becoming my best self might be hindered by my shadow as I juggle priorities. I need to keep a perceptive eye on my shadow self and monitor how that influences my behavior, so I'm not affected too much. Fulfillment in all aspects of my life as a hinderance might make me complacent and lazy, so I won't strive for my passions as much. In some ways, I need to increase my discipline so I stay focused on my studies, which bring me joy, but I also need to chill out a little bit and enjoy my time.
+    </div>
+</div>
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>March 19, 2026</h2>
+        <img src="/graphics/tarot/march-19-2026.png" alt="a two card tarot spread featuring cards from The rider waite tarot deck">
+    </div>
+    <div class="toy-flex-item">
+        <h2>HABIT CHECK</h2>
+        <ol>
+            <li><b>Quick fix I'm reaching for:</b> Eight of Pentacles: you are working hard to improve your skills and become a master at what you do</li>
+            <li><b>The deeper thing I crave:</b> Eight of Wands (Reversed): you are charging ahead with an idea or plan, but you need to slow down and consider your next steps before continuing</li>
+        </ol>
+        <a target="_blank" href="https://app.moonlight.world/">Moonlight Reading</a>: You're grinding away and getting better at something, but the Eight of Wands reversed says what you actually want is for everything to just slow the heck down for a second. Maybe the craft obsession is just a socially acceptable way to hide from the chaos.
+    </div>
+</div>
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
         <h2>March 17, 2026</h2>
         <img src="/graphics/tarot/daily-march-17-2026.png" alt="a five card tarot spread featuring cards from The Wild Unknown tarot deck">
     </div>
