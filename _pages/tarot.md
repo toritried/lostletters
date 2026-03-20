@@ -5,26 +5,36 @@ emoji: 🔮
 permalink: /tarot/
 menu: about
 ---
-<h2 style="text-align: center;">Tarot Readings</h2>
-<div class="noext" style="min-width: 48px; margin-right: 1em; float: left;">
-    <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
-        <img src="/graphics/toy/star_tarot_kingluludeer.gif" alt="The star tarot card, pixel art" title="click for artist"/>
-        <br>
-        <img src="/graphics/toy/wheeloffortune_tarot_kingluludeer.gif" alt="The wheel of fortune tarot card, pixel art" title="click for artist"/> 
-    </a>
-</div>
-<div class="noext" style="min-width: 48px; margin-left: 1em; float: right;">
-    <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
-        <img src="/graphics/toy/sun_tarot_kingluludeer.gif" alt="The sun tarot card, pixel art" title="click for artist"/> 
-        <br>
-        <img src="/graphics/toy/devil_tarot_kingluludeer.gif" alt="The devil tarot card, pixel art" title="click for artist"/>
-    </a>
-</div>
-<div>
-    I'm not a tarot expert, and I only have one deck: <a target="_blank" href="https://kimkrans.com/the-wild-unknown">The Wild Unknown by Kim Krans</a>. I don't have strong feelings about this deck or letting others read from it, but I find tarot to be an interesting, alternative way to consider and explore my inner world, thoughts, and feelings. I generally pull cards when I'm unsure of what to do next or how I'm feeling about a situation or upcoming period of life. But sometimes, I just pull for fun! This page was inspried by <a target="_blank" href="https://altalenae.neocities.org/">altalenae</a> with some spreads from <a target="_Blank" href="https://drive.google.com/file/d/1UEsOKPCjpQtcxsvzEsNzseIIo1VEUwvh/view">this resource collected by ieva dapkevicius</a> as well as <a target="_blank" href="https://app.moonlight.world/">Moonlight</a>. 
-    <br>
-    <br>
-    Once I'm a little further along in my JS journey, I'd like to code <a target="_blank" href="https://github.com/g00dv1n/mo-tarot-widget/tree/master">a daily card widget like this one for my site</a>, but with all the cards, so I wanted to park some resources I came across that might be helpful for building that in the future here: <a target="_blank" href="https://luciellaes.itch.io/rider-waite-smith-tarot-cards-cc0">scans of the Rider-Waite Smith deck</a> & <a target="_blank" href="https://github.com/MarketingPipeline/Tarot.js">Tarot.js</a>.
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center;">
+        <div>
+            <h2 style="text-align: center;">Tarot Readings</h2>
+            <div class="noext" style="min-width: 48px; margin-right: 1em; float: left;">
+                <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
+                    <img src="/graphics/toy/star_tarot_kingluludeer.gif" alt="The star tarot card, pixel art" title="click for artist"/>
+                    <br>
+                    <img src="/graphics/toy/wheeloffortune_tarot_kingluludeer.gif" alt="The wheel of fortune tarot card, pixel art" title="click for artist"/> 
+                </a>
+            </div>
+            <div class="noext" style="min-width: 48px; margin-left: 1em; float: right;">
+                <a target="_blank" href="https://www.deviantart.com/king-lulu-deer">
+                    <img src="/graphics/toy/sun_tarot_kingluludeer.gif" alt="The sun tarot card, pixel art" title="click for artist"/> 
+                    <br>
+                    <img src="/graphics/toy/devil_tarot_kingluludeer.gif" alt="The devil tarot card, pixel art" title="click for artist"/>
+                </a>
+            </div>
+            <div>
+                I'm not a tarot expert, and I only have one deck: <a target="_blank" href="https://kimkrans.com/the-wild-unknown">The Wild Unknown by Kim Krans</a>. I don't have strong feelings about this deck or letting others read from it, but I find tarot to be an interesting, alternative way to consider and explore my inner world, thoughts, and feelings. I generally pull cards when I'm unsure of what to do next or how I'm feeling about a situation or upcoming period of life. But sometimes, I just pull for fun! This page was inspried by <a target="_blank" href="https://altalenae.neocities.org/">altalenae</a> with some spreads from <a target="_Blank" href="https://drive.google.com/file/d/1UEsOKPCjpQtcxsvzEsNzseIIo1VEUwvh/view">this resource collected by ieva dapkevicius</a> as well as <a target="_blank" href="https://app.moonlight.world/">Moonlight</a>. 
+                <br>
+                <br>
+                Inspired by <a target="_blank" href="https://github.com/g00dv1n/mo-tarot-widget/tree/master">this daily card widget</a>, my wife helped me code this daily personal tarot card script that will refresh at midnight for you. I got the images from <a target="_blank" href="https://luciellaes.itch.io/rider-waite-smith-tarot-cards-cc0">LuciellaES' scans of the Rider-Waite Smith deck</a>.
+            </div>
+        </div>
+    </div>
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>Daily Personal Tarot Card</h2>
+        <img id="tarot-card-img-id">
+    </div>
 </div>
 <div class="container">
     <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
@@ -123,3 +133,4 @@ menu: about
         <a target="_blank" href="https://app.moonlight.world/">Moonlight Reading</a>: Your balanced nature and helper instincts are actually creating stagnation rather than progress. The path forward requires embracing stillness and releasing your need to constantly facilitate others' journeys. Ask yourself what would happen if you stopped being everyone's life raft for a while?
     </div>
 </div>
+<script src="/tarot.js"></script>
