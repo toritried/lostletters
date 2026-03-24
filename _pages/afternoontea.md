@@ -395,4 +395,4 @@ This is a pixel club tribute to <b>Teahouse MB</b>, a kawaii pixel art forum tha
 <i>Note:</i> I created the template for the Afternoon Pixel Club from scratch since I didn't have a copy of the original from Teahouse MB.
 <br>
 <br>
-<i>Update (2023.04.10)</i>: I actually found Joanne's website (the owner of TeahouseMB) who still has a collection <a target="_blank" href="https://www.pausedlife.com/webmiss/me-on-thmb">here</a> as well as <a target="_blank" href="http://caz.pausedlife.com/Me/BBS.html">Caz's collection</a>, so please give those collections a click and get inspired.
+<i>Update (2023.04.10)</i>: I actually found Joanne's website (the owner of TeahouseMB) who still has a collection <a target="_blank" href="https://web.archive.org/web/20130331081340/http://www.pausedlife.com/webmiss/me-on-thmb">here</a> as well as <a target="_blank" href="https://web.archive.org/web/20160804120410/https://caz.pausedlife.com/Me/BBS.html">Caz's collection</a>, so please give those collections a click and get inspired.
