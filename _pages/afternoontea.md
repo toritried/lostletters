@@ -7,7 +7,7 @@ menu: webcore
 ---
 
 <center>
-    <h1>Afternoon Tea is not currently accepting new submissions.</h1>
+    <h1>Afternoon Tea</h1>
     <div class="noext-cups">
         <a href="/">
             <img src="/graphics/teahouse/teacup/mush-lostletters.png" title="tastes a bit earthy - made by Lost Letters"/>
@@ -354,9 +354,7 @@ menu: webcore
     Do not direct link from my site.
 </center>
 <br>
-<h1><s>How to Join This Pixel Club</s> 
-<BR>
-Afternoon Tea is on Hiatus, so do not try to submit a teacup. Please wait until we come back from hiatus.</h1>
+<h1>How to Join This Pixel Club</h1> 
 <ol>
     <li>
         <b>You must be at least 18 years old to join.</b> If your website states that you are a minor, you will not be admitted because no part of my site is intended for minors.
@@ -368,8 +366,8 @@ Afternoon Tea is on Hiatus, so do not try to submit a teacup. Please wait until 
         Create a pixel teacup with a transparent background to show off your style, and keep the cropping tight, so it aligns vertically with other cups. Animations are welcome! 
     </li>
     <li>
-        Afternoon Tea is currently on hiatus, so we aren't accepting new submissions.<!--Post a message on my <a target="_blank" href="https://neocities.org/site/lostletters">Neocities Profile</a> or in my <a href="/guestbook/">guestbook</a> with a link to your pixel teacup + your URL, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text. 
-        <img src="/graphics/toy/emoticons/letter-bear.gif"> -->
+        Post a message on my <a target="_blank" href="https://neocities.org/site/lostletters">Neocities Profile</a> or in my <a href="/guestbook/">guestbook</a> with a link to your pixel teacup + your URL, so I can upload it and link to your site from the gallery above. Feel free to include a description of how it tastes for mouse-over alt text. 
+        <img src="/graphics/toy/emoticons/letter-bear.gif">
     </li>
     <li>
         <b>Optional:</b> Create a space on your website for your teacup collection and collect cups from the gallery above.
@@ -395,4 +393,4 @@ This is a pixel club tribute to <b>Teahouse MB</b>, a kawaii pixel art forum tha
 <i>Note:</i> I created the template for the Afternoon Pixel Club from scratch since I didn't have a copy of the original from Teahouse MB.
 <br>
 <br>
-<i>Update (2023.04.10)</i>: I actually found Joanne's website (the owner of TeahouseMB) who still has a collection <a target="_blank" href="https://web.archive.org/web/20130331081340/http://www.pausedlife.com/webmiss/me-on-thmb">here</a> as well as <a target="_blank" href="https://web.archive.org/web/20160804120410/https://caz.pausedlife.com/Me/BBS.html">Caz's collection</a>, so please give those collections a click and get inspired.
+<i>Update (2026.03.24)</i>: I actually found Joanne's website (the owner of TeahouseMB) who has a collection <a target="_blank" href="https://web.archive.org/web/20130331081340/http://www.pausedlife.com/webmiss/me-on-thmb">here</a> as well as <a target="_blank" href="https://web.archive.org/web/20160804120410/https://caz.pausedlife.com/Me/BBS.html">Caz's collection</a>, so please give those collections a click and get inspired. Some of the graphics may be broken now since those websites went offline and require the wayback machine to load old versions of the sites. 
