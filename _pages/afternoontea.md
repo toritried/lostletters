@@ -348,6 +348,9 @@ menu: webcore
         <a target="_blank" href="https://lavendercoffee.neocities.org/">
             <img src="/graphics/teahouse/teacup/lavendercoffee.png" alt="a lavender teacup with coffee bean on the side" title="Tastes like a lavender latte. - made by Andrea"/>
         </a>
+        <a target="_blank" href="https://lataccola.neocities.org">
+            <img src="/graphics/teahouse/teacup/muffetto.gif" alt="a moss ball and twig inside a clear teacup with yellow sand inside" title="Tastes like fresh lake water. - made by b"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
