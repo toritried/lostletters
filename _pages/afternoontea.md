@@ -354,6 +354,9 @@ menu: webcore
         <a target="_blank" href="https://lazer-bunny.neocities.org/">
             <img src="/graphics/teahouse/teacup/Lazer-Bunny.gif" alt="a pink bunny hops up and down in a teacup filled with whipped cream, sprinkles and a cinnamon-colored stick. There is a cookie on the saucer." title="Tastes like pink hot chocolate. - made by Lazer"/>
         </a>
+        <a target="_blank" href="https://qtbeans.neocities.org/">
+            <img src="/graphics/teahouse/teacup/qtbeans.png" alt="a floral pattern adorns this antique looking teacup and saucer with brown tea inside" title="Tastes just like grandma used to make. - made by Nikki"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
