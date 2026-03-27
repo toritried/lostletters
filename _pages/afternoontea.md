@@ -351,7 +351,7 @@ menu: webcore
         <a target="_blank" href="https://lataccola.neocities.org">
             <img src="/graphics/teahouse/teacup/muffetto.gif" alt="a moss ball and twig inside a clear teacup with yellow sand inside" title="Tastes like fresh lake water. - made by b"/>
         </a>
-        <a target="_blank" href="https://lataccola.neocities.org">
+        <a target="_blank" href="https://lazer-bunny.neocities.org/">
             <img src="/graphics/teahouse/teacup/Lazer-Bunny.gif" alt="a pink bunny hops up and down in a teacup filled with whipped cream, sprinkles and a cinnamon-colored stick. There is a cookie on the saucer." title="Tastes like pink hot chocolate. - made by Lazer"/>
         </a>
     </div>
