@@ -38,6 +38,23 @@ menu: about
 </div>
 <div class="container">
     <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>March 25, 2026</h2>
+        <img src="/graphics/tarot/daily-march-25-2026.png" alt="a five card tarot spread featuring cards from The rider waite tarot deck">
+    </div>
+    <div class="toy-flex-item">
+        <h2>III. DAILY DRAW</h2>
+        <ol>
+            <li><b>situation: what challenges/occurrences the day has in store</b> Eight of Wands Reversed: a sign to hold off your activities for a short amount of time until the situation becomes more stable and predictable</li>
+            <li><b>advice: how to best handle them/what to focus on</b> Four of Swords: rest before you take on the next challenge.</li>
+            <li><b>outcome: potential outcomes and lessons to take home</b> Five of Cups: you’re stuck in the past and can’t let go. These negative emotions are holding you back from your fullest potential – release them so you can move on and create positive change.</li>
+            <li><b>where to look for help</b> Ten of Pentacles: You are financially secure and trust that, because of your personal successes and accomplishments, you will always have what you need and desire.</li>
+            <li><b>hindrances to avoid</b> Three of Pentacles Reversed: you prefer to go it alone and get the job done yourself. You may be right. However, if you find yourself struggling, be open to asking for help.</li>
+        </ol>
+        Everything is pointing towards pausing to process my self-doubt right now. I need to trust in the fact that I have everything I need to get the job done in due time, but I need to be sure to ask for help along the way if I get stuck.
+    </div>
+</div>
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
         <h2>March 19, 2026</h2>
         <img src="/graphics/tarot/starlit-path-3-19-2026.png" alt="a six card tarot spread featuring cards from The Wild Unknown tarot deck">
     </div>
@@ -77,7 +94,7 @@ menu: about
         <h2>III. DAILY DRAW</h2>
         <ol>
             <li><b>situation: what challenges/occurrences the day has in store</b> daughter of cups: creative inspiration and action, avoidant of conflict</li>
-            <li><b>advice: how to best handle them/what to focus on</b>  the tower: unexpected upheaval; try something new and have a personal breakthrough</li>
+            <li><b>advice: how to best handle them/what to focus on</b> the tower: unexpected upheaval; try something new and have a personal breakthrough</li>
             <li><b>outcome: potential outcomes and lessons to take home</b> eight of pentacles: hone your skills for mastery, start a project</li>
             <li><b>where to look for help</b> the hermit: solitude and meditation will behelpful</li>
             <li><b>hindrances to avoid</b> the moon: vivd dreams, fears, anxieties, and self-doubt</li>
