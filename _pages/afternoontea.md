@@ -360,6 +360,9 @@ menu: webcore
         <a target="_blank" href="https://peachlantern.neocities.org">
             <img src="/graphics/teahouse/teacup/peachlantern-tea.png" alt="a palm tree grows behind a purple teacup with a pink hibiscus inside and a blue surfboard rests on the saucer" title="Tastes like a Hawaiian sunset. - made by Nevere"/>
         </a>
+        <a target="_blank" href="https://peachlantern.neocities.org">
+            <img src="/graphics/teahouse/teacup/peachlantern-tea2.png" alt="a purple rainbow teacup is killed with neon pastel bubbles" title="Tastes like Koolaid and smells like Lisa Frank stickers. - made by Nevere"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
