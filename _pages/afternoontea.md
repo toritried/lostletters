@@ -363,6 +363,9 @@ menu: webcore
         <a target="_blank" href="https://peachlantern.neocities.org">
             <img src="/graphics/teahouse/teacup/peachlantern-tea2.png" alt="a purple rainbow teacup is killed with neon pastel bubbles" title="Tastes like Koolaid and smells like Lisa Frank stickers. - made by Nevere"/>
         </a>
+        <a target="_blank" href="https://peachlantern.neocities.org">
+            <img src="/graphics/teahouse/teacup/peachlantern-tea3.gif" alt="a goldfish swims in blue water with a pink flower and plants inside a clear teacup on a lily pad saucer" title="Tastes like peach tea and zen. - made by Nevere"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
