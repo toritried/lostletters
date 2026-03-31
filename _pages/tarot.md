@@ -150,4 +150,4 @@ menu: about
         <a target="_blank" href="https://app.moonlight.world/">Moonlight Reading</a>: Your balanced nature and helper instincts are actually creating stagnation rather than progress. The path forward requires embracing stillness and releasing your need to constantly facilitate others' journeys. Ask yourself what would happen if you stopped being everyone's life raft for a while?
     </div>
 </div>
-<script src="/tarot.js"></script>
+<script src="/scripts/tarot.js"></script>

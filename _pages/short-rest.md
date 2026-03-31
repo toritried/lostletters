@@ -6,7 +6,7 @@ permalink: /short-rest/
 menu: self-care
 ---
 
-<link rel="stylesheet" href="/bookshelf.css">
+<link rel="stylesheet" href="/styles/bookshelf.css">
 <style>
   #wrapper {
     position: relative;

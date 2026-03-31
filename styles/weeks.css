@@ -1,0 +1,82 @@
+    .page {
+        background-color: var(--color-primary-a0);
+        border-radius: 15px;
+        padding: 2px;
+        box-shadow: 0px 0px 2px var(--color-primary-a70);
+        display: flex;
+        justify-content: center;
+    }
+    .cover {
+        width: 98%;
+        border-radius: 15px;
+        background-color: var(--color-primary-a70);
+        padding: 10px;
+    }
+    .section {
+        display: flex;
+        width: 98%;
+        flex: 1 1 auto;
+        flex-direction: column;
+        padding: 10px;
+    }
+    .section__item {
+        column-width: 330px;
+        gap: 1rem;
+    }
+    @media (min-width: 700px) {
+        .section {
+            flex-direction: row;
+        }
+    }
+    .entry {
+        border-radius: 7px;
+        border: 1px solid var(--color-primary-a10);
+        overflow: hidden;
+        margin-bottom: 7px;
+    }
+    .entry-header, .content {
+        padding-left: 7px;
+        padding-right: 7px;
+        top: -10px;
+        position: relative;
+    }
+    .entry-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-transform: uppercase;
+        padding-bottom: 6px;
+        border-bottom: dashed 2px var(--color-primary-a10);
+        top: -20px;
+        position: relative;
+    }
+    .entry::before {
+        content: '';
+        background-image: linear-gradient(to bottom, var(--color-primary-a10) 0%, var(--color-primary-a0) 100%);
+        padding: 9px;
+        width: 100%;
+        display: inline-block;
+    }
+    .entry-header img {
+        image-rendering: pixelated;
+        float: left;
+    }
+    .entry-header span:nth-child(2) {
+        margin-left: auto;
+        flex-grow: 1;
+        padding-left: 7px;
+    }
+    .entry-date {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        min-width: 0;
+    }
+    .content em {
+        background: var(--color-primary-a10);
+        font-style: normal;
+    }
+    .inline-svg {
+        height: 1.3em;
+        vertical-align: top;
+    }
