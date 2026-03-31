@@ -1,6 +1,6 @@
 ---
 layout: 3col
-title: journaling
+title: journaling prompts
 emoji: 📓
 permalink: /journaling/
 menu: stationery
