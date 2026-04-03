@@ -366,6 +366,15 @@ menu: webcore
         <a target="_blank" href="https://peachlantern.neocities.org">
             <img src="/graphics/teahouse/teacup/peachlantern-tea3.gif" alt="a goldfish swims in blue water with a pink flower and plants inside a clear teacup on a lily pad saucer" title="Tastes like peach tea and zen. - made by Nevere"/>
         </a>
+        <a target="_blank" href="https://jeweljar.neocities.org">
+            <img src="/graphics/teahouse/teacup/jeweljar-teacup.png" alt="a tropical sunset gradient inside a clear teacup with a tag hanging out the right side" title="Tastes like sparkling lemonade \(^- ^ )/. - made by Jewel Jar"/>
+        </a>
+        <a target="_blank" href="https://lavendercoffee.neocities.org/">
+            <img src="/graphics/teahouse/teacup/afternoontea-lavendercoffee2.png" alt="a white teacup with navy design and gold detailing" title="made by Andrea"/>
+        </a>
+        <a target="_blank" href="https://lavendercoffee.neocities.org/">
+            <img src="/graphics/teahouse/teacup/willow-raven-teacup.gif" alt="a raven perches on the rim of a peach teacup that features vines and a willow tree" title="Tastes like jasmine-green milk tea. made by willow-rivers-hollow"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
