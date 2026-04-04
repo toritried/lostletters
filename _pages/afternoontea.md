@@ -375,6 +375,9 @@ menu: webcore
         <a target="_blank" href="https://lavendercoffee.neocities.org/">
             <img src="/graphics/teahouse/teacup/willow-raven-teacup.gif" alt="a raven perches on the rim of a peach teacup that features vines and a willow tree" title="Tastes like jasmine-green milk tea. made by willow-rivers-hollow"/>
         </a>
+        <a target="_blank" href="https://peachlantern.neocities.org">
+            <img src="/graphics/teahouse/teacup/peachlantern-tea4.png" alt="a blue pink and purple pastel shell teacup" title="Tastes like mermaids and dreams. - made by Nevere"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
