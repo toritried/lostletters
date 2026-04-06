@@ -378,6 +378,9 @@ menu: webcore
         <a target="_blank" href="https://peachlantern.neocities.org">
             <img src="/graphics/teahouse/teacup/peachlantern-tea4.png" alt="a blue pink and purple pastel shell teacup" title="Tastes like mermaids and dreams. - made by Nevere"/>
         </a>
+        <a target="_blank" href="https://scrapsite.nekoweb.org/">
+            <img src="/graphics/teahouse/teacup/scrapsite-teacup.png" alt="a blue teacup with yellow dots and brown liquid inside" title="Tastes like black tea, peach, and vanilla and it's warm like the light of a star. - made by BigBanana"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
