@@ -345,7 +345,7 @@ menu: webcore
         <a target="_blank" href="https://lucky-goose.neocities.org/">
             <img src="/graphics/teahouse/teacup/teacup-luckygoose.png" alt="a mauve teacup with leaves around it and a blue interior" title="Tastes like warm berries and cream. - made by Luckygoose"/>
         </a>
-        <a target="_blank" href="https://lavendercoffee.neocities.org/">
+        <a target="_blank" href="https://chaoticgoode.neocities.org/">
             <img src="/graphics/teahouse/teacup/lavendercoffee.png" alt="a lavender teacup with coffee bean on the side" title="Tastes like a lavender latte. - made by Andrea"/>
         </a>
         <a target="_blank" href="https://lataccola.neocities.org">
@@ -369,10 +369,10 @@ menu: webcore
         <a target="_blank" href="https://jeweljar.neocities.org">
             <img src="/graphics/teahouse/teacup/jeweljar-teacup.png" alt="a tropical sunset gradient inside a clear teacup with a tag hanging out the right side" title="Tastes like sparkling lemonade \(^- ^ )/. - made by Jewel Jar"/>
         </a>
-        <a target="_blank" href="https://lavendercoffee.neocities.org/">
+        <a target="_blank" href="https://chaoticgoode.neocities.org/">
             <img src="/graphics/teahouse/teacup/afternoontea-lavendercoffee2.png" alt="a white teacup with navy design and gold detailing" title="made by Andrea"/>
         </a>
-        <a target="_blank" href="https://lavendercoffee.neocities.org/">
+        <a target="_blank" href="https://willow-rivers-hollow.neocities.org/">
             <img src="/graphics/teahouse/teacup/willow-raven-teacup.gif" alt="a raven perches on the rim of a peach teacup that features vines and a willow tree" title="Tastes like jasmine-green milk tea. made by willow-rivers-hollow"/>
         </a>
         <a target="_blank" href="https://peachlantern.neocities.org">
