@@ -381,6 +381,12 @@ menu: webcore
         <a target="_blank" href="https://scrapsite.nekoweb.org/">
             <img src="/graphics/teahouse/teacup/scrapsite-teacup.png" alt="a blue teacup with yellow dots and brown liquid inside" title="Tastes like black tea, peach, and vanilla and it's warm like the light of a star. - made by BigBanana"/>
         </a>
+        <a target="_blank" href="https://loreleice.net/">
+            <img src="/graphics/teahouse/teacup/loreleice.png" alt="a blue butterfly sits inside a white teacup with blue and grey decoration on the cup" title="Tastes like butterfly pea tea with a dash of sugar. - made by Loreleice"/>
+        </a>
+        <a target="_blank" href="https://peachlantern.neocities.org">
+            <img src="/graphics/teahouse/teacup/peachlantern_drinkhawaii.png" alt="a sunset with palm trees decorates the teacup with fire coming out of the top" title="Tastes like sweet punch and hot lava. - made by Nevere"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
