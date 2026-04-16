@@ -387,6 +387,9 @@ menu: webcore
         <a target="_blank" href="https://peachlantern.neocities.org">
             <img src="/graphics/teahouse/teacup/peachlantern_drinkhawaii.png" alt="a sunset with palm trees decorates the teacup with fire coming out of the top" title="Tastes like sweet punch and hot lava. - made by Nevere"/>
         </a>
+        <a target="_blank" href="https://riotghoul.neocities.org/">
+            <img src="/graphics/teahouse/teacup/riotghoul-hotcocoa.gif" alt="a teacup of hot cocoa" title="made by riotghoul"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
