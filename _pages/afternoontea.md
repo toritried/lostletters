@@ -390,6 +390,9 @@ menu: webcore
         <a target="_blank" href="https://riotghoul.neocities.org/">
             <img src="/graphics/teahouse/teacup/riotghoul-hotcocoa.gif" alt="a teacup of hot cocoa" title="made by riotghoul"/>
         </a>
+        <a target="_blank" href="https://peachlantern.neocities.org">
+            <img src="/graphics/teahouse/teacup/peachlantern_gemstonetea.png" alt="a mostly purple but multi-colored abstract design on a teacup and saucer" title="Tastes like dark dreams and gemstone magic. - made by Nevere"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
