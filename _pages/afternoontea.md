@@ -393,6 +393,9 @@ menu: webcore
         <a target="_blank" href="https://peachlantern.neocities.org">
             <img src="/graphics/teahouse/teacup/peachlantern_gemstonetea.png" alt="a mostly purple but multi-colored abstract design on a teacup and saucer" title="Tastes like dark dreams and gemstone magic. - made by Nevere"/>
         </a>
+        <a target="_blank" href="https://chaoticgoode.neocities.org/">
+            <img src="/graphics/teahouse/teacup/chaoticgoode3.gif" alt="a blue kawaii faced teacup with a matcha latte inside" title="Tastes Adorable! - made by Andrea"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
