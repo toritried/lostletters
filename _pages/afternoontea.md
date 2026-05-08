@@ -396,6 +396,9 @@ menu: webcore
         <a target="_blank" href="https://chaoticgoode.neocities.org/">
             <img src="/graphics/teahouse/teacup/chaoticgoode3.gif" alt="a blue kawaii faced teacup with a matcha latte inside" title="Tastes Adorable! - made by Andrea"/>
         </a>
+        <a target="_blank" href="https://tascatita.neocities.org/">
+            <img src="/graphics/teahouse/teacup/tascatita-pumpkin-tea.gif" alt="a jack-o-lantern teacup on a leaf saucer" title="Tastes like mischief - made by tita"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
