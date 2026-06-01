@@ -405,6 +405,12 @@ menu: webcore
         <a target="_blank" href="https://zabnikinthevoid.neocities.org">
             <img src="/graphics/teahouse/teacup/zabnikinthevoid-evil_cup.gif" alt="an animated yellow teacup with eyes that start normal and then expand into something haunting" title="made by ŻabnikRex"/>
         </a>
+        <a target="_blank" href="https://nutritionalyeest.neocities.com/webrings">
+            <img src="/graphics/teahouse/teacup/nutritionalyeest-oyajicup5.gif" alt="Oyajitchi from tamagotchi in the form of a cup with a can inside it " title="Tastes like regret, garlic aftertaste - made by GABY"/>
+        </a>
+        <a target="_blank" href="https://nutritionalyeest.neocities.com/webrings">
+            <img src="/graphics/teahouse/teacup/nutritionalyeest-memecup4.gif" alt="memetchi from tamagotchi in the form of a cup with a clover inside" title="Tastes like berry Hi-Chew in your lunchbox - made by GABY"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
