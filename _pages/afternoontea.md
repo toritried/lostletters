@@ -411,6 +411,9 @@ menu: webcore
         <a target="_blank" href="https://nutritionalyeest.neocities.com/webrings">
             <img src="/graphics/teahouse/teacup/nutritionalyeest-memecup4.gif" alt="memetchi from tamagotchi in the form of a cup with a clover inside" title="Tastes like berry Hi-Chew in your lunchbox - made by GABY"/>
         </a>
+        <a target="_blank" href="https://zabnikinthevoid.neocities.org">
+            <img src="/graphics/teahouse/teacup/zabnikinthevoid-green_cup.png" alt="a glowing neon green cup" title="Tastes like the calm before the storm - made by ŻabnikRex"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
