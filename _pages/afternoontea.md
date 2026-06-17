@@ -414,6 +414,18 @@ menu: webcore
         <a target="_blank" href="https://zabnikinthevoid.neocities.org">
             <img src="/graphics/teahouse/teacup/zabnikinthevoid-green_cup.png" alt="a glowing neon green cup" title="Tastes like the calm before the storm - made by ŻabnikRex"/>
         </a>
+        <a target="_blank" href="https://artwork.neocities.org/">
+            <img src="/graphics/teahouse/teacup/artwork-teatwins.gif" alt="twin stars from sanrio inside a teacup" title="Tastes like dreamy star clouds - made by toonie"/>
+        </a>
+        <a target="_blank" href="https://artwork.neocities.org/">
+            <img src="/graphics/teahouse/teacup/artwork-teausahana.gif" alt="usahana inside a teacup" title="Tastes like rainbows - made by toonie"/>
+        </a>
+        <a target="_blank" href="https://artwork.neocities.org/">
+            <img src="/graphics/teahouse/teacup/artwork-teapom.gif" alt="a pom pom purin sits inside a striped yellow teacup" title="Tastes like caramel pudding - made by toonie"/>
+        </a>
+        <a target="_blank" href="https://artwork.neocities.org/">
+            <img src="/graphics/teahouse/teacup/artwork-teakor.gif" alt="a dainty teacup with a cat inside" title="Tastes like rose petal tea - made by toonie"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
