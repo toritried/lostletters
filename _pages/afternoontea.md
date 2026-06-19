@@ -426,6 +426,9 @@ menu: webcore
         <a target="_blank" href="https://artwork.neocities.org/">
             <img src="/graphics/teahouse/teacup/artwork-teakor.gif" alt="a dainty teacup with a cat inside" title="Tastes like rose petal tea - made by toonie"/>
         </a>
+        <a target="_blank" href="https://chaoticgoode.neocities.org/">
+            <img src="/graphics/teahouse/teacup/chaoticgoode-tea4.png" alt="a chocolate teacup with a dripping strawberry fruit motif and green liquid inside" title="Tastes like chocolate covered strawberries - made by Andrea"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
