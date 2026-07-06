@@ -429,6 +429,12 @@ menu: webcore
         <a target="_blank" href="https://chaoticgoode.neocities.org/">
             <img src="/graphics/teahouse/teacup/chaoticgoode-tea4.png" alt="a chocolate teacup with a dripping strawberry fruit motif and green liquid inside" title="Tastes like chocolate covered strawberries - made by Andrea"/>
         </a>
+        <a target="_blank" href="https://chaoticgoode.neocities.org/">
+            <img src="/graphics/teahouse/teacup/chaoticgoode-tea5.gif" alt="a blinking red bear sits in whipped cream on top of a pink teacup and saucer" title="made by Andrea"/>
+        </a>
+        <a target="_blank" href="https://girlwithnojob.neocities.org/">
+            <img src="/graphics/teahouse/teacup/girlwithnojob-teacup.gif" alt="a blinking brown rabbit sits withing a pink teacup with blueberries, chocolate sticks and a strawberry" title="made by girlwithnojob"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
