@@ -14,12 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Build static site
         uses: jerryjvl/jekyll-build-action@v1
       # When the dist_dir is ready, deploy it to neocities
       - name: Deploy to Neocities
-        uses: bcomnes/deploy-to-neocities@v2
+        uses: bcomnes/deploy-to-neocities@v3
         with:
           api_token: ${{ secrets.NEOCITIES_API_KEY }}
           cleanup: true
