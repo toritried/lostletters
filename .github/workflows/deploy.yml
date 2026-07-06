@@ -17,6 +17,10 @@ jobs:
       - uses: actions/checkout@v7
       - name: Install Jekyll
         run: |
+          echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+          echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+          echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+          source ~/.bashrc
           gem install jekyll bundler
       - name: Build static site
         uses: jerryjvl/jekyll-build-action@v1
