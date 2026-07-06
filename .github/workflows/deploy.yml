@@ -19,8 +19,9 @@ jobs:
         with:
           ruby-version: '3.3.7'
           bundler-cache: true
-      - name: Build static site
-        uses: jerryjvl/jekyll-build-action@v1
+      - name: Jekyll Build
+        run: |
+          jekyll build --trace
       # When the dist_dir is ready, deploy it to neocities
       - name: Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@v3
