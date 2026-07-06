@@ -15,6 +15,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
+      - name: Install Jekyll
+        run: |
+          gem install jekyll bundler
       - name: Build static site
         uses: jerryjvl/jekyll-build-action@v1
       # When the dist_dir is ready, deploy it to neocities
