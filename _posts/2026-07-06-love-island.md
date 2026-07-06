@@ -1,0 +1,16 @@
+---
+layout: post
+title: A New Love Island Convert Has Entered The Villa
+date: 2026-07-06 16:16
+tags:
+  - fun
+---
+I'm slightly stir-crazy from being inside all last week due to the "corn sweat" heat wave that rocked most of the US. The only thing that kept me sane (okay, maybe not sane, but at least entertained) was being indoctrinated into the cult of Love Island by way of USA season 8.<!--excerpt--> I knew nothing about the show prior aside from the fact that it was a dating show, so nothing could have prepared me for the hilarity and horror that awaited me. 
+
+For those who don't know the show structure of Love Island (and I'm only going to get into the show structure to keep this safe from major spoilers), the show is set in a villa in Fiji where the women essentially establish a matriarchy. The men make them breakfast, court them, and generally try to be on their best behavior except during the horniest challenges I've ever seen on TV. In this season's challenges, toes were sucked; clams were slammed; film cameras were nearly up peoples butts, getting the most intimate of angles. Given, this was my first time watching, I was truly transfixed in a mix of amazement and shock.
+
+By the season midpoint, I was loving the sisterhood on the show and was even starting to root for some of the couples. But that's exactly when the producers sent a text to the contestants to start mixing it up again. In comes Casa Amor, a house of temptation. This is where one group (either the men or the women) gets whisked away to in order to meet a whole bunch of new bombshells that they could potentially couple up with. In this season, the men left for Casa and retuned to the original villa after a couple of days, choosing to either stay with their original partner or a new bombshell from Casa. At Casa, the bombshells had to do anything necessary to get the men to leave their original couples so the bombshells could stay on the show, immediately creating a really disgusting patriarchal dynamic. Seeing this play out in episode 17 was truly the most wild twist I've ever seen in reality TV, which meant that I was totally unprepared for the next twist: Movie Night. 
+
+When the drama from Casa blew over and folks settled in just a slight bit, Movie Night happened. The editors basically created the most damning cuts of each person throughout their time at the villa and/or Casa to ensure maximum shit stirring. Liars were exposed; hearts were broken; tears were shed; shouting ensued. 
+
+As of writing this, I'm eagerly awaiting Episode 30 tonight with the finale airing on July 13. I highly recommend the show, and, personally, I'm rooting hard for Brinity to win it all, but I bet the producers probably still have some diabolical twists up their sleeves. If you're already a fan of Love Island, let me know which season I should watch next. I've been told to watch Are You The One? season 8 from MTV where everyone is bi/pan, which sounds like so much fun. Watching dating shows, even Korean ones that are painfully hetero, is my guilty pleasure.
