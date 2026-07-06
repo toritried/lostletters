@@ -5,6 +5,18 @@ emoji: 🧶
 permalink: /knit-crochet/
 menu: crafting
 ---
+<h1 style="display: flex; justify-content: center;">Look At My Holes by James N Watts</h1>
+<div class="two-col">
+    <div>
+        <img src="/graphics/crafting/lookatmyholestop.png" alt="a black open mesh crop top with short sleeves and ribbing around the arm cuffs, neckline and bottom hem" title="Look At My Holes by James N Watts" style="display: block; margin: auto;">
+    </div>
+    <div>
+        Inspired by the hot temperatures and pride month, I wanted a slutty little crop top for the pride parade that would show off my top surgery scars. However, my scars healed really well, so you can't really see them in this top. I'm really happy with how this turned out even though I ran out of yarn and could only knit 7 rows on each sleeve cuff instead of the recommended 10. I had only 3 feet of yarn left over after binding off, so I don't think I could have squeezed another row for each cuff out of it, but I don't think you can tell the cuffs are shorter than the neckline and body cuff. For some reason, the body ribbing looks much longer than anything else, but it's fine. 
+        <br>
+        <br>
+        I knit this large size garment out of exactly two skeins of Kelbourne Woolens Mojave, a sport-weight yarn that's 60% Cotton, 40% Linen / Flax. It sheds an ungodly amount, so it was so gross when I took off my shirt after a humid/damp pride march and I was left with a ton of loose little black fibers around my pits. I definitely should have put it through several rounds of washing and tumble drying before wearing, but what can you do when you finish it the night before the pride march?
+    </div>
+</div>
 <h1 style="display: flex; justify-content: center;">the Rybka Pouch by Rat and Sea Witch</h1>
 <div class="two-col">
     <div>
@@ -27,6 +39,9 @@ menu: crafting
         <br>
         <br>
         I originally intended for this to be a shawl I could wear over my workout clothes, so that no one over GVC could tell I hadn't changed out of my morning workout clothes; however, in my last apartment, I was mostly too warm to use it. Now that I'm in my new house, it's positively frosty in my office, so I've gotten a ton of use out of it due to sheer necessity.
+        <br>
+        <br>
+        <b>Disclaimer</b>: I will never buy or knit another Stephen West pattern. I purchased this before April 2026's controversy where Stephen appeared in an interview with Knitler, a right-wing bigot in the knitting world. Disgusting. 
     </div>
 </div>
 <h1 style="display: flex; justify-content: center;">Hardly Harness by Lydia Morrow</h1>
