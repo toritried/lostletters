@@ -21,7 +21,7 @@ jobs:
           bundler-cache: true
       - name: Jekyll Build
         run: |
-          jekyll build --trace
+          bundle exec jekyll build --trace
       # When the dist_dir is ready, deploy it to neocities
       - name: Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@v3
