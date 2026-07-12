@@ -27,7 +27,7 @@ This is a collection of resources that helped me create this site, which may hel
     </li>
         <ul>
             <li>
-                <a target="_blank" href="https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">An easy, JS-based extensible theme switcher</a> that I used for this site
+                <a target="_blank" href="https://web.archive.org/web/20250111004248/https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript">An easy, JS-based extensible theme switcher</a> that I used for this site
             </li>
             <li>
                 <a target="_blank" href="https://derekkedziora.com/blog/dark-mode-revisited">Derek Kedziora</a> wrote a very easy-to-follow guide to creating a light and dark mode for your site with <i>optional</i> JS switcher button
@@ -56,7 +56,7 @@ This is a collection of resources that helped me create this site, which may hel
                 How to create <a target="_blank" href="https://maya.land/technicalities/svg/">88x31 svg buttons</a>
             </li>
             <li>
-                Neocitites: <a target="_blank" href="https://sadgrl.online/learn/articles/last-update-visitors#">how to add last update date and visitor count javascript</a>
+                Neocitites: <a target="_blank" href="https://sadgrl.online/guides/neocities-stats/">how to add last update date and visitor count javascript</a>
             </li>
             <li>
                 <a target="_blank" href="https://www.design-research.be/by-womxn/">Directory of open source fonts by womxn</a> - how I found the Asul font
@@ -67,7 +67,7 @@ This is a collection of resources that helped me create this site, which may hel
     </li>
         <ul>
             <li>
-                <a target="_blank" href="https://maria.town/">maria.town</a> - looked at the github repo for code to dynamically generate Jeykll site navigation
+                <a target="_blank" href="https://web.archive.org/web/20250330122614/https://maria.town/">maria.town</a> - looked at the github repo for code to dynamically generate Jeykll site navigation
             </li>
             <li>
                 <a target="_blank" href="https://jameshfisher.com/2019/05/05/how-can-i-add-tags-to-a-jekyll-blog/">James Fisher's tutorial</a> for adding tags to your Jekyll blog
