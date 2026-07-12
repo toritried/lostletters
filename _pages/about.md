@@ -15,11 +15,9 @@ menu: about
         <br>
         <img src="/graphics/toy/emoticons/laugh-hello-sony-kitty.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>age:</b> millenial
         <br>
-        <img src="/graphics/toy/emoticons/skull-watercolor.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>neurospicy:</b> ADHD, bipolar
-        <br>
         <img src="/graphics/toy/emoticons/onsen-bear.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>location:</b> united states
         <br>
-        <img src="/graphics/toy/emoticons/star-watercolor.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>identities:</b> <text class="nb">nonbinary</text>, <text class="trans">trans</text>, <text style="text-decoration: underline wavy 2px; text-decoration-color:var(--color-primary-a20);" title="since 2016-01-28">vegan</text>, japanese-american, <span style="text-decoration: underline wavy 2px; text-decoration-color:var(--color-primary-a20);" title="since 2024-02-12">married</span>, intersectional feminist
+        <img src="/graphics/toy/emoticons/star-watercolor.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>identities:</b> <text class="nb">nonbinary</text>, <text class="trans">trans</text>, <text style="text-decoration: underline wavy 2px; text-decoration-color:var(--color-primary-a20);" title="since 2016-01-28">plant-based</text>, japanese-american, <span style="text-decoration: underline wavy 2px; text-decoration-color:var(--color-primary-a20);" title="since feb 2024">married</span>, intersectional feminist
     </div>
 </div>
 <div class="noext">
@@ -63,19 +61,21 @@ menu: about
         <div id="practicing">
             <div class="color-stroke">
                 <div class="dashed-outline">
-                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/learning_pig.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;currently (march 2026)
+                    <img align="left" style="margin: 0 5px 0 0;" src="/graphics/toy/emoticons/learning_pig.gif" style="image-rendering: pixelated;" title="if you know who illustrated this, please lmk"/>&nbsp;currently (july 2026)
                 </div>
             </div>
             <p>
-                ☸️ staying present, a life-long struggle
+                🍅 impatiently waiting for my first tomato harvest
                 <br>
-                💻 learning to code with <a target="_blank" href="https://www.theodinproject.com/">TOP</a>
+                🏝️ excited for the season final of Love Island USA #Brinity
                 <br>
-                🚲 riding my peloton
+                🩹 healing from a knee injury
                 <br>
-                🎮 dreaming about owning a switch 2 to play pokopia
+                ✂️ growing out a bad haircut
                 <br>
-                🌱 checking on my plants obsessively
+                🍿 eating kirkland signature popcorn with nooch
+                <br>
+                😈 on a 3-game win streak for Blood on the Clocktower
             </p>
         </div>
         <div id="hobbygoals">
