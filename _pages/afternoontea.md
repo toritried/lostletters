@@ -435,6 +435,12 @@ menu: webcore
         <a target="_blank" href="https://girlwithnojob.neocities.org/">
             <img src="/graphics/teahouse/teacup/girlwithnojob-teacup.gif" alt="a blinking brown rabbit sits withing a pink teacup with blueberries, chocolate sticks and a strawberry" title="made by girlwithnojob"/>
         </a>
+        <a target="_blank" href="https://ecila.nekoweb.org">
+            <img src="/graphics/teahouse/teacup/ecila.nekoweb.teacup1.png" alt="tea in a teacup with two biscuits on the saucer" title="tastes like wonderland - made by Alice"/>
+        </a>
+        <a target="_blank" href="https://ecila.nekoweb.org">
+            <img src="/graphics/teahouse/teacup/ecila.nekoweb.teacup2.png" alt="strawberry parfait inside a teacup" title="tastes like sugared strawberry parfait - made by Alice"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
@@ -473,6 +479,11 @@ menu: webcore
     <li>
         <b>How is a pixel "club" different from a pixel "clique"?</b> I use them interchangeably, but I just prefer "club" because it sounds more inclusive. 
         <img src="/graphics/toy/emoticons/nod-deer.gif"> 
+    </li>
+    <li>
+        <b>How can I link to Afternoon Tea?</b> If you'd like to link to Afternoon Tea, please use this button created by <a target="_blank" href="https://girlwithnojob.neocities.org/">girlwithnojob</a>, which is a tribute to the original Teahouse MB button:
+        <br>
+        <img src="/graphics/teahouse/girlwithnojob-afternoon-tea-button.gif" alt="a pink background behind a beige teapot pouring a rainbow with the words Afternoon Tea written in a pixel font" title="Afternoon Tea button">
     </li>
 </ul>
 <br>
