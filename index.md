@@ -13,15 +13,17 @@ emoji: 🏠
         <p>
             <b title="last updated: 2023-10-22">Website Disclaimers</b>: 
             <br>
-            <img src="/graphics/toy/emoticons/warning-watercolor.gif" alt=""> This site is <b>safe for work</b>, but only intended for adults. <b>DNI and leave if you're under 18</b>.
+            <img src="/graphics/toy/emoticons/warning-watercolor.gif" alt="warning emoticon"> This site is <b>safe for work</b>, but only intended for adults. <b>DNI and leave if you're under 18</b>.
             <br>
-            <img src="/graphics/toy/emoticons/cellphone-watercolor.gif" alt=""> This website is <b>responsive and mobile-friendly</b> because >90% of internet users access the internet using a mobile phone (<a target="_blank" href="https://explodingtopics.com/blog/mobile-internet-traffic#percentage-of-mobile-traffic">learn more</a>), and <b>being vehemently mobile-hostile is ableist and classist</b> by willfully excluding folks who many not be able to easily access the web via other means.
+            <img src="/graphics/toy/emoticons/star-shooting-watercolor.gif" alt="star emoticon"> <b>AI has never and will never be used to create any part of this site.</b> I hate generative AI!
             <br>
-            <img src="/graphics/toy/emoticons/alert-deer.gif" alt=""> Content warnings (CW) are used for discussions of mental health, swearing, etc.
+            <img src="/graphics/toy/emoticons/cellphone-watercolor.gif" alt="cellphone emoticon"> This website is <b>responsive and mobile-friendly</b> because >90% of internet users access the internet using a mobile phone (<a target="_blank" href="https://explodingtopics.com/blog/mobile-internet-traffic#percentage-of-mobile-traffic">learn more</a>), and <b>being vehemently mobile-hostile is ableist and classist</b> by willfully excluding folks who many not be able to easily access the web via other means.
             <br>
-            <img src="/graphics/toy/emoticons/distracted-moomin.gif" alt=""> This site uses Javascript for the theme switcher, navigation, webmentions, tool tips, cursor effects, guestbook, blog post reactions, and more.
+            <img src="/graphics/toy/emoticons/hearts-2-watercolor.gif" alt="heart emoticon"> <b>There will never be auto-playing music</b> on this site because screen readers are critical to an inclusive web (<a target="_blank" href="https://accessibility.its.uconn.edu/auto-playing-media-and-multimedia/">learn more</a>).
             <br>
-            <img src="/graphics/toy/emoticons/hearts-2-watercolor.gif" alt=""> <b>There will never be auto-playing music</b> on this site because screen readers are critical to an inclusive web (<a target="_blank" href="https://accessibility.its.uconn.edu/auto-playing-media-and-multimedia/">learn more</a>).
+            <img src="/graphics/toy/emoticons/distracted-moomin.gif" alt="distracted moomin emoticon"> This site uses Javascript for the theme switcher, navigation, webmentions, tool tips, cursor effects, guestbook, blog post reactions, and more.
+            <br>
+            <img src="/graphics/toy/emoticons/alert-deer.gif" alt="shocked deer emoticon"> Content warnings (CW) are used for discussions of mental health, swearing, etc.
         </p>
     </div>
 </article>
