@@ -5,6 +5,7 @@ emoji: 🧶
 permalink: /knit-crochet/
 menu: crafting
 ---
+It's hard to explain just how important knitting is to me. Through the art form, I've made tons of friends, created custom-fit garments to overcome fast fashion frustrations, practiced patience and slow living, and so much more. This page is a collection of some of my projects (though I've made hundreds of knitted objects over the two decades I've been practicing on-and-off).
 <h1 style="display: flex; justify-content: center;">Look At My Holes by James N Watts</h1>
 <div class="two-col">
     <div>
