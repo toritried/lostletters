@@ -1,0 +1,127 @@
+---
+layout: 3col
+---
+
+{{ content }}
+
+{% assign books=site.books | sort:"start" | reverse %}
+
+<h1>{{page.list_title | default: "Uncritical Examinations of Mostly Unsatisfactory Fictions" }}</h1>
+You can click each book to read my reviews, notes, etc. 
+I only record books I did not finish if they are noteworthy in some regard.
+It is staggering and frankly frustrating how little I enjoy many highly recommended books. 
+I suppose it's not surprising then that I do not read as often as I'd like. 
+{% if books.size > 0 %}
+
+  {% for book in books reversed %}
+      {% assign currentdate = book.date | date: "%Y" %}
+      {% if currentdate != date %}
+      {% unless forloop.first %}</ul>{% endunless %}
+      <h2 id="y{{book.date | date: "%Y"}}">{{ currentdate }}</h2>
+      <ul>
+     {% assign date = currentdate %}
+     {% endif %}
+
+        <figure class="book-cover">
+
+        <a href="{{ book.url | relative_url }}">
+
+        {% if book.cover %}
+
+        <img alt="{{ book.title }} cover" title="{{ book.title }} by {{ book.author}}" src="{{ site.baseurl }}/images/covers/{{ book.cover }}" style="height:200px" />
+
+        {% elsif book.olid %}
+
+        <img alt="{{ book.title }} cover" title="{{ book.title }} by {{ book.author}}" src="http://covers.openlibrary.org/b/olid/{{ book.olid }}-L.jpg?default=false" style="height:200px" />
+
+        {% elsif book.isbn %}
+
+        <img alt="{{ book.title }} cover" title="{{ book.title }} by {{ book.author}}" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-L.jpg?default=false" style="height:200px" />
+
+        {% endif %}
+
+        {% if book.status %}
+          {% assign status = book.status | upcase | strip %}
+
+          {% if status  == "READING" %}
+
+            <figcaption class="reading">{{ status }}</figcaption>
+
+          {% elsif status  == "FINISHED" %}
+
+             <figcaption class = "finished">{{ status }}</figcaption>
+
+          {% elsif status  == "QUEUED" %}
+
+             <figcaption class = "queued">{{ status }}</figcaption>
+
+          {% elsif status  == "ABANDONED" %}
+
+            <figcaption class="abandoned">{{ status }}</figcaption>
+
+            {% elsif status  == "INTERESTED" %}
+
+              <figcaption class="interested">{{ status }}</figcaption>
+
+            {% else %}
+
+            <figcaption class="uncategorized"> UNCATEGORIZED </figcaption>
+
+        {% endif %}
+            {% else %}
+
+            <figcaption class="uncategorized"> UNCATEGORIZED </figcaption>
+          {% endif %}
+          {% if book.rating %}
+            {{ book.rating }}
+          {% endif %}
+        </a>
+        </figure>
+
+
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+{% endif %}
+Huge thank you to <a target="_blank" href="https://github.com/subhodeeps">subhodeeps</a> for <a target="_blank" href="https://github.com/subhodeeps/jekyll-bookworm/tree/master">creating this Jekyll-based bookshelf</a>
+<style>
+  @font-face {
+    font-family: "pixel";
+    src: url("/fonts/PixelOperator.ttf") format("truetype");
+  }
+  figure {
+    display: inline-block;
+    text-align: center;
+    margin: 8px; /* adjust as needed */
+  }
+  figure img {
+    vertical-align: bottom;
+  }
+  .reading, .finished, .queued, .abandoned, .interested, .uncategorized {
+    font-family: "pixel";
+    text-transform: lowercase;
+  }
+  .reading { /* colors provided by https://randoma11y.com/ */
+    background-color: #ea580c;
+    color: #ffffff;
+  }
+  .finished {
+    background-color: #4d7c0f;
+    color: #d9f99d;
+  }
+  .queued {
+    background-color: #831843;
+    color: #fce7f3;
+  }
+  .abandoned {
+    background-color: #7c2d12;
+    color: #ffedd5;
+  }
+  .interested {
+    background-color: #1f2937;
+    color: #14b8a6;
+  }
+  .uncategorized {
+    background-color: #57534e;
+    color: #f5f5f4;
+  }
+</style>

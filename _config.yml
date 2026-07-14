@@ -62,3 +62,15 @@ feed:
   tags:
     only:
       - 32bit-blog-club
+
+# Collections
+collections:
+    books:
+        output: true
+        permalink: /:collection/:title/
+
+future: true
+
+header_pages:
+  - books.md
+  - about.md

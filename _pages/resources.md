@@ -72,6 +72,9 @@ This is a collection of resources that helped me create this site, which may hel
             <li>
                 <a target="_blank" href="https://jameshfisher.com/2019/05/05/how-can-i-add-tags-to-a-jekyll-blog/">James Fisher's tutorial</a> for adding tags to your Jekyll blog
             </li>
+            <li>
+                <a target="_blank" href="https://github.com/subhodeeps/jekyll-bookworm/tree/master">Create a bookshelf page with Jekyll</a>
+            </li>
         </ul>
 </ul>
 <h2>Tools</h2>

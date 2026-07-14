@@ -1,0 +1,76 @@
+---
+layout: 3col
+---
+{% include base_path %}
+    <h1><i>{{page.title}}</i> by {{ page.author}}</h1>
+        {% assign content = page.content | strip_newlines %}
+        {% if content == "" %}
+              <figure class="empty-review">
+              {% if page.cover %}
+              <img  alt="{{ page.title }} cover" src="{{ site.baseurl }}/images/covers/{{ page.cover }}" />
+              <figcaption>Cover of <em>{{ page.title }}</em></figcaption>
+              {% elsif page.olid %}
+              <img float: left alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false"/>
+              <figcaption>Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
+              {% elsif page.isbn %}
+              <img float: left alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false"/>
+              <figcaption>Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
+              {% endif %}
+              </figure>
+              {% assign status = page.status | upcase %}
+              <b> {{status}} </b>
+              {% else %}
+              <figure>
+              {% if page.cover %}
+              <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/images/covers/{{ page.cover }}" />
+              <figcaption>Cover of <em>{{ page.title }}</em></figcaption>
+              {% elsif page.olid %}
+              <img  alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false"/>
+              <figcaption>Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
+              {% elsif page.isbn %}
+              <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false"/>
+              <figcaption>Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
+              {% endif %}
+              </figure>
+              <h3>
+                {% if page.format %} Format: {{page.format }}{% endif %}
+                <br>
+                {% if page.start %} Start Date: {{page.start| date: "%B %d, %Y"}} {% endif %}
+                <br>
+                {% if page.end %} End Date: {{page.end | date: "%B %d, %Y"}} {% endif %}
+                <br>
+                {% if page.rating %} Rating: {{page.rating }}{% endif %}
+              </h3>
+            {{ content }}
+      {% endif %}
+<style>
+  .main-content {
+    display: inline-block;
+    width: 100%;
+  }
+  figure {
+    float: right;
+    width:30%;
+    max-width: 350px;
+    margin-left: 1rem;
+  }
+  figure  > img {
+    display: block;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+  }
+  figure figcaption {
+    display: block;
+    caption-side: bottom;
+    text-align: center;
+  }
+  blockquote {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    padding-left: 1em;
+    border-left: 3px solid var(--color-primary-a60);
+    font-style: italic;
+  }
+</style>

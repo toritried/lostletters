@@ -115,6 +115,9 @@ menu: site
         <li>
             <a target="_blank" href="https://codepen.io/sarahwfox/pen/pNrYGb">cursor sparkles from this code pen</a>
         </li>
+        <li>
+            <a target="_blank" href="https://github.com/subhodeeps/jekyll-bookworm/tree/master">Jekyll Bookshelf code was all from here</a>.
+        </li>
     </ul>
     <hr>
     <h1>Milestones</h1>
