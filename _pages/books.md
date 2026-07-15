@@ -1,6 +1,6 @@
 ---
 layout: books
-title: bookshelf
+title: reading
 emoji: 📚
 permalink: /books/
 menu: hobbies
