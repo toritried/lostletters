@@ -38,6 +38,33 @@ menu: hobbies
 </div>
 <div class="container">
     <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
+        <h2>July 15, 2026</h2>
+        <img src="/graphics/tarot/tarot-july-15-2026.png" alt="a five card tarot spread featuring cards from The Wild Unknown tarot deck">
+    </div>
+    <div class="toy-flex-item">
+        <h2>XIII. THE HEART'S MIRROR</h2>
+        <ol>
+            <li>
+                <b>current situation</b> Three of Pentacles: a sign to collaborate with others, creating synergies to achieve big results and representing the value of different ideas and levels of expertise. 
+            </li>
+            <li>
+                <b>ideal situation</b> Son of Pentacles: forward progress and being resolute in endeavors. Be mindful of struggling with changes and flexibility.
+            </li>
+            <li>
+                <b>what to quit doing</b> Seven of Wands: challenge, competition, protection, perseverance. Stand down, do not engage in comparison or competition. 
+            </li>
+            <li>
+                <b>what to keep doing</b> The Hermit: soul-searching, introspection, being alone, inner guidance. Trust yourself and your inner intuition. 
+            </li>
+            <li>
+                <b>what to be on the lookout for</b> The Six of Swords: you are in a state of transition, leaving behind what was familiar and moving towards the unknown. Be mindful of how you navigate this change.
+            </li>
+        </ol>
+        I like the connection of pentacles between my current and future, ideal state of this particular relationship that I'm evaluating in this reading. I feel very strongly that I need to bring my best, most wise self to the situation and relationship so I don't get caught up in anything less than compassionate responses. Keep your eye on the prize to stay focused, and guide yourself there with your intuition. This relationship has already taught me a lot of patience, and I think I'll need that even more in the coming weeks.
+    </div>
+</div>
+<div class="container">
+    <div class="toy-flex-item" style="display: flex; align-items: center; flex-direction: column;">
         <h2>March 25, 2026</h2>
         <img src="/graphics/tarot/daily-march-25-2026.png" alt="a five card tarot spread featuring cards from The rider waite tarot deck">
     </div>
