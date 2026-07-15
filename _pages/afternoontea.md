@@ -441,6 +441,9 @@ menu: webcore
         <a target="_blank" href="https://ecila.nekoweb.org">
             <img src="/graphics/teahouse/teacup/ecila.nekoweb.teacup2.png" alt="strawberry parfait inside a teacup" title="tastes like sugared strawberry parfait - made by Alice"/>
         </a>
+        <a target="_blank" href="https://kat-evans.neocities.org/aboutme">
+            <img src="/graphics/teahouse/teacup/katrinaevans_art.png" alt="a green succulent grows out of a blue teacup" title="made by Kat"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
