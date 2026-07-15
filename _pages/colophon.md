@@ -1,8 +1,8 @@
 ---
 layout: 3col
-title: about the site
+title: colophon
 emoji: 🪲
-permalink: /site/
+permalink: /colophon/
 menu: site
 ---
 

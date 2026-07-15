@@ -3,7 +3,7 @@ layout: 3col
 title: make your own site
 emoji: 🎁
 permalink: /resources/
-menu: meta
+menu: webcore
 ---
 
 <h1>Web Dev Resources</h1>

@@ -1,9 +1,9 @@
 ---
 layout: 3col
-title: tarot readings
+title: tarot
 emoji: 🔮
 permalink: /tarot/
-menu: about
+menu: hobbies
 ---
 <div class="container">
     <div class="toy-flex-item" style="display: flex; align-items: center;">

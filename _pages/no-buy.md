@@ -3,7 +3,6 @@ layout: 3col
 title: 2022 "no buy"
 emoji: 💰
 permalink: /no-buy/
-menu: stationery
 ---
 
 ## "No Buy" Overview: What & Why?

@@ -3,7 +3,7 @@ layout: 3col
 title: short rest
 emoji: 🫂
 permalink: /short-rest/
-menu: self-care
+menu: experiments
 ---
 
 <link rel="stylesheet" href="/styles/bookshelf.css">

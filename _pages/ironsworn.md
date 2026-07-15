@@ -3,7 +3,7 @@ layout: 3col
 title: ironsworn
 emoji: ⚔️
 permalink: /ironsworn/
-menu: ttrpg
+menu: games
 ---
 
 <h2>What is Ironsworn?</h2>

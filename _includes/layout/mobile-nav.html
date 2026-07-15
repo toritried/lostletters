@@ -7,16 +7,8 @@
         💾 webcore
         <span class="fa fa-caret-down"></span>
     </button>
-    <button class="dropbtn" aria-controls="dropdown-stationery" aria-expanded="false">
-        ✒️ stationery
-    <span class="fa fa-caret-down"></span>
-    </button>
-    <button class="dropbtn" aria-controls="dropdown-ttrpg" aria-expanded="false">
-        🦄 ttrpgs
-    <span class="fa fa-caret-down"></span>
-    </button>
-    <button class="dropbtn" aria-controls="dropdown-self-care" aria-expanded="false">
-        🧠 self-care
+    <button class="dropbtn" aria-controls="dropdown-hobbies" aria-expanded="false">
+        ✒️ hobbies
     <span class="fa fa-caret-down"></span>
     </button>
     <button class="dropbtn" aria-controls="dropdown-about" aria-expanded="false">
@@ -28,7 +20,7 @@
         <span class="fa fa-caret-down"></span>
     </button>
     <div class="dropdown-content" id="dropdown-webcore">
-        {% for page in site.pages %}
+        Digital Life: {% for page in site.pages %}
             {% if page.menu == "webcore" %}
             <a href="{{ page.url }}">
                 {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
@@ -36,8 +28,9 @@
             </a>
             {% endif %}
         {% endfor %}
-        {% for page in site.pages %}
-            {% if page.menu == "meta" %}
+        <br>
+        Jams & Experiments: {% for page in site.pages %}
+            {% if page.menu == "experiments" %}
             <a href="{{ page.url }}">
                 {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                 {{ page.title }}
@@ -45,29 +38,9 @@
             {% endif %}
         {% endfor %}
     </div>
-    <div class="dropdown-content" id="dropdown-stationery">
-        {% for page in site.pages %}
-            {% if page.menu == "stationery" %}
-            <a href="{{ page.url }}">
-                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
-                {{ page.title }}
-            </a>
-            {% endif %}
-        {% endfor %}
-    </div>
-    <div class="dropdown-content" id="dropdown-ttrpg">
-        {% for page in site.pages %}
-            {% if page.menu == "ttrpg" %}
-            <a href="{{ page.url }}">
-                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
-                {{ page.title }}
-            </a>
-            {% endif %}
-        {% endfor %}
-    </div>
-    <div class="dropdown-content" id="dropdown-self-care">
-        Crafting: {% for page in site.pages %}
-            {% if page.menu == "crafting" %}
+    <div class="dropdown-content" id="dropdown-hobbies">
+        Hobbies: {% for page in site.pages %}
+            {% if page.menu == "hobbies" %}
             <a href="{{ page.url }}">
                 {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                 {{ page.title }}
@@ -75,17 +48,8 @@
             {% endif %}
         {% endfor %}
         <br>
-        Running: {% for page in site.pages %}
-            {% if page.menu == "running" %}
-            <a href="{{ page.url }}">
-                {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
-                {{ page.title }}
-            </a>
-            {% endif %}
-        {% endfor %}
-        <br>
-        Other: {% for page in site.pages %}
-            {% if page.menu == "self-care" %}
+        Games: {% for page in site.pages %}
+            {% if page.menu == "games" %}
             <a href="{{ page.url }}">
                 {% if page.emoji %}<span class="emoji" aria-hidden="true">{{ page.emoji }}</span>{% endif %}
                 {{ page.title }}

@@ -3,7 +3,7 @@ layout: 3col
 title: halloween
 emoji: 🎃
 permalink: /halloween/
-menu: webcore
+menu: experiments
 ---
 
 <h1 style="text-align: center;">Trick or Treat!</h1>

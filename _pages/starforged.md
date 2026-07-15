@@ -3,7 +3,7 @@ layout: 3col
 title: starforged
 emoji: 🚀
 permalink: /starforged/
-menu: ttrpg
+menu: games
 ---
 
 <h2>Interstellar Transmissions</h2>

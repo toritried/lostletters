@@ -3,7 +3,7 @@ layout: 3col
 title: join the indie web
 emoji: 🌐
 permalink: /join-indie-web/
-menu: webcore
+menu: experiments
 ---
 
 <style>

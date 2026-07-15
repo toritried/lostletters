@@ -3,7 +3,7 @@ layout: 3col
 title: gardening
 emoji: 🌱
 permalink: /gardening/
-menu: self-care
+menu: hobbies
 ---
 <h1>Zone 6a Gardening Diary</h1>
 <h2>2026 Growing Season</h2>

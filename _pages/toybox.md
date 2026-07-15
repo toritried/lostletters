@@ -1,6 +1,6 @@
 ---
 layout: 3col
-title: toybox era
+title: toybox
 emoji: 🧸
 permalink: /toybox/
 menu: webcore

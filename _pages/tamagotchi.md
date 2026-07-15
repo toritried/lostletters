@@ -1,9 +1,9 @@
 ---
 layout: 3col
-title: tamagotchi shrine
+title: tamagotchi
 emoji: 🐣
 permalink: /tamagotchi/
-menu: webcore
+menu: hobbies
 ---
 
 <br>

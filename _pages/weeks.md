@@ -3,7 +3,7 @@ layout: 3col
 title: digital hobonichi weeks
 emoji: 📖
 permalink: /weeks/
-menu: stationery
+menu: experiments
 ---
 
 <link href="/styles/weeks.css" rel="stylesheet" type="text/css"/>
