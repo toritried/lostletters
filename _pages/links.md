@@ -38,9 +38,6 @@ menu: site
     <a target="_blank" href="https://xandra.cc/">
         <img src="/graphics/linkout/xandra.png" title="Museum of Alexandra">
     </a>
-    <a target="_blank" href="https://bisuko.neocities.org/">
-        <img src="/graphics/linkout/tigercarnival.png" title="Tiger Carnival">
-    </a>
     <a target="_blank" href="https://onio.club/" title="Onio Café - a truly delightful personal site with a focus on community chat. Don't miss Onio's interesting and well-written thought posts!">
         <img src="/graphics/linkout/oniocafe.gif">
     </a>
@@ -116,8 +113,8 @@ menu: site
     <a target="blank" href="https://pizzacatdelights.neocities.org/">
         <img src="/graphics/linkout/Pizzacat-Delights.png" title="Pizzacat Delights">
     </a>
-    <a target="blank" href="https://imaginarykarin.com/">
-        <img src="/graphics/linkout/imaginary-karin.png" title="Imaginary Karin">
+    <a target="blank" href="https://hexedhearth.net/">
+        <img src="/graphics/linkout/hh_88x31_2.png" title="Hexed Hearth">
     </a>
     <a target="blank" href="https://sanguineroyal.com/">
         <img src="/graphics/linkout/sanguineroyal-88x31-krish3.gif" title="Sanguine Royal">
