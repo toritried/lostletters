@@ -444,6 +444,9 @@ menu: webcore
         <a target="_blank" href="https://kat-evans.neocities.org/aboutme">
             <img src="/graphics/teahouse/teacup/katrinaevans_art.png" alt="a green succulent grows out of a blue teacup" title="made by Kat"/>
         </a>
+        <a target="_blank" href="https://snowcape.neocities.org/">
+            <img src="/graphics/teahouse/teacup/snowcape-Roostcup.png" alt="a brown pixel outline of Brewster from Animal Crossing on a white cup" title="Tastes like new horizons - made by Jørgen"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
