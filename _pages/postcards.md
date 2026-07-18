@@ -214,9 +214,8 @@ menu: experiments
 }
 .flip-card-back {
     background-color: transparent;
-    color: var(--color-primary-a0);
+    color: #000000;
     transform: rotateY(180deg);
-    color: var(--color-primary-a80);
 }
 .flip-card-front > img {
     top: 3px;
