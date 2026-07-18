@@ -193,7 +193,7 @@ menu: experiments
 .flip-card { 
     background-color: transparent;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
-    min-width: 440px;
+    min-width: 355px;
     max-width: 504px;
 }
 /* This container is needed to position the front and back side */
