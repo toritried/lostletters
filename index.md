@@ -8,7 +8,7 @@ emoji: 🏠
     <div style="display: inline-block;">
         <p>
             <img class="theme-image"/>
-            You have found Lost Letters, a personal site and nostalgic tribute to girls' early 2000s-era online subcultures. I hope that this website inspires fellow web dev amateurs to see themselves as creators of a delightful and fun future internet that is inclusive, brimming with personality, and divorced from corporate social media monopolies.
+            You have found Lost Letters, a personal site and nostalgic tribute to girls' early 2000s-era online subcultures. I hope that this website inspires fellow web dev hobbyists to see themselves as creators of a delightful and fun future internet that is inclusive, brimming with personality, and divorced from corporate social media monopolies.
         </p>
         <p>
             <b title="last updated: 2023-10-22">Website Disclaimers</b>: 
