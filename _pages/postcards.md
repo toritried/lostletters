@@ -3,7 +3,7 @@ layout: 3col
 title: postcards
 emoji: 💌
 permalink: /postcards/
-menu: experiments
+menu: about
 ---
 <h1>You've got mail!</h1>
 <div class="two-col">
