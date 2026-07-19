@@ -71,7 +71,7 @@ menu: about
             <th class="tg-0pky" title="eating">🥣 enchiladas</th>
         </tr>
         <tr>
-            <td class="tg-0pky" title="time">⌚ 12:45am</td>
+            <td class="tg-0pky" title="time">⌚ 12:45pm</td>
             <td class="tg-0pky" title="reading">📖 <a href="/books/dcc3/">DCC #3</a></td>
             <td class="tg-0pky" title="drinking">🫖 water</td>
         </tr>
