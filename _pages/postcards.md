@@ -114,7 +114,7 @@ menu: about
             <div class="flip-card-back stamp">
                 <div class="description-address">
                     <p>
-                        Before RTO, it was so common to nearby prefectures and work from an airbnb, so a bunch of my friends and I rented one in Niigata. It felt like Terrace House, cooking meals communally with all my friends and going to the ocean to watch sunsets.
+                        Before RTO, it was so common to go to a nearby prefectures and work from an airbnb, so a bunch of my friends and I rented one in Niigata. It felt like Terrace House, cooking meals communally with all my friends and going to the ocean to watch sunsets.
                     </p>
                     <div class="postage-addy">
                         <img src="/graphics/postcards/japan-telegraph-stamp.png" ><!-- stamp source: https://picryl.com/media/japan-1895-telegraph-stamps-9287dc -->
