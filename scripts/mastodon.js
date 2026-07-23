@@ -8,7 +8,7 @@
 const MastodonBar = {
 
   config: {
-    instanceName: 'cutie.city',
+    instanceName: 'social.lol',
     userName: 'lostletters',
     profileImg: '',
     itemsToDisplay: 1,
