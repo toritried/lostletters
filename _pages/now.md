@@ -36,7 +36,7 @@ menu: about
         <tr>
             <td class="tg-0pky noext" colspan="3">
                 <a target="_blank" href="https://status.lol/lostletters">
-                    <script src="https://status.lol/lostletters.js">
+                    <script defer src="https://status.lol/lostletters.js">
                     </script>
                 </a>
             </td>
