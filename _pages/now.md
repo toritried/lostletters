@@ -5,43 +5,11 @@ emoji: ‼️
 permalink: /now/
 menu: about
 ---
-<style type="text/css">
-    .tg {
-        border-spacing: 5px;
-        float: right;
-        margin-left: 1em;
-        margin-bottom: .5em;
-        max-width: 370px;
-        line-height: 1.2em;
-    }
-    .tg td, .tg th {
-        border-width:1px;
-        font-family:Arial, sans-serif;
-        font-size:14px;
-        font-weight: normal;
-        overflow:hidden;
-        word-break:normal;
-        text-align: left;
-    }
-    .tg .tg-0pky {
-        border: 1px solid var(--color-primary-a50);
-        padding-left: 3px;
-        padding-right: 3px;
-    }
-    @media screen and (max-width: 767px) {
-        .tg {width: auto !important;}
-        .tg col {width: auto !important;}
-        .tg-wrap {
-            overflow-x: auto;
-            -webkit-overflow-scrolling: touch;
-            }
-        }
-</style>
 <table class="tg"><!-- table generated from https://www.tablesgenerator.com/html_tables#, I tweaked the styling -->
-    <tbody>
+    <tbody><!-- script source: https://bechnokid.neocities.org/resources/tut_statuscafefeed
         <tr>
             <td class="tg-0pky" colspan="3">
-                <div id='feed-reader' style="margin: 3px;"></div> <!-- script source: https://bechnokid.neocities.org/resources/tut_statuscafefeed -->
+                <div id='feed-reader' style="margin: 3px;"></div>
                 <script>
                 const feedURL = 'https://status.cafe/users/lostletters.atom';
                     fetch(feedURL)
@@ -64,44 +32,88 @@ menu: about
                     })
                 </script>
             </td>
+        </tr>-->
+        <tr>
+            <td class="tg-0pky noext" colspan="3">
+                <a target="_blank" href="t">
+                    <script src="https://status.lol/lostletters.js">
+                    </script>
+                </a>
+            </td>
         </tr>
         <tr>
-            <th class="tg-0pky" title="date">🗓️ 26.07.19</th>
-            <th class="tg-0pky" title="digitally exploring">💻 <a target="_blank" href="https://cozy.talk/">cozy.talk</a></th>
-            <th class="tg-0pky" title="eating">🥣 enchiladas</th>
+            <th class="tg-0pky" title="date">🗓️ 26.07.23</th>
+            <th class="tg-0pky" title="digitally exploring">💻 <a target="_blank" href="https://omg.lol/">omg.lol</a></th>
+            <th class="tg-0pky" title="eating">🍦 sorbet</th>
         </tr>
         <tr>
-            <td class="tg-0pky" title="time">⌚ 12:45pm</td>
-            <td class="tg-0pky" title="reading">📖 <a href="/books/dcc3/">DCC #3</a></td>
-            <td class="tg-0pky" title="drinking">🫖 water</td>
+            <td class="tg-0pky" title="time">⌚ 8:45pm</td>
+            <td class="tg-0pky" title="feeling">🤩 excited</td>
+            <td class="tg-0pky" title="drinking">🥤 poppi</td>
         </tr>
         <tr>
-            <td class="tg-0pky" title="weather">🌞 smoky</td>
-            <td class="tg-0pky" title="listening to">🎧 dungeon synth</td>
-            <td class="tg-0pky" title="wearing">👘 bike shorts</td>
+            <td class="tg-0pky" title="listening to" colspan="3">🎵 <a target="_blank" href="https://youtube.com/playlist?list=OLAK5uy_kUiVUvheDRSQelAOt_P_jEl1CXMUJApJk">Same Stories, Different Narratives</a></td>
         </tr>
         <tr>
-            <td class="tg-0pky" title="temperature">🌡️ 75*F</td>
-            <td class="tg-0pky" title="watching">👀 my garden</td>
-            <td class="tg-0pky" title="feeling">😤 locked in</td>
+            <td class="tg-0pky" title="watching" colspan="3">📺 House of the Dragon (HBO)</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky" title="reading" colspan="3">📖 <a target="_blank" href="https://rknight.me/blog/automating-my-now-page/">Automating My Now Page</a></td>
         </tr>
     </tbody>
 </table>
 <h1>My Now Page</h1>
 <p>
-    This page is intended for casual, personal updates compared to my blog posts. It is inspired by <a target="_blank" href="https://bibianca.neocities.org">bia's <i>every sunday</i> page</a>, <a target="_blank" href="https://cepheus.neocities.org/">Cepheus's <i>atm table</i></a>, <a target="_blank" href="https://slashpages.net/#now">now slash pages</a>, and weeknotes.
+    This page is intended for casual, personal updates compared to my blog posts. It is inspired by <a target="_blank" href="https://cepheus.neocities.org/">Cepheus's <i>atm table</i></a>, <a target="_blank" href="https://slashpages.net/#now">now slash pages</a>, and level 10 life.
 </p>
-<h2>This Week: July 13 - 19, 2026</h2>
-
-1. **What were my wins?** I got my first dental cleaning since December of 2024 because we finally got new insurance with an actual up-to-date providers list. All of the clinic staff masked in N95s like I asked in my intake form, and they also had a great air purifier running the whole time I was unmasked.
-2. **What am I struggling with?** I haven't been motivated to get on the peloton. I've come up with many excuses: it's too nice out so I'll just walk for exercise instead (even though that isn't cardio--I know!); I was infected with the dreaded cyclospora for a month (it was terrible for my physical AND mental health, avoid at all costs!); I skinned my knee. I finally have healed from everything, and the weather is consistently too hot to walk outside, so I need to get back into regularly riding the peloton.
-3. **What's up next week?** Just like this week, there isn't a whole lot going on. I'm volunteering to pick up garbage in my neighborhood, going to a tamagotchi meetup, and virtually playing Edge of the Empire if everyone can still attend the session.
-
+<h2>Last Update: July 23, 2026</h2>
 <div class="col-wrapper">
     <div class="three-col">
         <div class="color-stroke">
             <div class="dashed-outline">
-                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/love-bear.gif" title="if you know who illustrated this, please lmk"/><b>what's in my bag (summer ed.)</b>
+                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/laugh-hello-sony-kitty.gif"/> <b>Friends and Family</b>
+                <br>
+                Feeling very blessed on this front. Still going strong with friends I've made since moving back to the US and often have more requests to strengthen connections than I have bandwidth or desire for. Been better about checking in and setting up video calls with friends around the globe than I ever have before.
+            </div>
+        </div>
+        <div class="color-stroke">
+            <div class="dashed-outline">
+                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/learning_pig.gif"/> <b>Personal development</b>
+                <br>
+                Learning there are more interests that overlap with being queer and neurodivergent, and I'm curious to explore them. Javascript learning has stalled—oops! Once Gen Con is behind me, I really need to look into taking improv classes.
+            </div>
+        </div>
+        <div class="color-stroke">
+            <div class="dashed-outline">
+                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/music-christmas-cat.gif"/> <b>Spirituality</b>
+                <br>
+                I don't think I'm anywhere near a state of equanimity. I've been struggling for years with feeling restless and bored. These feelings have persisted regardless of where I've lived. I think it's just the ADHD extrovert in me being unhappy unless every day has something novel and social going on. The last time I don't recall feeling this way was in 2019 when I was manic, exploring Tokyo's drinking and food scene with friends every day.
+            </div>
+        </div>
+        <div class="color-stroke">
+            <div class="dashed-outline">
+                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/drop-watercolor.gif"/> <b>Career</b>
+                <br>
+                The least interesting thing about me now, and I'm really happy with that. I'm just working for the paycheck and trying to avoid AI at work as much as possible. I work 100% remote now, and I love the freedom and covid safety of that. I no longer feel the need to make friends out of coworkers, so working alone really suits me now.
+            </div>
+        </div>
+        <div class="color-stroke">
+            <div class="dashed-outline">
+                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/flower-2-watercolor.gif"/> <b>Fun and Recreation</b>
+                <br>
+                Really taking this <a target="/ttrpgs/">TTRPG hobby</a> to the next level by attending Gen Con this summer. I'm kind of waning on <a target="/2025/10/18/ttrpg.html">my excitement for one-shots from last year</a> and prefer just playing in one <a target="_blank" href="https://chrismcdee.itch.io/mythic-bastionland">Mythic Bastionland</a> campaign now. Haven't explored parlor LARPs because I'm not entirely convinced I'd enjoy them.
+            </div>
+        </div>
+        <div class="color-stroke">
+            <div class="dashed-outline">
+                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/onsen-bear.gif"/> <b>Health and Fitness</b>
+                <br>
+                Took a long break from <a href="/2026/03/16/march-update">going hard on the peloton</a>, but need to get back to it regularly. I have no strategy for how to make that a reality, so I'm kind of just hoping I feel motivated again soon. Meds feel pretty dialed in despite my ongoing restlessness and boredom. Thankful for getting health insurance again.
+            </div>
+        </div>
+        <div class="color-stroke">
+            <div class="dashed-outline">
+                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/love-bear.gif" title="if you know who illustrated this, please lmk"/><b>What's In My Bag: Summer Edition</b>
                 <br>
                 📔 <a target="_blank" href="https://www.1101.com/store/techo/en/2026/pc/detail_cover/wb26_kitagishi/">Yumi Kitagishi Hobonichi Weeks</a>
                 <br>
@@ -160,26 +172,65 @@ menu: about
                 🎨 practice pixel art more
                 <br>
                 🍰 practice baking cakes & pies
-        </div>
+            </div>
         </div>
     </div>
 </div>
-<h2>Past Entries</h2>
-<details>
-    <summary>
-        July 2026
-    </summary>
-    <p>
-        🍅 impatiently waiting for my first tomato harvest
-        <br>
-        🏝️ excited for the season finale of Love Island USA #Brinity
-        <br>
-        🩹 healing from a knee injury
-        <br>
-        ✂️ growing out a bad haircut
-        <br>
-        🍿 eating kirkland signature popcorn with nooch
-        <br>
-        😈 on a 3-game win streak for Blood on the Clocktower
-    </p>
-</details>
+<style type="text/css">
+    .tg {
+        border-spacing: 5px;
+        float: right;
+        margin-left: 1em;
+        margin-bottom: .5em;
+        max-width: 370px;
+        line-height: 1.2em;
+    }
+    .tg td, .tg th {
+        border-width:1px;
+        font-family:Arial, sans-serif;
+        font-size:14px;
+        font-weight: normal;
+        overflow:hidden;
+        word-break:normal;
+        text-align: left;
+    }
+    .tg .tg-0pky {
+        border: 1px solid var(--color-primary-a50);
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+    .tg-0pky:hover {
+        transform: rotate(2deg) ;
+    }
+    @media screen and (max-width: 767px) {
+        .tg {
+            float: none;
+            display: flex;
+            justify-content: center;
+            max-width: 100%;
+            margin-left: 0;
+            margin-bottom: 0;
+            align-items: center;
+        }
+    }
+    .statuslol {
+        padding: 0px !important;
+        background: transparent !important;
+        display: flex;
+        gap: 5px;
+    }
+    .statuslol_emoji_container {
+        align-content: center;
+    }
+    .statuslol_content {
+        color: var(--color-primary-a80) !important;
+        font-family: var(--font), sans-serif;
+    }
+    .statuslol_content p {
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+    .statuslol_time a {
+        color: var(--color-primary-a60) !important;
+    }
+</style>
