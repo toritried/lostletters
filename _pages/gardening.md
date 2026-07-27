@@ -9,6 +9,7 @@ menu: hobbies
 <h2>2026 Growing Season</h2>
 I started gardening in 2026 for the first time because I inherited a small raised garden bed and some grow baskets attached to my balcony railing when we bought our home. The previous owners grew flowers in the grow baskets and various peppers in the raised bed, so I figured I could grow other foods I actually would eat in the same places. My main goal is to grow tomatoes with an incredibly delicious and complex flavor profile, so I'll be leaving more detailed notes about my tomato journey than on other crops, unless I find a specific crop particularly noteworthy.
 <h3>2026 Planting Timeline</h3>
+<img style="float: right; margin-left: 1em; width: 40%;" src="/graphics/gardening/2026_matts_wild_cherry_tomatoes.png" alt="six green cherry tomatoes on the vine" title="Matt's Wild Cherry Tomatoes | taken: June 26, 2026">
 <ul>
     <li>
         <b>March 15</b>: Sowed my Rainbow Lacinato Kale, Evergreen Hardy Bunching Onions, Rossa Di Milano (red) Onion seeds, which were free from Driftless Seed Supply.
@@ -31,9 +32,12 @@ I started gardening in 2026 for the first time because I inherited a small raise
     <li>
         <b>July 12</b>: Ate my first tomato! 🍅
     </li>
+    <li>
+        <b>July 27</b>: 122g tomato harvest today, bringing our total to more than 200g this season! 🍅
+    </li>
 </ul>
 <h3>Matt's Wild Cherry Tomatoes: ★ ★ ☆ ☆ ☆</h3>
-<img style="float: right; margin-left: 1em; width: 40%;" src="/graphics/gardening/2026_matts_wild_cherry_tomatoes.png" alt="six green cherry tomatoes on the vine" title="Matt's Wild Cherry Tomatoes | taken: June 26, 2026">
+<img style="float: right; margin-left: 1em; width: 35%;" src="/graphics/gardening/7-27-tomatoes.jpg" alt="a bowl of cherry tomatoes" title="ripe Matt's Wild Cherry Tomatoes | taken: July 27, 2026">
 As a kid, I used to love the caprese salads my mom used to make with fresh basil and tomato from the garden, so I knew I wanted to grow both of those. I gave some money to my local seed library and randomly got <b>Matt's Wild Cherry Tomato</b> seeds and basil seeds as a result. Trusting the whims of the universe, I didn't look into this variety further and just decided to plant them and see what happens. These tomatoes are an <b>indeterminate</b>, organic, heavily vining variety with an <i>allegedly</i> exceptional flavor. <b>The flavor and bite were a huge disappointment</b>. I didn't like how they were so <b>similar to popping boba, thin-walled and full of liquid</b>. I prefer a fleshier tomato with a more sophisticated flavor. I'll have to go with a different variety next year. Some additional notes:
 <ul>
     <li>
