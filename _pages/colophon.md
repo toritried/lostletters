@@ -89,7 +89,7 @@ menu: site
             Credit for fonts, index pixels, and stamps can all be found in-line within each CSS theme file
         </li>
         <li>
-            <a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 button base
+            <a target="_blank" href="http://pokyaron.fc2web.com/">Pokyaron</a> - 88x31 <a target="_blank" href="/graphics/layout/awardlostletters.gif">award-winning</a> button base
         </li>
         <li>
             <a target="_blank" href="https://pixel-soup.tumblr.com/">pixel-soup</a> & <a target="_blank" href="https://lostsozai.tumblr.com/">lost-sozai</a> - in-line emoticons
@@ -101,10 +101,7 @@ menu: site
             <a target="_blank" href="https://web.badges.world/">web.badges.world</a> - tamagotchi and neopets badges
         </li>
         <li>
-            <a target="_blank" href="https://pixels.elfwink.net/">Lou (Elfwink)</a> - chaotic good and pansexual badges
-        </li>
-        <li>
-            I used this <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">button maker tool</a> to create the trans rights, vegan always, and union member badges
+            I used this <a target="_blank" href="https://trovami.altervista.org/en/webmasters/makebutton">button maker tool</a> to create the trans rights badge
         </li>
         <li>
             Implemented <a target="_blank" href="https://openheart.fyi/">Open Heart Protocol emoji reactions on my blog posts</a> thanks to <a target="_blank" href="https://www.benji.dog/articles/interactions-or-reactions/">benji</a>
