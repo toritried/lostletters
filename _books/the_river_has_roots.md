@@ -7,9 +7,10 @@ olid: OL60082274M # if no image (Open Library ID)
 title: "The River Has Roots"
 author: Amal El-Mohtar
 year: 2025
-status: Reading #"Finished", "Reading", "Queued", "Interested", "Abandoned"
+status: Finished #"Finished", "Reading", "Queued", "Interested", "Abandoned"
 start: 2026-07-17
-end:
-rating: ☆ ☆ ☆ ☆ ☆
+end: 2026-07-29
+rating: ★ ★ ★ ★ ☆
 format: audiobook
 ---
+Nice little fairytale with a sinister element. Sweet story of sisterly love. Audiobook songs were a nice touch though background effects like babbling water got distracting at times and made it difficult for me with audio processing issues to discern what was being said in the actual story, maybe because the background effects were a bit too loud?

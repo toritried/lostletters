@@ -8,7 +8,7 @@ olid: OL58559296M # if no image (Open Library ID)
 title: "A Drop of Corruption"
 author: Robert Jackson Bennett
 year: 2025
-status: Queued #"Finished", "Reading", "Queued", "Interested", "Abandoned"
+status: Reading #"Finished", "Reading", "Queued", "Interested", "Abandoned"
 start: 
 end: 
 rating: ☆ ☆ ☆ ☆ ☆
