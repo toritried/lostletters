@@ -14,6 +14,7 @@
     <link rel="pingback" href="https://webmention.io/lostletters.neocities.org/xmlrpc"/>
     <link rel="proof" href="proven.lol/7e28e0"/>
     <link rel="alternate" type="application/atom+xml" title="Lost Letters Feed" href="{{ site.url }}/feed.xml">
+    <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:type" content="{% if page.type != null %}{{ page.type }}{% elsif page.layout == "post" %}article{% else %}website{% endif %}">
     <meta property="og:title" content="{{ page.title }}">
