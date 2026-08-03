@@ -9,7 +9,7 @@ title: "A Drop of Corruption"
 author: Robert Jackson Bennett
 year: 2025
 status: Reading #"Finished", "Reading", "Queued", "Interested", "Abandoned"
-start: 
+start: 2026-07-29
 end: 
 rating: ☆ ☆ ☆ ☆ ☆
 format: audiobook
