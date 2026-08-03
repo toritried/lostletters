@@ -3,6 +3,8 @@ title: pan pride
 emoji: 🏳️‍🌈
 permalink: /pride/
 menu: experiments
+description: a web experiment for understanding and exploring pan pride
+image: /graphics/teahouse/teacup/lostletters-panpride.gif
 ---
 
 <html lang="en">

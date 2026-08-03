@@ -12,6 +12,7 @@ start: 2026-05-25
 end: 2026-05-28
 rating: ★ ★ ★ ★ ☆
 format: audiobook, ebook
+description: a review of {{ book.title }}
 ---
 These my notes and quotes from the book since there is a lot to keep straight. <b>Spoilers ahead!</b>
 <br>

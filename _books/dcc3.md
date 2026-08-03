@@ -12,6 +12,7 @@ start: 2026-05-29
 end:
 rating: ☆ ☆ ☆ ☆ ☆
 format: ebook
+description: a review of {{ book.title }}
 ---
 
 <b>Important Characters:</b>

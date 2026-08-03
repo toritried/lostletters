@@ -4,6 +4,8 @@ title: tamagotchi
 emoji: 🐣
 permalink: /tamagotchi/
 menu: hobbies
+description: a shrine for tamagotchi
+image: /graphics/tama/pink_tama.gif
 ---
 
 <br>

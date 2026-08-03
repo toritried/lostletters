@@ -4,6 +4,8 @@ title: make your own site
 emoji: 🎁
 permalink: /resources/
 menu: webcore
+description: resources to make your own site
+image: 
 ---
 
 <h1>Web Dev Resources</h1>

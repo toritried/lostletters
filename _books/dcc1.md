@@ -12,6 +12,7 @@ start: 2026-05-24
 end: 2026-05-25
 rating: ★ ★ ★ ★ ☆
 format: audiobook, ebook
+description: a review of {{ book.title }}
 ---
 <blockquote>
     "They (the monsters) live in constant fear of you guys. We are all part of the same inexorable machine. All of us are afraid. Yes your place in all of this really sucks, it’s not fair. You know it, I know it, the cat knows it."

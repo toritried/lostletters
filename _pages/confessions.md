@@ -4,6 +4,8 @@ title: confessions
 emoji: 🤫
 permalink: /confessions/
 menu: about
+description: Confessions from Lost
+image: /graphics/layout/waneella.gif
 ---
 
 <div class="noext" style="text-align: center;">

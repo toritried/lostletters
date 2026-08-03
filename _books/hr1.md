@@ -12,6 +12,7 @@ start: 2026-01-07
 end: 2026-01-16
 rating: ★ ★ ☆ ☆ ☆
 format: ebook
+description: a review of {{ book.title }}
 ---
 The show was so much better than this book. I've reheated the show about 10 times, and I can't say I'll ever pick this book back up to read again. The only reason I slogged through this was to see what they chose to include in the show in case we missed some special parts from the book, but I assure you there was nothing special missed.
 <br>

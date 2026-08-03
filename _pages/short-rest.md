@@ -4,6 +4,8 @@ title: short rest
 emoji: 🫂
 permalink: /short-rest/
 menu: experiments
+description: a short rest aka DIY mental spa
+image: /graphics/layout/short-rest/pusheen-butterfly.png
 ---
 
 <link rel="stylesheet" href="/styles/bookshelf.css">

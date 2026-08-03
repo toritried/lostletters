@@ -19,14 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lost Letters
-email: thoselostletters@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A personal site home to the Afternoon Tea Pixel Club
+description: A cute, responsive, and personal neocities site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lostletters.neocities.org" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon_username: lostletters@cutie.city
+mastodon_username: lostletters@social.lol
 github_username: toritried
-timezone: Asia/Tokyo
+timezone: America/Chicago
 
 # Build settings
 plugins:
@@ -58,10 +56,10 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-feed:
-  tags:
-    only:
-      - 32bit-blog-club
+#feed:
+#  tags:
+#    only:
+#      - 32bit-blog-club
 
 # Collections
 collections:

@@ -4,6 +4,8 @@ title: now
 emoji: ‼️
 permalink: /now/
 menu: about
+description: an overview of what I'm up to right meow
+image: 
 ---
 <table class="tg"><!-- table generated from https://www.tablesgenerator.com/html_tables#, I tweaked the styling -->
     <tbody><!-- script source: https://bechnokid.neocities.org/resources/tut_statuscafefeed

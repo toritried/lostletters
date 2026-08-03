@@ -4,6 +4,8 @@ title: virtual pets guide
 emoji: 🐲
 permalink: /virtual-pets/
 menu: webcore
+description: a guide to virtual pet sites across the internet
+image: 
 ---
 
 <center>

@@ -4,6 +4,8 @@ title: ttrpgs
 emoji: 🧝🏻‍♀️
 permalink: /ttrpgs/
 menu: games
+description: an overview of my TTRPG history, equipment, and OCs
+image: /graphics/ttrpg/dice/chessex.png
 ---
 <h1>How I got started with TTRPGs</h1>
 <p>

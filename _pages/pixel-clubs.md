@@ -4,6 +4,8 @@ title: pixel clubs
 emoji: 🎨
 permalink: /pixel-clubs/
 menu: webcore
+description: a list of pixel clubs across the small web
+image: /graphics/adoptables/rose-charm-lostletters.png
 ---
 
 <h1>Pixel Clubs</h1>

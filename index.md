@@ -2,6 +2,8 @@
 layout: 3col-no-wm
 title: home
 emoji: 🏠
+description: the homepage of Lost Letters
+image: 
 ---
 
 <article>

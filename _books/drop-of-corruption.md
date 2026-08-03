@@ -13,5 +13,6 @@ start: 2026-07-29
 end: 
 rating: ☆ ☆ ☆ ☆ ☆
 format: audiobook
+description: a review of {{ book.title }}
 ---
 Loved the first book in this series, so I can't wait to read this one. I don't know why I haven't yet.

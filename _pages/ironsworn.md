@@ -4,6 +4,8 @@ title: ironsworn
 emoji: ⚔️
 permalink: /ironsworn/
 menu: games
+description: a play log of Ironsworn TTRPG
+image: 
 ---
 
 <h2>What is Ironsworn?</h2>

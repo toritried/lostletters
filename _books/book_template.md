@@ -13,6 +13,7 @@ start: 2026-MM-DD
 end: 2026-MM-DD
 rating: ★ ★ ★ ★ ☆
 format: audiobook, ebook, paper
+description: a review of {{ book.title }}
 ---
 
 This is where you can write your review!

@@ -4,6 +4,8 @@ title: about me
 emoji: 🤡
 permalink: /about-me/
 menu: about
+description: a page about the creator of Lost Letters
+image: /graphics/layout/piccrew.png
 ---
 
 <div>

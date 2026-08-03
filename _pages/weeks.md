@@ -4,6 +4,8 @@ title: digital hobonichi weeks
 emoji: 📖
 permalink: /weeks/
 menu: experiments
+description: a digitally-enhanced version of my memory keeping spreads from my Hobonichi Weeks
+image: 
 ---
 
 <link href="/styles/weeks.css" rel="stylesheet" type="text/css"/>

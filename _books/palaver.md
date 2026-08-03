@@ -12,6 +12,7 @@ start: 2026-07-16
 end: 2026-07-16
 rating: ★ ★ ★ ★ ☆
 format: audiobook
+description: a review of {{ book.title }}
 ---
 Palaver is such an interesting word for a title because it can mean many things: idle talk / talking or discussion that goes on for too long and is not important, unnecessary work and trouble, a long discussion between persons of different cultures of levels of sophistication. I wonder how many of those meanings the author was trying to capture in this book.
 

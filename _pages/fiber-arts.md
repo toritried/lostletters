@@ -4,6 +4,8 @@ title: fiber arts
 emoji: 🧶
 permalink: /fiber-arts/
 menu: hobbies
+description: Fiber art creations
+image: /graphics/crafting/under-the-quilt-socks.png
 ---
 It's hard to explain just how important knitting is to me. Through the art form, I've made tons of friends, created custom-fit garments to overcome fast fashion frustrations, practiced patience and slow living, and so much more. This page is a collection of some of my projects (though I've made hundreds of knitted objects over the two decades I've been practicing on-and-off). Although knitting is my favorite, I occasionally branch out into sewing and crochet, which will also be featured here. 
 <h1 style="display: flex; justify-content: center;">Look At My Holes by James N Watts</h1>

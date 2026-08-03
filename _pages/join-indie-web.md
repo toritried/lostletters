@@ -4,6 +4,8 @@ title: join the indie web
 emoji: 🌐
 permalink: /join-indie-web/
 menu: experiments
+description: Why you should join the Indie Web
+image: /graphics/adoptables/parfait.png
 ---
 
 <style>

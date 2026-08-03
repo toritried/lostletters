@@ -4,6 +4,8 @@ title: starforged
 emoji: 🚀
 permalink: /starforged/
 menu: games
+description: a play log of Starforged TTRPG
+image: 
 ---
 
 <h2>Interstellar Transmissions</h2>

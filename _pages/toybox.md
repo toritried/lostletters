@@ -4,6 +4,8 @@ title: toybox
 emoji: 🧸
 permalink: /toybox/
 menu: webcore
+description: a shrine of the digital toybox era of personal sites
+image: /graphics/adoptables/dancing-moomin-lostletters.png
 ---
 
 <div class="container" style="image-rendering: pixelated;">

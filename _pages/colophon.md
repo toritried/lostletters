@@ -4,6 +4,8 @@ title: colophon
 emoji: 🪲
 permalink: /colophon/
 menu: site
+description: The tech and history behind Lost Letters
+image:
 ---
 
 <article>

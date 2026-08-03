@@ -12,6 +12,7 @@ start: 2026-03-16
 end: 
 rating: ★ ★ ★ ★ ☆
 format: audiobook
+description: a review of {{ book.title }}
 ---
 This book has an aptly slow start: a beleagured populace is under prolonged siege in Aymar Castle. Hope is all but lost until it isn't. Divine figures of the Constant Lady and her Saints arrive, and then everyone is enthralled by them.
 

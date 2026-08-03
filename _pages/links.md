@@ -4,6 +4,8 @@ title: links
 emoji: 🔗
 permalink: /links/
 menu: site
+description: Net neighbors and sites I admire
+image: /graphics/site_buttons/LostLetters88x31.gif
 ---
 
 <h2>Net Neighbors / Affiliates</h2>

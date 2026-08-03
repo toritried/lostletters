@@ -4,6 +4,8 @@ title: tarot
 emoji: 🔮
 permalink: /tarot/
 menu: hobbies
+description: a daily tarot card draw and past readings
+image: /graphics/tarot/daily-march-25-2026.png
 ---
 <div class="container">
     <div class="toy-flex-item" style="display: flex; align-items: center;">

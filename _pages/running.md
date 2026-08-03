@@ -4,6 +4,8 @@ title: running
 emoji: 👟
 permalink: /running/
 menu: hobbies
+description: my guides to running and some old PRs
+image: 
 ---
 
 <h1>How to Run More Easily</h1>

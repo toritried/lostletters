@@ -4,6 +4,8 @@ title: gardening
 emoji: 🌱
 permalink: /gardening/
 menu: hobbies
+description: gardening attempts
+image: /graphics/gardening/7-27-tomatoes.jpg
 ---
 <h1>Zone 6a Gardening Diary</h1>
 <h2>2026 Growing Season</h2>

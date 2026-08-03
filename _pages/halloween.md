@@ -4,6 +4,8 @@ title: halloween
 emoji: 🎃
 permalink: /halloween/
 menu: experiments
+description: halloween shrine
+image: /graphics/adoptables/purple-jackolantern-lostletters.png
 ---
 
 <h1 style="text-align: center;">Trick or Treat!</h1>

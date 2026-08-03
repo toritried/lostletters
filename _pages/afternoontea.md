@@ -4,6 +4,8 @@ title: afternoon tea
 emoji: 🍵
 permalink: /afternoontea/
 menu: webcore
+description: Afternoon Tea Pixel Club
+image: /graphics/teahouse/teacup/takoonsen-lostletters.png
 ---
 
 <center>

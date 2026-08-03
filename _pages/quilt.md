@@ -4,6 +4,8 @@ title: q*bee shrine
 emoji: 🐝
 permalink: /quilt/
 menu: webcore
+description: a digital shrine for The Quilting Bee
+image: /graphics/quilt/qbee-1.gif
 ---
 
 <!--- before every *, add a \, so that it won't be italicized in MD -->

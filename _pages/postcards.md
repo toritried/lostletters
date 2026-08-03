@@ -4,6 +4,8 @@ title: postcards
 emoji: 💌
 permalink: /postcards/
 menu: about
+description: a series of postcards from my past
+image: /graphics/postcards/kyoto-temple.png
 ---
 <h1>You've got mail!</h1>
 <div class="two-col">
