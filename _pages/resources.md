@@ -77,6 +77,9 @@ This is a collection of resources that helped me create this site, which may hel
             <li>
                 <a target="_blank" href="https://github.com/subhodeeps/jekyll-bookworm/tree/master">Create a bookshelf page with Jekyll</a>
             </li>
+            <li>
+                <a target="_blank" href="https://willhbr.net/2023/02/04/adding-opengraph-previews-to-jekyll/">Create nice OpenGraph (web standard) link previews with Jekyll</a>
+            </li>
         </ul>
 </ul>
 <h2>Tools</h2>
