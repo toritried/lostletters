@@ -447,6 +447,15 @@ menu: webcore
         <a target="_blank" href="https://snowcape.neocities.org/">
             <img src="/graphics/teahouse/teacup/snowcape-Roostcup.png" alt="a brown pixel outline of Brewster from Animal Crossing on a white cup" title="Tastes like new horizons - made by Jørgen"/>
         </a>
+        <a target="_blank" href="https://dinworld.neocities.org/">
+            <img src="/graphics/teahouse/teacup/didin.gif" alt="one yellow little guy stands on the brim of a black teacup while one red little guy waves from inside it" title="made by DinDin"/>
+        </a>
+        <a target="_blank" href="https://pixel-stardust.neocities.org/">
+            <img src="/graphics/teahouse/teacup/pixel-stardust.gif" alt="pink teacup with a red bow and a crescent in the center of the bow" title="Taste like bravery tears, justice and friendship. - made by Pixel-Stardust"/>
+        </a>
+        <a target="_blank" href="https://gloomygoose13.neocities.org/">
+            <img src="/graphics/teahouse/teacup/gloomygoose13.png" alt="a cat in a green teacup with pink flowers on it" title="I wouldn't recommend drinking that - made by Bean"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
