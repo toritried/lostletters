@@ -458,6 +458,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://gloomygoose13.neocities.org/">
             <img src="/graphics/teahouse/teacup/gloomygoose13.png" alt="a cat in a green teacup with pink flowers on it" title="I wouldn't recommend drinking that - made by Bean"/>
         </a>
+        <a target="_blank" href="https://babywormcore.baby/">
+            <img src="/graphics/teahouse/teacup/babywormcore.baby-vampiretea.png" alt="a navy teacup with red liquid inside" title="Tastes like dead leaves, dirt, and the stinging tang of copper - made by Imogen Nocturne"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
