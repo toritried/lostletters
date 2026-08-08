@@ -6,7 +6,6 @@ tags:
   - adulting
   - reflection
   - mental-health
-  - vegan
 ---
 While living in Japan has been an incredible privilege, it's also been extremely tough for as a vegan foreigner who doesn't know Japanese. I was extremely naive going into my first living abroad experience more than five years ago, so I wanted to write myself a letter with considerations from this time if I'm ever feeling the urge to live abroad again.<!--excerpt-->
 

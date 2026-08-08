@@ -5,7 +5,6 @@ date: 2024-07-04 18:37
 tags:
   - adulting
   - mental-health
-  - self-reflection
   - learning
 ---
 Over the span of ten days, joining an RPG-style app that gamified my habits led to me sobbing uncontrollably in my living room, overwhelmed with the relief of healing more than two decades-old trauma by myself on an otherwise unremarkable and utterly random Tuesday night. This is the story of how that escalated so quickly.<!--excerpt-->

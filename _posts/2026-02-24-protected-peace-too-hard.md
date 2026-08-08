@@ -6,9 +6,6 @@ tags:
   - adulting
   - goals
   - health
-  - cycling
-  - resolutions
-  - self-reflection
 ---
 When people catch up with me and ask me what I've been up to, I give the most boring answer ever. I have nothing of note to mention, no exciting goals I'm chasing or passion projects I've been working on in my mountain of spare time. The days pass by with daily walks, peloton, cooking at home, knitting, and social media with a sprinkle of TTRPGs throughout the week. It's time to face the fact that I've protected my peace too hard, and now I'm boring--extremely comfortable, but painfully boring. I need to get out of my comfort zone more, and this is my plan to do so.<!--excerpt-->
 

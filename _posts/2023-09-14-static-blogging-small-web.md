@@ -3,7 +3,6 @@ layout: post
 title: "Static Blogging on The Small Web: Bear Blog"
 date: 2023-09-14 09:46
 tags:
-  - reflection
   - webmastery
   - learning
 ---

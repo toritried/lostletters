@@ -4,7 +4,6 @@ title: Beachcomber
 date: 2024-06-21 10:07
 tags:
   - muse
-  - self-reflection
   - mental-health
 ---
 *Beachcomber* is my response to the June 3rd prompt from the <a target="_blank" href="https://museariadne.neocities.org/">muse ariadne</a> writing club: *think about undercurrents as you write– movements and energies that flow beneath surfaces. what surfaces do they lay beneath? is it an undertone in skin or a song, a literal current, a political movement?*<!--excerpt-->

@@ -1,8 +1,9 @@
 ---
-layout:  post
-title:  "Covid Quarantine Knitting"
-date:  2023-05-29 10:46
-tags:  [covid, knitting]  
+layout: post
+title: Covid Quarantine Knitting
+date: 2023-05-29 10:46
+tags:
+  - crafting
 ---
 I honestly thought I might dodge covid forever and become some rare test subject in a future study to create a vaccine for covid-25 or something. I didn't though, so now I'm going through a year's worth of tissues in a week and knitting in bed for seven days until I meet the <a target="_blank" href="https://www.mhlw.go.jp/stf/covid-19/qa_03.html">Japanese guidance for leaving self-isolation</a>. 
 <!--excerpt-->

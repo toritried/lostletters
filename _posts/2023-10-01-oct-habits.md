@@ -4,10 +4,8 @@ title: September Recap & October Habits
 date: 2023-10-01 10:37:34
 tags:
   - weekly-recap
-  - resolutions
   - mental-health
-  - health
-  - self-reflection
+  - goals
 ---
 September was filled with significant strides in health improvement, but, after nearly 8 years of working, I've finally committed to taking my first health-related leave of absence from work.<!--excerpt--> This past month, I've made huge strides in recognizing and addressing my disordered eating; I've worked with my doctor to further adjust my bipolar medication; and I've secured the strongest support systems I've ever had to continue my health management journey. It has been frustrating to see my hobbies like web development, knitting, journaling, and running take a backseat this month, but I really had to focus on my health. Now that I won't be working for a while, I hope that I can feel safe and inspired to engage with some hobbies once more.
 <br>

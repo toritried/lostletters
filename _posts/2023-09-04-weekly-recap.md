@@ -3,11 +3,8 @@ layout: post
 title: "Weekly Recap: Aug 28 - Sept 3"
 date: 2023-09-04 12:00
 tags:
-  - tamagotchi
-  - now
   - weekly-recap
   - mental-health
-  - health
 ---
 
 I was going to update my now page, but these always end up getting so long that I'm going to permanently move these to my blog. Here's what I got up to this week:

@@ -6,7 +6,6 @@ tags:
   - weekly-recap
   - webmastery
   - travel
-  - reflection
 ---
 I took two days off from work to visit Kyoto with my partner's family because they found a great deal on a huge, newly renovated <a target="_blank" href="https://mykyotomachiya.com/kyomachiya/">kyomachiya</a> accommodation.<!--excerpt-->  It was pretty spectacular with exposed wood beams, recessed lighting, an outdoor garden, rotemburo (outdoor bath), and a sunken living room with a velvet couch that created such a lovely central hub to the home. However, Kyoto's weather was horrifying with extreme heat, creating a real feel of 42C/107.6F in the sun. We were only there for two nights and one full day, so I brought along a parasol for some very sweaty cafe hopping. It was my third or fourth time in Kyoto, so there was no pressure to eat or see specific things. Every time I go there, I feel like there's really not that much to see outside of the touristy spots during peak sakura or fall leaves, and the subway system is inconveniently limited. I don't want to go back unless we get a really cool accommodation like this one again.
 <br>

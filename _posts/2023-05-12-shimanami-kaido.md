@@ -1,8 +1,9 @@
 ---
-layout:  post
-title:  "Bucket List Progress: Bike Shimanami Kaido"
-date:  2023-05-12 22:38
-tags:  [cycling, health, bucket list]  
+layout: post
+title: "Bucket List Progress: Bike Shimanami Kaido"
+date: 2023-05-12 22:38
+tags:
+  - health
 ---
 I am thoroughly exhausted from two back-to-back trips (Hong Kong & <a target="_blank" href="https://www.japan-guide.com/e/e3478.html">Shimanami Kaido</a>) with the future in-laws, but I can't retire the tour guide hat since my own family has just arrived in Japan too. It's a wild coincidence to have both our families here at the same time, and my partner and I are trying to load balance hosting and logistics as best we can. I marvel at her patience. 
 <!--excerpt-->

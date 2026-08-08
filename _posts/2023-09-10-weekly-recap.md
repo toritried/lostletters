@@ -4,10 +4,8 @@ title: "Weekly Recap: Sept 4 - 10"
 date: 2023-09-10 18:58
 tags:
   - webmastery
-  - reflection
   - fun
   - learning
-  - food
   - weekly-recap
 ---
 

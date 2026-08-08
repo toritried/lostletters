@@ -3,9 +3,7 @@ layout: post
 title: Tamagotchi Toy Doctor
 date: 2024-05-27 15:54
 tags:
-  - tamagotchi
   - goals
-  - reflection
 ---
 The gusts of horizontal rain felt like a bad omen as I walked to the post office today, clutching my four, preciously bubble-wrapped tamagotchi in my purse. I wouldn't be deterred. I had to figure out how to mail my broken tamagotchi to a Toy Hospital.<!--excerpt--> Even though I'd never sent a package before in Japan, I was determined to just try my best for the sake of my virtual pet children. I was nervous about sending four expensive and sentimental tamagotchi to a stranger I found online, but I was confident in this toy doctor's ability because of his <a target="_blank" href="http://www.takishita.jp/toy_hospital/repare_list_table">excellent track record of fixing Devilgotchi</a>, an infamously rare tamagotchi made in 1998 with a devil character that can sell for upwards of $500 USD online. The doctor seemed very meticulous and particular about how to package and ship the broken toys and testing batteries, so I was nervous that I would not be able to follow his instructions satisfactorily, but I was utterly relieved when he replied to my tracking number email, saying that everything is in order and he would notify me when he received the tamagotchi.
 

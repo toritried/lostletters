@@ -6,7 +6,7 @@ tags:
   - fun
   - goals
   - mental-health
-  - stationery
+  - journaling
 ---
 Another month has rolled around, and I still don't have an ambitious project that inspires creative passion within me. It feels like I've been watching the garden of my mind for an eternity without anything sprouting forth, so it's time to bring a gentle end to this winter-like depression. I've decided to just start scattering seeds around and tending to them, wholly unattached to the outcome. There is value and joy in simply tending to one's creative pursuits.<!--excerpt-->
 

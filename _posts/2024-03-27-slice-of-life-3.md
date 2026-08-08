@@ -3,10 +3,8 @@ layout: post
 title: "Slice of Life: Vol. 3 - Healing, Site Updates, Plans"
 date: 2024-03-27 16:24
 tags:
-  - self-reflection
   - health
-  - trans
-  - resolutions
+  - goals
 ---
 Everyday this past week, I've woken up to less bruising from top surgery. Both incisions healed in just one week, creating thin ridges topped with light pink lines that span halfway around my rib cage all the way under my arms. I can't stop marveling at how incredible my body is, not only for healing so quickly, but also for looking so great post-op.<!--excerpt-->  
   

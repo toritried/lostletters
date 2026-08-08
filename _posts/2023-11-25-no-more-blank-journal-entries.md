@@ -3,8 +3,6 @@ layout: post
 title: No More Blank Journal Entries
 date: 2023-11-25 10:33
 tags:
-  - stationery
-  - self-reflection
   - journaling
 ---
 

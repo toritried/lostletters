@@ -5,7 +5,6 @@ date: 2023-09-25 20:24
 tags:
   - weekly-recap
   - health
-  - reflection
   - adulting
 ---
 My intention this past week was to focus on my health and set myself up for success.<!--excerpt--> I followed through on this primarily by going to the doctor to get a letter to support taking a health-related leave of absence from work, starting in October. I also purchased and started the <a target="_blank" href="https://itsryannnicole.com/hfm">Hunger and Fullness Masterclass by Ryann Nicole</a>, a Licensed Professional Counselor (LPC) and Certified Nutritionist. Her podcast, The Food Freedom Lab, has helped me to realize that I still struggle to manage my emotions without food and listen to my body's hunger and fullness cues. It can get frustrating and overwhelming to feel like I haven't made progress because I'm still struggling with disordered eating, but I try to remind myself that seeking out help is already progress, and we just have to take it one day at a time. 

@@ -6,7 +6,6 @@ tags:
   - fun
   - goals
   - mental-health
-  - self-reflection
   - ttrpgs
 ---
 If you didn't read my last blog entry, I've been lacking a creative passion for quite some time, and I finally decided this past week that I'm no longer going to be passive about it. Since it has been almost a week since I started gently tending to my creative pursuits again, I wanted to write up a brief progress update as a commitment to the practice. At the start of this, I said I wasn't going to be attached to outcomes, so I'm going to frame my update in terms of feelings instead.<!--excerpt-->

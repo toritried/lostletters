@@ -1,8 +1,10 @@
 ---
-layout:  post
-title:  "Summer Knitting"
-date:  2023-06-24 11:22
-tags:  [knitting, learning]  
+layout: post
+title: Summer Knitting
+date: 2023-06-24 11:22
+tags:
+  - learning
+  - crafting
 ---
 I broke my "no contact" with a family member this week to follow up on something important and urgent, and I've been trying to staunch old emotional wounds and fresh frustration ever since. That paired with jet lag and hormonal changes this week was a lot to handle. As a result, I've been escaping into knitting for hours each day.<!--excerpt--> I started by making tons of "yarn cozies" that look like a sock to hold your yarn cake (pictured below). I ended up making 7 total, using up 73g of scrap yarn. I'm really excited to give one to my one friend who knits too as the cozies are the perfect accessory to help prevent your yarn from becoming a knotted mess. 
 <img src="/graphics/blog/mini-yarn-cozy.png" title="a striped yarn cozy holding a cake of green yarn that is feeding a knitting project on two circular needles">

@@ -4,7 +4,6 @@ title: Echoes and Silence
 date: 2024-03-01 10:26
 tags:
   - muse
-  - self-reflection
   - mental-health
 ---
 This is my response to the fourth prompt from the [muse ariadne](https://museariadne.neocities.org/) writing club: *write about echoes, sound, and reverberation. what is an echo– just sound or something more? how can it reverberate through past, present, and future? can emotion be an echo in that way? what else can be?*<!--excerpt-->

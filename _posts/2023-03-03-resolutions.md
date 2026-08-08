@@ -1,8 +1,9 @@
 ---
-layout:  post
-title:  "2023 Resolutions"
-date:  2023-03-03 01:23 -0900
-tags:  [goals, resolutions]  
+layout: post
+title: 2023 Resolutions
+date: 2023-03-03 01:23 -0900
+tags:
+  - goals
 ---
 Congratulations to us for making it to yet another year! Before I get into what I'm doing in 2023, I wanted to note a few realizations I had about 2022 when I filled out my [YearCompass](https://yearcompass.com/):  
 <!--excerpt-->

@@ -4,7 +4,6 @@ title: Discovering that I'm Nonbinary
 date: 2024-01-22 09:08
 tags:
   - learning
-  - self-reflection
   - mental-health
 ---
 A several hours after a breast reduction turned top surgery consultation, my egg cracked, revealing that I am nonbinary. I'd bet that most people who go so far as to seek out top surgery might already know they they've got some gender stuff going on, but internalized misogyny and fatphobia made it difficult for me to understand that.<!--excerpt--> I thought I just couldn't stand my chest anymore because it made daily life annoying and difficult, especially living in Japan. I was so tired of failing to live up to societal expectations put on women's bodies, and any attempts at telling myself I was a beautiful and strong woman always felt hollow anyways. 

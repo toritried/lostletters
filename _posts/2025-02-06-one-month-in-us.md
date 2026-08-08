@@ -3,8 +3,7 @@ layout: post
 title: Reflecting on the last month, living in the US
 date: 2025-02-06 14:31
 tags:
-  - reflection
-  - vegan
+  - travel
 ---
 It has been two months since I published my last blog post about my personal challenges with living in Japan, so I wanted to reflect on how my quality of life has improved overall in the past month of living in the US despite the recent barrage of heinous executive orders targeting communities of mine and my loved ones.<!--excerpt-->
 

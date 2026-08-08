@@ -3,7 +3,6 @@ layout: post
 title: Learn to Knit
 date: 2024-08-18 10:40
 tags:
-  - knitting
   - crafting
   - fun
 ---

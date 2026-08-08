@@ -3,7 +3,6 @@ layout: post
 title: One Year on Neocities
 date: 2023-10-18 17:50
 tags:
-  - reflection
   - fun
   - webmastery
 ---

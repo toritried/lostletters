@@ -1,8 +1,10 @@
 ---
-layout:  post
-title:  "Knitting the Faye Summer Top"
-date:  2023-07-10 10:38
-tags:  [knitting, learning]
+layout: post
+title: Knitting the Faye Summer Top
+date: 2023-07-10 10:38
+tags:
+  - learning
+  - crafting
 ---
 After ~70 hours, I've finished knitting the <a target="_blank" href="https://www.ravelry.com/projects/foolishfibers/faye-summer-top">Faye Summer Top by Irene Lin</a>, using <a target="_blank" href="https://www.sandnes-garn.com/line#long_description">Sandnes Garn Line yarn</a>, which is made of 53% cotton, 33% viscose, and 14% linen. Since this yarn is made of plant-based fibers, it doesn't give at all, so it was rather unforgiving to knit with. My hands were so sore at the end of each day.<!--excerpt--> This is what I was going for:
 <br>

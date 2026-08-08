@@ -4,7 +4,6 @@ title: My Coping Strategies for Mentally Tough Times
 date: 2025-04-05 19:35
 tags:
   - mental-health
-  - self-reflection
 ---
 I've had a rough few weeks since my last post characterized by intensifying feelings of depression, loneliness, and anxiety. I've finally managed to get appointments with a new therapist and psychiatrist next week, so I'm going to be fine as help is on the way, but I wanted to document a few strategies I've been using to help me get through this rough patch. None of the following strategies are a substitute for qualified medical support though, and everyone should <a target="_blank" href="https://www.iasp.info/suicidalthoughts/">get crisis support if needed</a>. This is just what's been helping me:<!--excerpt-->
 

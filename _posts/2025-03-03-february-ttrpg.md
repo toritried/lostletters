@@ -4,7 +4,6 @@ title: "February Recap: My Month of TTRPGs"
 date: 2025-03-03 09:25
 tags:
   - fun
-  - reflection
   - ttrpgs
 ---
 In February, I leaned into my tabletop role-playing game (TTRPG) hyperfixation and played two to four times per week. It wasn't all D&D fifth edition though! Having played that since 2018, I am so tired of it, especially the grueling combat mechanics, so I made it my monthly mission to play tons of other TTRPG systems, including MÖRK BORG, Troika! Yazeba's Bed & Breakfast, Mothership, Blades in the Dark, Low Fantasy Gaming, and Star Wars: Edge of the Empire.<!--excerpt-->

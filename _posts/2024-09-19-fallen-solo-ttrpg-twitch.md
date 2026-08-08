@@ -5,7 +5,6 @@ date: 2024-09-19 17:59
 tags:
   - fun
   - ttrpgs
-  - reflection
   - learning
 ---
 It has been more than FIFTY days since my long-running TTRPG campaign has been able to play together, and I'm holding on by a thread. My insatiable need to gamble my fate using math rocks peaked this week, so I decided to give solo RPGs another try. I didn't want to do the usual solo session--I wanted to raise the stakes by playing an entirely new-to-me TTRPG system live on Twitch. It ended up being extremely fun and rewarding, and this is how I set everything up in case you'd like to try it too.<!--excerpt-->

@@ -1,8 +1,9 @@
 ---
-layout:  post
-title:  "Year of Self-Respect"
-date:  2023-04-24 17:35
-tags:  [goals, self-reflection]  
+layout: post
+title: Year of Self-Respect
+date: 2023-04-24 17:35
+tags:
+  - goals
 ---
 To minimize saddle soreness during a two-day bike trip in two weeks, I started practicing long rides on an indoor bike today. It feels strange to prepare so responsibly, but I'm really proud of how I'm trying my best to live in alignment with my theme for this year: self-respect.
 <!--excerpt-->

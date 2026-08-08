@@ -1,8 +1,10 @@
 ---
-layout:  post
-title:  "Summer Crochet: Heat-Resistent Modesty"
-date:  2023-06-05 19:53
-tags:  [crochet, crafting, learning]  
+layout: post
+title: "Summer Crochet: Heat-Resistent Modesty"
+date: 2023-06-05 19:53
+tags:
+  - crafting
+  - learning
 ---
 On the <a target="_blank" href="https://32bit.cafe/discord/">32bit.cafe discord</a>, I asked for learning accountability buddies who would agree to write a weekly blog post about anything they've learned in the past week. If you want to join in, I'd love that! I originally planned to start with strength training for running, but my gradual, multi-week return to exercise post-covid has dampened my excitement for my original topic. All this stationary living has jumpstarted a personal fiber arts renaissance at the weirdest time of year. It just hit 29 C (84.2 F) today, which is far from my typical knitting weather; however, I've had some <a target="_blank" href="https://www.ravelry.com/people/thebingeknitter/stash/firefly-2">linen yarn</a> in my stash since August 2016 that is begging to be made into something that I'll actually wear. 
 <!--excerpt-->

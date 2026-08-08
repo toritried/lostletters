@@ -1,8 +1,9 @@
 ---
-layout:  post
-title:  "Europe Culture Shock & Knitting"
-date:  2023-08-27 10:09
-tags:  [knitting]  
+layout: post
+title: Europe Culture Shock & Knitting
+date: 2023-08-27 10:09
+tags:
+  - crafting
 ---
 I went on a trip to Europe to find a suitable future home just to end up realizing that no where is perfect.<!--excerpt-->  There were so many things that were easier or nicer there:
 <ol>

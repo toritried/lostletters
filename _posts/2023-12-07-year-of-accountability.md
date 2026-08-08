@@ -3,11 +3,9 @@ layout: post
 title: Year of Accountability
 date: 2023-12-07 10:34
 tags:
-  - self-reflection
   - adulting
   - goals
   - health
-  - resolutions
 ---
 
 I am once <a href="/2023/04/24/self-respect.html">again</a> setting a yearly theme based on CGP Grey's <a target="_blank" href="https://www.youtube.com/watch?v=NVGuFdX5guE">Your Theme video</a>. A yearly theme guides how I will approach 2024 as I navigate all its future unknowns. Instead of setting a binary resolution like "run a marathon" (which only has two states: success or failure), I will be defining my year as the **Year of Accountabililty** such that any decisions I make in service of my broad theme count as progress.<!--excerpt-->

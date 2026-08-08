@@ -6,7 +6,6 @@ tags:
   - adulting
   - health
   - goals
-  - self-reflection
 ---
 Lately, I've been feeling particularly inadequate when it comes to taking care of myself because I've been slacking on a couple salubrious behaviors: eating more fiber and exercising more regularly. Inspired by <a target="_blank" href="https://www.youtube.com/watch?v=O9N4NknlqUs">this Muchelleb YouTube video</a>, I want to take a page from parenting resources to figure out how to better care for myself.<!--excerpt-->
 

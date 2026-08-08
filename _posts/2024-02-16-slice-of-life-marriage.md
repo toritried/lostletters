@@ -5,9 +5,8 @@ date: 2024-02-16 07:36
 tags:
   - adulting
   - health
-  - reflection
-  - resolutions
   - travel
+  - goals
 ---
 **CW: food mention, fear of death**
 <br>
