@@ -3,6 +3,7 @@ layout: post
 title: "Hobonichi Weeks: Layouts from 2024 to Present"
 date: 2026-08-05 09:59
 tags:
+  - Blaugust2026
   - journaling
 description: how my Hobonichi Weeks layouts have changed through photos of weekly spreads from 2026, 2025, and 2024
 image: /graphics/blog/2026/hobo-weeks-header.png
