@@ -55,4 +55,8 @@ I loved the sweet seared pineapple mixed with the savory peanut sauce, and I was
 	<li>Serve warm with peanut sauce</li>
 </ul>
 
-<img style="margin: auto; display: block;" src="/graphics/blog/2026/lemon-badge.png" alt="a sliced lemon with the text splash of yellow" title="Splash of yellow badge">
+<div style="display: flex; justify-content: center;">
+	<img src="/graphics/blog/2026/potluck-early-bird-badge.png" alt="an orange-capped bird biting a worm in its beak with the words Early Bird 2026" title="Early Bird Badge"><img src="/graphics/blog/2026/lemon-badge.png" alt="a sliced lemon with the text splash of yellow" title="Splash of Yellow Badge">
+</div>
+
+You still have time to join the Small Web Potluck! If you add your name to the sign-up sheet OR post your dish by August 16th, you can earn the Early Bird Badge above, and if you also decide to include yellow in your dish, you can earn the Splash of Yellow Badge too. They're so cute! You can find this recipe and more of my favorites on my <a href="/cooking/">cooking hobby page</a>.
