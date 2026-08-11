@@ -7,7 +7,7 @@ layout: 3col
         {% if content == "" %}
               <figure class="empty-review">
               {% if page.cover %}
-              <img  alt="{{ page.title }} cover" src="{{ site.baseurl }}/images/covers/{{ page.cover }}" />
+              <img  alt="{{ page.title }} cover" src="{{ site.baseurl }}/graphics/layout/books/{{ page.cover }}" />
               <figcaption>Cover of <em>{{ page.title }}</em></figcaption>
               {% elsif page.olid %}
               <img float: left alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false"/>
@@ -22,7 +22,7 @@ layout: 3col
               {% else %}
               <figure>
               {% if page.cover %}
-              <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/images/covers/{{ page.cover }}" />
+              <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/graphics/layout/books/{{ page.cover }}" />
               <figcaption>Cover of <em>{{ page.title }}</em></figcaption>
               {% elsif page.olid %}
               <img  alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false"/>
