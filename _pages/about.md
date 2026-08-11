@@ -20,6 +20,9 @@ image: /graphics/layout/piccrew.png
         <img src="/graphics/toy/emoticons/onsen-bear.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>location:</b> united states
         <br>
         <img src="/graphics/toy/emoticons/star-watercolor.gif" style="image-rendering: pixelated;">&nbsp;&nbsp;<b>identities:</b> <text class="nb">nonbinary</text>, <text class="trans">trans</text>, <text style="text-decoration: underline wavy 2px; text-decoration-color:var(--color-primary-a20);" title="since 2016-01-28">plant-based</text>, japanese-american, <span style="text-decoration: underline wavy 2px; text-decoration-color:var(--color-primary-a20);" title="since feb 2024">married</span>, intersectional feminist
+        <br>
+        <img src="/graphics/toy/emoticons/maplestory-mushroom.gif" style="width: 20px;">&nbsp;
+        <b>10 Random Facts</b>: <a href="/2026/08/10/10-facts.html">read the blog post here</a>
     </div>
 </div>
 <div class="noext">
