@@ -1,8 +1,8 @@
 ---
 layout: review
 date: 2026-07-13 10:34:56 -0500
-# cover: "" never specify unless you want to self-host because olid or isbn will generate this from OpenLibrary API
-olid: OL62207650M # if no image (Open Library ID)
+cover: dungeon-anarchists-cookbook.jpg
+# olid: OL62207650M # if no image (Open Library ID)
 # isbn: # if no olid (dashes are optional)
 title: "The Dungeon Anarchist's Cookbook"
 author: Matt Dinniman
