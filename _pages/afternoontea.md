@@ -461,6 +461,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://babywormcore.baby/">
             <img src="/graphics/teahouse/teacup/babywormcore.baby-vampiretea.png" alt="a navy teacup with red liquid inside" title="Tastes like dead leaves, dirt, and the stinging tang of copper - made by Imogen Nocturne"/>
         </a>
+        <a target="_blank" href="https://enmity.neocities.org/">
+            <img src="/graphics/teahouse/teacup/enmity-teacup.gif" alt="a grey teacup with cherry blossoms inside" title="Tastes like peach and cherry blossom leaves - made by Ely"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
