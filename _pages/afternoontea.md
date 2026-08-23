@@ -464,6 +464,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://enmity.neocities.org/">
             <img src="/graphics/teahouse/teacup/enmity-teacup.gif" alt="a grey teacup with cherry blossoms inside" title="Tastes like peach and cherry blossom leaves - made by Ely"/>
         </a>
+        <a target="_blank" href="https://monamies.neocities.org/">
+            <img src="/graphics/teahouse/teacup/monamies-yanyan-vx-afternoontea.gif" alt="a teal teacup on a suacer with a stir stick inside and a moon in the blackground" title="Tastes like moonlit rendezvous - made by yanyan☆"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
