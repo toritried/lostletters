@@ -467,6 +467,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://monamies.neocities.org/">
             <img src="/graphics/teahouse/teacup/monamies-yanyan-vx-afternoontea.gif" alt="a teal teacup on a suacer with a stir stick inside and a moon in the blackground" title="Tastes like moonlit rendezvous - made by yanyan☆"/>
         </a>
+        <a target="_blank" href="https://cozyghostly.neocities.org">
+            <img src="/graphics/teahouse/teacup/cozyghostly_teacup.png" alt="a khaki teacup with light brown whipped cream on top" title="Tastes just like hot chocolate, you can't even tell it's not real - made by ghostly"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
