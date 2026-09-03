@@ -470,6 +470,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://cozyghostly.neocities.org">
             <img src="/graphics/teahouse/teacup/cozyghostly_teacup.png" alt="a khaki teacup with light brown whipped cream on top" title="Tastes just like hot chocolate, you can't even tell it's not real - made by ghostly"/>
         </a>
+        <a target="_blank" href="https://enmity.neocities.org/">
+            <img src="/graphics/teahouse/teacup/enmity-mizucup.gif" alt="a grey steaming cup of matcha" title="Tastes like matcha - made by Ely"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
