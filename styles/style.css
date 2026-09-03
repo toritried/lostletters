@@ -681,6 +681,13 @@ img.masto-img {
   padding: .2em 1em;
 }
 
+.blog-year {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .list-group {
     display: flex;
     flex-direction: column;
