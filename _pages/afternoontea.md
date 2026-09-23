@@ -473,6 +473,12 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://enmity.neocities.org/">
             <img src="/graphics/teahouse/teacup/enmity-mizucup.gif" alt="a grey steaming cup of matcha" title="Tastes like matcha - made by Ely"/>
         </a>
+        <a target="_blank" href="https://oktober.neocities.org">
+            <img src="/graphics/teahouse/teacup/oktober-rainbow.png" alt="a purple teacup with a rainbow on it and coming out of it" title="Tastes like magic in a mug - made by Saren"/>
+        </a>
+        <a target="_blank" href="https://oktober.neocities.org">
+            <img src="/graphics/teahouse/teacup/oktober-sunflower.gif" alt="yellow flowers surround a green teacup" title="Tastes like sunshine with a fall breeze - made by Saren"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
