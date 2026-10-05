@@ -479,6 +479,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://oktober.neocities.org">
             <img src="/graphics/teahouse/teacup/oktober-sunflower.gif" alt="yellow flowers surround a green teacup" title="Tastes like sunshine with a fall breeze - made by Saren"/>
         </a>
+        <a target="_blank" href="https://sakuradreams.neocities.org">
+            <img src="/graphics/teahouse/teacup/SakuraDreams_RoseTeacup.png" alt="a cream-colored teacup with a rose border towards the lip, filled with light brown liquid" title="Tastes like Grandma’s tea - made by Sakura Dreams"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
