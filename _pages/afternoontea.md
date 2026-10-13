@@ -482,6 +482,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://sakuradreams.neocities.org">
             <img src="/graphics/teahouse/teacup/SakuraDreams_RoseTeacup.png" alt="a cream-colored teacup with a rose border towards the lip, filled with light brown liquid" title="Tastes like Grandma’s tea - made by Sakura Dreams"/>
         </a>
+        <a target="_blank" href="https://bobbys-garden.neocities.org">
+            <img src="/graphics/teahouse/teacup/Teacup-Bobby.png" alt="a purple teacup with green goo bubbling over the brim" title="Tastes like rhubarb - made by Bobby"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
