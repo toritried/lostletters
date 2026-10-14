@@ -485,6 +485,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://bobbys-garden.neocities.org">
             <img src="/graphics/teahouse/teacup/Teacup-Bobby.png" alt="a purple teacup with green goo bubbling over the brim" title="Tastes like rhubarb - made by Bobby"/>
         </a>
+        <a target="_blank" href="https://lejlart.com/apple.html">
+            <img src="/graphics/teahouse/teacup/tcupclubappledust.gif" alt="a purple and white striped teacup with a bone and a skull bobbing up and down inside it" title="Tastes like blackcurrant tea with marshmallows - made by appledust"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
