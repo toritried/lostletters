@@ -488,6 +488,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://lejlart.com/apple.html">
             <img src="/graphics/teahouse/teacup/tcupclubappledust.gif" alt="a purple and white striped teacup with a bone and a skull bobbing up and down inside it" title="Tastes like blackcurrant tea with marshmallows - made by appledust"/>
         </a>
+        <a target="_blank" href="https://peachlantern.neocities.org">
+            <img src="/graphics/teahouse/teacup/peachlantern_ghosttea.png" alt="a blue graveyard scene is depicted on the side of a teacup with a ghost beside the cup and one in it" title="Tastes like... wait. Is there anything even in here?! - made by Nevere"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
