@@ -491,6 +491,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://peachlantern.neocities.org">
             <img src="/graphics/teahouse/teacup/peachlantern_ghosttea.png" alt="a blue graveyard scene is depicted on the side of a teacup with a ghost beside the cup and one in it" title="Tastes like... wait. Is there anything even in here?! - made by Nevere"/>
         </a>
+        <a target="_blank" href="https://mypalace.neocities.org/">
+            <img src="/graphics/teahouse/teacup/mypalace-hellokitty.gif" alt="hello kitty on a teacup, blinking" title="Tastes like raspberry & hibiscus <3 - made by lizzy"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
