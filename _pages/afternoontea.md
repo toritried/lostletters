@@ -494,6 +494,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://mypalace.neocities.org/">
             <img src="/graphics/teahouse/teacup/mypalace-hellokitty.gif" alt="hello kitty on a teacup, blinking" title="Tastes like raspberry & hibiscus <3 - made by lizzy"/>
         </a>
+        <a target="_blank" href="https://kol-ut-shan.neocities.org/">
+            <img src="/graphics/teahouse/teacup/kol-ut-shan.png" alt="a blue teacup with a yellow star trek symbol on the cup" title="Tastes like Vulcan spice tea oat milk latte <3 (dirty chai oat latte with banana flavour) - made by Si'vath"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
