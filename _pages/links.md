@@ -211,7 +211,7 @@ Lazy Bones</a> is Alyce's wonderfully unique, yet resonant personal site. I love
 <br>
 <br>
 <b>
-    <a target="_blank" href="https://sadgrl.online/cyberspace/internet-manifesto.html">
+    <a target="_blank" href="https://sadgrl.online/posts/internet-manifesto/">
         [ SADGRL.ONLINE's Internet manifesto ]
     </a>
 </b> a quick, worthwhile read on what we should do to help make the internet better
