@@ -497,6 +497,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://kol-ut-shan.neocities.org/">
             <img src="/graphics/teahouse/teacup/kol-ut-shan.png" alt="a blue teacup with a yellow star trek symbol on the cup" title="Tastes like Vulcan spice tea oat milk latte <3 (dirty chai oat latte with banana flavour) - made by Si'vath"/>
         </a>
+        <a target="_blank" href="https://rice.place/">
+            <img src="/graphics/teahouse/teacup/kol-ut-shan.png" alt="a blue clear teacup with white cat peeking out of it with clovers around it" title="made by rice"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
