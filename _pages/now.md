@@ -44,23 +44,23 @@ image:
             </td>
         </tr>
         <tr>
-            <th class="tg-0pky" title="date">🗓️ 26.07.23</th>
-            <th class="tg-0pky" title="digitally exploring">💻 <a target="_blank" href="https://omg.lol/">omg.lol</a></th>
-            <th class="tg-0pky" title="eating">🍦 sorbet</th>
+            <th class="tg-0pky" title="date">🗓️ 26.11.01</th>
+            <th class="tg-0pky" title="digitally playing">💻 <a target="_blank" href="http://dragcave.net/">Dragon Cave</a></th>
+            <th class="tg-0pky" title="drinking">🥛 protein milk</th>
         </tr>
         <tr>
-            <td class="tg-0pky" title="time">⌚ 8:45pm</td>
-            <td class="tg-0pky" title="feeling">🤩 excited</td>
-            <td class="tg-0pky" title="drinking">🥤 poppi</td>
+            <td class="tg-0pky" title="time">⌚ 9:09am</td>
+            <td class="tg-0pky" title="feeling">😴 sleepy</td>
+            <td class="tg-0pky" title="eating">🌶️ vegan chili</td>
         </tr>
         <tr>
-            <td class="tg-0pky" title="listening to" colspan="3">🎵 <a target="_blank" href="https://youtube.com/playlist?list=OLAK5uy_kUiVUvheDRSQelAOt_P_jEl1CXMUJApJk">Same Stories, Different Narratives</a></td>
+            <td class="tg-0pky" title="listening to" colspan="3">🎵 <a target="_blank" href="https://www.youtube.com/watch?v=-vCdmd99Cx8">Good Life by Sammy Rae & The Friends</a></td>
         </tr>
         <tr>
-            <td class="tg-0pky" title="watching" colspan="3">📺 House of the Dragon (HBO)</td>
+            <td class="tg-0pky" title="watching" colspan="3">📺 Chihayafuru (anime, subbed)</td>
         </tr>
         <tr>
-            <td class="tg-0pky" title="reading" colspan="3">📖 <a target="_blank" href="https://rknight.me/blog/automating-my-now-page/">Automating My Now Page</a></td>
+            <td class="tg-0pky" title="reading" colspan="3">📖 <a target="_blank" href="https://en.wikipedia.org/wiki/Samhain">History of Samhain on Wikipedia</a></td>
         </tr>
     </tbody>
 </table>
@@ -68,54 +68,54 @@ image:
 <p>
     This page is intended for casual, personal updates compared to my blog posts. It is inspired by <a target="_blank" href="https://cepheus.neocities.org/">Cepheus's <i>atm table</i></a>, <a target="_blank" href="https://slashpages.net/#now">now slash pages</a>, and level 10 life.
 </p>
-<h2>Last Update: July 23, 2026</h2>
+<h2>Last Update: November 1, 2026</h2>
 <div class="col-wrapper">
     <div class="three-col">
         <div class="color-stroke">
             <div class="dashed-outline">
                 <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/laugh-hello-sony-kitty.gif"/> <b>Friends and Family</b>
                 <br>
-                Feeling very blessed on this front. Still going strong with friends I've made since moving back to the US and often have more requests to strengthen connections than I have bandwidth or desire for. Been better about checking in and setting up video calls with friends around the globe than I ever have before.
+                Finally made a discord for all my friends from different realms of my life to come hang out digitally. I was so nervous no one would join or post, but that's not the case. I love that I'm seeing more of my friends now, especially since I want to give up my IG where I connect with a lot of them due to the Gen AI T&Cs they're rolling out.
             </div>
         </div>
         <div class="color-stroke">
             <div class="dashed-outline">
                 <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/learning_pig.gif"/> <b>Personal development</b>
                 <br>
-                Learning there are more interests that overlap with being queer and neurodivergent, and I'm curious to explore them. Javascript learning has stalled—oops! Once Gen Con is behind me, I really need to look into taking improv classes.
+                I'm so happy I decided to take the plunge and enroll in Spanish classes with my friend. We're both at the same level of Spanish, so it's been motivating and fun to have a friend in virtual classes through Lingoda. I hope that I'll be more proficient in Spanish the next time ICE hits our city hard so that I can better educate my neighbors on their rights.
             </div>
         </div>
         <div class="color-stroke">
             <div class="dashed-outline">
                 <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/music-christmas-cat.gif"/> <b>Spirituality</b>
                 <br>
-                I don't think I'm anywhere near a state of equanimity. I've been struggling for years with feeling restless and bored. These feelings have persisted regardless of where I've lived. I think it's just the ADHD extrovert in me being unhappy unless every day has something novel and social going on. The last time I don't recall feeling this way was in 2019 when I was manic, exploring Tokyo's drinking and food scene with friends every day.
+                I don't really feel as bored as I have been in the past primarily because I get a sense of fulfillment from taking Spanish classes every other day. I feel accomplished and happy that I'm doing something in service of others while also bettering myself. I wouldn't all it equanimity per se, but I haven't been feeling like something's lacking lately. Even though I'm scared of committing myself to things, I think it's the antidote to boredom.
             </div>
         </div>
         <div class="color-stroke">
             <div class="dashed-outline">
                 <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/drop-watercolor.gif"/> <b>Career</b>
                 <br>
-                The least interesting thing about me now, and I'm really happy with that. I'm just working for the paycheck and trying to avoid AI at work as much as possible. I work 100% remote now, and I love the freedom and covid safety of that. I no longer feel the need to make friends out of coworkers, so working alone really suits me now.
+                I took on a short-term stretch project that didn't end up being a stretch at all. I was so anxious about it, but I wanted the extra pay. I'm so glad I did it because my anxiety was entirely unfounded, and I did a good enough job that I can be proud of myself.
             </div>
         </div>
         <div class="color-stroke">
             <div class="dashed-outline">
                 <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/flower-2-watercolor.gif"/> <b>Fun and Recreation</b>
                 <br>
-                Really taking this <a target="/ttrpgs/">TTRPG hobby</a> to the next level by attending Gen Con this summer. I'm kind of waning on <a target="/2025/10/18/ttrpg.html">my excitement for one-shots from last year</a> and prefer just playing in one <a target="_blank" href="https://chrismcdee.itch.io/mythic-bastionland">Mythic Bastionland</a> campaign now. Haven't explored parlor LARPs because I'm not entirely convinced I'd enjoy them.
+                I've been slowing down on playing TTRPG one-shots primarily because I've tried so many systems now, and there aren't that many novel ones being offered locally. I've been focused more on knitting now that it's cooling off, and I have been debating creating a knitting vlogs to document my making process.
             </div>
         </div>
         <div class="color-stroke">
             <div class="dashed-outline">
                 <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/onsen-bear.gif"/> <b>Health and Fitness</b>
                 <br>
-                Took a long break from <a href="/2026/03/16/march-update">going hard on the peloton</a>, but need to get back to it regularly. I have no strategy for how to make that a reality, so I'm kind of just hoping I feel motivated again soon. Meds feel pretty dialed in despite my ongoing restlessness and boredom. Thankful for getting health insurance again.
+                I finally took the plunge and started meeting with a dietician, which has done wonders for my gut health and energy. I've been tracking my food through the Cronometer app daily for about a month now, and it's been illuminating. I've completely changed my diet for the better, and my dietician has helped me aim for 110g protein and 30g of fiber while staying under 180g of carbs each day. It's been quite flexible and achievable for me.
             </div>
         </div>
         <div class="color-stroke">
             <div class="dashed-outline">
-                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/love-bear.gif" title="if you know who illustrated this, please lmk"/><b>What's In My Bag: Summer Edition</b>
+                <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/love-bear.gif" title="if you know who illustrated this, please lmk"/><b>What's In My Bag: Fall Edition</b>
                 <br>
                 📔 <a target="_blank" href="https://www.1101.com/store/techo/en/2026/pc/detail_cover/wb26_kitagishi/">Yumi Kitagishi Hobonichi Weeks</a>
                 <br>
@@ -125,55 +125,39 @@ image:
                 <br>
                 🛍️ <a target="_blank" href="https://www.moomin.co.jp/news/products/93782">Moomin Shupatto reusable bag</a>
                 <br>
-                🕶️ <a target="_blank" href="https://www.krewe.com/collections/sunglasses/products/st-louis-tuscan-tortoise-18k-polarized-sunglasses">Krewe St. Louis sungalsses</a>
-                <br>
-                ☀️ Skin Aqua Tone Up UV Essence
-                <br>
                 💧 Darling Daisy Owala bottle
                 <br>
                 🎲 <a href="/ttrpgs/">Polyhedral set of math rocks</a>
+                <br>
+                🧶 <a target="_blank" href="https://www.ravelry.com/projects/toritried/alpine-bloom-4">Alpine Bloom sweater WIP</a>
             </div>
         </div>
         <div class="color-stroke">
             <div class="dashed-outline">
                 <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;"  src="/graphics/toy/emoticons/hearts-2-watercolor.gif" title="if you know who illustrated this, please lmk"/><b>Mid-term Goals</b>
                 <br>
-                🍅 have a great summer harvest
+                🗣️ improve my Spanish level
                 <br>
-                🎲 have fun at Gen Con
+                🧶 knit a new fall sweater
                 <br>
-                🤡 take an improv class
-                <br>
-                🧶 finish knitting WIPs
-                <br>
-                ✂️ grow out my bad haircut
-                <br>
-                💰 sell some tamagotchi
-                <br>
-                🫂 deepen my relationships
-                <br>
-                🌱 publish vegan recipes
+                🚲 200 lifetime peloton rides
             </div>
         </div>
         <div class="color-stroke">
             <div class="dashed-outline">
                 <img style="float: left; margin: 0 5px 0 0; image-rendering: pixelated;" src="/graphics/toy/emoticons/love_cat.gif" title="if you know who illustrated this, please lmk"/><b>Long-term Goals</b>
                 <br>
-                🍄 learn to forage food locally
-                <br>
-                🧘🏻‍♀️ attend vipassana
-                <br>
                 💻 learn JavaScript
                 <br>
-                🚲 200 peloton rides
+                💰 sell some tamagotchi
+                <br>
+                🤡 take an improv class
                 <br>
                 📚 <a href="/books/">read 20 books in 2026</a>
                 <br>
-                😈 keep getting better at <a target="_blank" href="https://bloodontheclocktower.com/">BotC</a>
-                <br>
                 🎨 practice pixel art more
                 <br>
-                🍰 practice baking cakes & pies
+                🌱 write up more vegan recipes
             </div>
         </div>
     </div>
