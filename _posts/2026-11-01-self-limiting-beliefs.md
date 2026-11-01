@@ -1,0 +1,28 @@
+---
+layout: post
+type: article
+title: "Never Go at It Alone: Overcoming Self-Limiting Beliefs"
+date: 2026-11-01 11:55
+tags:
+  - adulting
+  - goals
+  - health
+  - reflection
+  - fun
+  - learning
+description: "I'm challenging two of my firmest and long-held limiting beliefs: 1. since I failed at learning Japanese, I'll never be able to learn Spanish; 2. due to my genetics, I'll never be very healthy. I used to accept these beliefs as facts, which has held me back from doing something about them even though I have evidence that I am actually capable of changing these \"inevitable\" outcomes."
+image: /graphics/blog/2026/lingoda.png
+---
+I'm challenging two of my firmest and long-held limiting beliefs: 1. since I failed at learning Japanese, I'll never be able to learn Spanish; 2. due to my genetics, I'll never be very healthy. I used to accept these beliefs as facts, which has held me back from doing something about them even though I have evidence that I am actually capable of changing these "inevitable" outcomes. <!--excerpt-->
+
+Starting with the language belief: when I first got to Japan, my brain didn't have a strong connection to Japanese yet. When I had to think in a foreign language, I grew frustrated because everything I needed to say came to me effortlessly in Spanish instead of the Japanese I had just started to practice. I realized then I could probably survive in a Spanish-speaking city by myself. Ever since then, I've wanted to study Spanish again until I became fluent, but only in a vague "someday" way. 
+
+Over time, I let my failure to learn Japanese in a semi-immersive experience (I only really practiced transactional interactions) become compelling evidence that I couldn't master any foreign language at all. Thus, I convinced myself that I was doomed to fail at becoming fluent in Spanish even if I tried. I completely disregarded the fact that I stopped taking Japanese language classes only a year after moving to Tokyo, and that I had studied Spanish for 13 years of my life, giving me a massive leg up. It was so easy to think of myself as an unmotivated letdown because actually putting in the work and applying myself daily for years would require much more effort. 
+
+Fast forward to today, I've just completed my ninth hour-long Spanish class in two weeks, and I'm feeling good about how I'm progressing. Of course, my command of the grammar isn't perfect and I'm still misgendering nouns from time to time, but at least I'm finally doing something about it. I'm not going to be fluent in any short time period, but it feels fun and rewarding to actually learn the material and take my time with it day by day, especially since I have a friend at the same level who is practicing with me. I'm so glad I decided to challenge my limiting belief and commit myself to learning through a language program again. I was worried about how much time it would take to prepare for each lesson and then take the lesson, but it's all much more manageable than I expected, especially for someone who has as much free time as I do. As cliche as it sounds, I only wish I had started sooner. 
+
+The same is true for improving my health: I only wish I had started sooner. I think in both cases, I had to put money down to help me commit to changing things. Maybe it's because I'm so cheap, I don't really know, but something about financially betting on myself really helps me follow through. It also helps to have paid for professional accountability, and that might be more true in the case of my health than Spanish. 
+
+For my health, I can't really change my genetics, but I started seeing a registered dietician. Part of my treatment plan includes logging and going through all the food I eat (to the best of my ability, not perfectly) in an app called <a target="_blank" href="https://cronometer.com/">Cronometer</a>, so we can more accurately estimate how much of each macronutrient I'm consuming on a weekly basis and adjust those target numbers over time. Aside from when I eat in restaurants, I weigh every bite of food at home to the gram for the report I give to my dietician each week. It's been honestly shocking to see how much protein I actually should consume and how easily I can hit that target when I make different choices at supermarkets and restaurants even on a vegan diet. My dietician has been incredible in terms of educating me on dietary topics, providing food swap recommendations to help me hit my goals, and turning me onto entirely new local, nutrient-dense foods that I can easily access. The only thing I don't love is that each weekly visit is more than $80 after insurance, but healthcare accessibility is a rant for another day. While there is more to health than just what I eat, that is a huge component of my health that I've never felt like I had a good handle on, and now I do!
+
+I've always known that I do better when I'm working on something with others (school group projects not included), but these self-limiting beliefs always held me back from even exploring the idea of seeking out professional help. Next time I'm stuck with something or I think there's no way I could do something, I need to ask myself what would it look like if I got professional help with this? While it's not always feasible financially or otherwise, even just recruiting help from a friend who is knowledgeable in that area might be the push I need to get going again.
