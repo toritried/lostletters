@@ -500,6 +500,9 @@ image: /graphics/teahouse/teacup/takoonsen-lostletters.png
         <a target="_blank" href="https://rice.place/">
             <img src="/graphics/teahouse/teacup/riceteacup.gif" alt="a blue clear teacup with white cat peeking out of it with clovers around it" title="made by rice"/>
         </a>
+        <a target="_blank" href="https://badhtml.nekoweb.org/">
+            <img src="/graphics/teahouse/teacup/badhtml-teacup.png" alt="a green teacup" title="made by Jesse"/>
+        </a>
     </div>
     <br>
     <img src="/graphics/toy/emoticons/exclamation-point-pink-watercolor.gif">
