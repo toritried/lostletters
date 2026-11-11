@@ -8,6 +8,24 @@ description: Fiber art creations
 image: /graphics/crafting/under-the-quilt-socks.png
 ---
 It's hard to explain just how important knitting is to me. Through the art form, I've made tons of friends, created custom-fit garments to overcome fast fashion frustrations, practiced patience and slow living, and so much more. This page is a collection of some of my projects (though I've made hundreds of knitted objects over the two decades I've been practicing on-and-off). Although knitting is my favorite, I occasionally branch out into sewing and crochet, which will also be featured here. 
+<h1 style="display: flex; justify-content: center;">Trompe le Monde Socks by Summer Lee</h1>
+<div class="two-col">
+    <div>
+        <img src="/graphics/crafting/Trompe-le-Monde-Sock.png" alt="a neon green, high-calf sock with slipped stitches that interrupt stripes of speckled blue yarn" title="Trompe le Monde Socks by Summer Lee" style="display: block; margin: auto;">
+    </div>
+    <div>
+        Made with neon green Schachenmayr Regia Fluormania Color 4-ply yarn and speckled blue Spun Right Round Tough Sock in Flying Elvis, these socks gave me pure dopamine while knitting them. I wanted a pattern that could tame but also celebrate such a busy blue yarn, so I dove into my stash for a complementary color for this slip stitch pattern. I love how bright they ended up. I knit a 72 stitch calf instead of my typical 64 to make it looser since the reviews of the pattern said you should go up a size due to the slip stitches tightening up the construction. I've never knit such an addictive stripe pattern. I finished the first sock in two days.
+    </div>
+</div>
+<h1 style="display: flex; justify-content: center;">Alpine Bloom by Caitlin Hunter</h1>
+<div class="two-col">
+    <div>
+        <img src="/graphics/crafting/alpine-bloom-4.png" alt="the finished colorwork yoke of an unfinished Alpine Bloom sweater featuring a flower motif in the colors of the lesbian pride flag plus dark navy" title="Alpine Bloom by Caitlin Hunter" style="display: block; margin: auto;">
+    </div>
+    <div>
+        Fall came around, and I just couldn't resist casting on yet another size four Alpine Bloom sweater. This'll be my fourth one. You just can't beat this colorwork chart. I was lucky to snag a skein of Spincycle Yarns Dyed in the Wool in the MONTAÑA colorway with minimal barber polling, so the colors were consistent in the fade instead of mixed. I had to dip a little into a second skein, which sucks because that's not very cost effective, but at least the main color is the very affordable Cascade Heritage yarn, so it wasn't too bad overall. I needed three skeins of Heritage to complete the body and the long sleeves I wanted for this project. My wife said the yoke reminded her of the lesbian flag, and she's not wrong. I'm really happy with the color distribution. I didn't get a good picture of the final sweater, so just enjoy this unblocked yoke close up instead. The sleeves are on spare cords, so it's a little awkward, but this will just have to suffice.
+    </div>
+</div>
 <h1 style="display: flex; justify-content: center;">Look At My Holes by James N Watts</h1>
 <div class="two-col">
     <div>
